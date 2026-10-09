@@ -1,0 +1,76 @@
+{
+  "slug": "leos-moskos",
+  "periodSlug": "cretan-school",
+  "name": "Leos Moskos",
+  "wikiTitle": "Leos Moskos",
+  "qid": "Q107327566",
+  "birthYear": 1620,
+  "deathYear": 1690,
+  "tagline": "Greek painter and educator (1620/30 – 1690)",
+  "bio": "Leo or Leos Moskos was a painter and educator. There were two other painters named Moskos active around the same period, Elias Moskos and Ioannis Moskos, who may have been his relatives. Indeed, Leo is often confused with Elias Moskos. Some of his work was inspired by Georgios Klontzas and Franghias Kavertzas. He traveled all over the Venetian Empire. Records indicate he traveled to Venice, Cephalonia, and Zakynthos His style resembled the Cretan school. He taught famous painter Panagiotis Doxaras. His most popular work is the Last Judgment. His paintings can be found all over the world. Twenty of his paintings have survived.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Leo_Moskos_Virgin_Child_with_scenes_from_the_Virgin%27s_life.png",
+  "portraitWidth": 1094,
+  "portraitHeight": 1800,
+  "portraitCredit": {
+    "author": "Leos Moskos",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Leo_Moskos_Virgin_Child_with_scenes_from_the_Virgin's_life.png"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Leos_Moskos",
+  "paintings": [
+    {
+      "slug": "christ-the-vine-moskos",
+      "title": "Christ the Vine (Moskos)",
+      "year": 1690,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Leos_Moskos_Christ_on_a_Vine.png",
+      "imageWidth": 1170,
+      "imageHeight": 1464,
+      "story": "Christ the Vine, also known as the Tree of Christ, is a tempera painting by Leos Moskos. Moskos was active from 1620 to 1690. Twenty of his works have survived. He was originally from Rethimno, Crete. He traveled all over the Venetian empire. He worked on the Ionian islands of Cephalonia and Zakynthos. He also worked in Venice. Two other painters with the same last name were active during the same period. They were Elias Moskos and Ioannis Moskos. All three artists painted in the same style. Leos was in Venice around the same period as Ioannis. There is strong evidence that the three were related. Famous Greek painter and historian Panagiotis Doxaras was Leo’s student.",
+      "facts": [
+        "It was either wrongfully attributed to a different artist or Moskos created an almost identical version of his own work.",
+        "Christ the Vine is a tempera painting on gold leaf and wood panel."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christ_the_Vine_(Moskos)",
+      "sitelinks": 2,
+      "widthCm": 29.3,
+      "heightCm": 36.7,
+      "pageviews": 2181,
+      "qid": "Q110036765",
+      "imageBytes": 3399350,
+      "imageCredit": {
+        "author": "Leos Moskos",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leos_Moskos_Christ_on_a_Vine.png"
+      }
+    },
+    {
+      "slug": "the-last-judgment-moskos",
+      "title": "The Last Judgment (Moskos)",
+      "year": 1653,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Leos_Moskos_Last_Judgment.png",
+      "imageWidth": 821,
+      "imageHeight": 1000,
+      "story": "The Last Judgment also known as the Second Coming is a painting by Leos Moskos. His artistic legacy was during the 17th century. Twenty of his paintings survived. He shared the same last name as Elias Moskos and Ioannis Moskos, they may have been related. All three painters flourished during the same period. Moskos worked all over Europe namely, Crete, Zakynthos, and Venice. His student was famous painter Nikolaos Doxaras.",
+      "facts": [
+        "To her left, she is worshiped by Abraham and the penitent thief.",
+        "The Last Judgment is a tempera painting on gold leaf and wood panel."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Last_Judgment_(Moskos)",
+      "sitelinks": 3,
+      "widthCm": 49.8,
+      "heightCm": 61,
+      "pageviews": 838,
+      "qid": "Q109569780",
+      "imageBytes": 2064224,
+      "imageCredit": {
+        "author": "Leos Moskos",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Leos_Moskos_Last_Judgment.png"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

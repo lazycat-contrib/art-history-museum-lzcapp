@@ -1,0 +1,1297 @@
+{
+  "slug": "pieter-bruegel-the-elder",
+  "periodSlug": "northern-renaissance",
+  "name": "Pieter Bruegel the Elder",
+  "wikiTitle": "Pieter Bruegel the Elder",
+  "qid": "Q43270",
+  "birthYear": 1525,
+  "deathYear": 1569,
+  "tagline": "Dutch and Flemish painter (c. 1525/30–1569)",
+  "bio": "Pieter Bruegel the Elder was among the most significant artists of Dutch and Flemish Renaissance painting, a painter and printmaker, known for his landscapes and peasant scenes ; he was a pioneer in presenting both types of subject as large paintings. In the 20th and 21st centuries, Bruegel works including Landscape with the Fall of Icarus and The Hunters in the Snow (1565) have inspired artists in both the literary arts and in cinema.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg",
+  "portraitWidth": 2205,
+  "portraitHeight": 2640,
+  "portraitCredit": {
+    "author": "Pieter Brueghel the Elder",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer,_ca._1566_-_Google_Art_Project.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder",
+  "paintings": [
+    {
+      "slug": "the-hunters-in-the-snow",
+      "title": "The Hunters in the Snow",
+      "year": 1565,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg",
+      "imageWidth": 6819,
+      "imageHeight": 4853,
+      "story": "The Hunters in the Snow, also known as The Return of the Hunters, is a 1565 oil-on-wood painting by Pieter Bruegel the Elder. The Northern Renaissance work is one of a series of works, five of which still survive, that depict different times of the year. The painting is in the collection of the Kunsthistorisches Museum in Vienna, Austria. This scene is set in the depths of winter during December/January.",
+      "facts": [
+        "The Hunters in the Snow, and the series to which it belongs, are in the medieval and early Renaissance tradition of the Labours of the Months: depictions of various rural activities and work understood by a spectator in Bruegel's time as representing the different months or times of the year.",
+        "For in 1565, this was the beginning of upcoming harsh winters, called the Little Ice Age."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Hunters_in_the_Snow",
+      "sitelinks": 39,
+      "widthCm": 162,
+      "heightCm": 117,
+      "pageviews": 105719,
+      "qid": "Q500985",
+      "imageBytes": 8353832,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "netherlandish-proverbs",
+      "title": "Netherlandish Proverbs",
+      "year": 1559,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg",
+      "imageWidth": 5649,
+      "imageHeight": 4000,
+      "story": "Netherlandish Proverbs is a 1559 oil-on-oak-panel painting by Pieter Bruegel the Elder that depicts a scene in which humans and, to a lesser extent, animals and objects, offer literal illustrations of Dutch-language proverbs and idioms.",
+      "facts": [
+        "The painting, dated 1559, is considered the best of a series of similar paintings which at one time or another have all previously been attributed to Pieter Bruegel the Elder, has been x-rayed for its underdrawing to compare it to other versions.",
+        "Breitenbach's 1975 painting Proverbidioms was inspired by this Dutch painting to depict English proverbs and idioms."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Netherlandish_Proverbs",
+      "sitelinks": 38,
+      "widthCm": 163,
+      "heightCm": 117,
+      "pageviews": 77537,
+      "qid": "Q533619",
+      "imageBytes": 18918563,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "the-triumph-of-death",
+      "title": "The Triumph of Death",
+      "year": 1562,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Triumph_of_Death_Brueghel.jpg",
+      "imageWidth": 1920,
+      "imageHeight": 1473,
+      "story": "The Triumph of Death is an oil panel painting by Pieter Bruegel the Elder painted c. 1562. It has been in the Museo del Prado in Madrid since 1827.",
+      "facts": [
+        "No less hopelessly, the court jester takes refuge beneath the dinner table.",
+        "The rich man of the title (called Richman) has acquired the painting from the Museo del Prado and it hangs in pride of place in his mountaintop house."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Triumph_of_Death",
+      "sitelinks": 31,
+      "widthCm": 162,
+      "heightCm": 117,
+      "pageviews": 102434,
+      "qid": "Q644856",
+      "imageBytes": 2475196,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Triumph_of_Death_Brueghel.jpg"
+      }
+    },
+    {
+      "slug": "the-parable-of-the-blind",
+      "title": "The Parable of the Blind",
+      "year": 1568,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/%D0%9F%D1%80%D0%B8%D1%82%D1%87%D0%B0_%D0%BE_%D1%81%D0%BB%D0%B5%D0%BF%D1%8B%D1%85.jpeg",
+      "imageWidth": 2700,
+      "imageHeight": 1520,
+      "story": "The Blind Leading the Blind, Blind, or The Parable of the Blind is a painting by the Netherlandish Renaissance artist Pieter Bruegel the Elder, completed in 1568. Executed in distemper on linen canvas, it measures 86 cm × 154 cm. It depicts the Biblical parable of the blind leading the blind from Matthew 15:14, and is in the collection of the Museo di Capodimonte in Naples, Italy.",
+      "facts": [
+        "The grain of the linen canvas is visible beneath the delicate brushstrokes.",
+        "The painting measures 86 cm × 154 cm (34 in × 61 in), the largest of 1568.",
+        "However, the Protestant doctrine of sola fide rejected the efficacy of works in achieving salvation, prescribing that it depended on faith alone (and the complication of God's predestined will for each individual).",
+        "Bruegel's is the earliest surviving painting whose subject is the parable of the blind leading the blind, though there are earlier engravings from the Low Countries known that Bruegel was likely aware of, including one attributed to Bosch, and another by Cornelis Massijs."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Parable_of_the_Blind",
+      "sitelinks": 30,
+      "widthCm": 154,
+      "heightCm": 86,
+      "pageviews": 36388,
+      "qid": "Q1192570",
+      "imageBytes": 2082904,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B8%D1%82%D1%87%D0%B0_%D0%BE_%D1%81%D0%BB%D0%B5%D0%BF%D1%8B%D1%85.jpeg"
+      }
+    },
+    {
+      "slug": "the-peasant-wedding",
+      "title": "The Peasant Wedding",
+      "year": 1568,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project_2.jpg",
+      "imageWidth": 7678,
+      "imageHeight": 5306,
+      "story": "The Peasant Wedding is a 1567 genre painting by the Dutch and Flemish Renaissance painter and printmaker Pieter Bruegel the Elder, one of his many depicting peasant life. It is now in the Kunsthistorisches Museum, Vienna. Pieter Bruegel the Elder enjoyed painting peasants and different aspects of their lives in so many of his paintings that he has been called Peasant-Bruegel, but he was an intellectual, and many of his paintings have a symbolic meaning as well as a moral aspect.",
+      "facts": [
+        "The bride is in front of the green textile wall-hanging, with a paper-crown hung above her head.",
+        "She is also wearing a crown and sitting passively amidst the hearty eating and drinking around her."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Peasant_Wedding",
+      "sitelinks": 29,
+      "widthCm": 164,
+      "heightCm": 113,
+      "pageviews": 31734,
+      "qid": "Q603751",
+      "imageBytes": 13415495,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project_2.jpg"
+      }
+    },
+    {
+      "slug": "the-magpie-on-the-gallows",
+      "title": "The Magpie on the Gallows",
+      "year": 1568,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Die_Elster_auf_dem_Galgen.jpg",
+      "imageWidth": 3782,
+      "imageHeight": 3363,
+      "story": "The Magpie on the Gallows is a 1568 oil-on-wood panel painting by the Netherlandish Renaissance artist Pieter Bruegel the Elder. It is now in the Hessisches Landesmuseum, in Darmstadt.",
+      "facts": [
+        "The painting shows a world landscape, with the foreground a woodland clearing containing three peasants dancing to a bagpipes, next to a gallows upon which a magpie is perched.",
+        "The gallows stands in the centre of the picture, dividing the painting in two, a Mannerist composition with the right side more \"open\" and left more \"closed\", with the magpie close to the exact centre of the painting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Magpie_on_the_Gallows",
+      "sitelinks": 28,
+      "widthCm": 51,
+      "heightCm": 46,
+      "pageviews": 5613,
+      "qid": "Q1122842",
+      "imageBytes": 11654657,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Die_Elster_auf_dem_Galgen.jpg"
+      }
+    },
+    {
+      "slug": "the-harvesters-painting",
+      "title": "The Harvesters (painting)",
+      "year": 1565,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg",
+      "imageWidth": 30000,
+      "imageHeight": 21851,
+      "story": "The Harvesters is an oil painting on wood completed by the Netherlandish Renaissance artist Pieter Bruegel the Elder in 1565. It depicts the harvest time set in a landscape, in the months of July and August or late summer. Nicolaes Jonghelinck, a merchant banker and art collector from Antwerp, commissioned this painting as part of a cycle of six paintings depicting various seasonal transitions during the year.",
+      "facts": [
+        "The painting is one in a series of six (or perhaps twelve) works, five of which are still extant, that depict different times of the year.",
+        "As in many of his paintings, the focus is on peasants and their work and does not have the religious themes common in landscape works of the time."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Harvesters_(painting)",
+      "sitelinks": 24,
+      "widthCm": 159.5,
+      "heightCm": 116.5,
+      "pageviews": 18535,
+      "qid": "Q776175",
+      "imageBytes": 223106981,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "children-s-games-bruegel",
+      "title": "Children's Games (Bruegel)",
+      "year": 1560,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg",
+      "imageWidth": 6567,
+      "imageHeight": 4770,
+      "story": "Children's Games is an oil-on-panel by Flemish Renaissance artist Pieter Bruegel the Elder, painted in 1560. It is now in the Kunsthistorisches Museum in Vienna. The entire composition is full of children playing a wide variety of games. Over 90 different games that were played by children at the time have been identified.",
+      "facts": [
+        "This painting, mentioned for the first time by Karel van Mander in 1604, was acquired in 1594 by Archduke Ernest of Austria.",
+        "It was suggested that it was the first in a projected series of paintings representing the Ages of Man, in which Children's Games would have stood for Youth."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Children's_Games_(Bruegel)",
+      "sitelinks": 21,
+      "widthCm": 161,
+      "heightCm": 118,
+      "pageviews": 45535,
+      "qid": "Q697332",
+      "imageBytes": 16341568,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "massacre-of-the-innocents-bruegel",
+      "title": "Massacre of the Innocents (Bruegel)",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pieter_Bruegel_the_Elder_-_Massacre_of_the_Innocents_-_Google_Art_Project.jpg",
+      "imageWidth": 6772,
+      "imageHeight": 4641,
+      "story": "Several oil-on-oak-panel versions of The Massacre of the Innocents were painted by 16th-century Netherlandish painters Pieter Bruegel the Elder and his son Pieter Brueghel the Younger. The work translates the Biblical account of the Massacre of the Innocents into a winter scene in the Southern Netherlands in the prelude to the Dutch Revolt against Spanish rule, also known as the Eighty Years' War.",
+      "facts": [
+        "Bruegel translated the scene to a 16th-century Netherlandish village, where the Flemish villagers are attacked by Spanish soldiers and German mercenaries, possibly as a commentary on the behaviour of occupying Spanish troops in the prelude to the Dutch Revolt against Spanish rule, also known as the Eighty Years' War.",
+        "The very severe winter of 1564-65 may have inspired the snow-covered scene, with icicles hanging from the eaves and a pond covered with a thick layer of ice: the deep winter also inspired his 1565 painting The Hunters in the Snow.",
+        "A crowd of villagers surround and confront a red-coated soldier standing over a dead baby (overpainted as a bundle); or, the villagers try to stop a father from attacking the soldier that killed his baby.",
+        "A soldier with striped breeches stabs one child (overpainted as a boar) and another stabs at a baby held by a woman (overpainted as a jug)."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Massacre_of_the_Innocents_(Bruegel)",
+      "sitelinks": 20,
+      "widthCm": 158.1,
+      "heightCm": 109.2,
+      "pageviews": 31327,
+      "qid": "Q1134250",
+      "imageBytes": 13284285,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Massacre_of_the_Innocents_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "the-fight-between-carnival-and-lent",
+      "title": "The Fight Between Carnival and Lent",
+      "year": 1559,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pieter_Bruegel_d._%C3%84._066.jpg",
+      "imageWidth": 4800,
+      "imageHeight": 3466,
+      "story": "The Fight Between Carnival and Lent is an oil-on-panel painting executed by the Dutch and Flemish Renaissance painter Pieter Bruegel the Elder in 1559. It is a panorama of contemporary life in the Southern Netherlands. While the painting contains nearly 200 characters, it is unified under the theme of the transition from Shrove Tuesday to Lent, the period forty days before Easter.",
+      "facts": [
+        "A bloated corpse, partially covered by a white shroud, has been hidden.",
+        "The literary theme of the struggle between personifications of Shrove Tuesday and Lent dates as far back as the year 400 with the Psychomachia."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Fight_Between_Carnival_and_Lent",
+      "sitelinks": 20,
+      "widthCm": 164.5,
+      "heightCm": 118,
+      "pageviews": 30738,
+      "qid": "Q689236",
+      "imageBytes": 16870953,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d._%C3%84._066.jpg"
+      }
+    },
+    {
+      "slug": "the-return-of-the-herd",
+      "title": "The Return of the Herd",
+      "year": 1565,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Pieter_Bruegel_%28I%29_-_The_Return_of_the_Herd_%281565%29.jpg",
+      "imageWidth": 4963,
+      "imageHeight": 3593,
+      "story": "The Return of the Herd is a panel painting in oils by the Netherlandish Renaissance artist Pieter Bruegel the Elder, made in 1565. It is one in a series of six works that depict different seasons. The painting is now in the Kunsthistorisches Museum, Vienna, Austria. The autumnal colors of the landscape and the bare trees connect this particular painting to October/November.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Return_of_the_Herd",
+      "sitelinks": 20,
+      "widthCm": 159,
+      "heightCm": 117,
+      "pageviews": 5415,
+      "qid": "Q698254",
+      "imageBytes": 14044248,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_(I)_-_The_Return_of_the_Herd_(1565).jpg"
+      }
+    },
+    {
+      "slug": "dull-gret",
+      "title": "Dull Gret",
+      "year": 1561,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dulle_Griet%2C_by_Pieter_Brueghel_%28I%29.jpg",
+      "imageWidth": 6000,
+      "imageHeight": 4334,
+      "story": "Dulle Griet, also known as Mad Meg, is a figure of Flemish folklore who is best known as the subject of a 1563 oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder. The painting depicts a virago, Dulle Griet, who leads an army of women to pillage Hell, and is currently held and exhibited at the Museum Mayer van den Bergh, in Antwerp. Dulle Griet is also the subject of at least two more paintings by other artists: a 1640s painting by Flemish painter David Teniers the Younger and a 1650s painting by David Ryckaert III.",
+      "facts": [
+        "A restoration of the painting in 2018 revealed that it was painted in 1563, shortly after the painter had moved to Brussels.",
+        "It came into the collections of Rudolf II, Holy Roman Emperor, then was looted by the Swedish troops in 1648, and reappeared in Stockholm in 1800.",
+        "Art collector Fritz Mayer van den Bergh discovered it in 1897 at an auction in Cologne, where he bought it for a minimal sum, discovering its actual author a few days later.",
+        "In 2018, Dull Margaret, a graphic novel by Jim Broadbent inspired by Dulle Gret, was published by Fantagraphics Books."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dull_Gret",
+      "sitelinks": 20,
+      "widthCm": 162,
+      "heightCm": 117.4,
+      "pageviews": 33958,
+      "qid": "Q80869",
+      "imageBytes": 32069789,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Dulle_Griet,_by_Pieter_Brueghel_(I).jpg"
+      }
+    },
+    {
+      "slug": "the-hay-harvest",
+      "title": "The Hay Harvest",
+      "year": 1565,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Haymaking%2C_1565.jpg",
+      "imageWidth": 39114,
+      "imageHeight": 28084,
+      "story": "The Hay Harvest, is an oil painting on wood panel by the Netherlandish Renaissance artist Pieter Bruegel the Elder, executed in 1565. The most important of the Lobkowicz family's Northern pictures, it was hung in the dining room of the Antwerp merchant Niclaes Jongelink. This work was originally part of a series of six panels, each presumed to represent two months of the year – in this case June and July.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Hay_Harvest",
+      "sitelinks": 19,
+      "widthCm": 161,
+      "heightCm": 117,
+      "pageviews": 6378,
+      "qid": "Q1213437",
+      "imageBytes": 414854238,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Haymaking,_1565.jpg"
+      }
+    },
+    {
+      "slug": "the-fall-of-the-rebel-angels",
+      "title": "The Fall of the Rebel Angels",
+      "year": 1562,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_RMFAB_584_%28derivative_work%29.jpg",
+      "imageWidth": 1360,
+      "imageHeight": 982,
+      "story": "The Fall of the Rebel Angels is an oil-on-panel painting of 1562 by the Netherlandish Renaissance artist Pieter Bruegel the Elder. The painting is 117cm x 162cm and is now in the Oldmasters Museum in Brussels, Belgium. The Fall of Rebel Angels depicts Lucifer along with the other fallen angels that have been banished from heaven. Angels are falling from the sun in a stacked manner along with ungodly creatures that Bruegel created.",
+      "facts": [
+        "There are two other prominent figures on either side of archangel Michael who are dressed in all white to contrast the dark colors underneath them.",
+        "Painted in 1562, Bruegel's depiction of this subject of Lucifer falling with his fallen angels is taken from a passage from Revelation 12, and reveals the artist's profound debt to Hieronymus Bosch."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Fall_of_the_Rebel_Angels",
+      "sitelinks": 19,
+      "widthCm": 162,
+      "heightCm": 117,
+      "pageviews": 38748,
+      "qid": "Q594406",
+      "imageBytes": 1390001,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_RMFAB_584_(derivative_work).jpg"
+      }
+    },
+    {
+      "slug": "the-procession-to-calvary-bruegel",
+      "title": "The Procession to Calvary (Bruegel)",
+      "year": 1564,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Pieter_Bruegel_d._%C3%84._007.jpg",
+      "imageWidth": 3000,
+      "imageHeight": 2178,
+      "story": "The Procession to Calvary is an oil-on-panel by the Netherlandish Renaissance artist Pieter Bruegel the Elder of Christ carrying the Cross set in a large landscape, painted in 1564. It is in the Kunsthistorisches Museum in Vienna.",
+      "facts": [
+        "Jonghelinck commissioned the series of paintings of months from Bruegel and may also have commissioned this work.",
+        "It is one of sixteen paintings by Bruegel listed in the 1566 inventory of the wealthy Antwerp collector, Nicolaes Jonghelinck."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Procession_to_Calvary_(Bruegel)",
+      "sitelinks": 19,
+      "widthCm": 170,
+      "heightCm": 124,
+      "pageviews": 24498,
+      "qid": "Q686107",
+      "imageBytes": 5065226,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d._%C3%84._007.jpg"
+      }
+    },
+    {
+      "slug": "the-gloomy-day",
+      "title": "The Gloomy Day",
+      "year": 1565,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Gloomy_Day_%28Bruegel%29.jpg",
+      "imageWidth": 41296,
+      "imageHeight": 30072,
+      "story": "The Gloomy Day is a panel painting in oils by the Netherlandish Renaissance artist Pieter Bruegel the Elder, painted in 1565. It is one in a series of six works, five of which are still extant, that depict different times of the year. The painting is now in the Kunsthistorisches Museum, Vienna, Austria.",
+      "facts": [
+        "The scene is set around February and March, portrayed by the bleak atmosphere and leafless trees.",
+        "The paper crown around the boy's head and the eating of waffles are references to the Carnival time prior to Lent."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Gloomy_Day",
+      "sitelinks": 19,
+      "widthCm": 163,
+      "heightCm": 118,
+      "pageviews": 6669,
+      "qid": "Q698219",
+      "imageBytes": 247885229,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_Gloomy_Day_(Bruegel).jpg"
+      }
+    },
+    {
+      "slug": "the-misanthrope-bruegel",
+      "title": "The Misanthrope (Bruegel)",
+      "year": 1568,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Pieter_Bruegel_d._%C3%84._035.jpg",
+      "imageWidth": 2536,
+      "imageHeight": 2505,
+      "story": "The Misanthrope is a tempera painting on canvas by the Flemish Renaissance artist Pieter Bruegel the Elder, created in 1568. It is now in the National Museum of Capodimonte, in Naples.",
+      "facts": [
+        "Om dat de werelt is soe ongetru / Daer om gha ic in den ru(\"Because the world is perfidious, I am going into mourning\").",
+        "The hooded misanthrope is being robbed by the small figure in the glass globe who is holding his purse."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Misanthrope_(Bruegel)",
+      "sitelinks": 18,
+      "widthCm": 85,
+      "heightCm": 86,
+      "pageviews": 10283,
+      "qid": "Q2059447",
+      "imageBytes": 394744,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d._%C3%84._035.jpg"
+      }
+    },
+    {
+      "slug": "the-land-of-cockaigne-bruegel",
+      "title": "The Land of Cockaigne (Bruegel)",
+      "year": 1550,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pieter_Bruegel_d._%C3%84._%281525-1569%29_-_Das_Schlaraffenland_-_8940_-_Bavarian_State_Painting_Collections.jpg",
+      "imageWidth": 3000,
+      "imageHeight": 1974,
+      "story": "Het Luilekkerland – known in English as The Land of Cockaigne – is a 1567 oil painting by the Netherlandish Renaissance artist Pieter Bruegel the Elder. In medieval times, Cockaigne was a mythical land of plenty, but Bruegel's depiction of Cockaigne and its residents is not meant to be a flattering one. He chooses rather a comic illustration of the spiritual emptiness believed to derive from gluttony and sloth, two of the seven deadly sins.",
+      "facts": [
+        "In the painting, a clerk, a peasant, and a soldier lie dozing on the ground underneath a table bound to a tree.",
+        "On the left, a knight emerges from a lean-to whose roof is covered in dishes of pie and pastry, with an open mouth, waiting for a roasted pigeon to fly in (the pigeon was accidentally removed during restoration work).",
+        "The arrangement of the clerk, peasant, and soldier underneath the tree suggests the men as the spokes of a wheel, where the tree is the hub."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Land_of_Cockaigne_(Bruegel)",
+      "sitelinks": 18,
+      "widthCm": 78.3,
+      "heightCm": 51.5,
+      "pageviews": 28379,
+      "qid": "Q556553",
+      "imageBytes": 1407575,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d._%C3%84._(1525-1569)_-_Das_Schlaraffenland_-_8940_-_Bavarian_State_Painting_Collections.jpg"
+      }
+    },
+    {
+      "slug": "christ-and-the-woman-taken-in-adultery-bruegel",
+      "title": "Christ and the Woman Taken in Adultery (Bruegel)",
+      "year": 1565,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Pieter_Bruegel_the_Elder_-_Christ_and_the_Woman_Taken_in_Adultery_-_WGA03469.jpg",
+      "imageWidth": 1066,
+      "imageHeight": 770,
+      "story": "Christ and the Woman Taken in Adultery is a small panel painting in grisaille by the Netherlandish Renaissance printmaker and painter Pieter Bruegel the Elder. It is signed and dated 1565.",
+      "facts": [
+        "There are a number of other copies, some attributed to the artist's sons, perhaps made after the engraving, and the painting was lent to Cardinal Federico Borromeo for copying (perhaps the version now in Bergamo).",
+        "A version attributed to Breuegel's son Pieter Brueghel the Younger of c.",
+        "The work was stolen from the Courtauld Gallery on 2 February 1982.",
+        "Because of its value and fame, it proved unsaleable on the open market and did not resurface again until 1992, when it was recovered by British police."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christ_and_the_Woman_Taken_in_Adultery_(Bruegel)",
+      "sitelinks": 17,
+      "widthCm": 34.4,
+      "heightCm": 24.1,
+      "pageviews": 5604,
+      "qid": "Q1087244",
+      "imageBytes": 111429,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Christ_and_the_Woman_Taken_in_Adultery_-_WGA03469.jpg"
+      }
+    },
+    {
+      "slug": "the-wedding-dance",
+      "title": "The Wedding Dance",
+      "year": 1566,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Pieter_Bruegel_de_Oude_-_De_bruiloft_dans_%28Detroit%29.jpg",
+      "imageWidth": 2000,
+      "imageHeight": 1517,
+      "story": "The Wedding Dance is a 1566 oil-on-panel painting by the Netherlandish Renaissance artist Pieter Bruegel the Elder. Owned by the museum of the Detroit Institute of Arts in Detroit, Michigan, the work was discovered by its director in England in 1930, and brought to Detroit. It is believed to be one of a set of three Bruegel works from around the same time: The Wedding Dance, The Peasant Wedding (1567) and The Peasant Dance (1569).",
+      "facts": [
+        "It was believed to have been lost for many years, until discovered at a sale in London in 1930 by Wilhelm Valentiner, the director of the Detroit Institute of Arts at the time.",
+        "Behind him is a hanging tablecloth decorated with a crown and beneath it is the bride's table."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Wedding_Dance",
+      "sitelinks": 17,
+      "widthCm": 157.5,
+      "heightCm": 119.4,
+      "pageviews": 12907,
+      "qid": "Q3702434",
+      "imageBytes": 1445215,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_de_Oude_-_De_bruiloft_dans_(Detroit).jpg"
+      }
+    },
+    {
+      "slug": "the-census-at-bethlehem",
+      "title": "The Census at Bethlehem",
+      "year": 1566,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Pieter_Bruegel_der_%C3%84ltere_-_Volksz%C3%A4hlung_zu_Bethlehem.jpg",
+      "imageWidth": 15647,
+      "imageHeight": 10843,
+      "story": "The Census at Bethlehem is an oil-on-panel painting by the Dutch and Flemish Renaissance painting artist Pieter Bruegel the Elder, painted in 1566. It is signed and measures about 1155 × 1645 mm. It is now in the Oldmasters Museum in Brussels, which acquired it in 1902.",
+      "facts": [
+        "The painting shows Bethlehem as a Flemish village in winter at sundown.",
+        "A group of people is gathered at a building on the left, having their details taken down by a scribe."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Census_at_Bethlehem",
+      "sitelinks": 17,
+      "widthCm": 163.5,
+      "heightCm": 115.5,
+      "pageviews": 20265,
+      "qid": "Q375216",
+      "imageBytes": 49117222,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_der_%C3%84ltere_-_Volksz%C3%A4hlung_zu_Bethlehem.jpg"
+      }
+    },
+    {
+      "slug": "adoration-of-the-kings-bruegel",
+      "title": "Adoration of the Kings (Bruegel)",
+      "year": 1564,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Anbetung_der_K%C3%B6nige_%28Bruegel%2C_1564%29_%E2%80%93_cropped.jpg",
+      "imageWidth": 3062,
+      "imageHeight": 4098,
+      "story": "The Adoration of the Kings is an oil-on-panel painting of the Adoration of the Magi by the Netherlandish Renaissance artist Pieter Bruegel the Elder, painted in 1564. It is held in the National Gallery, in London.",
+      "facts": [
+        "In this treatment, the painter's first purpose is to record the range and intensity of individual reactions to the sacred event.",
+        "In the chronological sequence of Bruegel's work, this painting of 1564 marks an important departure as the first to be composed almost exclusively of large figures."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adoration_of_the_Kings_(Bruegel)",
+      "sitelinks": 17,
+      "widthCm": 83.9,
+      "heightCm": 112.1,
+      "pageviews": 5205,
+      "qid": "Q4680634",
+      "imageBytes": 11906693,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Anbetung_der_K%C3%B6nige_(Bruegel,_1564)_%E2%80%93_cropped.jpg"
+      }
+    },
+    {
+      "slug": "the-wine-of-saint-martin-s-day",
+      "title": "The Wine of Saint Martin's Day",
+      "year": 1566,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bruegelsanmartin.jpg",
+      "imageWidth": 2952,
+      "imageHeight": 1596,
+      "story": "The Wine of Saint Martin's Day is the largest painting by the Northern Renaissance artist Pieter Bruegel the Elder. It is currently held in the Museo del Prado, Madrid, where it was identified as a Bruegel original in 2010. Like much of Bruegel's work it depicts peasant life, in this case a festival known as St. Martin's Day, which involves drinking the first wine of the season.",
+      "facts": [
+        "By the early twenty-first century, when its owners took it to the Prado for restoration, the painting was not in a good state of conservation .",
+        "This is not surprising as the fragile medium tends to cause conservation problems.",
+        "After restoration, the painting was put on public display in the Prado.",
+        "It was subsequently acquired by the Prado for less than its value on the open market."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Wine_of_Saint_Martin's_Day",
+      "sitelinks": 16,
+      "widthCm": 270.5,
+      "heightCm": 148,
+      "pageviews": 4277,
+      "qid": "Q1198007",
+      "imageBytes": 5775496,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Bruegelsanmartin.jpg"
+      }
+    },
+    {
+      "slug": "winter-landscape-with-a-bird-trap",
+      "title": "Winter Landscape with a Bird Trap",
+      "year": 1565,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bruegel%2C_Pieter_%28I%29_-_Winterlandschap_met_schaatsers_en_vogelknip%2C_1565.jpg",
+      "imageWidth": 12406,
+      "imageHeight": 8224,
+      "story": "Winter Landscape with a Bird Trap, also known as The Bird Trap, is a panel painting in oils by the Netherlandish painter Pieter Bruegel the Elder, from 1565, now in the Oldmasters Museum in Brussels. It shows a village scene where people skate on a frozen river, while on the right among trees and bushes, birds gather around a bird trap. It is signed and dated at the lower right: \"BRVEGEL / M.D.LXV’1\". There are more early copies of this than any other painting by Pieter Bruegel the Elder, many by his much younger son Pieter Brueghel the Younger, or other members of the Brueghel family dynasty and workshop. The art historian Klaus Ertz documented 127 copies in his comprehensive monograph on the artist's son in 2000.",
+      "facts": [
+        "Among so many early copies, the status of the painting now in Brussels was not widely recognised until it was \"rediscovered in 1925\", and there was repeated questioning of its position.",
+        "While human figures occupy the frozen river and the far bank, there are only birds visible on the nearer bank on the right."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Winter_Landscape_with_a_Bird_Trap",
+      "sitelinks": 16,
+      "widthCm": 56,
+      "heightCm": 37,
+      "pageviews": 19796,
+      "qid": "Q873639",
+      "imageBytes": 62925923,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Bruegel,_Pieter_(I)_-_Winterlandschap_met_schaatsers_en_vogelknip,_1565.jpg"
+      }
+    },
+    {
+      "slug": "the-suicide-of-saul",
+      "title": "The Suicide of Saul",
+      "year": 1562,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Pieter_Bruegel_d._%C3%84._Selbstmord_Sauls.jpg",
+      "imageWidth": 3000,
+      "imageHeight": 1815,
+      "story": "The Suicide of Saul is an oil-on-panel painting by the Flemish Renaissance artist Pieter Bruegel the Elder, painted in 1562. It is in the collection of the Kunsthistorisches Museum, in Vienna.",
+      "facts": [
+        "Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell slain on Mount Gilboa.",
+        "And the Philistines killed Jonathan, Abinadab, and Malchishua, Saul's sons."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Suicide_of_Saul",
+      "sitelinks": 15,
+      "widthCm": 55,
+      "heightCm": 33.5,
+      "pageviews": 19297,
+      "qid": "Q3976754",
+      "imageBytes": 3818903,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d._%C3%84._Selbstmord_Sauls.jpg"
+      }
+    },
+    {
+      "slug": "the-peasant-and-the-nest-robber",
+      "title": "The Peasant and the Nest Robber",
+      "year": 1568,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/The_Peasant_and_the_Birdnester_Pieter_Bruegel_the_Elder_1568.jpeg",
+      "imageWidth": 3000,
+      "imageHeight": 2588,
+      "story": "The Peasant and the Nest Robber is an oil-on-panel painting by the Netherlandish Renaissance artist Pieter Bruegel the Elder, painted in 1568. It is in the Kunsthistorisches Museum in Vienna.",
+      "facts": [
+        "This painting was in the collections of since 1569; passed on to the imperial collection, it became part of those of the Kunsthistorisches Museum at its inauguration.",
+        "Painted the year before the artist's death, this painting, like other late works such as The Land of Cockaigne, The Peasant Dance, and The Peasant Wedding, is dominated by monumental figures."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Peasant_and_the_Nest_Robber",
+      "sitelinks": 15,
+      "widthCm": 68,
+      "heightCm": 59,
+      "pageviews": 3003,
+      "qid": "Q666982",
+      "imageBytes": 3807650,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_Peasant_and_the_Birdnester_Pieter_Bruegel_the_Elder_1568.jpeg"
+      }
+    },
+    {
+      "slug": "the-peasant-dance",
+      "title": "The Peasant Dance",
+      "year": 1568,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Pieter_Bruegel_the_Elder_-_The_Peasant_Dance_-_WGA3499.jpg",
+      "imageWidth": 2996,
+      "imageHeight": 2086,
+      "story": "The Peasant Dance is an oil-on-panel by the Netherlandish Renaissance artist Pieter Bruegel the Elder, painted in circa 1567. It was looted by Napoleon Bonaparte and brought to Paris in 1808, being returned in 1815. It is now in the Kunsthistorisches Museum in Vienna.",
+      "facts": [
+        "The panel, neither signed nor dated, was painted circa 1567, at about the same time as The Peasant Wedding.",
+        "The paintings are the same size and may have been intended as a pair or as part of a series illustrating peasant life."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Peasant_Dance",
+      "sitelinks": 15,
+      "widthCm": 164,
+      "heightCm": 114,
+      "pageviews": 11113,
+      "qid": "Q95562",
+      "imageBytes": 2574362,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Peasant_Dance_-_WGA3499.jpg"
+      }
+    },
+    {
+      "slug": "parable-of-the-sower-bruegel",
+      "title": "Parable of the Sower (Bruegel)",
+      "year": 1557,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Pieter_Bruegel_d._%C3%84._030.jpg",
+      "imageWidth": 1097,
+      "imageHeight": 786,
+      "story": "Parable of the Sower is a 1557 landscape painting by Dutch and Flemish painter Pieter Bruegel the Elder. It is now in the Timken Museum of Art in San Diego.",
+      "facts": [
+        "He passed through and made sketches of the Alps on his return trip.",
+        "These drawings influenced the mountains seen in the upper right background."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Parable_of_the_Sower_(Bruegel)",
+      "sitelinks": 14,
+      "widthCm": 102.9,
+      "heightCm": 73.7,
+      "pageviews": 4929,
+      "qid": "Q1434332",
+      "imageBytes": 509662,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d._%C3%84._030.jpg"
+      }
+    },
+    {
+      "slug": "landscape-with-the-flight-into-egypt-bruegel",
+      "title": "Landscape with the Flight into Egypt (Bruegel)",
+      "year": 1563,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Pieter_Bruegel_der_%C3%84ltere_-_Landschaft_mit_der_Flucht_nach_%C3%84gypten.jpg",
+      "imageWidth": 3232,
+      "imageHeight": 2117,
+      "story": "Landscape with the Flight into Egypt is a 1563 oil on wooden panel painting by the Netherlandish Renaissance artist Pieter Bruegel the Elder, showing the biblical Flight into Egypt of Mary and Joseph with the infant Jesus. It measures 37.1 by 55.6 centimetres and is held in the Courtauld Gallery, in London.",
+      "facts": [
+        "The work is a naturalistic world landscape, following the conventions established by Joachim Patinir.",
+        "The ostensible subject, the Holy Family, are small figures in an imaginary panoramic landscape seen from an elevated viewpoint, with mountains and lowlands, water, and buildings."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Landscape_with_the_Flight_into_Egypt_(Bruegel)",
+      "sitelinks": 14,
+      "widthCm": 55.6,
+      "heightCm": 37.1,
+      "pageviews": 4370,
+      "qid": "Q1803755",
+      "imageBytes": 4847188,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_der_%C3%84ltere_-_Landschaft_mit_der_Flucht_nach_%C3%84gypten.jpg"
+      }
+    },
+    {
+      "slug": "naval-battle-in-the-gulf-of-naples",
+      "title": "Naval Battle in the Gulf of Naples",
+      "year": 1556,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bruegel_%E2%80%94_Naval_Battle_in_the_Gulf_of_Naples.jpg",
+      "imageWidth": 10319,
+      "imageHeight": 5889,
+      "story": "Naval Battle in the Gulf of Naples is an oil painting on panel by the Flemish Renaissance artist Pieter Bruegel the Elder, painted from 1558 to 1562. It is in the Doria Pamphilj Gallery in Rome.",
+      "facts": [
+        "Bruegel traveled to the Italian Peninsula, with Abraham Ortelius, in 1551 and 1553.",
+        "Many drawings were produced, including one depicting a naval confrontation in the Straits of Messina, which was turned into an engraving by Frans Huys."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naval_Battle_in_the_Gulf_of_Naples",
+      "sitelinks": 13,
+      "widthCm": 71.2,
+      "heightCm": 42.2,
+      "pageviews": 1715,
+      "qid": "Q4009224",
+      "imageBytes": 43465123,
+      "imageCredit": {
+        "author": "Gleb Simonov",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Bruegel_%E2%80%94_Naval_Battle_in_the_Gulf_of_Naples.jpg"
+      }
+    },
+    {
+      "slug": "two-monkeys-bruegel",
+      "title": "Two Monkeys (Bruegel)",
+      "year": 1562,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Pieter_Bruegel_d._%C3%84._095.jpg",
+      "imageWidth": 3176,
+      "imageHeight": 2700,
+      "story": "Two Monkeys or Two Chained Monkeys is a 1562 painting by Dutch and Flemish Renaissance artist Pieter Bruegel the Elder. The work is now in the Gemäldegalerie of the Berlin State Museums.",
+      "facts": [
+        "The painting depicts two monkeys shackled to an iron ring beneath an archway.",
+        "Examination methods included tree-ring dating; stereomicroscope investigation; and UV radiation, X-ray imaging, infrared reflectography, and X-ray fluorescence analyses."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Two_Monkeys_(Bruegel)",
+      "sitelinks": 12,
+      "widthCm": 23,
+      "heightCm": 20,
+      "pageviews": 5830,
+      "qid": "Q231953",
+      "imageBytes": 507112,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d._%C3%84._095.jpg"
+      }
+    },
+    {
+      "slug": "the-sermon-of-saint-john-the-baptist-bruegel",
+      "title": "The Sermon of Saint John the Baptist (Bruegel)",
+      "year": 1566,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Pieter_Bruegel_the_Elder_-_The_Sermon_of_Saint_John_the_Baptist.jpg",
+      "imageWidth": 6083,
+      "imageHeight": 3566,
+      "story": "The Sermon of Saint John the Baptist is a painting of 1566 by the Netherlandish Renaissance artist Pieter Bruegel the Elder in the Museum of Fine Arts in Budapest, Hungary. It was painted as oil on panel.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Sermon_of_Saint_John_the_Baptist_(Bruegel)",
+      "sitelinks": 12,
+      "widthCm": 160.5,
+      "heightCm": 95,
+      "pageviews": 2672,
+      "qid": "Q257048",
+      "imageBytes": 9209719,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Sermon_of_Saint_John_the_Baptist.jpg"
+      }
+    },
+    {
+      "slug": "conversion-of-paul-bruegel",
+      "title": "Conversion of Paul (Bruegel)",
+      "year": 1567,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Pieter_Bruegel_d._%C3%84._019.jpg",
+      "imageWidth": 3000,
+      "imageHeight": 2069,
+      "story": "Conversion of Paul is an oil-on-panel painting by the Netherlandish Renaissance artist Pieter Bruegel the Elder, painted in 1567. It is now in the Kunsthistorisches Museum in Vienna.",
+      "facts": [
+        "This work was acquired by Archduke Ernest of Austria in 1594, subsequently passing into the imperial collections with Rudolf II, Holy Roman Emperor.",
+        "As he journeyed he came near Damascus, and suddenly a light shone around him from heaven."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Conversion_of_Paul_(Bruegel)",
+      "sitelinks": 12,
+      "widthCm": 156,
+      "heightCm": 108,
+      "pageviews": 3227,
+      "qid": "Q665337",
+      "imageBytes": 4264059,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d._%C3%84._019.jpg"
+      }
+    },
+    {
+      "slug": "adoration-of-the-magi-in-the-snow",
+      "title": "Adoration of the Magi in the Snow",
+      "year": 1563,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%28Venice%29_Adoration_of_the_Magi_in_the_snow_by_Pieter_Brueghel_the_Younger_-_Correr_version.jpg",
+      "imageWidth": 6870,
+      "imageHeight": 4571,
+      "story": "The Adoration of the Magi in the Snow is a painting in oils on oak panel of 1563, by Pieter Bruegel the Elder, now in the Oskar Reinhart Collection Am Römerholz in Winterthur, Switzerland. With two Italian exceptions, it is thought to be the first depiction of falling snow in a Western painting, the snowflakes boldly shown by dots of white across the whole scene, added when the work was otherwise completed.",
+      "facts": [
+        "The gloom and snow, together with the small scale and muted colours, mean the scene in the stable \"can just be made out\" in its \"unexpected spot\" in the bottom left corner.",
+        "The diagonal arrangement of the many figures crowding the village street \"tends to lead the eye away from the main event\"."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi_in_the_Snow",
+      "sitelinks": 11,
+      "widthCm": 55,
+      "heightCm": 35,
+      "pageviews": 7658,
+      "qid": "Q1211030",
+      "imageBytes": 28208243,
+      "imageCredit": {
+        "author": "Didier Descouens",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:(Venice)_Adoration_of_the_Magi_in_the_snow_by_Pieter_Brueghel_the_Younger_-_Correr_version.jpg"
+      }
+    },
+    {
+      "slug": "the-death-of-the-virgin-bruegel",
+      "title": "The Death of the Virgin (Bruegel)",
+      "year": 1564,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pieter_Bruegel_the_Elder_-_Death_of_the_Virgin_-_WGA03468.jpg",
+      "imageWidth": 972,
+      "imageHeight": 643,
+      "story": "The Death of the Virgin, also known as The Dormition of the Virgin, is a 1564 grisaille painting by the Netherlandish Renaissance artist Pieter Bruegel the Elder, depicting the death of the Virgin Mary with the Apostles and other figures in attendance. It is now displayed in Upton House and under the care of the National Trust. It is one of the three surviving grisailles by Bruegel.",
+      "facts": [
+        "It inspired Bruegel's The Death of the Virgin and works by other artists.",
+        "Charles de Tolnay stated that the composition was inspired by the miniature La Mort, painted by Simon Bening in the Grimani Breviary between 1505 and 1510.",
+        "Infrared reflectography has shown a minimal amount of underdrawing carried out with brushes.",
+        "The Death of the Virgin was originally owned by Abraham Ortelius and may have been commissioned by him."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Death_of_the_Virgin_(Bruegel)",
+      "sitelinks": 7,
+      "widthCm": 55,
+      "heightCm": 36,
+      "pageviews": 2728,
+      "qid": "Q3863232",
+      "imageBytes": 469917,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Death_of_the_Virgin_-_WGA03468.jpg"
+      }
+    },
+    {
+      "slug": "the-tower-of-babel-q15293656",
+      "title": "The Tower of Babel",
+      "year": 1563,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Pieter_Bruegel_d._%C3%84.%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Turmbau_zu_Babel_-_GG_1026_-_Kunsthistorisches_Museum.jpg",
+      "imageWidth": 3000,
+      "imageHeight": 2210,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 6,
+      "widthCm": 155,
+      "heightCm": 114,
+      "pageviews": null,
+      "qid": "Q15293656",
+      "imageBytes": 4692893,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d._%C3%84.,_Kunsthistorisches_Museum_Wien,_Gem%C3%A4ldegalerie_-_Turmbau_zu_Babel_-_GG_1026_-_Kunsthistorisches_Museum.jpg"
+      }
+    },
+    {
+      "slug": "the-beggars",
+      "title": "The Beggars",
+      "year": 1568,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pieter_Bruegel_the_Elder_-_The_Beggars_%281568%29.jpg",
+      "imageWidth": 3028,
+      "imageHeight": 2568,
+      "story": "The Beggars or The Cripples is an oil-on-panel by the Netherlandish Renaissance artist Pieter Bruegel the Elder, painted in 1568. It is now in the Louvre, in Paris. Its also is the only painting by Bruegel in the Louvre, received as a gift in 1892.",
+      "facts": [
+        "Still, the beggars are not quite ordinary beggars, as they wear carnival headgear representing various classes of society: a cardboard crown (the king), a paper shako (the soldier), a beret (the bourgeois), a cap (the peasant), and a mitre (the bishop).",
+        "The work clearly has some satirical meaning, which has so far eluded interpretation."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Beggars",
+      "sitelinks": 16,
+      "widthCm": 21.5,
+      "heightCm": 18.5,
+      "pageviews": 5673,
+      "qid": "Q3772184",
+      "imageBytes": 2653388,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Beggars_(1568).jpg"
+      }
+    },
+    {
+      "slug": "the-tower-of-babel-bruegel",
+      "title": "The Tower of Babel (Bruegel)",
+      "year": 1563,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg",
+      "imageWidth": 30000,
+      "imageHeight": 21952,
+      "story": "The Tower of Babel was the subject of two surviving paintings and one lost painting by Dutch and Flemish Renaissance painter Pieter Bruegel the Elder. The earliest of the three, a miniature painted on ivory, was completed in 1552–1553 while Bruegel was in Rome, and is now lost. The two surviving works are oil paintings on wood panels, sometimes distinguished by the prefix \"Great\" and \"Little\" and by their present location: Kunsthistorisches Museum Wien in Vienna and the latter in the Museum Boijmans Van Beuningen in Rotterdam. The Tower of Babel in Vienna is dated 1563, while the version in Rotterdam is undated but widely believed to have been painted sometime after.",
+      "facts": [
+        "Bruegel's depiction of the architecture of the tower, with its numerous arches and other examples of Roman engineering, is deliberately reminiscent of the Roman Colosseum, which Christians of the time saw as a symbol of both hubris and persecution.",
+        "Back in Antwerp, he may have refreshed his memory of Rome with a series of engravings of the principal landmarks of the city made by the publisher of his own prints, Hieronymous Cock, for he incorporated details of Cock's engravings of Roman views in both surviving versions of the Tower of Babel."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegel)",
+      "sitelinks": 37,
+      "widthCm": 155,
+      "heightCm": null,
+      "pageviews": 116111,
+      "qid": "Q699091",
+      "imageBytes": 212671142,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project_-_edited.jpg"
+      }
+    },
+    {
+      "slug": "landscape-with-the-fall-of-icarus",
+      "title": "Landscape with the Fall of Icarus",
+      "year": 1558,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Pieter_Bruegel_the_Elder_-_Landscape_with_the_Fall_of_Icarus_-_Brussels%2C_Royal_Museums_of_Fine_Arts_of_Belgium_-_Google_Arts_%26_Culture.jpg",
+      "imageWidth": 12265,
+      "imageHeight": 8000,
+      "story": "Landscape with the Fall of Icarus is a painting in oil on canvas measuring 73.5 by 112 centimetres now in the Oldmasters Museum in Brussels. It was long thought to be by the leading painter of Dutch and Flemish Renaissance painting, Pieter Bruegel the Elder. However, following technical examinations in 1996 of the painting hanging in the Brussels museum, that attribution is regarded as very doubtful, and the painting, perhaps painted in the 1560s, is now usually seen as a good early copy by an unknown artist of Bruegel's lost original, perhaps from about 1558. According to the museum: \"It is doubtful the execution is by Bruegel the Elder, but the composition can be said with certainty to be his\", although recent technical research has re-opened the question.\nA second version, oil on wood, is currently located in Museum van Buuren, also in Brussels, attributed to the Bruegel circle.",
+      "facts": [
+        "The work was unknown until it was bought by the museum in 1912; subsequently another version on panel, generally considered inferior, turned up, which was acquired in 1953 by Daniel van Buuren for his private house, today a museum in Brussels.",
+        "Recently, a study of the underdrawing using infrared reflectography has been published.",
+        "Reflectography is based on the fact that the infrared light penetrates all colors except black.",
+        "The paint layer and maybe also the underdrawing have been severely damaged by this intervention as well as by two more relinings, responsible for the heavy overpainting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Landscape_with_the_Fall_of_Icarus",
+      "sitelinks": 0,
+      "widthCm": 111,
+      "heightCm": 73.5,
+      "pageviews": 135799,
+      "qid": "Q1247110",
+      "imageBytes": 85662977,
+      "imageCredit": {
+        "author": "After Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Landscape_with_the_Fall_of_Icarus_-_Brussels,_Royal_Museums_of_Fine_Arts_of_Belgium_-_Google_Arts_%26_Culture.jpg"
+      }
+    },
+    {
+      "slug": "the-storm-at-sea",
+      "title": "The Storm at Sea",
+      "year": 1569,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Joos_de_Momper_the_Younger_-_Storm_at_Sea_-_WGA3342.jpg",
+      "imageWidth": 1068,
+      "imageHeight": 770,
+      "story": "Storm at Sea is an oil painting on panel attributed the Netherlandish Renaissance artist Pieter Bruegel the Elder, painted c. 1569. It is held in the Kunsthistorisches Museum, in Vienna.",
+      "facts": [
+        "In the past doubts have been raised about the attribution of this painting to Bruegel: the name of Joos de Momper, a landscape painter who became a master in the Antwerp guild in 1581, has been mentioned.",
+        "However, not only is this painting superior to any by de Momper; its similarity to a drawing by Bruegel (in the Courtauld Institute of Art) and its originality of composition and delicacy of execution have made it generally accepted as a late work by Bruegel, possibly left unfinished at his death."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Storm_at_Sea",
+      "sitelinks": 0,
+      "widthCm": 97,
+      "heightCm": 71,
+      "pageviews": 2239,
+      "qid": "Q7766701",
+      "imageBytes": 169042,
+      "imageCredit": {
+        "author": "Joos de Momper the Younger / Formerly attributed to Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Joos_de_Momper_the_Younger_-_Storm_at_Sea_-_WGA3342.jpg"
+      }
+    },
+    {
+      "slug": "head-of-peasant-q3985190",
+      "title": "Head of Peasant",
+      "year": 1568,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Pieter_Bruegel_the_Elder_-_Portrait_of_an_old_woman.jpg",
+      "imageWidth": 1519,
+      "imageHeight": 1799,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 9,
+      "widthCm": 18.5,
+      "heightCm": 21.8,
+      "pageviews": null,
+      "qid": "Q3985190",
+      "imageBytes": 2377540,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Portrait_of_an_old_woman.jpg"
+      }
+    },
+    {
+      "slug": "twelve-flemish-proverbs-q3712512",
+      "title": "Twelve Flemish proverbs",
+      "year": 1558,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pieter_Bruegel_the_Elder_-_Twelve_Proverbs_-_WGA03372.jpg",
+      "imageWidth": 1025,
+      "imageHeight": 770,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 8,
+      "widthCm": 98,
+      "heightCm": 75,
+      "pageviews": null,
+      "qid": "Q3712512",
+      "imageBytes": 120851,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Twelve_Proverbs_-_WGA03372.jpg"
+      }
+    },
+    {
+      "slug": "adoration-of-the-magi-q3605524",
+      "title": "Adoration of the Magi",
+      "year": 1556,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Anbetung_der_K%C3%B6nige_%28Bruegel%2C_um_1564%29.jpg",
+      "imageWidth": 1338,
+      "imageHeight": 966,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 6,
+      "widthCm": 169,
+      "heightCm": 124,
+      "pageviews": null,
+      "qid": "Q3605524",
+      "imageBytes": 1701861,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Anbetung_der_K%C3%B6nige_(Bruegel,_um_1564).jpg"
+      }
+    },
+    {
+      "slug": "the-tower-of-babel-q15295671",
+      "title": "The Tower of Babel",
+      "year": 1568,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Rotterdam%29_-_Google_Art_Project.jpg",
+      "imageWidth": 4945,
+      "imageHeight": 3973,
+      "story": "Bruegel painted three versions of the Tower of Babel. One is kept in the Museum Boijmans Van Beuningen in Rotterdam, the second in the Kunsthistorisches Museum in Vienna (see Category:The Tower of Babel by Pieter Bruegel the Elder), while the location of the third version (a miniature on ivory) is unknown.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 5,
+      "widthCm": 74.6,
+      "heightCm": 59.9,
+      "pageviews": null,
+      "qid": "Q15295671",
+      "imageBytes": 8156496,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "the-three-soldiers-q19857193",
+      "title": "The Three Soldiers",
+      "year": 1568,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Pieter_Bruegel_de_Oude_-_De_drie_soldaten.jpg",
+      "imageWidth": 5086,
+      "imageHeight": 6024,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 4,
+      "widthCm": 17.8,
+      "heightCm": 20.3,
+      "pageviews": null,
+      "qid": "Q19857193",
+      "imageBytes": 10632393,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_de_Oude_-_De_drie_soldaten.jpg"
+      }
+    },
+    {
+      "slug": "road-to-calvary-q111644838",
+      "title": "Road to Calvary",
+      "year": 1550,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pieter_d._%C3%84._Brueghel_%281525-1569%29_-_Kreuztragung_-_1746_-_F%C3%BChrermuseum.jpg",
+      "imageWidth": 650,
+      "imageHeight": 511,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q111644838",
+      "imageBytes": 50728,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_d._%C3%84._Brueghel_(1525-1569)_-_Kreuztragung_-_1746_-_F%C3%BChrermuseum.jpg"
+      }
+    },
+    {
+      "slug": "the-strife-of-lent-with-shrove-tide-q20426804",
+      "title": "The Strife of Lent with Shrove-Tide",
+      "year": 1550,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pieter_Bruegel_d.%C3%86._-_The_Strife_of_Lent_with_Shrove-Tide_-_KMS1639_-_Statens_Museum_for_Kunst.jpg",
+      "imageWidth": 2048,
+      "imageHeight": 1482,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 74,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q20426804",
+      "imageBytes": 441746,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d.%C3%86._-_The_Strife_of_Lent_with_Shrove-Tide_-_KMS1639_-_Statens_Museum_for_Kunst.jpg"
+      }
+    },
+    {
+      "slug": "landscape-with-pilgrims-q22076691",
+      "title": "Landscape with Pilgrims",
+      "year": 1540,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Landschap_met_pelgrims%2C_Pieter_Bruegel_I%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_5098.jpg",
+      "imageWidth": 6958,
+      "imageHeight": 4752,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 41.5,
+      "heightCm": 26,
+      "pageviews": null,
+      "qid": "Q22076691",
+      "imageBytes": 6422998,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "page": "https://commons.wikimedia.org/wiki/File:Landschap_met_pelgrims,_Pieter_Bruegel_I,_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen,_5098.jpg"
+      }
+    },
+    {
+      "slug": "christ-and-apostles-at-the-sea-of-galilee-q56394941",
+      "title": "Christ and Apostles at the Sea of Galilee",
+      "year": 1553,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Christus_und_die_Apostel_am_See_Genezareth_%28Bruegel_1553%29.jpg",
+      "imageWidth": 2806,
+      "imageHeight": 1854,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 2,
+      "widthCm": 100,
+      "heightCm": 67.5,
+      "pageviews": null,
+      "qid": "Q56394941",
+      "imageBytes": 1874703,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Christus_und_die_Apostel_am_See_Genezareth_(Bruegel_1553).jpg"
+      }
+    },
+    {
+      "slug": "landscape-with-rabbit-hunt-q137796207",
+      "title": "Landscape with Rabbit Hunt",
+      "year": 1560,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pieter_Bruegel_I_-_Landscape_with_Rabbit_Hunt.jpg",
+      "imageWidth": 1000,
+      "imageHeight": 701,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q137796207",
+      "imageBytes": 319958,
+      "imageCredit": {
+        "author": "Pieter Brueghel the Elder",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_I_-_Landscape_with_Rabbit_Hunt.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

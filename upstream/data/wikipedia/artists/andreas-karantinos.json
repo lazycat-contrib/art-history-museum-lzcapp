@@ -1,0 +1,73 @@
+{
+  "slug": "andreas-karantinos",
+  "periodSlug": "cretan-school",
+  "name": "Andreas Karantinos",
+  "wikiTitle": "Andreas Karantinos",
+  "qid": "Q16330905",
+  "birthYear": 1680,
+  "deathYear": 1740,
+  "tagline": "Greek painter (1680–1740)",
+  "bio": "Andreas Karantinos, also known as Andreas Karandinos, was a Greek Renaissance painter, educator and goldsmith. He was from Kefalonia. He was a member of the Heptanese school. His artwork is reflective of the time period. His teacher was famous painter Stephanos Tzangarolas. He adapted his style. Karandinos also emulated the Cretan masters such as Michael Damaskinos. Many Greek painters emulated one other. Karandinos also taught famous Greek painter Konstantinos Kokkinos and several others. Many of his works are in Greece mostly on the island of Kefalonia. Twenty two of his work survived and one fresco. The fresco is of the Second Coming or the Last Judgement. The fresco is located in the church of Evagelastria in Kastro Kefalonia.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Andreas_Karantinos_Virgin_Glykofilousa.png",
+  "portraitWidth": 434,
+  "portraitHeight": 523,
+  "portraitCredit": {
+    "author": "Andreas Karantinos",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Andreas_Karantinos_Virgin_Glykofilousa.png"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Karantinos",
+  "paintings": [
+    {
+      "slug": "virgin-glykofilousa-karantinos",
+      "title": "Virgin Glykofilousa (Karantinos)",
+      "year": 1723,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Andreas_Karantinos_Virgin_Glykofilousa.png",
+      "imageWidth": 434,
+      "imageHeight": 523,
+      "story": "Virgin Glykofilousa is an egg tempera painting by Andreas Karadinos. Karadinos was a Greek painter active from 1680 to 1740. He was a prominent member of the Heptanese school and a representative of the island of Kefalonia. His teacher was famous painter Stephanos Tzangarolas. Karadinos was an Archpresbyter. He was active during the Neo-Hellenikos Diafotismos and Greek Rococo period. One fresco and twenty-two of his paintings have survived. He was also a goldsmith. A unique inscription on a holy table at the church of Agios Spyridon in Kefalonia features important details about his life.",
+      "facts": [
+        "The Aninos were one of the largest and most important families of Kefalonia.",
+        "In 1736, an abbot named Raphael Aninos commissioned a work that is nearly identical to the Virgin Glykofilousa."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Virgin_Glykofilousa_(Karantinos)",
+      "sitelinks": 2,
+      "widthCm": 65,
+      "heightCm": 73,
+      "pageviews": 974,
+      "qid": "Q110821062",
+      "imageBytes": 616166,
+      "imageCredit": {
+        "author": "Andreas Karantinos",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Andreas_Karantinos_Virgin_Glykofilousa.png"
+      }
+    },
+    {
+      "slug": "allegory-of-the-holy-communion-karantinos-q112766299",
+      "title": "Allegory of the Holy Communion (Karantinos)",
+      "year": 1709,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Allegory_of_the_Holy_Communion_%28Karantinos%29.png",
+      "imageWidth": 1010,
+      "imageHeight": 1274,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 33.3,
+      "heightCm": 44.9,
+      "pageviews": null,
+      "qid": "Q112766299",
+      "imageBytes": 2179222,
+      "imageCredit": {
+        "author": "Andreas Karantinos",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Allegory_of_the_Holy_Communion_(Karantinos).png"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

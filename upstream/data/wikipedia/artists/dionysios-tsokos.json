@@ -1,0 +1,70 @@
+{
+  "slug": "dionysios-tsokos",
+  "periodSlug": "romanticism",
+  "name": "Dionysios Tsokos",
+  "wikiTitle": "Dionysios Tsokos",
+  "qid": "Q155272",
+  "birthYear": 1814,
+  "deathYear": 1862,
+  "tagline": "Greek painter (c. 1814/1820 – 1862)",
+  "bio": "Dionysios Tsokos was a Greek painter; one of the first to gain recognition in the post-Ottoman period. He is mostly known for portraits and historical scenes which combine elements from the Heptanese School with Italian styles.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/TSOKOS-SELF.jpg",
+  "portraitWidth": 516,
+  "portraitHeight": 765,
+  "portraitCredit": {
+    "author": "Dionisios Tsokos (1814-1862)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:TSOKOS-SELF.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dionysios_Tsokos",
+  "paintings": [
+    {
+      "slug": "corfiot-woman-and-young-man-q133566460",
+      "title": "Corfiot Woman and Young Man",
+      "year": 1832,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/1832_Tsokos_Corfiot_Woman_and_Young_Man_National_Gallery_of_Greece_-_Corfu_Annex_anagoria.jpg",
+      "imageWidth": 8598,
+      "imageHeight": 11222,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q133566460",
+      "imageBytes": 33091328,
+      "imageCredit": {
+        "author": "Dionysios Tsokos",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:1832_Tsokos_Corfiot_Woman_and_Young_Man_National_Gallery_of_Greece_-_Corfu_Annex_anagoria.jpg"
+      }
+    },
+    {
+      "slug": "the-assassination-of-capodistria-q18684618",
+      "title": "The assassination of Capodistria",
+      "year": 1850,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Tsokos_Dionysios_-_The_assassination_of_Capodistria_-_Google_Art_Project.jpg",
+      "imageWidth": 3457,
+      "imageHeight": 2592,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 80,
+      "heightCm": 60,
+      "pageviews": null,
+      "qid": "Q18684618",
+      "imageBytes": 3799262,
+      "imageCredit": {
+        "author": "Tsokos Dionysios (1805 - 1862) Details on Google Art Project",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Tsokos_Dionysios_-_The_assassination_of_Capodistria_-_Google_Art_Project.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

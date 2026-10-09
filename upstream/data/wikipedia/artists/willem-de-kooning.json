@@ -1,0 +1,189 @@
+{
+  "slug": "willem-de-kooning",
+  "periodSlug": "abstract-expressionism",
+  "name": "Willem de Kooning",
+  "wikiTitle": "Willem de Kooning",
+  "qid": "Q132305",
+  "birthYear": 1904,
+  "deathYear": 1997,
+  "tagline": "Dutch-American abstract expressionist artist (1904–1997)",
+  "bio": "Willem de Kooning was a Dutch abstract expressionist artist. Born in Rotterdam, in the Netherlands, he moved to the United States in 1926, becoming a U.S. citizen in 1962. In 1943, he married painter Elaine Fried.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Willem_de_Kooning_in_his_studio.jpg",
+  "portraitWidth": 1024,
+  "portraitHeight": 789,
+  "portraitCredit": {
+    "author": "Antony di Gesu, photographer",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Willem_de_Kooning_in_his_studio.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Willem_de_Kooning",
+  "paintings": [
+    {
+      "slug": "woman-iii",
+      "title": "Woman III",
+      "year": 1953,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e7/Woman3.jpg",
+      "imageWidth": 265,
+      "imageHeight": 376,
+      "story": "Woman III is a 1953 painting by abstract expressionist painter Willem de Kooning. It is one of a series of six Women paintings done by de Kooning in the early 1950s, which were first exhibited at the Sidney Janis gallery in 1953. Woman III measures 68 by 48+1⁄2 inches and was completed that same year.",
+      "facts": [
+        "Acquired by Shahbanu Farah, the painting was part of the Tehran Museum of Contemporary Art collection from the late 1970s to 1994.",
+        "Finally, in 1994, the painting was acquired by collector Thomas Ammann and subsequently traded to collector David Geffen for part of a 16th-century Persian manuscript, the Shahnameh of Shah Tahmasp.",
+        "It is currently the fourteenth most expensive painting ever bought, and the only of de Kooning's early Woman series not held in a public collection."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_III",
+      "sitelinks": 15,
+      "widthCm": 123.2,
+      "heightCm": 172.7,
+      "pageviews": 17500,
+      "qid": "Q1887644",
+      "imageBytes": 71463,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Willem de Kooning (1904-1997)",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Woman3.jpg"
+      }
+    },
+    {
+      "slug": "interchange-de-kooning",
+      "title": "Interchange (de Kooning)",
+      "year": 1955,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5f/Photo_of_Interchanged_by_Willem_de_Kooning.jpg",
+      "imageWidth": 296,
+      "imageHeight": 335,
+      "story": "Interchange, also known as Interchanged, is a 1955 abstract expressionist oil painting on canvas by Dutch-American painter Willem de Kooning (1904–1997). Like Jackson Pollock, de Kooning was one of the early artists of the abstract expressionism movement, the first American modern art movement. The painting measures 200.7 by 175.3 centimetres and was completed in 1955. It marked the transition of the subjects of de Kooning's paintings from women to abstract urban landscapes. It reflects a transition in de Kooning's painting technique due to the influence of artist Franz Kline, who inspired de Kooning to paint with quickly made gestural marks as opposed to violent brush strokes. The painting features a fleshy pink mass at its center, representing a seated woman.",
+      "facts": [
+        "In September 2015, Geffen sold Interchange for $300 million to hedge fund manager and billionaire Kenneth C.",
+        "Griffin paid $500 million for two artworks, including $200 million for Jackson Pollock's Number 17A."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Interchange_(de_Kooning)",
+      "sitelinks": 7,
+      "widthCm": 175.3,
+      "heightCm": 200.7,
+      "pageviews": 89323,
+      "qid": "Q22951281",
+      "imageBytes": 49837,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Photo by Andrew Cho",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Photo_of_Interchanged_by_Willem_de_Kooning.jpg"
+      }
+    },
+    {
+      "slug": "woman-i",
+      "title": "Woman I",
+      "year": 1950,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Woman_I-Willem_de_Kooning.jpg",
+      "imageWidth": 276,
+      "imageHeight": 361,
+      "story": "Woman I is a 1950 abstract expressionist painting by American artist Willem de Kooning. The work is in the collection of the Museum of Modern Art, in New York.",
+      "facts": [
+        "Willem de Kooning painted Woman I over two years, from 1950 to 1952.",
+        "He executed numerous preliminary studies before beginning the painting, starting over several times."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_I",
+      "sitelinks": 2,
+      "widthCm": 147.3,
+      "heightCm": 192.7,
+      "pageviews": 12171,
+      "qid": "Q3569753",
+      "imageBytes": 113823,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Willem de Kooning / Museum of Modern Art",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Woman_I-Willem_de_Kooning.jpg"
+      }
+    },
+    {
+      "slug": "woman-vi",
+      "title": "Woman VI",
+      "year": 1953,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/48/Woman_VI_by_Willem_de_Kooning_1953.jpg",
+      "imageWidth": 279,
+      "imageHeight": 325,
+      "story": "Woman VI is a 1953 abstract work of art painted by Willem de Kooning and first displayed at the Sidney Janis Gallery in Manhattan. Since the 1955 Carnegie International Exhibition, Woman VI has been on view at the Carnegie Museum of Art as part of the Postwar Abstraction collection. The Woman paintings of the early 1950s are widely considered to be de Kooning’s most important works for their significance to postwar American cultural history and social events, such as the mid-century Feminist Movements. Many of the paintings are speculated to be abstracted portraits of Marilyn Monroe. Woman VI is notable within the series for its brighter palette of green and red paint employed in larger fields of color.",
+      "facts": [
+        "His exceptional talent was discovered by Jaap Gidding; he decided to enroll de Kooning as a night student at the Rotterdam Academy of Fine Arts and Techniques, where he remained for eight years.",
+        "The Dutch system of integrating fine and applied arts imbued in de Kooning a respect for tradition and craft that remained fundamental for his work."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_VI",
+      "sitelinks": 1,
+      "widthCm": 148.6,
+      "heightCm": 174,
+      "pageviews": 3973,
+      "qid": "Q24963130",
+      "imageBytes": 51357,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Willem de Kooning/Carnegie Museum of Art",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Woman_VI_by_Willem_de_Kooning_1953.jpg"
+      }
+    },
+    {
+      "slug": "woman-ochre",
+      "title": "Woman-Ochre",
+      "year": 1955,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/Woman-Ochre.jpg",
+      "imageWidth": 275,
+      "imageHeight": 361,
+      "story": "Woman-Ochre is a 1955 abstract expressionist oil painting by Dutch-American artist Willem de Kooning, part of his Woman series from that period. It was controversial in its day, like the other paintings in the series, for its explicit use of figures, which Jackson Pollock and other abstract expressionists considered a betrayal of the movement's ideal of pure, non-representational painting. Feminists also considered the works misogynistic, suggesting violent impulses toward the women depicted.",
+      "facts": [
+        "\" From outside the arts community, critic Emily Genauer attacked the works from a feminist perspective, calling them misogynistic depictions of women being tortured.",
+        "It appeared that the man had hidden the painting under his coat before leaving.",
+        "By 2015, when another 1955 de Kooning, Interchange, was sold for US$300 million, making it the most expensive painting ever at that time, the museum estimated the value of the still-missing work at US$160 million.",
+        "Roseman sent photos of the Alter's artwork and statues to a dozen museums and auction houses."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman-Ochre",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 20572,
+      "qid": "Q56238463",
+      "imageBytes": 25743,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Woman-Ochre.jpg"
+      }
+    },
+    {
+      "slug": "police-gazette-painting",
+      "title": "Police Gazette (painting)",
+      "year": 1955,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0f/Police_Gazette_by_Willem_de_Kooning_1955.jpg",
+      "imageWidth": 344,
+      "imageHeight": 290,
+      "story": "Police Gazette is a 1955 abstract painting by Willem de Kooning, which is currently in a private collection.",
+      "facts": [
+        "In 1973, the Swiss art dealer Ernst Beyeler paid US$180,000, setting a new record for the artist.",
+        "Police Gazette is a landscape painted on canvas using abstract elements, and colors such as yellow, green and red."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Police_Gazette_(painting)",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 5331,
+      "qid": "Q18389187",
+      "imageBytes": 31327,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Willem de Kooning",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Police_Gazette_by_Willem_de_Kooning_1955.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "mikalojus-konstantinas-ciurlionis",
+  "periodSlug": "symbolism",
+  "name": "Mikalojus Konstantinas Čiurlionis",
+  "wikiTitle": "Mikalojus Konstantinas Čiurlionis",
+  "qid": "Q297137",
+  "birthYear": 1875,
+  "deathYear": 1911,
+  "tagline": "Lithuanian painter, composer and writer (1875–1911)",
+  "bio": "Mikalojus Konstantinas Čiurlionis was a Lithuanian composer, painter, choirmaster, cultural figure, and writer in Polish.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mikalojus_Konstantinas_%C4%8Ciurlionis_photo_portrait.jpg",
+  "portraitWidth": 1135,
+  "portraitHeight": 1621,
+  "portraitCredit": {
+    "author": "S.Fleury",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Mikalojus_Konstantinas_%C4%8Ciurlionis_photo_portrait.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikalojus_Konstantinas_%C4%8Ciurlionis",
+  "paintings": [
+    {
+      "slug": "fairy-tale-of-the-kings",
+      "title": "Fairy Tale of the Kings",
+      "year": 1909,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Mikalojus_Konstantinas_Ciurlionis_-_FAIRY_TALE_%28FAIRY_TALE_OF_KINGS%29_-_1909.jpg",
+      "imageWidth": 2309,
+      "imageHeight": 2167,
+      "story": "Fairy Tale of the Kings is one of the most well-known paintings by Lithuanian painter and composer Mikalojus Konstantinas Čiurlionis. Sofija Kymantaitė-Čiurlionienė, Čiurlionis's wife, donated the painting to the M. K. Čiurlionis National Art Museum in 1922.",
+      "facts": [
+        "The painting shows two kings (or a queen and a king), one of whom is holding a shining glass globe in which there is a village, and the other holding a sword.",
+        "The left king is wearing blue garments while the right is wearing red garments."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fairy_Tale_of_the_Kings",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 2834,
+      "qid": "Q38521931",
+      "imageBytes": 1595216,
+      "imageCredit": {
+        "author": "Mikalojus Konstantinas Čiurlionis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Mikalojus_Konstantinas_Ciurlionis_-_FAIRY_TALE_(FAIRY_TALE_OF_KINGS)_-_1909.jpg"
+      }
+    },
+    {
+      "slug": "stellar-sonata",
+      "title": "Stellar Sonata",
+      "year": 1908,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Sonata_No._6_%28Sonata_of_the_Stars%29._Allegro.jpeg",
+      "imageWidth": 2689,
+      "imageHeight": 3134,
+      "story": "SONATA VI are two paintings, Stellar sonata. Allegro and Stellar sonata. Andante, of Mikalojus Konstantinas Čiurlionis from 1908.",
+      "facts": [
+        "His most famous musical compositions are probably the symphonic poems.",
+        "As a painter Čiurlionis was a symbolist rooted in Lithuanian mythology, and his paintings were built in part by musical form principles."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stellar_Sonata",
+      "sitelinks": 4,
+      "widthCm": 61.4,
+      "heightCm": 72.2,
+      "pageviews": 883,
+      "qid": "Q21771385",
+      "imageBytes": 3259062,
+      "imageCredit": {
+        "author": "Mikalojus Konstantinas Čiurlionis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Sonata_No._6_(Sonata_of_the_Stars)._Allegro.jpeg"
+      }
+    },
+    {
+      "slug": "ciurlionis-deluge-q29535015",
+      "title": "Čiurlionis Deluge",
+      "year": 1904,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/%C4%8Ciurlionis_Deluge.jpg",
+      "imageWidth": 665,
+      "imageHeight": 761,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 63,
+      "heightCm": 72,
+      "pageviews": null,
+      "qid": "Q29535015",
+      "imageBytes": 292902,
+      "imageCredit": {
+        "author": "Mikalojus Konstantinas Čiurlionis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%C4%8Ciurlionis_Deluge.jpg"
+      }
+    },
+    {
+      "slug": "allegro-q107491918",
+      "title": "Allegro",
+      "year": 1908,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Piramidziu_sonata.Allegro.jpg",
+      "imageWidth": 574,
+      "imageHeight": 766,
+      "story": "Painting Allegro (part one) in planned four-painting cycle Piramidžių sonata (Sonata of the Pyramids).",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q107491918",
+      "imageBytes": 70749,
+      "imageCredit": {
+        "author": "Mikalojus Konstantinas Čiurlionis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Piramidziu_sonata.Allegro.jpg"
+      }
+    },
+    {
+      "slug": "fantasy-the-demon-q107491951",
+      "title": "Fantasy (The Demon)",
+      "year": 1909,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mikalojus_Konstantinas_Ciurlionis_-_FANTASY_%28THE_DEMON%29_-_1909.jpg",
+      "imageWidth": 1600,
+      "imageHeight": 1257,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q107491951",
+      "imageBytes": 598792,
+      "imageCredit": {
+        "author": "Mikalojus Konstantinas Čiurlionis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Mikalojus_Konstantinas_Ciurlionis_-_FANTASY_(THE_DEMON)_-_1909.jpg"
+      }
+    },
+    {
+      "slug": "eternity-q125503918",
+      "title": "Eternity",
+      "year": 1907,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Amzinybe.jpg",
+      "imageWidth": 616,
+      "imageHeight": 710,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q125503918",
+      "imageBytes": 67190,
+      "imageCredit": {
+        "author": "Mikalojus Konstantinas Čiurlionis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Amzinybe.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

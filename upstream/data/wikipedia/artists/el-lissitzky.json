@@ -1,0 +1,162 @@
+{
+  "slug": "el-lissitzky",
+  "periodSlug": "expressionism",
+  "name": "El Lissitzky",
+  "wikiTitle": "El Lissitzky",
+  "qid": "Q152233",
+  "birthYear": 1890,
+  "deathYear": 1941,
+  "tagline": "Russian and Soviet artist (1890–1941)",
+  "bio": "El Lissitzky was a Russian and Soviet artist, active as a painter, illustrator, designer, printmaker, photographer, and architect. He was an important figure of the avant-garde, helping develop suprematism with his mentor, Kazimir Malevich, and designing numerous exhibition displays and propaganda works for the Soviet Union.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/El_lissitzky_self_portrait_1924.jpg",
+  "portraitWidth": 1422,
+  "portraitHeight": 1996,
+  "portraitCredit": {
+    "author": "El Lissitzky",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:El_lissitzky_self_portrait_1924.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/El_Lissitzky",
+  "paintings": [
+    {
+      "slug": "proun-g-b-a-q24046495",
+      "title": "Proun G.B.A.",
+      "year": 1923,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/El_lissitzky%2C_proun_G.B.A.%2C_1923_ca_%28cropped%29.jpg",
+      "imageWidth": 1462,
+      "imageHeight": 1360,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 84.9,
+      "heightCm": 82.9,
+      "pageviews": null,
+      "qid": "Q24046495",
+      "imageBytes": 1027030,
+      "imageCredit": {
+        "author": "El Lissitzky",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:El_lissitzky,_proun_G.B.A.,_1923_ca_(cropped).jpg"
+      }
+    },
+    {
+      "slug": "untitled-q19882735",
+      "title": "Untitled",
+      "year": 1919,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Untitled_%28El_Lissitzky%2C_ca._1919%E2%80%9320%29.jpg",
+      "imageWidth": 980,
+      "imageHeight": 1616,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q19882735",
+      "imageBytes": 508378,
+      "imageCredit": {
+        "author": "El Lissitzky",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Untitled_(El_Lissitzky,_ca._1919%E2%80%9320).jpg"
+      }
+    },
+    {
+      "slug": "proun-19d-q19883820",
+      "title": "Proun 19D",
+      "year": 1920,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/NY_Moma_lissitsky_19D.JPG",
+      "imageWidth": 1911,
+      "imageHeight": 1840,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 97.5,
+      "heightCm": 97.2,
+      "pageviews": null,
+      "qid": "Q19883820",
+      "imageBytes": 2142407,
+      "imageCredit": {
+        "author": "El Lissitzky",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:NY_Moma_lissitsky_19D.JPG"
+      }
+    },
+    {
+      "slug": "proun-4-b-q21711698",
+      "title": "Proun 4 B",
+      "year": 1919,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Proun_4_B_%281919_-_1920%29.jpg",
+      "imageWidth": 2141,
+      "imageHeight": 2750,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q21711698",
+      "imageBytes": 5366807,
+      "imageCredit": {
+        "author": "El Lissitzky",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Proun_4_B_(1919_-_1920).jpg"
+      }
+    },
+    {
+      "slug": "proun-99-q49211846",
+      "title": "Proun 99",
+      "year": 1923,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/El_Lissitzky_-_Proun_99_-_1941.548_-_Yale_University_Art_Gallery.jpg",
+      "imageWidth": 1455,
+      "imageHeight": 1920,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q49211846",
+      "imageBytes": 551558,
+      "imageCredit": {
+        "author": "El Lissitzky",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:El_Lissitzky_-_Proun_99_-_1941.548_-_Yale_University_Art_Gallery.jpg"
+      }
+    },
+    {
+      "slug": "proun-vrashchenia-by-el-lissitzky-ca-1919-q118233434",
+      "title": "'Proun Vrashchenia' by El Lissitzky, ca. 1919",
+      "year": 1919,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/%27Proun_Vrashchenia%27_by_El_Lissitzky%2C_ca._1919.jpg",
+      "imageWidth": 437,
+      "imageHeight": 640,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 34.5,
+      "heightCm": 49.7,
+      "pageviews": null,
+      "qid": "Q118233434",
+      "imageBytes": 39358,
+      "imageCredit": {
+        "author": "El Lissitzky",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:'Proun_Vrashchenia'_by_El_Lissitzky,_ca._1919.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

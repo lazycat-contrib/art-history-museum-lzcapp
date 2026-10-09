@@ -1,0 +1,26 @@
+# Dagster instance of the museum archive (DAGSTER_HOME = dagster/home). Everything else in this folder is
+# local state and git-ignored: the run history (SQLite), step logs.
+concurrency:
+  pools:
+    # Every pool has one slot: wikiart, wikimedia, wikidata (one crawler per site), warehouse (one build).
+    default_limit: 1
+    granularity: op
+  runs:
+    max_concurrent_runs: 6
+    tag_concurrency_limits:
+      # One run of each job at a time; a second one waits in the queue.
+      - key: museum/job
+        value:
+          applyLimitPerUniqueValue: true
+        limit: 1
+
+# A run that cannot start within 5 minutes is failed; pool slots of ended runs are freed. Runs left STARTED by a
+# stop mid-run are marked failed by run_dagster.ps1 start (sweep_dead_runs.py).
+run_monitoring:
+  enabled: true
+  start_timeout_seconds: 300
+  max_resume_run_attempts: 0
+  free_slots_after_run_end_seconds: 60
+
+telemetry:
+  enabled: false

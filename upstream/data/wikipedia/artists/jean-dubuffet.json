@@ -1,0 +1,141 @@
+{
+  "slug": "jean-dubuffet",
+  "periodSlug": "contemporary",
+  "name": "Jean Dubuffet",
+  "wikiTitle": "Jean Dubuffet",
+  "qid": "Q170076",
+  "birthYear": 1901,
+  "deathYear": 1985,
+  "tagline": "French painter and sculptor (1901–1985)",
+  "bio": "Jean Philippe Arthur Dubuffet was a French painter and sculptor of the École de Paris. His idealistic approach to aesthetics embraced so-called \"low art\" and eschewed traditional standards of beauty in favor of what he believed to be a more authentic and humanistic approach to image-making. He is perhaps best known for founding the art brut movement, and for the collection of works—Collection de l'art brut—that this movement spawned. Dubuffet enjoyed a prolific art career, both in France and in America, and was featured in many exhibitions throughout his lifetime.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Paolo_Monti_-_Servizio_fotografico_%28Italia%2C_1960%29_-_BEIC_6341424.jpg",
+  "portraitWidth": 1007,
+  "portraitHeight": 1280,
+  "portraitCredit": {
+    "author": "Paolo Monti",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Italia,_1960)_-_BEIC_6341424.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Dubuffet",
+  "paintings": [
+    {
+      "slug": "jazz-band-dirty-style-blues",
+      "title": "Jazz Band (Dirty Style Blues)",
+      "year": 1944,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Jazz Band (Dirty Style Blues) is an oil on canvas painting by French artist Jean Dubuffet, from 1944. It depicts the six members of a jazz orchestra. It is held at the Musée National d'Art Moderne, in Paris.",
+      "facts": [
+        "He felt particularly inspired by their improvisational style of music to create works that could be seen as their equivalent in painting, like he stated in a 1963 letter.",
+        "Dubuffett was at the time a great admirer of American jazz, in particular of Louis Armstrong."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jazz_Band_(Dirty_Style_Blues)",
+      "sitelinks": 3,
+      "widthCm": 130,
+      "heightCm": 97,
+      "pageviews": 492,
+      "qid": "Q60675985",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "hotel-du-cantal",
+      "title": "Hotel du Cantal",
+      "year": 1961,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Hotel du Cantal is an oil on canvas painting by the French painter Jean Dubuffet, created in 1961. The work, part of a major donation made by the artist in 1967, is held at the Musée des Arts Décoratifs, in Paris.",
+      "facts": [
+        "The canvas depicts a cityscape which represents automobile traffic in a shopping street where are particularly noticeable the signs of a store, an adjoining hotel and a pharmacy.",
+        "The style of the painting is deliberately primitive, even childlike."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hotel_du_Cantal",
+      "sitelinks": 2,
+      "widthCm": 116,
+      "heightCm": 89,
+      "pageviews": 236,
+      "qid": "Q120435142",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "the-cow-with-the-subtile-nose",
+      "title": "The Cow with the Subtile Nose",
+      "year": 1954,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "The Cow with the Subtile Nose is an oil and enamel painting on canvas by French painter Jean Dubuffet, created in 1954. It is held in the Museum of Modern Art, in New York.",
+      "facts": [
+        "The painting was acquired by the Museum of Modern Art in New York in 1956.",
+        "Starting in July 1954 Dubuffet often went to Durtol, a small village near Clermont-Ferrand, where his wife lived for health reasons."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Cow_with_the_Subtile_Nose",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1908,
+      "qid": "Q19887181",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "courre-merlan-whiting-chase",
+      "title": "Courre Merlan (Whiting Chase)",
+      "year": 1964,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e7/Courre_Merlan_%28Whiting_Chase%29%2C_Dubuffet.jpg",
+      "imageWidth": 290,
+      "imageHeight": 219,
+      "story": "Courre Merlan (Whiting Chase) is an oil painting by French artist Jean Dubuffet. It has been at the Indianapolis Museum of Art since 1992.",
+      "facts": [
+        "Dubuffet was initially inspired by ballpoint pen doodles he created while talking on the telephone.",
+        "It consists of a large free-form shape that nearly fills the canvas and is placed on a dark, textured background."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Courre_Merlan_(Whiting_Chase)",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 276,
+      "qid": "Q16952279",
+      "imageBytes": 39789,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Courre_Merlan_(Whiting_Chase),_Dubuffet.jpg"
+      }
+    },
+    {
+      "slug": "cows-and-groomers",
+      "title": "Cows and Groomers",
+      "year": 1943,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Jean_Dubuffet%2C_Vaches_et_soigneurs.jpeg",
+      "imageWidth": 360,
+      "imageHeight": 277,
+      "story": "Cows and Groomers is an oil painting on canvas by the French artist Jean Dubuffet, dated from August 1943. It is held in the collection of the Unterlinden Museum in Colmar, Alsace. The painting is one of the more than 120 works of French modern art, among which circa 20 works by Dubuffet, that were bequeathed to the museum by the collector, French journalist Jean-Paul Person (1927–2008), in 2008.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cows_and_Groomers",
+      "sitelinks": 1,
+      "widthCm": 64.5,
+      "heightCm": 49,
+      "pageviews": 1716,
+      "qid": "Q99898240",
+      "imageBytes": 101141,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Jean_Dubuffet,_Vaches_et_soigneurs.jpeg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

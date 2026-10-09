@@ -1,0 +1,47 @@
+{
+  "slug": "polychronis-lembesis",
+  "periodSlug": "realism",
+  "name": "Polychronis Lembesis",
+  "wikiTitle": "Polychronis Lembesis",
+  "qid": "Q1288115",
+  "birthYear": 1848,
+  "deathYear": 1913,
+  "tagline": "Greek painter (c. 1848–1913)",
+  "bio": "Polychronis Lembesis, was a Greek painter, a member of the Munich School of Greek artists.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lembesis_Polychronis_The_girl_with_the_Pigeons.jpg",
+  "portraitWidth": 513,
+  "portraitHeight": 776,
+  "portraitCredit": {
+    "author": "Polychronis Lembesis",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Lembesis_Polychronis_The_girl_with_the_Pigeons.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Polychronis_Lembesis",
+  "paintings": [
+    {
+      "slug": "nude-q109859515",
+      "title": "Nude",
+      "year": 1877,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Lembesis-Nude-Painting.jpg",
+      "imageWidth": 717,
+      "imageHeight": 538,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 116,
+      "heightCm": 87,
+      "pageviews": null,
+      "qid": "Q109859515",
+      "imageBytes": 141422,
+      "imageCredit": {
+        "author": "Polychronis Lembesis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Lembesis-Nude-Painting.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,1106 @@
+{
+  "slug": "norman-rockwell",
+  "periodSlug": "american-modernism",
+  "name": "Norman Rockwell",
+  "wikiTitle": "Norman Rockwell",
+  "qid": "Q271884",
+  "birthYear": 1894,
+  "deathYear": 1978,
+  "tagline": "American painter and illustrator (1894–1978)",
+  "bio": "Norman Percevel Rockwell was an American painter and illustrator. His works have a broad popular appeal in the United States for their reflection of the country's culture. Rockwell is most famous for the cover illustrations of everyday life he created for The Saturday Evening Post magazine over nearly five decades. Among the best-known of Rockwell's works are the Willie Gillis series, Rosie the Riveter, the Four Freedoms series, Saying Grace, and The Problem We All Live With. He is also noted for his 64-year relationship with the Boy Scouts of America (BSA), during which he produced covers for their publication Boys' Life, calendars, and other illustrations. These works include popular images that reflect the Scout Oath and Scout Law such as The Scoutmaster, A Scout Is Reverent, and A Guiding Hand.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Rockwell-Norman-LOC.jpg",
+  "portraitWidth": 1085,
+  "portraitHeight": 1457,
+  "portraitCredit": {
+    "author": "en:Underwood & Underwood",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Rockwell-Norman-LOC.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Norman_Rockwell",
+  "paintings": [
+    {
+      "slug": "freedom-of-speech-painting",
+      "title": "Freedom of Speech (painting)",
+      "year": 1943,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/%22Freedom_of_Speech%22_-_NARA_-_513536.jpg",
+      "imageWidth": 2378,
+      "imageHeight": 3000,
+      "story": "Freedom of Speech is the first of the Four Freedoms, a series of oil paintings by Norman Rockwell, inspired by United States President Franklin D. Roosevelt's 1941 State of the Union address, known as Four Freedoms. The painting was published in the February 20, 1943, issue of The Saturday Evening Post with a matching essay by Booth Tarkington. Rockwell felt that this and Freedom of Worship were the most successful of the set.",
+      "facts": [
+        "The works were inspired by United States President Franklin D.",
+        "A memory of this scene struck Rockwell as an excellent fit for illustrating \"freedom of speech\", and inspired him to use his Vermont neighbors as models for the entire Four Freedoms series."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Freedom_of_Speech_(painting)",
+      "sitelinks": 17,
+      "widthCm": 90,
+      "heightCm": 116.2,
+      "pageviews": 131734,
+      "qid": "Q713211",
+      "imageBytes": 843845,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%22Freedom_of_Speech%22_-_NARA_-_513536.jpg"
+      }
+    },
+    {
+      "slug": "the-problem-we-all-live-with",
+      "title": "The Problem We All Live With",
+      "year": 1965,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/The-problem-we-all-live-with-norman-rockwell.jpg",
+      "imageWidth": 396,
+      "imageHeight": 244,
+      "story": "The Problem We All Live With  is a 1964 painting by Norman Rockwell that is considered an iconic image of the civil rights movement in the United States. It depicts Ruby Bridges, a six-year-old African-American girl, on her way to William Frantz Elementary School, an all-white public school, on November 14, 1960, during the New Orleans school desegregation crisis. Because of threats of violence against her, she is escorted by four deputy U.S. marshals; the painting is framed so that the marshals' heads are cropped at the shoulders, making Bridges the only person fully visible. On the wall behind her are written the racial slur \"nigger\" and the letters \"KKK\"; a smashed and splattered tomato thrown against the wall is also visible. The white protesters are not visible, as the viewer is looking at the scene from their point of view. The painting is oil on canvas and measures 36 inches (91 cm) high by 58 inches (150 cm) wide.",
+      "facts": [
+        "While the subject of the painting was inspired by Ruby Bridges, Rockwell used a local girl, Lynda Gunn, as the model for his painting; her cousin, Anita Gunn, was also used.",
+        "The painting was originally published as a centerfold in the January 14, 1964, issue of Look."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Problem_We_All_Live_With",
+      "sitelinks": 16,
+      "widthCm": 150,
+      "heightCm": 91,
+      "pageviews": 282364,
+      "qid": "Q6592831",
+      "imageBytes": 26344,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The-problem-we-all-live-with-norman-rockwell.jpg"
+      }
+    },
+    {
+      "slug": "freedom-of-worship-painting",
+      "title": "Freedom of Worship (painting)",
+      "year": 1943,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/%22Freedom_of_Worship%22_-_NARA_-_513537.jpg",
+      "imageWidth": 2356,
+      "imageHeight": 3000,
+      "story": "Freedom of Worship or Freedom to Worship is the second of the Four Freedoms oil paintings produced by the American artist Norman Rockwell. The series was based on the goals known as the Four Freedoms enunciated by Franklin D. Roosevelt, president of the United States from 1933 to 1945, in his State of the Union Address delivered on January 6, 1941. Rockwell considered this painting and Freedom of Speech the most successful of the series. Freedom of Worship was published in the February 27, 1943, issue of The Saturday Evening Post alongside an essay by philosopher Will Durant.",
+      "facts": [
+        "Freedom of Worship is the second of a series of four oil paintings by Norman Rockwell entitled Four Freedoms.",
+        "Roosevelt's State of the Union Address delivered to the 77th United States Congress on January 6, 1941, known as Four Freedoms."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Freedom_of_Worship_(painting)",
+      "sitelinks": 15,
+      "widthCm": 90,
+      "heightCm": 116.8,
+      "pageviews": 46092,
+      "qid": "Q714794",
+      "imageBytes": 968176,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%22Freedom_of_Worship%22_-_NARA_-_513537.jpg"
+      }
+    },
+    {
+      "slug": "freedom-from-fear-painting",
+      "title": "Freedom from Fear (painting)",
+      "year": 1943,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/%22Freedom_from_Fear%22_-_NARA_-_513538.jpg",
+      "imageWidth": 2370,
+      "imageHeight": 3000,
+      "story": "Freedom from Fear is the last of the Four Freedoms oil paintings produced by the American artist Norman Rockwell. The series was based on the four goals known as the Four Freedoms, which were enunciated by President Franklin D. Roosevelt in his State of the Union Address on January 6, 1941. This work was published in the March 13, 1943, issue of The Saturday Evening Post alongside an essay by a prominent thinker of the day, Stephen Vincent Benét. The painting is generally described as depicting American children being tucked into bed by their parents while the Blitz rages across the Atlantic in the United Kingdom.",
+      "facts": [
+        "Overall, more than one million London houses were destroyed or damaged during the Blitz, and more than 40,000 civilians were killed, almost half of them in London.",
+        "Freedom from Fear is the last of a series of four oil paintings entitled Four Freedoms, painted by Norman Rockwell."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Freedom_from_Fear_(painting)",
+      "sitelinks": 15,
+      "widthCm": 90,
+      "heightCm": 116.2,
+      "pageviews": 39466,
+      "qid": "Q714804",
+      "imageBytes": 841581,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%22Freedom_from_Fear%22_-_NARA_-_513538.jpg"
+      }
+    },
+    {
+      "slug": "freedom-from-want",
+      "title": "Freedom from Want",
+      "year": 1943,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/%22Freedom_From_Want%22_-_NARA_-_513539.jpg",
+      "imageWidth": 2361,
+      "imageHeight": 3000,
+      "story": "Freedom from Want, also known as The Thanksgiving Picture or I'll Be Home for Christmas, is the third of the Four Freedoms, a series of four oil paintings by American artist Norman Rockwell. The paintings were inspired by the Four Freedoms, a set of four goals articulated by Franklin D. Roosevelt, the president of the United States, in his 1941 State of the Union address.",
+      "facts": [
+        "5 million sets of posters featuring the Four Freedoms for its war-bond drive in early 1943.",
+        "Freedom from Want is the third in a series of four oil paintings entitled Four Freedoms by Norman Rockwell."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Freedom_from_Want",
+      "sitelinks": 13,
+      "widthCm": 90,
+      "heightCm": 116.2,
+      "pageviews": 150416,
+      "qid": "Q713199",
+      "imageBytes": 959405,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%22Freedom_From_Want%22_-_NARA_-_513539.jpg"
+      }
+    },
+    {
+      "slug": "saying-grace-rockwell",
+      "title": "Saying Grace (Rockwell)",
+      "year": 1951,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1a/Saying_Grace%2C_Norman_Rockwell.jpg",
+      "imageWidth": 309,
+      "imageHeight": 323,
+      "story": "Saying Grace is a 1951 painting by American illustrator Norman Rockwell, painted for the cover of The Saturday Evening Post's November 24, 1951, Thanksgiving issue.",
+      "facts": [
+        "Saying Grace sold for $46 million (including a buyer's premium) at Sotheby's in December 2013, setting a new record price for Rockwell's art.",
+        "Rockwell's previous record had been set in 2006 by the $15 million sale of Breaking Home Ties.",
+        "Saying Grace had been expected to sell for between $15 million and $20 million."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saying_Grace_(Rockwell)",
+      "sitelinks": 7,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 44239,
+      "qid": "Q15410558",
+      "imageBytes": 58335,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Saying_Grace,_Norman_Rockwell.jpg"
+      }
+    },
+    {
+      "slug": "we-too-have-a-job-to-do",
+      "title": "We, Too, Have a Job to Do",
+      "year": 1944,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e5/We%2C_too%2C_have_a_Job_to_Do.jpg",
+      "imageWidth": 263,
+      "imageHeight": 378,
+      "story": "We, Too, Have a Job to Do is a painting by American illustrator Norman Rockwell that depicts a Boy Scout in full uniform standing in front of a waving American flag. It was originally created by Rockwell in 1942 for the 1944 Brown & Bigelow Boy Scout Calendar. The model, Bob Hamilton, won a contest to be in the painting and personally delivered a print to the Vice President of the United States at the time, Henry A. Wallace.",
+      "facts": [
+        "The painting was created to encourage Scouts to participate in the war effort during World War II.",
+        "The name of the painting, We, Too, Have a Job to Do, comes from a slogan that the Boy Scouts of America used in 1942 to rally scouts to support the troops by collecting metal and planting victory gardens."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/We%2C_Too%2C_Have_a_Job_to_Do",
+      "sitelinks": 6,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 15990,
+      "qid": "Q22001393",
+      "imageBytes": 19622,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:We,_too,_have_a_Job_to_Do.jpg"
+      }
+    },
+    {
+      "slug": "the-love-song-rockwell",
+      "title": "The Love Song (Rockwell)",
+      "year": 1926,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/The_Love_Song_Norman_Rockwell.jpg",
+      "imageWidth": 1090,
+      "imageHeight": 972,
+      "story": "The Love Song is an oil painting by American artist Norman Rockwell, located in the Indianapolis Museum of Art, which is in Indianapolis, Indiana, United States. It originally appeared in the Ladies Home Journal in December 1926. It depicts two elderly musicians, on flute and clarinet, playing a duet while a young girl takes a break from sweeping to listen. The painting's title appears on the sheet music from which the musicians play.",
+      "facts": [
+        "Rockwell was only thirty-two when he was commissioned to paint The Love Song, but he had already had a flourishing artistic career illustrating The Saturday Evening Post for ten years by that point.",
+        "The Love Song depicts one of Rockwell's common themes, the contrast of youth and age, through the wistful young girl and the elderly musicians."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Love_Song_(Rockwell)",
+      "sitelinks": 6,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 15661,
+      "qid": "Q7748960",
+      "imageBytes": 411190,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_Love_Song_Norman_Rockwell.jpg"
+      }
+    },
+    {
+      "slug": "marriage-license",
+      "title": "Marriage License",
+      "year": 1955,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5e/Marriage-License.jpg",
+      "imageWidth": 305,
+      "imageHeight": 326,
+      "story": "Marriage License is an oil painting by American illustrator Norman Rockwell created for the cover of the June 11, 1955, edition of The Saturday Evening Post. It depicts a young man and woman filling out a marriage license application at a government building in front of a bored-looking clerk. The man is dressed in a tan suit and has his arm around his partner, who is wearing a yellow dress and standing on tiptoe to sign her name. Although the room and its furnishings are dark, the couple are illuminated by the window beside them. The contrast between the couple and the clerk highlights two reoccurring themes in Rockwell's works: young love and ordinary life.",
+      "facts": [
+        "It is set in a dark city hall office filled with bookshelves.",
+        "The floor is strewn with used cigarettes and a brass spittoon."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marriage_License",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 22315,
+      "qid": "Q114855839",
+      "imageBytes": 88804,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Marriage-License.jpg"
+      }
+    },
+    {
+      "slug": "triple-self-portrait",
+      "title": "Triple Self-Portrait",
+      "year": 1960,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/40/Triple_Self-Portrait.jpg",
+      "imageWidth": 282,
+      "imageHeight": 354,
+      "story": "Triple Self-Portrait is an oil painting by American illustrator Norman Rockwell created for the cover of the February 13, 1960, edition of The Saturday Evening Post.",
+      "facts": [
+        "Set in a white void, it depicts a rear-view Rockwell sitting at an easel producing a self-portrait.",
+        "A gold-framed mirror topped with an eagle is set up to the left on a chair; Rockwell can be seen in its reflection as a thin and bespectacled man."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Triple_Self-Portrait",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 41492,
+      "qid": "Q16038737",
+      "imageBytes": 69553,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Triple_Self-Portrait.jpg"
+      }
+    },
+    {
+      "slug": "the-scoutmaster",
+      "title": "The Scoutmaster",
+      "year": 1956,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/02/The_Scoutmaster.jpg",
+      "imageWidth": 270,
+      "imageHeight": 368,
+      "story": "The Scoutmaster is a 1956 painting by American illustrator Norman Rockwell. It was originally created by Rockwell for the 1956 Brown & Bigelow Boy Scout Calendar. Since then, it has become one of the most collected images that Rockwell created for the Boy Scouts of America.",
+      "facts": [
+        "Rockwell set out to create a painting dedicated to the Scoutmasters of the United States.",
+        "In 1953, he visited the 4th National Scout jamboree at Irvine Ranch."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Scoutmaster",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 19181,
+      "qid": "Q17121129",
+      "imageBytes": 22355,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Scoutmaster.jpg"
+      }
+    },
+    {
+      "slug": "growth-of-a-leader",
+      "title": "Growth of a Leader",
+      "year": 1964,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a7/GrowthOfALeader.jpg",
+      "imageWidth": 212,
+      "imageHeight": 275,
+      "story": "Growth of a Leader is a 1964 painting by Norman Rockwell. It appeared as the 1966 Brown & Bigelow Boy Scout Calendar. Long-time Rockwell model James Edgerton and his son are depicted as a Scout moving through the stages of a man's Scouting career.",
+      "facts": [
+        "The Edgerton family lived next to Norman Rockwell for 10 years.",
+        "During that time, four generations of Edgertons posed for Rockwell."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Growth_of_a_Leader",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 14697,
+      "qid": "Q18758815",
+      "imageBytes": 25547,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:GrowthOfALeader.jpg"
+      }
+    },
+    {
+      "slug": "tough-call",
+      "title": "Tough Call",
+      "year": 1948,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Norman_Rockwell_-_Tough_Call.jpg",
+      "imageWidth": 279,
+      "imageHeight": 300,
+      "story": "Tough Call – also known as Game Called Because of Rain, Bottom of the Sixth, or The Three Umpires – is a 1948 painting by American artist Norman Rockwell, painted for the April 23, 1949, cover of The Saturday Evening Post magazine. The original painting is in the collection of the National Baseball Hall of Fame. It is considered the best known of Rockwell's baseball-themed works, and appears in at least ten Rockwell commentary books.",
+      "facts": [
+        "During the 1948 season, Rockwell visited Ebbets Field, home ballpark of the Dodgers, with a photographer.",
+        "The photographer took pictures of the umpires, some players, and the ballpark, which Rockwell used for reference in painting a Post cover image that he completed in California that winter."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tough_Call",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 15509,
+      "qid": "Q30035881",
+      "imageBytes": 79698,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Norman_Rockwell_-_Tough_Call.jpg"
+      }
+    },
+    {
+      "slug": "murder-in-mississippi-painting",
+      "title": "Murder in Mississippi (painting)",
+      "year": 1965,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Murder in Mississippi, as named by the artist, is a 1965 painting by Norman Rockwell which was commissioned for an article titled \"Southern Justice\" in the American magazine Look. The painting depicts the 1964 murders of civil rights activists James Chaney, Andrew Goodman and Michael Schwerner, and was intended to illustrate an article written on the murders, by civil rights attorney Charles Morgan Jr. The painting is oil on canvas 53 × 42 inches (134.5 × 106.5 cm), and also has a pencil on board study of the same title, both of which reside in the collections of the Norman Rockwell Museum.",
+      "facts": [
+        "Originally Murder in Mississippi was to fill two pages, with the victims on the left page and the murderers on the right page.",
+        "A preparatory study in black and white shows the complete horizontal picture with Price pointing a pistol, and several klansmen with sticks."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Murder_in_Mississippi_(painting)",
+      "sitelinks": 2,
+      "widthCm": 106.5,
+      "heightCm": 134.5,
+      "pageviews": 67203,
+      "qid": "Q97610161",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "the-dugout",
+      "title": "The Dugout",
+      "year": 1948,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Dugout_%28Bottom_of_the_Ninth%29_--_Norman_Rockwell%2C_1948.jpg",
+      "imageWidth": 281,
+      "imageHeight": 355,
+      "story": "The Dugout (Bottom of the Ninth) is a 1948 oil painting by American artist Norman Rockwell, painted to create the September 4, 1948, cover of The Saturday Evening Post magazine. The painting depicts dejected members of the Chicago Cubs baseball team during a game against the Boston Braves at Braves Field.",
+      "facts": [
+        "In December 2025, the early oil study painting was acquired by the Art Institute of Chicago as part of a gift by Bruce Rauner, an investor and former governor of Illinois.",
+        "A batboy stands just outside the visitor's dugout, in which are four members of the 1948 Chicago Cubs: pitcher Bob Rush, left, manager Charlie Grimm, catcher Rube Walker, and pitcher Johnny Schmitz."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Dugout",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 19279,
+      "qid": "Q130902449",
+      "imageBytes": 102146,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell Museum and/or Saturday Evening Post",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Dugout_(Bottom_of_the_Ninth)_--_Norman_Rockwell,_1948.jpg"
+      }
+    },
+    {
+      "slug": "the-runaway-painting",
+      "title": "The Runaway (painting)",
+      "year": 1958,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Runaway_by_Norman_Rockwell.jpg",
+      "imageWidth": 307,
+      "imageHeight": 325,
+      "story": "The Runaway is an oil on canvas painting by American artist Norman Rockwell. The painting depicts a young, nervous boy sitting inside a diner next to a police officer as an employee stands behind the counter. The boy is a runaway whose hobo stick lies on the floor behind him. An illustration of the painting appeared on the cover of The Saturday Evening Post in November 1958. It was one of over 300 illustrations by Rockwell that appeared in the magazine between 1916 and 1963. The man modeling as the police officer, Richard Clemens, was one of Rockwell's neighbors in Stockbridge, Massachusetts. The boy who modeled for the painting, Edward Locke, also appeared in another Rockwell work, Before the Shot.",
+      "facts": [
+        "\" Locke thought he was in trouble but soon discovered the reasoning behind Rockwell's visit.",
+        "Delaney described the painting as iconic, and State Police Association of Massachusetts president Rick Brown and Commissioned Officers Association president Dean Bennett also spoke fondly of The Runaway, noting its symbolism and popularity with police officers."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Runaway_(painting)",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 21604,
+      "qid": "Q141174768",
+      "imageBytes": 97082,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Runaway_by_Norman_Rockwell.jpg"
+      }
+    },
+    {
+      "slug": "children-dancing-at-a-party",
+      "title": "Children Dancing at a Party",
+      "year": 1918,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Norman_Rockwell_Pardon_Me.jpg",
+      "imageWidth": 3116,
+      "imageHeight": 3804,
+      "story": "Children Dancing at a Party, produced by Norman Rockwell, was used as the cover for the January 26, 1918 issue of The Saturday Evening Post. This painting has also been called Boy Stepping on Girl's Toe and Pardon Me. The original painting, oil on canvas measuring 23x19 inches, is in the collection of the National Museum of American Illustration.",
+      "facts": [
+        "The painting shows a humorous but embarrassing situation in which a boy has accidentally stepped on a girl's foot while dancing.",
+        "The boy looks to be trying to apologize, holding his hands, palms up, towards the girl."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Children_Dancing_at_a_Party",
+      "sitelinks": 7,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 20784,
+      "qid": "Q19879079",
+      "imageBytes": 2058060,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_Pardon_Me.jpg"
+      }
+    },
+    {
+      "slug": "working-on-the-statue-of-liberty",
+      "title": "Working on the Statue of Liberty",
+      "year": 1946,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/StatueOfLiberty-NormalRockwell.jpg",
+      "imageWidth": 282,
+      "imageHeight": 352,
+      "story": "Working on the Statue of Liberty, also known as Statue of Liberty, is a 1946 oil painting by American illustrator Norman Rockwell, showing workmen cleaning the torch held aloft by the Statue of Liberty in New York Harbor.",
+      "facts": [
+        "In his Farewell Speech to the nation, Joe Biden referenced the image as part of his memories of his time in the White House.",
+        "The painting was created for the cover of an edition of The Saturday Evening Post, published on 6 July 1946, from sketches that Rockwell made in March 1946."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Working_on_the_Statue_of_Liberty",
+      "sitelinks": 6,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 16910,
+      "qid": "Q29601059",
+      "imageBytes": 35153,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:StatueOfLiberty-NormalRockwell.jpg"
+      }
+    },
+    {
+      "slug": "little-girl-observing-lovers-on-a-train",
+      "title": "Little Girl Observing Lovers on a Train",
+      "year": 1944,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/56/Little_Girl_Observing_Lovers_on_a_Train.jpg",
+      "imageWidth": 301,
+      "imageHeight": 331,
+      "story": "Little Girl Observing Lovers on a Train, also known as Travel Experience or Voyeur, is a painting by American illustrator Norman Rockwell. It was originally created for the cover of The Saturday Evening Post on 12 August 1944.",
+      "facts": [
+        "Rockwell came up with the idea for the painting when traveling by train with servicemen and their families.",
+        "The models posed for the reference photos in an unused rail car on a siding of the Rutland Railway."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Little_Girl_Observing_Lovers_on_a_Train",
+      "sitelinks": 6,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 19440,
+      "qid": "Q96390518",
+      "imageBytes": 64087,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Little_Girl_Observing_Lovers_on_a_Train.jpg"
+      }
+    },
+    {
+      "slug": "walking-to-church",
+      "title": "Walking to Church",
+      "year": 1952,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Walking_to_Church%2C_Norman_Rockwell.jpg",
+      "imageWidth": 308,
+      "imageHeight": 324,
+      "story": "Walking to Church is a 1952 painting by the American painter Norman Rockwell, painted for the cover of The Saturday Evening Post's April 4, 1953, issue.",
+      "facts": [
+        "2 million (including a buyer's premium) at the auctioneers Sotheby's in New York in December 2013.",
+        "Two other Rockwell paintings that had been loaned to the Norman Rockwell Museum were sold alongside Walking to Church; Saying Grace and The Gossips."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Walking_to_Church",
+      "sitelinks": 5,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 13948,
+      "qid": "Q17032855",
+      "imageBytes": 69653,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Walking_to_Church,_Norman_Rockwell.jpg"
+      }
+    },
+    {
+      "slug": "breaking-home-ties",
+      "title": "Breaking Home Ties",
+      "year": 1954,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c0/BreakingHomeTies-NormanRockwell.jpg",
+      "imageWidth": 313,
+      "imageHeight": 319,
+      "story": "Breaking Home Ties is a painting by American illustrator Norman Rockwell, created for the September 25, 1954, cover of The Saturday Evening Post. The picture represents a father and son waiting for a train that will take the young man to the state university. The painting, considered by experts to be one of Rockwell's masterworks, is also one of the most widely reproduced, and was voted the second-most popular image in Post history.",
+      "facts": [
+        "In March 2006, two of his sons found a hidden area in Trachte's house, which contained several paintings, including Breaking Home Ties.",
+        "Further investigation found that Trachte had created copies of several paintings he owned, and hidden the originals, unknown to his family.",
+        "4 million, which at the time was a record sum paid for a Rockwell work."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Breaking_Home_Ties",
+      "sitelinks": 5,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 41295,
+      "qid": "Q4959552",
+      "imageBytes": 23951,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:BreakingHomeTies-NormanRockwell.jpg"
+      }
+    },
+    {
+      "slug": "russian-schoolroom",
+      "title": "Russian Schoolroom",
+      "year": 1967,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/40/RussianSchoolroom-NormanRockwell.jpg",
+      "imageWidth": 497,
+      "imageHeight": 200,
+      "story": "Russian Schoolroom (1967), also known as The Russian Classroom and Russian Schoolchildren, is an oil on canvas painting created by American illustrator Norman Rockwell (1894–1978) and commissioned by Look magazine. It depicts Soviet schoolchildren in a classroom with a bust of Soviet leader Vladimir Lenin.",
+      "facts": [
+        "The painting was stolen during an exhibit at a small art gallery in Clayton, Missouri, in June 1973.",
+        "In 1988, it turned up and was sold at an auction in New Orleans for about $70,000.",
+        "A member of his staff spotted the painting on an FBI web listing of stolen works of art and the authorities were immediately notified."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Russian_Schoolroom",
+      "sitelinks": 4,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 25828,
+      "qid": "Q4400682",
+      "imageBytes": 28483,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:RussianSchoolroom-NormanRockwell.jpg"
+      }
+    },
+    {
+      "slug": "the-rookie-painting",
+      "title": "The Rookie (painting)",
+      "year": 1957,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/Norman_Rockwell_-_The_Rookie.jpg",
+      "imageWidth": 273,
+      "imageHeight": 364,
+      "story": "The Rookie or The Rookie  is a 1957 painting by American artist Norman Rockwell, painted for the March 2, 1957, cover of The Saturday Evening Post magazine.",
+      "facts": [
+        "The painting was sold at auction in May 2014 by Christie's for $22,565,000, including the buyer's premium.",
+        "Rockwell wanted to create a spring training-themed cover for The Saturday Evening Post, and in August 1956 three Red Sox players (Frank Sullivan, Jackie Jensen, and Sammy White) drove to his studio in Stockbridge, Massachusetts, to pose for reference photographs."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Rookie_(painting)",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 15629,
+      "qid": "Q28151286",
+      "imageBytes": 26740,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Norman_Rockwell_-_The_Rookie.jpg"
+      }
+    },
+    {
+      "slug": "at-the-optometrist",
+      "title": "At the Optometrist",
+      "year": 1955,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/bf/At_the_Optometrist.jpg",
+      "imageWidth": 300,
+      "imageHeight": 329,
+      "story": "At the Optometrist, also known as The Oculist or Eye Doctor, is an oil on canvas painting by American artist Norman Rockwell. It was painted in 1955 and illustrated on the front cover of The Saturday Evening Post on May 19, 1956. It was one of over 300 illustrations for the Post featuring Rockwell's work from 1916 to 1963. The painting depicts a frustrated young boy at an optometrist's office being fitted for glasses by a grinning doctor. The painting is in the collection of the Washington County Museum of Fine Arts (WCMFA) in Hagerstown, Maryland, U.S.",
+      "facts": [
+        "During the WCMFA's 90th anniversary in 2021, the painting was restored, including cleaning, varnishing, glazing, and filling in missing pieces of paint.",
+        "The boy is sitting in a chair while holding a baseball glove with one hand."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/At_the_Optometrist",
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 11176,
+      "qid": "Q140478394",
+      "imageBytes": 38447,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:At_the_Optometrist.jpg"
+      }
+    },
+    {
+      "slug": "boy-with-baby-carriage",
+      "title": "Boy with Baby Carriage",
+      "year": 1916,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Saturday_Evening_Post_1916-05-20.jpg",
+      "imageWidth": 500,
+      "imageHeight": 684,
+      "story": "Boy with Baby Carriage, also known as Mother's Day Off, is an oil on canvas painting by American artist Norman Rockwell. It depicts a boy pushing his younger sibling in a stroller as two of his friends mock him. The painting was illustrated on the cover of The Saturday Evening Post in 1916, the first of over 300 cover illustrations by Rockwell for the magazine. It combines recurring themes Rockwell used in his works for the Post: children, humor, and Americana. The themes of coming of age and perceived feminization are also explored in the painting. Boy with Baby Carriage was included in a list of the 25 most influential magazine covers by The New York Times. To mark the 100th anniversary of the painting's appearance in the Post, the Norman Rockwell Museum hosted a series of events and exhibitions.",
+      "facts": [
+        "This included a sculpture exhibition called \"Build a Better Baby Carriage\" which included eight works inspired by the painting.",
+        "The boy pushing the wicker stroller is wearing a suit, tie, and bowler hat attached to his lapel, and a baby bottle is tucked into his suit pocket."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boy_with_Baby_Carriage",
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 11229,
+      "qid": "Q140679909",
+      "imageBytes": 197618,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Saturday_Evening_Post_1916-05-20.jpg"
+      }
+    },
+    {
+      "slug": "so-you-want-to-see-the-president",
+      "title": "So You Want to See the President!",
+      "year": 1943,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "So You Want to See the President! is an artwork by American illustrator and painter Norman Rockwell. He sketched and painted the four-panel set in 1943 as a gift for Stephen Early, the White House Press Secretary for President Franklin D. Roosevelt. The artwork depicts visitors in the West Wing of the White House during World War II waiting to see the president, including members of the press, military personnel, and a Miss America winner, in addition to Secret Service agents. There are also sketches of White House staff members, press photographers, and Roosevelt. Rockwell's original sketches were destroyed in a fire, and he was allowed to return and redo them over a four-day period. The illustrations appeared in The Saturday Evening Post in November 1943. Early hung the originals in his office and later gifted them to his daughter, Helen.",
+      "facts": [
+        "Part of Elam's evidence that the artwork had never been laundered or hidden was the fact it had been lent to an art show in 1980, which included promotional literature discussing Helen's ownership.",
+        "25 million, the highest amount the association has paid for an artwork."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/So_You_Want_to_See_the_President!",
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 14599,
+      "qid": "Q140774456",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "the-young-lady-with-the-shiner",
+      "title": "The Young Lady with the Shiner",
+      "year": 1953,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/The_Young_Lady_with_the_Shiner.jpg",
+      "imageWidth": 300,
+      "imageHeight": 323,
+      "story": "The Young Lady with the Shiner, also known as Triumph in Defeat and Outside the Principal's Office, is an oil on canvas painting by American artist Norman Rockwell that was illustrated on the cover of The Saturday Evening Post in 1953. It depicts a young girl with a black eye sitting outside a principal's office after being involved in a fight. She is grinning, apparently fully aware of the possible consequences of her actions, yet happy with the outcome. The girl used as a model for the painting, Mary Whalen, appeared in three other works by Rockwell, including two additional Post cover illustrations, A Day in the Life of a Girl and Girl at the Mirror.",
+      "facts": [
+        "His talent for depicting aspects of American life helped increase the magazine's subscription base to almost 7 million.",
+        "The girl has red braids in her hair and is wearing a plaid skirt."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Young_Lady_with_the_Shiner",
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 19041,
+      "qid": "Q140700946",
+      "imageBytes": 51416,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Young_Lady_with_the_Shiner.jpg"
+      }
+    },
+    {
+      "slug": "boy-with-baby-carriage-q24950849",
+      "title": "Boy with Baby Carriage",
+      "year": 1916,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Norman_Rockwell_-_Boy_with_Baby_Carriage_-_Google_Art_Project.jpg",
+      "imageWidth": 2376,
+      "imageHeight": 2584,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 3,
+      "widthCm": 18.6,
+      "heightCm": 20.8,
+      "pageviews": null,
+      "qid": "Q24950849",
+      "imageBytes": 1556330,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_-_Boy_with_Baby_Carriage_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "no-swimming-q28810105",
+      "title": "No Swimming",
+      "year": 1921,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/1921-6-4_No_Swimming_-_Norman_Rockwell.jpg",
+      "imageWidth": 1577,
+      "imageHeight": 2052,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 2,
+      "widthCm": 55.9,
+      "heightCm": 63.5,
+      "pageviews": null,
+      "qid": "Q28810105",
+      "imageBytes": 1149772,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:1921-6-4_No_Swimming_-_Norman_Rockwell.jpg"
+      }
+    },
+    {
+      "slug": "cousin-reginald-spells-peloponnesus-spelling-bee-q28810100",
+      "title": "Cousin Reginald Spells Peloponnesus (Spelling Bee)",
+      "year": 1918,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Norman_Rockwell_-_Cousin_Reginald_Spells_Peloponnesus_%28Spelling_Bee%29_-_Google_Art_Project.jpg",
+      "imageWidth": 3829,
+      "imageHeight": 3845,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 76.2,
+      "heightCm": 76.2,
+      "pageviews": null,
+      "qid": "Q28810100",
+      "imageBytes": 2853928,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_-_Cousin_Reginald_Spells_Peloponnesus_(Spelling_Bee)_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "artists-costume-ball-q28810098",
+      "title": "Artists Costume Ball",
+      "year": 1921,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Norman_Rockwell_-_Artists_Costume_Ball_-_Google_Art_Project.jpg",
+      "imageWidth": 1309,
+      "imageHeight": 1825,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 53.3,
+      "heightCm": 73.7,
+      "pageviews": null,
+      "qid": "Q28810098",
+      "imageBytes": 748084,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_-_Artists_Costume_Ball_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "catch-the-q28810099",
+      "title": "Catch, The",
+      "year": 1919,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Norman_Rockwell_-_Catch%2C_The_-_Google_Art_Project.jpg",
+      "imageWidth": 2990,
+      "imageHeight": 3022,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 73.7,
+      "heightCm": 73.7,
+      "pageviews": null,
+      "qid": "Q28810099",
+      "imageBytes": 2062733,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_-_Catch,_The_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "daniel-boone-pioneer-scout-q28810101",
+      "title": "Daniel Boone, Pioneer Scout",
+      "year": 1912,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Norman_Rockwell_-_Daniel_Boone%2C_Pioneer_Scout_-_Google_Art_Project.jpg",
+      "imageWidth": 2506,
+      "imageHeight": 4001,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 30.5,
+      "heightCm": 50.8,
+      "pageviews": null,
+      "qid": "Q28810101",
+      "imageBytes": 2395384,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_-_Daniel_Boone,_Pioneer_Scout_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "fishing-trip-they-ll-be-coming-back-next-week-q28810102",
+      "title": "Fishing Trip, They'll Be Coming Back Next Week",
+      "year": 1919,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Norman_Rockwell_-_Fishing_Trip%2C_They%27ll_Be_Coming_Back_Next_Week_-_Google_Art_Project.jpg",
+      "imageWidth": 3008,
+      "imageHeight": 3007,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 73.7,
+      "heightCm": 73.7,
+      "pageviews": null,
+      "qid": "Q28810102",
+      "imageBytes": 1651237,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_-_Fishing_Trip,_They'll_Be_Coming_Back_Next_Week_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "girl-in-snow-with-dog-q28810103",
+      "title": "Girl in Snow With Dog",
+      "year": 1916,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Norman_Rockwell_-_Girl_in_Snow_With_Dog_-_Google_Art_Project.jpg",
+      "imageWidth": 2684,
+      "imageHeight": 3542,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 15.2,
+      "heightCm": 22.9,
+      "pageviews": null,
+      "qid": "Q28810103",
+      "imageBytes": 1768543,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_-_Girl_in_Snow_With_Dog_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "hey-fellers-come-on-in-q28810104",
+      "title": "Hey Fellers, Come On In!",
+      "year": 1920,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Norman_Rockwell_-_Hey_Fellers%2C_Come_On_In%21_-_Google_Art_Project.jpg",
+      "imageWidth": 3163,
+      "imageHeight": 3713,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 48.3,
+      "heightCm": 50.8,
+      "pageviews": null,
+      "qid": "Q28810104",
+      "imageBytes": 2918836,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_-_Hey_Fellers,_Come_On_In!_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "scouting-with-daniel-boone-q28810106",
+      "title": "Scouting With Daniel Boone",
+      "year": 1914,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Norman_Rockwell_-_Scouting_With_Daniel_Boone_-_Google_Art_Project.jpg",
+      "imageWidth": 3883,
+      "imageHeight": 2364,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 71.1,
+      "heightCm": 43.2,
+      "pageviews": null,
+      "qid": "Q28810106",
+      "imageBytes": 2237036,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_-_Scouting_With_Daniel_Boone_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "slim-finnegan-q28810107",
+      "title": "Slim Finnegan",
+      "year": 1916,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Norman_Rockwell_-_Slim_Finnegan_-_Google_Art_Project.jpg",
+      "imageWidth": 3215,
+      "imageHeight": 4001,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 55.9,
+      "heightCm": 61,
+      "pageviews": null,
+      "qid": "Q28810107",
+      "imageBytes": 3307573,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_-_Slim_Finnegan_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "the-magic-foot-ball-i-thought-you-were-wrong-he-said-in-triumph-you-said-it-was-nine-stupid-q28810108",
+      "title": "The Magic Foot-ball, 'I thought you were wrong,' he said in triumph. 'You said it was nine! Stupid!'",
+      "year": 1914,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Norman_Rockwell_-_The_Magic_Foot-ball%2C_%27I_thought_you_were_wrong%2C%27_he_said_in_triumph._%27You_said_it_was_nine%21_Stupid%21%27_-_Google_Art_Project.jpg",
+      "imageWidth": 3749,
+      "imageHeight": 2459,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 73.7,
+      "heightCm": 48.3,
+      "pageviews": null,
+      "qid": "Q28810108",
+      "imageBytes": 1862609,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_-_The_Magic_Foot-ball,_'I_thought_you_were_wrong,'_he_said_in_triumph._'You_said_it_was_nine!_Stupid!'_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "the-magic-foot-ball-tommy-appeared-at-an-upstairs-window-boy-with-mumps-q28810109",
+      "title": "The Magic Foot-ball, 'Tommy appeared at an upstairs window.' (Boy with Mumps)",
+      "year": 1914,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Norman_Rockwell_-_The_Magic_Foot-ball%2C_%27Tommy_appeared_at_an_upstairs_window.%27_%28Boy_with_Mumps%29_-_Google_Art_Project.jpg",
+      "imageWidth": 1906,
+      "imageHeight": 3907,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 35.6,
+      "heightCm": 73.7,
+      "pageviews": null,
+      "qid": "Q28810109",
+      "imageBytes": 2136407,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_-_The_Magic_Foot-ball,_'Tommy_appeared_at_an_upstairs_window.'_(Boy_with_Mumps)_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "u-s-army-teaches-a-trade-g-i-telegrapher-q28810110",
+      "title": "U.S. Army Teaches a Trade (G.I. Telegrapher)",
+      "year": 1919,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Norman_Rockwell_-_U.S._Army_Teaches_a_Trade_%28G.I._Telegrapher%29_-_Google_Art_Project.jpg",
+      "imageWidth": 3816,
+      "imageHeight": 2529,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 73.7,
+      "heightCm": 48.3,
+      "pageviews": null,
+      "qid": "Q28810110",
+      "imageBytes": 2047126,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_-_U.S._Army_Teaches_a_Trade_(G.I._Telegrapher)_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "vacation-s-over-girl-returning-from-summer-trip-q28810111",
+      "title": "Vacation's Over (Girl Returning from Summer Trip )",
+      "year": 1921,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Norman_Rockwell_-_Vacation%27s_Over_%28Girl_Returning_from_Summer_Trip_%29_-_Google_Art_Project.jpg",
+      "imageWidth": 3325,
+      "imageHeight": 4001,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 63.5,
+      "heightCm": 76.2,
+      "pageviews": null,
+      "qid": "Q28810111",
+      "imageBytes": 2501071,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Norman Rockwell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Norman_Rockwell_-_Vacation's_Over_(Girl_Returning_from_Summer_Trip_)_-_Google_Art_Project.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

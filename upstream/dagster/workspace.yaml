@@ -1,0 +1,5 @@
+load_from:
+  - python_module:
+      module_name: museum_dagster
+      working_directory: .
+      location_name: museum_archive

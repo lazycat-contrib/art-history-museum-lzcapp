@@ -1,0 +1,65 @@
+{
+  "slug": "vasileios-hatzis",
+  "periodSlug": "realism",
+  "name": "Vasileios Hatzis",
+  "wikiTitle": "Vasileios Hatzis",
+  "qid": "Q3565540",
+  "birthYear": 1870,
+  "deathYear": 1915,
+  "tagline": "Greek painter",
+  "bio": "Vasileios Hatzis or Vassileios Chatzis was a Greek painter best known for his seascapes.",
+  "portraitUrl": null,
+  "portraitWidth": null,
+  "portraitHeight": null,
+  "portraitCredit": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vasileios_Hatzis",
+  "paintings": [
+    {
+      "slug": "landing-of-greek-troops-in-kavala-q58153255",
+      "title": "Landing of Greek troops in Kavala",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Vasileios_Hatzis_-_Landing_of_Greek_troops_at_Kavala.jpg",
+      "imageWidth": 1024,
+      "imageHeight": 593,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q58153255",
+      "imageBytes": 200209,
+      "imageCredit": {
+        "author": "Vasileios Hatzis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Vasileios_Hatzis_-_Landing_of_Greek_troops_at_Kavala.jpg"
+      }
+    },
+    {
+      "slug": "fishing-boat-with-fishermen-q109828967",
+      "title": "Fishing-Boat with Fishermen.",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/%22Fishing-Boat_with_Fishermen%22_-_Vasileios_Chatzis.jpg",
+      "imageWidth": 2514,
+      "imageHeight": 1734,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q109828967",
+      "imageBytes": 677541,
+      "imageCredit": {
+        "author": "Vasileios Chatzis (1870-1915)",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:%22Fishing-Boat_with_Fishermen%22_-_Vasileios_Chatzis.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

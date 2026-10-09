@@ -1,0 +1,47 @@
+{
+  "slug": "emmanuel-zairis",
+  "periodSlug": "academic-art",
+  "name": "Emmanuel Zairis",
+  "wikiTitle": "Emmanuel Zairis",
+  "qid": "Q18019560",
+  "birthYear": 1876,
+  "deathYear": 1948,
+  "tagline": "Greek painter",
+  "bio": "Emmanuel Zairis was a Greek painter.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/ZAIRIS-2.jpg",
+  "portraitWidth": 675,
+  "portraitHeight": 768,
+  "portraitCredit": {
+    "author": "Emmanouil Zairis",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:ZAIRIS-2.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emmanuel_Zairis",
+  "paintings": [
+    {
+      "slug": "girl-in-a-cabbage-field-q133574775",
+      "title": "Girl in a cabbage field",
+      "year": 1918,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/1918_Zairis_Girl_in_a_cabbage_field_National_Gallery_-_Corfu_Annex_anagoria.jpg",
+      "imageWidth": 14000,
+      "imageHeight": 10120,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q133574775",
+      "imageBytes": 55433504,
+      "imageCredit": {
+        "author": "Emmanouil Zairis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:1918_Zairis_Girl_in_a_cabbage_field_National_Gallery_-_Corfu_Annex_anagoria.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

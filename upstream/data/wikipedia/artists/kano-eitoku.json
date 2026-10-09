@@ -1,0 +1,142 @@
+{
+  "slug": "kano-eitoku",
+  "periodSlug": "japanese-painting",
+  "name": "Kanō Eitoku",
+  "wikiTitle": "Kanō Eitoku",
+  "qid": "Q536696",
+  "birthYear": 1543,
+  "deathYear": 1590,
+  "tagline": "Japanese painter (1543–1590)",
+  "bio": "Kanō Eitoku  was a Japanese painter who lived during the Azuchi–Momoyama period of Japanese history and one of the most prominent patriarchs of the Kanō school of Japanese painting.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/%E7%8B%A9%E9%87%8E%E6%B0%B8%E5%BE%B3%E3%80%8A%E6%AA%9C%E5%9B%B3%E5%B1%8F%E9%A2%A8%E3%80%8B1590%E5%B9%B4%E3%80%8116%E4%B8%96%E7%B4%80%E3%80%81%E6%A1%83%E5%B1%B1%E6%99%82%E4%BB%A3%E3%80%81%E6%9D%B1%E4%BA%AC%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8.jpg",
+  "portraitWidth": 15450,
+  "portraitHeight": 5698,
+  "portraitCredit": {
+    "author": "Kanō Eitoku",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:%E7%8B%A9%E9%87%8E%E6%B0%B8%E5%BE%B3%E3%80%8A%E6%AA%9C%E5%9B%B3%E5%B1%8F%E9%A2%A8%E3%80%8B1590%E5%B9%B4%E3%80%8116%E4%B8%96%E7%B4%80%E3%80%81%E6%A1%83%E5%B1%B1%E6%99%82%E4%BB%A3%E3%80%81%E6%9D%B1%E4%BA%AC%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kan%C5%8D_Eitoku",
+  "paintings": [
+    {
+      "slug": "cypress-trees",
+      "title": "Cypress Trees",
+      "year": 1590,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Kano_Eitoku_-_Cypress_Trees.jpg",
+      "imageWidth": 20880,
+      "imageHeight": 7822,
+      "story": "Cypress Trees  is a Kanō-school byōbu or folding screen attributed to the Japanese painter Kanō Eitoku (1543–1590), one of the most prominent patriarchs of the Kanō school of Japanese painting. The painting dates to the Azuchi–Momoyama period (1573–1615). Now in Tokyo National Museum, it has been designated a National Treasure.",
+      "facts": [
+        "Commonly attributed to Kanō Eitoku (1543–1590), there is another theory based on a reference to a commission in The Diary of Prince Toshihito (智仁観王日記) that the painting was instead made by Eitoku's younger brother Kanō Sōshū (狩野宗秀).",
+        "After the Meiji Restoration the paintings passed from the Katsura-no-miya to the Imperial Household and thence to the nation."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cypress_Trees",
+      "sitelinks": 6,
+      "widthCm": 46.1,
+      "heightCm": 17,
+      "pageviews": 2899,
+      "qid": "Q20982926",
+      "imageBytes": 89764883,
+      "imageCredit": {
+        "author": "Attributed to Kanō Eitoku",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Kano_Eitoku_-_Cypress_Trees.jpg"
+      }
+    },
+    {
+      "slug": "rakuchu-rakugai-zu-uesugi-q107044831",
+      "title": "Rakuchū rakugai zu (Uesugi)",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kan%C5%8D_Eitoku_-_Rakuch%C5%AB_rakugai_zu_%28Uesugi%29_-_right_screen.jpg",
+      "imageWidth": 3533,
+      "imageHeight": 1610,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 2,
+      "widthCm": 364.2,
+      "heightCm": 160.4,
+      "pageviews": null,
+      "qid": "Q107044831",
+      "imageBytes": 4809292,
+      "imageCredit": {
+        "author": null,
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Kan%C5%8D_Eitoku_-_Rakuch%C5%AB_rakugai_zu_(Uesugi)_-_right_screen.jpg"
+      }
+    },
+    {
+      "slug": "juko-in-main-hall-wall-panel-paintings-q107046889",
+      "title": "Jukō-in Main Hall Wall Panel Paintings",
+      "year": 1566,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Birds_and_flowers_of_the_four_seasons.jpg",
+      "imageWidth": 1962,
+      "imageHeight": 622,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q107046889",
+      "imageBytes": 912892,
+      "imageCredit": {
+        "author": "Kanō Eitoku",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Birds_and_flowers_of_the_four_seasons.jpg"
+      }
+    },
+    {
+      "slug": "chinese-lions-q81818937",
+      "title": "Chinese Lions",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kano_Eitoku_002.jpg",
+      "imageWidth": 3286,
+      "imageHeight": 1626,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q81818937",
+      "imageBytes": 894519,
+      "imageCredit": {
+        "author": "Kanō Eitoku",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Kano_Eitoku_002.jpg"
+      }
+    },
+    {
+      "slug": "women-at-chinese-court-q78849429",
+      "title": "Women at Chinese Court",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Kano_Eitoku_-_Women_at_Chinese_Court_-_29.100.495g%2C_h_-_Metropolitan_Museum_of_Art.jpg",
+      "imageWidth": 1202,
+      "imageHeight": 1577,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q78849429",
+      "imageBytes": 952995,
+      "imageCredit": {
+        "author": "Kanō Eitoku",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Kano_Eitoku_-_Women_at_Chinese_Court_-_29.100.495g,_h_-_Metropolitan_Museum_of_Art.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,587 @@
+source,source_group,source_key,source_name,term_id
+museum,period,abstract-art,Abstract Art,period:abstract-art
+museum,period,abstract-expressionism,Abstract Expressionism,period:abstract-expressionism
+museum,period,academic-art,Academic Art,period:academic-art
+museum,period,american-modernism,American Modernism,period:american-modernism
+museum,period,baroque,Baroque,period:baroque
+museum,period,chinese-painting,Chinese Painting,period:chinese-painting
+museum,period,contemporary,Contemporary,period:contemporary
+museum,period,cretan-school,Cretan School,period:cretan-school
+museum,period,cubism,Cubism,period:cubism
+museum,period,cusco-school,Colonial Latin American Painting,period:cusco-school
+museum,period,dutch-golden-age,Dutch Golden Age,period:dutch-golden-age
+museum,period,early-renaissance,Early Renaissance,period:early-renaissance
+museum,period,expressionism,Expressionism,period:expressionism
+museum,period,fauvism,Fauvism,period:fauvism
+museum,period,group-of-seven,Group of Seven,period:group-of-seven
+museum,period,high-renaissance,High Renaissance,period:high-renaissance
+museum,period,hudson-river-school,Hudson River School,period:hudson-river-school
+museum,period,impressionism,Impressionism,period:impressionism
+museum,period,indian-painting,Indian Painting,period:indian-painting
+museum,period,japanese-painting,Japanese Painting,period:japanese-painting
+museum,period,mannerism,Mannerism,period:mannerism
+museum,period,medieval-gothic,Medieval & Gothic,period:medieval-gothic
+museum,period,mexican-muralism,Mexican Muralism,period:mexican-muralism
+museum,period,neoclassicism,Neoclassicism,period:neoclassicism
+museum,period,northern-renaissance,Northern Renaissance,period:northern-renaissance
+museum,period,persian-miniature,Persian Miniature,period:persian-miniature
+museum,period,pop-art,Pop Art,period:pop-art
+museum,period,post-impressionism,Post-Impressionism,period:post-impressionism
+museum,period,pre-raphaelites,Pre-Raphaelites,period:pre-raphaelites
+museum,period,realism,Realism,period:realism
+museum,period,rococo,Rococo,period:rococo
+museum,period,romanticism,Romanticism,period:romanticism
+museum,period,surrealism,Surrealism,period:surrealism
+museum,period,symbolism,Symbolism & Art Nouveau,period:symbolism
+museum,period,ukiyo-e,Ukiyo-e,period:ukiyo-e
+wikiart,genre,v1-3-abstract,abstract,genre:abstract
+wikiart,genre,v1-499,allegorical painting,genre:allegorical-painting
+wikiart,genre,v1-523,animal painting,genre:animal-painting
+wikiart,genre,v1-501,battle painting,genre:battle-painting
+wikiart,genre,v1-16529,bijinga,genre:bijinga
+wikiart,genre,v1-525,bird-and-flower painting,genre:bird-and-flower-painting
+wikiart,genre,v1-511,capriccio,genre:capriccio
+wikiart,genre,v1-2663,caricature,genre:caricature
+wikiart,genre,v1-509,cityscape,genre:cityscape
+wikiart,genre,v1-508,cloudscape,genre:cloudscape
+wikiart,genre,v1-516,design,genre:design
+wikiart,genre,v1-527,figurative,genre:figurative
+wikiart,genre,v1-524,flower painting,genre:flower-painting
+wikiart,genre,v1-502,genre painting,genre:genre-painting
+wikiart,genre,v1-493,history painting,genre:history-painting
+wikiart,genre,v1-3-icon,icon,genre:icon
+wikiart,genre,v1-497,illustration,genre:illustration
+wikiart,genre,v1-13867,interior,genre:interior
+wikiart,genre,v1-504,landscape,genre:landscape
+wikiart,genre,v1-496,literary painting,genre:literary-painting
+wikiart,genre,v1-507,marina,genre:marina
+wikiart,genre,v1-498,miniature,genre:miniature
+wikiart,genre,v1-3-mural,mural,genre:mural
+wikiart,genre,v1-495,mythological painting,genre:mythological-painting
+wikiart,genre,v1-3-nude-painting-nu,nude painting (nu),genre:nude
+wikiart,genre,v1-505,panorama,genre:panorama
+wikiart,genre,v1-11205,pastorale,genre:pastorale
+wikiart,genre,v1-519,portrait,genre:portrait
+wikiart,genre,v1-518,poster,genre:poster
+wikiart,genre,v1-494,religious painting,genre:religious-painting
+wikiart,genre,v1-520,self-portrait,genre:self-portrait
+wikiart,genre,v1-506,shan shui,genre:shan-shui
+wikiart,genre,v1-1192,sketch and study,genre:sketch-and-study
+wikiart,genre,v1-512,still life,genre:still-life
+wikiart,genre,v1-500,symbolic painting,genre:symbolic-painting
+wikiart,genre,v1-513,vanitas,genre:vanitas
+wikiart,genre,v1-510,veduta,genre:veduta
+wikiart,genre,v1-522,wildlife painting,genre:wildlife-painting
+wikiart,movement,v1-324,Abstract Art,movement:abstract-art
+wikiart,movement,v1-347,Abstract Expressionism,movement:abstract-expressionism
+wikiart,movement,v1-16466,Abstract Illusionism,movement:abstract-illusionism
+wikiart,movement,v1-15213,Academic Art,movement:academic-art
+wikiart,movement,v1-10293,Aestheticism,movement:aestheticism
+wikiart,movement,v1-339,Art Deco,movement:art-deco
+wikiart,movement,v1-351,Art Informel,movement:art-informel
+wikiart,movement,v1-318,Art Nouveau,movement:art-nouveau
+wikiart,movement,v1-14818,Arte Povera,movement:arte-povera
+wikiart,movement,v1-16495,Arts and Crafts,movement:arts-and-crafts
+wikiart,movement,v1-325,Avant-garde,movement:avant-garde
+wikiart,movement,v1-307,Baroque,movement:baroque
+wikiart,movement,v1-293,Byzantine Art,movement:byzantine-art
+wikiart,movement,v1-16637,Classical Realism,movement:classical-realism
+wikiart,movement,v1-366,Conceptual Art,movement:conceptual-art
+wikiart,movement,v1-15870,Concrete Art (Concretism),movement:concrete-art-concretism
+wikiart,movement,v1-332,Constructivism,movement:constructivism
+wikiart,movement,v1-15873,Contemporary,movement:contemporary
+wikiart,movement,v1-369,Contemporary Realism,movement:contemporary-realism
+wikiart,movement,v1-322,Cubism,movement:cubism
+wikiart,movement,v1-769,Cubo-Futurism,movement:cubo-futurism
+wikiart,movement,v1-15898,CyberArt,movement:cyberart
+wikiart,movement,v1-330,Dada,movement:dada
+wikiart,movement,v1-333,De Stijl (Neoplasticism),movement:de-stijl-neoplasticism
+wikiart,movement,v1-302,Early Renaissance,movement:early-renaissance
+wikiart,movement,v1-6536,Edo period (1603–1867),movement:edo-period-16031867
+wikiart,movement,v1-16439,Environmental Art (Land art),movement:environmental-art-land-art
+wikiart,movement,v1-360,Existential Art,movement:existential-art
+wikiart,movement,v1-321,Expressionism,movement:expressionism
+wikiart,movement,v1-15889,Feminist Art,movement:feminist-art
+wikiart,movement,v1-16723,Fiber Art,movement:fiber-art
+wikiart,movement,v1-326,Futurism,movement:futurism
+wikiart,movement,v1-299,Gothic Art,movement:gothic-art
+wikiart,movement,v1-343,Harlem Renaissance (New Negro Movement),movement:harlem-renaissance-new-negro-movement
+wikiart,movement,v1-16496,Haute Pâte (Matter Painting),movement:haute-pate-matter-painting
+wikiart,movement,v1-303,High Renaissance,movement:high-renaissance
+wikiart,movement,v1-316,Impressionism,movement:impressionism
+wikiart,movement,v1-12076,Indian Space Painting,movement:indian-space-painting
+wikiart,movement,v1-16445,Junk Art,movement:junk-art
+wikiart,movement,v1-358,Kinetic art,movement:kinetic-art
+wikiart,movement,v1-16432,Kitsch,movement:kitsch
+wikiart,movement,v1-16641,Korean Informel,movement:korean-informel
+wikiart,movement,v1-15874,Lettrism,movement:lettrism
+wikiart,movement,v1-15894,Light and Space,movement:light-and-space
+wikiart,movement,v1-376,Lowbrow Art,movement:lowbrow-art
+wikiart,movement,v1-338,Magic Realism,movement:magic-realism
+wikiart,movement,v1-15901,Mail Art,movement:mail-art
+wikiart,movement,v1-304,Mannerism (Late Renaissance),movement:mannerism-late-renaissance
+wikiart,movement,v1-15896,Maximalism,movement:maximalism
+wikiart,movement,v1-16565,Meiji Period (1868–1912),movement:meiji-period-18681912
+wikiart,movement,v1-337,Metaphysical art,movement:metaphysical-art
+wikiart,movement,v1-381,Ming Dynasty (1368–1644),movement:ming-dynasty-13681644
+wikiart,movement,v1-367,Minimalism,movement:minimalism
+wikiart,movement,v1-16661,Modernism,movement:modernism
+wikiart,movement,v1-15878,Modernismo,movement:modernismo
+wikiart,movement,v1-346,Muralism,movement:muralism
+wikiart,movement,v1-16563,Muromachi period (1392–1573),movement:muromachi-period-13921573
+wikiart,movement,v1-314,Naïve Art (Primitivism),movement:naive-art-primitivism
+wikiart,movement,v1-16685,Native Art,movement:native-art
+wikiart,movement,v1-313,Naturalism,movement:naturalism
+wikiart,movement,v1-15871,Neo-Concretism,movement:neo-concretism
+wikiart,movement,v1-356,Neo-Dada,movement:neo-dada
+wikiart,movement,v1-355,Neo-Expressionism,movement:neo-expressionism
+wikiart,movement,v1-357,Neo-Figurative Art,movement:neo-figurative-art
+wikiart,movement,v1-373,Neo-Minimalism (Neo-Geo),movement:neo-minimalism-neo-geo
+wikiart,movement,v1-16702,Neo-Orthodoxism,movement:neo-orthodoxism
+wikiart,movement,v1-372,Neo-Pop Art,movement:neo-pop-art
+wikiart,movement,v1-354,Neo-Romanticism,movement:neo-romanticism
+wikiart,movement,v1-309,Neoclassicism,movement:neoclassicism
+wikiart,movement,v1-9559,New Culture Movement (1915-1926),movement:new-culture-movement-1915-1926
+wikiart,movement,v1-12771,New European Painting,movement:new-european-painting
+wikiart,movement,v1-16631,New Generation Sculpture,movement:new-generation-sculpture
+wikiart,movement,v1-16492,New Image Painting,movement:new-image-painting
+wikiart,movement,v1-8954,New Objectivity (Neue Sachlichkeit),movement:new-objectivity-neue-sachlichkeit
+wikiart,movement,v1-334,New Realism (American Realism),movement:new-realism-american-realism
+wikiart,movement,v1-305,Northern Renaissance,movement:northern-renaissance
+wikiart,movement,v1-16540,Northern Song Dynasty (960–1126),movement:northern-song-dynasty-9601126
+wikiart,movement,v1-364,Nouveau Réalisme,movement:nouveau-realisme
+wikiart,movement,v1-362,Op Art,movement:op-art
+wikiart,movement,v1-323,Orphism (Simultanism),movement:orphism-simultanism
+wikiart,movement,v1-16462,Ottoman Period (after 1600),movement:ottoman-period-after-1600
+wikiart,movement,v1-353,Outsider art (Art brut),movement:outsider-art-art-brut
+wikiart,movement,v1-15872,P&D (Pattern and Decoration),movement:p-d-pattern-and-decoration
+wikiart,movement,v1-16722,Performance Art,movement:performance-art
+wikiart,movement,v1-368,"Photorealism (Super-Realism, Hyper-Realism)",movement:photorealism-super-realism-hyper-realism
+wikiart,movement,v1-16624,Pictorialism,movement:pictorialism
+wikiart,movement,v1-363,Pop Art,movement:pop-art
+wikiart,movement,v1-317,Post-Impressionism,movement:post-impressionism
+wikiart,movement,v1-16487,Post-Minimalism,movement:post-minimalism
+wikiart,movement,v1-15820,Post-Painterly Abstraction,movement:post-painterly-abstraction
+wikiart,movement,v1-15027,Poster Art Realism,movement:poster-art-realism
+wikiart,movement,v1-342,Precisionism,movement:precisionism
+wikiart,movement,v1-301,Proto Renaissance,movement:proto-renaissance
+wikiart,movement,v1-16705,Provisional Painting (New Casualism),movement:provisional-painting-new-casualism
+wikiart,movement,v1-340,Purism,movement:purism
+wikiart,movement,v1-382,Qing Dynasty (1644–1912),movement:qing-dynasty-16441912
+wikiart,movement,v1-311,Realism,movement:realism
+wikiart,movement,v1-344,Regionalism,movement:regionalism
+wikiart,movement,v1-16636,Relational Art,movement:relational-art
+wikiart,movement,v1-9558,Republic of China (1912–1949),movement:republic-of-china-19121949
+wikiart,movement,v1-308,Rococo,movement:rococo
+wikiart,movement,v1-298,Romanesque Art,movement:romanesque-art
+wikiart,movement,v1-310,Romanticism,movement:romanticism
+wikiart,movement,v1-16460,Safavid Period (before 1600),movement:safavid-period-before-1600
+wikiart,movement,v1-320,Secession,movement:secession
+wikiart,movement,v1-15777,Shōwa period (1926–1989),movement:showa-period-19261989
+wikiart,movement,v1-335,Social Realism,movement:social-realism
+wikiart,movement,v1-345,Socialist Realism,movement:socialist-realism
+wikiart,movement,v1-361,Soviet Nonconformist Art,movement:soviet-nonconformist-art
+wikiart,movement,v1-359,Spatialism,movement:spatialism
+wikiart,movement,v1-375,Street art,movement:street-art
+wikiart,movement,v1-377,Stuckism,movement:stuckism
+wikiart,movement,v1-331,Suprematism,movement:suprematism
+wikiart,movement,v1-336,Surrealism,movement:surrealism
+wikiart,movement,v1-315,Symbolism,movement:symbolism
+wikiart,movement,v1-352,Tachisme,movement:tachisme
+wikiart,movement,v1-15776,Taishō period (1912–1926),movement:taisho-period-19121926
+wikiart,movement,v1-16679,Tang Dynasty (618–907),movement:tang-dynasty-618907
+wikiart,movement,v1-10399,Tonalism,movement:tonalism
+wikiart,movement,v1-370,Transavantgarde,movement:transavantgarde
+wikiart,movement,v1-328,Vorticism,movement:vorticism
+wikiart,movement,v1-380,Yuan Dynasty (1271–1368),movement:yuan-dynasty-12711368
+wikiart,school,v1-10229,Abstraction-Création,school:abstraction-creation
+wikiart,school,v1-8079,AKhRR (Association of Artists of Revolutionary Russia),school:akhrr-association-of-artists-of-revolutionary-russia
+wikiart,school,v1-12446,American Abstract Artists,school:american-abstract-artists
+wikiart,school,v1-10292,American Barbizon school,school:american-barbizon-school
+wikiart,school,v1-10791,Antwerp School,school:antwerp-school
+wikiart,school,v1-13758,Armos,school:armos
+wikiart,school,v1-2748,ARMU (Association of Revolutionary Masters of Ukraine),school:armu-association-of-revolutionary-masters-of-ukraine
+wikiart,school,v1-13924,Art (Τέχνη),school:art
+wikiart,school,v1-16582,Art & Language,school:art-language
+wikiart,school,v1-9013,Ashcan School,school:ashcan-school
+wikiart,school,v1-16510,Balchik School,school:balchik-school
+wikiart,school,v1-1220,Barbizon school,school:barbizon-school
+wikiart,school,v1-1856,Bauhaus,school:bauhaus
+wikiart,school,v1-12554,Bay Area Figurative School,school:bay-area-figurative-school
+wikiart,school,v1-16520,Bengal School,school:bengal-school
+wikiart,school,v1-14049,Berlin Secession,school:berlin-secession
+wikiart,school,v1-16666,Birmingham School,school:birmingham-school
+wikiart,school,v1-16587,Bloomsbury Group,school:bloomsbury-group
+wikiart,school,v1-1852,Blue Rose,school:blue-rose
+wikiart,school,v1-16589,BMPT,school:bmpt
+wikiart,school,v1-8621,Bolognese School,school:bolognese-school
+wikiart,school,v1-16665,Boychukists,school:boychukists
+wikiart,school,v1-10636,Brandywine School,school:brandywine-school
+wikiart,school,v1-6505,Bruges School,school:bruges-school
+wikiart,school,v1-14687,Camden Town Group,school:camden-town-group
+wikiart,school,v1-15893,Canadian Group of Painters,school:canadian-group-of-painters
+wikiart,school,v1-6720,Caravaggisti,school:caravaggisti
+wikiart,school,v1-10230,Cercle et Carré,school:cercle-et-carre
+wikiart,school,v1-15891,COBRA,school:cobra
+wikiart,school,v1-16503,Continuità,school:continuita
+wikiart,school,v1-14296,Cos Cob Art Colony,school:cos-cob-art-colony
+wikiart,school,v1-15914,Dau al Set,school:dau-al-set
+wikiart,school,v1-14813,"Degenerate art (exhibition, held by the Nazis in Munich in 1937,  named to inflame public opinion against modernism)",school:degenerate-art-exhibition-held-by-the-nazis-in-munich-in-1937-named-to-inflame-public-opinion-against-modernism
+wikiart,school,v1-13993,Delft School,school:delft-school
+wikiart,school,v1-1853,Der Blaue Reiter (The Blue Rider),school:der-blaue-reiter-the-blue-rider
+wikiart,school,v1-16667,Der Sturm,school:der-sturm
+wikiart,school,v1-11169,Die Brücke (The Bridge),school:die-brucke-the-bridge
+wikiart,school,v1-6920,Donkey's Tail (Osliniy khvost),school:donkey-s-tail-osliniy-khvost
+wikiart,school,v1-16568,Düsseldorf School of Painting,school:dusseldorf-school-of-painting
+wikiart,school,v1-6925,Dutch School,school:dutch-school
+wikiart,school,v1-876,École de Paris,school:ecole-de-paris
+wikiart,school,v1-8455,Eight,school:eight
+wikiart,school,v1-16577,El Paso,school:el-paso
+wikiart,school,v1-8915,English school,school:english-school
+wikiart,school,v1-16593,Ferrara School,school:ferrara-school
+wikiart,school,v1-6535,Flemish School,school:flemish-school
+wikiart,school,v1-2451,Florentine School,school:florentine-school
+wikiart,school,v1-2774,Fluxus,school:fluxus
+wikiart,school,v1-16502,Forma 1,school:forma-1
+wikiart,school,v1-16465,Four Abstract Classicists,school:four-abstract-classicists
+wikiart,school,v1-15970,Four Arts,school:four-arts
+wikiart,school,v1-15912,Frente,school:frente
+wikiart,school,v1-13760,Generation of the Thirties,school:generation-of-the-thirties
+wikiart,school,v1-8402,German School,school:german-school
+wikiart,school,v1-16644,Glasgow School,school:glasgow-school
+wikiart,school,v1-15925,Group of Seven,school:group-of-seven
+wikiart,school,v1-15887,Grupo dos Cinco,school:grupo-dos-cinco
+wikiart,school,v1-16595,Gruppo degli Otto,school:gruppo-degli-otto
+wikiart,school,v1-16608,Gruppo Origine,school:gruppo-origine
+wikiart,school,v1-15917,Grupul celor patru (Group of Four),school:grupul-celor-patru-group-of-four
+wikiart,school,v1-15923,Gutai group,school:gutai-group
+wikiart,school,v1-11166,Haarlem School,school:haarlem-school
+wikiart,school,v1-12710,Hague School,school:hague-school
+wikiart,school,v1-16645,Heidelberg School,school:heidelberg-school
+wikiart,school,v1-11415,Hudson River School,school:hudson-river-school
+wikiart,school,v1-10203,Independent Group,school:independent-group
+wikiart,school,v1-15877,Irascibles,school:irascibles
+wikiart,school,v1-2013,Jack of Diamonds,school:jack-of-diamonds
+wikiart,school,v1-16599,Jeune Peinture Belge,school:jeune-peinture-belge
+wikiart,school,v1-14668,Kyiv Drawing School of Murashko,school:kyiv-drawing-school-of-murashko
+wikiart,school,v1-16659,Lacerba,school:lacerba
+wikiart,school,v1-15882,Les Automatistes,school:les-automatistes
+wikiart,school,v1-6665,Les Fauves,school:les-fauves
+wikiart,school,v1-7011,Les Nabis,school:les-nabis
+wikiart,school,v1-15888,Les XX,school:les-xx
+wikiart,school,v1-13976,Lombard School,school:lombard-school
+wikiart,school,v1-16533,London Group,school:london-group
+wikiart,school,v1-14262,Macchiaioli,school:macchiaioli
+wikiart,school,v1-6566,Mexican Mural Renaissance,school:mexican-mural-renaissance
+wikiart,school,v1-14637,Milan Futurist Group,school:milan-futurist-group
+wikiart,school,v1-857,Mir Iskusstva (World of Art),school:mir-iskusstva-world-of-art
+wikiart,school,v1-16604,Mono-ha,school:mono-ha
+wikiart,school,v1-13977,Munich School (Σχολή του Μονάχου),school:munich-school
+wikiart,school,v1-14313,Munich Secession,school:munich-secession
+wikiart,school,v1-16674,Nazarenes,school:nazarenes
+wikiart,school,v1-16627,Neue Wilde,school:neue-wilde
+wikiart,school,v1-16530,New British Sculpture,school:new-british-sculpture
+wikiart,school,v1-16638,New Leipzig School,school:new-leipzig-school
+wikiart,school,v1-8512,New York School,school:new-york-school
+wikiart,school,v1-16537,Newlyn School,school:newlyn-school
+wikiart,school,v1-14936,Northwest School,school:northwest-school
+wikiart,school,v1-16606,Norwich School,school:norwich-school
+wikiart,school,v1-16499,Nouveaux Plasticiens,school:nouveaux-plasticiens
+wikiart,school,v1-14632,Novecento Italiano,school:novecento-italiano
+wikiart,school,v1-15892,Painters Eleven (P11),school:painters-eleven-p11
+wikiart,school,v1-16609,Painters of the Sacred Heart,school:painters-of-the-sacred-heart
+wikiart,school,v1-16728,Papunya Tula,school:papunya-tula
+wikiart,school,v1-16610,Park Place,school:park-place
+wikiart,school,v1-2670,Peredvizhniki (Society for Traveling Art Exhibitions),school:peredvizhniki-society-for-traveling-art-exhibitions
+wikiart,school,v1-16612,Phases,school:phases
+wikiart,school,v1-16699,Pictures Generation,school:pictures-generation
+wikiart,school,v1-9633,Pont-Aven School,school:pont-aven-school
+wikiart,school,v1-1490,Pre-Raphaelite Brotherhood,school:pre-raphaelite-brotherhood
+wikiart,school,v1-16512,Prolog Group,school:prolog-group
+wikiart,school,v1-16614,Radical Painting Group,school:radical-painting-group
+wikiart,school,v1-16511,S,school:s
+wikiart,school,v1-16497,San Francisco School,school:san-francisco-school
+wikiart,school,v1-10436,School of London,school:school-of-london
+wikiart,school,v1-16615,Scuola Romana,school:scuola-romana
+wikiart,school,v1-2704,Section d'Or (Puteaux Group),school:section-d-or-puteaux-group
+wikiart,school,v1-15111,Seven and Five Society,school:seven-and-five-society
+wikiart,school,v1-16616,Seville School,school:seville-school
+wikiart,school,v1-11141,Sienese School,school:sienese-school
+wikiart,school,v1-16617,Skagen Painters,school:skagen-painters
+wikiart,school,v1-2014,Société des Artistes Indépendants (Society of Independent Artists),school:societe-des-artistes-independants-society-of-independent-artists
+wikiart,school,v1-10133,Society of American Artists,school:society-of-american-artists
+wikiart,school,v1-6846,Soyuz Molodyozhi (Union of the Youth),school:soyuz-molodyozhi-union-of-the-youth
+wikiart,school,v1-8513,Stieglitz group,school:stieglitz-group
+wikiart,school,v1-16443,Supports/Surfaces,school:supports-surfaces
+wikiart,school,v1-2015,Supremus,school:supremus
+wikiart,school,v1-10134,Ten (Ten American Painters),school:ten-ten-american-painters
+wikiart,school,v1-10438,Tile Club,school:tile-club
+wikiart,school,v1-3004,Umbrian school,school:umbrian-school
+wikiart,school,v1-9906,Union of Russian Artists,school:union-of-russian-artists
+wikiart,school,v1-16504,Unit One,school:unit-one
+wikiart,school,v1-2479,Utagawa school,school:utagawa-school
+wikiart,school,v1-11631,Utrecht School,school:utrecht-school
+wikiart,school,v1-874,Venetian School,school:venetian-school
+wikiart,school,v1-2275,Vienna Secession,school:vienna-secession
+wikiart,school,v1-15822,Washington Color School,school:washington-color-school
+wikiart,school,v1-8972,Young British Artists,school:young-british-artists
+wikiart,school,v1-16507,Zen 49,school:zen-49
+wikiart,school,v1-16501,Zero,school:zero
+wikiart,style,v1-2-2nd-intermediate-period,2nd Intermediate Period,era:antiquity
+wikiart,style,v1-2-3rd-intermediate-period,3rd Intermediate Period,era:antiquity
+wikiart,style,v1-2-amarna,Amarna,era:antiquity
+wikiart,style,v1-2-archaic-period,Archaic,era:antiquity
+wikiart,style,v1-2-classical-period,Classical,era:antiquity
+wikiart,style,v1-2-coptic-art,Coptic art,era:antiquity
+wikiart,style,v1-2-early-dynastic-period,Early Dynastic,era:antiquity
+wikiart,style,v1-2-geometric-period,Geometric,era:antiquity
+wikiart,style,v1-2-hellenistic-period,Hellenistic,era:antiquity
+wikiart,style,v1-2-late-period,Late Period,era:antiquity
+wikiart,style,v1-2-middle-kingdom,Middle Kingdom,era:antiquity
+wikiart,style,v1-2-new-kingdom,New Kingdom,era:antiquity
+wikiart,style,v1-2-old-kingdom,Old Kingdom,era:antiquity
+wikiart,style,v1-2-ptolemaic,Ptolemaic,era:antiquity
+wikiart,style,v1-2-severe-style,Severe Style,era:antiquity
+wikiart,style,v1-16731,Mozarabic,era:medieval
+wikiart,style,v1-467,Renaissance,era:renaissance
+wikiart,style,v1-2-abstract-art-0,Abstract art,movement:abstract-art
+wikiart,style,v1-389,Abstract Art,movement:abstract-art
+wikiart,style,v1-390,Abstract Expressionism,movement:abstract-expressionism
+wikiart,style,v1-15355,Academicism,movement:academic-art
+wikiart,style,v1-392,Action painting,movement:action-painting
+wikiart,style,v1-394,Analytical Cubism,movement:analytical-cubism
+wikiart,style,v1-396,Art Deco,movement:art-deco
+wikiart,style,v1-397,Art Informel,movement:art-informel
+wikiart,style,v1-7017,Art Nouveau (Modern),movement:art-nouveau
+wikiart,style,v1-6847,Analytical Realism,movement:avant-garde
+wikiart,style,v1-15214,Classicism,movement:baroque
+wikiart,style,v1-400,Baroque,movement:baroque
+wikiart,style,v1-14563,Biedermeier,movement:biedermeier
+wikiart,style,v1-2-crusader-workshop,Crusader workshop,movement:byzantine-art
+wikiart,style,v1-2-early-byzantine-c-330-750,Early Byzantine (c. 330–750),movement:byzantine-art
+wikiart,style,v1-2-komnenian-style-1081-1185,Komnenian style (1081-1185),movement:byzantine-art
+wikiart,style,v1-2-late-byzantine-c-1261-1453,Late Byzantine/Palaeologan Renaissance (c. 1261–1453),movement:byzantine-art
+wikiart,style,v1-2-latin-empire-of-constantinople-1204-1261,Latin Empire of Constantinople (1204-1261),movement:byzantine-art
+wikiart,style,v1-2-macedonian-renaissance-867-1056,Macedonian Renaissance (867–1056),movement:byzantine-art
+wikiart,style,v1-2-middle-byzantine-c-850-1204,Middle Byzantine (c. 850–1204),movement:byzantine-art
+wikiart,style,v1-401,Byzantine,movement:byzantine-art
+wikiart,style,v1-2-classical-realism,Classical Realism,movement:classical-realism
+wikiart,style,v1-404,Cloisonnism,movement:cloisonnism
+wikiart,style,v1-405,Color Field Painting,movement:color-field-painting
+wikiart,style,v1-720,Conceptual Art,movement:conceptual-art
+wikiart,style,v1-15880,Concretism,movement:concrete-art-concretism
+wikiart,style,v1-407,Constructivism,movement:constructivism
+wikiart,style,v1-12447,Confessional Art,movement:contemporary
+wikiart,style,v1-12553,Spectralism,movement:contemporary
+wikiart,style,v1-15902,Cartographic Art,movement:contemporary
+wikiart,style,v1-16494,Hyper-Mannerism (Anachronism),movement:contemporary
+wikiart,style,v1-16630,Perceptism,movement:contemporary
+wikiart,style,v1-2-contemporary,Contemporary,movement:contemporary
+wikiart,style,v1-2-contemporary-0,Contemporary,movement:contemporary
+wikiart,style,v1-2-excessivism,Excessivism,movement:contemporary
+wikiart,style,v1-2-fantasy-art,Fantasy Art,movement:contemporary
+wikiart,style,v1-2-futuretech-art,Futuretech Art,movement:contemporary
+wikiart,style,v1-2-new-medievialism,New Medievialism,movement:contemporary
+wikiart,style,v1-2-postcolonial-art,Postcolonial art,movement:contemporary
+wikiart,style,v1-2-queer-art,Queer art,movement:contemporary
+wikiart,style,v1-2-symbiotic-art,Symbiotic Art,movement:contemporary
+wikiart,style,v1-488,Toyism,movement:contemporary
+wikiart,style,v1-2771,Neo-baroque,movement:contemporary-realism
+wikiart,style,v1-409,Contemporary Realism,movement:contemporary-realism
+wikiart,style,v1-16620,Costumbrismo,movement:costumbrismo
+wikiart,style,v1-2536,Cubo-Expressionism,movement:cubism
+wikiart,style,v1-2897,Tubism,movement:cubism
+wikiart,style,v1-410,Cubism,movement:cubism
+wikiart,style,v1-9063,Mechanistic Cubism,movement:cubism
+wikiart,style,v1-411,Cubo-Futurism,movement:cubo-futurism
+wikiart,style,v1-464,Rayonism,movement:cubo-futurism
+wikiart,style,v1-15899,Cyber Art,movement:cyberart
+wikiart,style,v1-412,Dada,movement:dada
+wikiart,style,v1-887,Neoplasticism,movement:de-stijl-neoplasticism
+wikiart,style,v1-14640,Divisionism,movement:divisionism
+wikiart,style,v1-415,Early Renaissance,movement:early-renaissance
+wikiart,style,v1-16440,Environmental (Land) Art,movement:environmental-art-land-art
+wikiart,style,v1-2-site-specific-art,Site-specific art,movement:environmental-art-land-art
+wikiart,style,v1-416,Existential Art,movement:existential-art
+wikiart,style,v1-16623,Miserablism,movement:expressionism
+wikiart,style,v1-16671,Figurative Expressionism,movement:expressionism
+wikiart,style,v1-417,Expressionism,movement:expressionism
+wikiart,style,v1-2448,Fantastic Realism,movement:fantastic-realism
+wikiart,style,v1-2449,Transautomatism,movement:fantastic-realism
+wikiart,style,v1-15890,Feminist Art,movement:feminist-art
+wikiart,style,v1-16642,Fiber art,movement:fiber-art
+wikiart,style,v1-419,Futurism,movement:futurism
+wikiart,style,v1-420,Gothic,movement:gothic-art
+wikiart,style,v1-422,Hard Edge Painting,movement:hard-edge-painting
+wikiart,style,v1-423,High Renaissance,movement:high-renaissance
+wikiart,style,v1-424,Impressionism,movement:impressionism
+wikiart,style,v1-12082,Indian Space painting,movement:indian-space-painting
+wikiart,style,v1-2-new-ink-painting,New Ink Painting,movement:ink-and-wash-painting
+wikiart,style,v1-2-suiboku-ga-0,Sumi-e (Suiboku-ga),movement:ink-and-wash-painting
+wikiart,style,v1-9634,Ink and wash painting,movement:ink-and-wash-painting
+wikiart,style,v1-12805,International Gothic,movement:international-gothic
+wikiart,style,v1-426,Japonism,movement:japonism
+wikiart,style,v1-16446,Junk Art,movement:junk-art
+wikiart,style,v1-11477,Kinetic Art,movement:kinetic-art
+wikiart,style,v1-9194,Kitsch,movement:kitsch
+wikiart,style,v1-15876,Lettrism,movement:lettrism
+wikiart,style,v1-15895,Light and Space,movement:light-and-space
+wikiart,style,v1-428,Lowbrow Art,movement:lowbrow-art
+wikiart,style,v1-429,Luminism,movement:luminism
+wikiart,style,v1-15916,Lyrical Abstraction,movement:lyrical-abstraction
+wikiart,style,v1-430,Magic Realism,movement:magic-realism
+wikiart,style,v1-15900,Mail Art,movement:mail-art
+wikiart,style,v1-7232,Mannerism (Late Renaissance),movement:mannerism-late-renaissance
+wikiart,style,v1-15897,Maximalism,movement:maximalism
+wikiart,style,v1-432,Metaphysical art,movement:metaphysical-art
+wikiart,style,v1-433,Minimalism,movement:minimalism
+wikiart,style,v1-2-modernism-0,Modernism,movement:modernism
+wikiart,style,v1-15879,Modernismo,movement:modernismo
+wikiart,style,v1-436,Muralism,movement:muralism
+wikiart,style,v1-2-folk-art,Folk art,movement:naive-art-primitivism
+wikiart,style,v1-437,Naïve Art (Primitivism),movement:naive-art-primitivism
+wikiart,style,v1-16686,Native Art,movement:native-art
+wikiart,style,v1-438,Naturalism,movement:naturalism
+wikiart,style,v1-15881,Neo-Concretism,movement:neo-concretism
+wikiart,style,v1-440,Neo-Dada,movement:neo-dada
+wikiart,style,v1-441,Neo-Expressionism,movement:neo-expressionism
+wikiart,style,v1-15620,Neo-Figurative Art,movement:neo-figurative-art
+wikiart,style,v1-2-neo-impressionism,Neo-Impressionism,movement:neo-impressionism
+wikiart,style,v1-443,Neo-Geo,movement:neo-minimalism-neo-geo
+wikiart,style,v1-444,Neo-Minimalism,movement:neo-minimalism-neo-geo
+wikiart,style,v1-16703,Neo-Orthodoxism,movement:neo-orthodoxism
+wikiart,style,v1-16695,Superflat,movement:neo-pop-art
+wikiart,style,v1-446,Neo-Pop Art,movement:neo-pop-art
+wikiart,style,v1-447,Neo-Romanticism,movement:neo-romanticism
+wikiart,style,v1-439,Neoclassicism,movement:neoclassicism
+wikiart,style,v1-12772,New European Painting,movement:new-european-painting
+wikiart,style,v1-8959,Verism,movement:new-objectivity-neue-sachlichkeit
+wikiart,style,v1-393,American Realism,movement:new-realism-american-realism
+wikiart,style,v1-448,New Realism,movement:new-realism-american-realism
+wikiart,style,v1-449,Northern Renaissance,movement:northern-renaissance
+wikiart,style,v1-450,Nouveau Réalisme,movement:nouveau-realisme
+wikiart,style,v1-451,Op Art,movement:op-art
+wikiart,style,v1-452,Orientalism,movement:orientalism
+wikiart,style,v1-453,Orphism,movement:orphism-simultanism
+wikiart,style,v1-483,Synchromism,movement:orphism-simultanism
+wikiart,style,v1-16548,Ottoman Period,movement:ottoman-period-after-1600
+wikiart,style,v1-2-art-singulier,Art Singulier,movement:outsider-art-art-brut
+wikiart,style,v1-395,Art Brut,movement:outsider-art-art-brut
+wikiart,style,v1-454,Outsider art,movement:outsider-art-art-brut
+wikiart,style,v1-15875,P&D (Pattern and Decoration),movement:p-d-pattern-and-decoration
+wikiart,style,v1-2-performance-art,Performance Art,movement:performance-art
+wikiart,style,v1-16433,Hyper-Realism,movement:photorealism-super-realism-hyper-realism
+wikiart,style,v1-455,Photorealism,movement:photorealism-super-realism-hyper-realism
+wikiart,style,v1-16625,Pictorialism,movement:pictorialism
+wikiart,style,v1-456,Pointillism,movement:pointillism
+wikiart,style,v1-457,Pop Art,movement:pop-art
+wikiart,style,v1-458,Post-Impressionism,movement:post-impressionism
+wikiart,style,v1-16531,Post-Minimalism,movement:post-minimalism
+wikiart,style,v1-15821,Post-Painterly Abstraction,movement:post-painterly-abstraction
+wikiart,style,v1-15028,Poster Art Realism,movement:poster-art-realism
+wikiart,style,v1-459,Precisionism,movement:precisionism
+wikiart,style,v1-462,Proto Renaissance,movement:proto-renaissance
+wikiart,style,v1-16706,New Casualism,movement:provisional-painting-new-casualism
+wikiart,style,v1-463,Purism,movement:purism
+wikiart,style,v1-465,Realism,movement:realism
+wikiart,style,v1-466,Regionalism,movement:regionalism
+wikiart,style,v1-468,Rococo,movement:rococo
+wikiart,style,v1-16735,Mosan art,movement:romanesque-art
+wikiart,style,v1-469,Romanesque,movement:romanesque-art
+wikiart,style,v1-470,Romanticism,movement:romanticism
+wikiart,style,v1-16552,Safavid Period,movement:safavid-period-before-1600
+wikiart,style,v1-16249,Shin-hanga,movement:shin-hanga
+wikiart,style,v1-473,Social Realism,movement:social-realism
+wikiart,style,v1-474,Socialist Realism,movement:socialist-realism
+wikiart,style,v1-15779,Sōsaku hanga,movement:sosaku-hanga
+wikiart,style,v1-2-sots-art,Sots Art,movement:soviet-nonconformist-art
+wikiart,style,v1-476,Spatialism,movement:spatialism
+wikiart,style,v1-421,Graffiti Art,movement:street-art
+wikiart,style,v1-477,Street art,movement:street-art
+wikiart,style,v1-478,Stuckism,movement:stuckism
+wikiart,style,v1-2-neo-suprematism,Neo-Suprematism,movement:suprematism
+wikiart,style,v1-480,Suprematism,movement:suprematism
+wikiart,style,v1-2298,Automatic Painting,movement:surrealism
+wikiart,style,v1-481,Surrealism,movement:surrealism
+wikiart,style,v1-482,Symbolism,movement:symbolism
+wikiart,style,v1-484,Synthetic Cubism,movement:synthetic-cubism
+wikiart,style,v1-486,Tachisme,movement:tachisme
+wikiart,style,v1-6721,Tenebrism,movement:tenebrism
+wikiart,style,v1-487,Tonalism,movement:tonalism
+wikiart,style,v1-489,Transavantgarde,movement:transavantgarde
+wikiart,style,v1-16557,Zen,movement:zenga
+wikiart,style,v1-16542,Gongbi,period:chinese-painting
+wikiart,style,v1-2-cretan-school-of-icon-painting,Cretan school of icon painting,period:cretan-school
+wikiart,style,v1-418,Fauvism,period:fauvism
+wikiart,style,v1-16468,Mughal,period:indian-painting
+wikiart,style,v1-16527,Yamato-e,period:japanese-painting
+wikiart,style,v1-16538,Nanga (Bunjinga),period:japanese-painting
+wikiart,style,v1-16566,Nihonga,period:japanese-painting
+wikiart,style,v1-2-kano-school,Kanō school style,period:japanese-painting
+wikiart,style,v1-16464,Ilkhanid,period:persian-miniature
+wikiart,style,v1-491,Ukiyo-e,period:ukiyo-e
+wikiart,style,v1-15907,Neo-Byzantine,school:boychukists
+wikiart,style,v1-425,Intimism,school:les-nabis
+wikiart,style,v1-485,Synthetism,school:pont-aven-school
+wikiart,style,v1-16621,Sky Art,school:zero
+wikiart,style,v1-2-chernihiv-school-of-icon-painting,Chernihiv school of icon painting,tradition:byzantine
+wikiart,style,v1-2-galicia-volyn-school,Galicia-Volyn school,tradition:byzantine
+wikiart,style,v1-2-kyiv-school-of-icon-painting,Kyiv school of icon painting,tradition:byzantine
+wikiart,style,v1-2-macedonian-school-of-icon-painting,Macedonian school of icon painting,tradition:byzantine
+wikiart,style,v1-2-moscow-school-of-icon-painting,Moscow school of icon painting,tradition:byzantine
+wikiart,style,v1-2-novgorod-school-of-icon-painting,Novgorod school of icon painting,tradition:byzantine
+wikiart,style,v1-2-pskov-school-of-icon-painting,Pskov school of icon painting,tradition:byzantine
+wikiart,style,v1-2-stroganov-school-of-icon-painting,Stroganov school of icon painting,tradition:byzantine
+wikiart,style,v1-2-vladimir-school-of-icon-painting,Vladimir school of icon painting,tradition:byzantine
+wikiart,style,v1-2-vologda-school-of-icon-painting,Vologda school of icon painting,tradition:byzantine
+wikiart,style,v1-2-yaroslavl-school-of-icon-painting,Yaroslavl school of icon painting,tradition:byzantine
+wikiart,style,v1-414,Early Christian,tradition:byzantine
+wikiart,style,v1-16651,Joseon Dynasty,tradition:east-asian
+wikiart,style,v1-2-abbasid-period,Abbasid Period,tradition:islamic
+wikidata,genre,Q18353841,architectural painting,genre:cityscape
+wikidata,genre,Q119426678,Multiple-Figure Composition,genre:figurative
+wikidata,genre,Q5448026,figure painting,genre:figurative
+wikidata,genre,Q11630233,mitate-e,genre:genre-painting
+wikidata,genre,Q11546300,musha-e,genre:history-painting
+wikidata,genre,Q18811686,interior view,genre:interior
+wikidata,genre,Q21074330,church interior,genre:interior
+wikidata,genre,Q3304751,meisho-e,genre:landscape
+wikidata,genre,Q130453765,type B portrait by Witkacy,genre:portrait
+wikidata,genre,Q130457796,type C artwork by Witkacy,genre:portrait
+wikidata,genre,Q131466254,type E portrait by Witkacy,genre:portrait
+wikidata,genre,Q131521054,type B+E portrait by Witkacy,genre:portrait
+wikidata,genre,Q1551015,group portrait,genre:portrait
+wikidata,genre,Q19547247,family portrait,genre:portrait
+wikidata,genre,Q19968941,double portrait,genre:portrait
+wikidata,genre,Q3399515,equestrian portrait,genre:portrait
+wikidata,genre,Q616973,yakusha-e,genre:portrait
+wikidata,movement,Q1404472,Italian Renaissance,era:renaissance
+wikidata,movement,Q2316866,geometric abstraction,movement:abstract-art
+wikidata,movement,Q16191884,Neo-Grec,movement:academic-art
+wikidata,movement,Q19953536,neo-Pompeian,movement:academic-art
+wikidata,movement,Q1401605,Russian avant-garde,movement:avant-garde
+wikidata,movement,Q808561,Baroque painting,movement:baroque
+wikidata,movement,Q3326940,Movimento Arte Concreta,movement:concrete-art-concretism
+wikidata,movement,Q60367157,Salon Cubism,movement:cubism
+wikidata,movement,Q61444300,Cezannian cubism,movement:cubism
+wikidata,movement,Q10332825,Movimento Pau-Brasil,movement:modernism
+wikidata,movement,Q2907232,Antropophagia,movement:modernism
+wikidata,movement,Q1122677,Catalan modernism,movement:modernismo
+wikidata,movement,Q577147,Neoclassical painting,movement:neoclassicism
+wikidata,movement,Q2455000,German Renaissance,movement:northern-renaissance
+wikidata,movement,Q443153,Early Netherlandish painting,movement:northern-renaissance
+wikidata,movement,Q3484823,simultanism,movement:orphism-simultanism
+wikidata,movement,Q695830,Viennese Actionism,movement:performance-art
+wikidata,movement,Q749832,hyperrealism,movement:photorealism-super-realism-hyper-realism
+wikidata,movement,Q847847,synthetism,movement:post-impressionism
+wikidata,movement,Q545851,process art,movement:post-minimalism
+wikidata,movement,Q2642826,French Realism,movement:realism
+wikidata,movement,Q2477112,German Romanticism,movement:romanticism
+wikidata,movement,Q3088366,Romantic painting,movement:romanticism
+wikidata,movement,Q3505455,Belgian surrealism,movement:surrealism
+wikidata,movement,Q1879488,Russian symbolism,movement:symbolism
+wikidata,movement,Q1989975,Nihonga,period:japanese-painting
+wikidata,movement,Q252801,Kanō school,period:japanese-painting
+wikidata,movement,Q3179819,Rimpa school,period:japanese-painting
+wikidata,movement,Q141177639,Manfredian method,school:caravaggisti
+wikidata,movement,Q1994273,Flemish Baroque painting,school:flemish-school

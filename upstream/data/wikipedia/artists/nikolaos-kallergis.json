@@ -1,0 +1,73 @@
+{
+  "slug": "nikolaos-kallergis",
+  "periodSlug": "cretan-school",
+  "name": "Nikolaos Kallergis",
+  "wikiTitle": "Nikolaos Kallergis",
+  "qid": "Q107986687",
+  "birthYear": 1699,
+  "deathYear": 1747,
+  "tagline": "Greek painter",
+  "bio": "Nikolaos Kallergis, also known as Kalergis. He was a Greek painter during the Greek Rococo and the Modern Greek Enlightenment in art also known as Neo-Hellenikos Diafotismos. His art also exhibited Venetian influence. Painters of the maniera greca began to refine their art. Philotheos Skoufos, Elias Moskos, and Theodore Poulakis were all active painters on the Ionian Islands prior to Kallergis. They set the stage for the transition to the Heptanese School. Panagiotis Doxaras is the forefather of the new painting style. He was the father of Greek Rococo and the Modern Greek Enlightenment in painting. Kallergis became an active member of the school. Kallergis also represents the Greek Rococo. His art began to exhibit qualities of Greek and Italian Neoclassicism. His style influenced countless painters. Examples include Nikolaos Kantounis, Nikolaos Koutouzis, Nikolaos Doxaras, Spiridione Roma, and Eustathios Karousos. His most famous work is Christ and Angel it is at the Zakynthos Museum.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Nikolaos_Kallergis_Angel_and_Jesus.png",
+  "portraitWidth": 1136,
+  "portraitHeight": 1800,
+  "portraitCredit": {
+    "author": "Nikolaos Kallergis",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Nikolaos_Kallergis_Angel_and_Jesus.png"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikolaos_Kallergis",
+  "paintings": [
+    {
+      "slug": "angel-holding-the-body-of-christ",
+      "title": "Angel Holding the Body of Christ",
+      "year": 1732,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Nikolaos_Kallergis_Angel_and_Jesus.png",
+      "imageWidth": 1136,
+      "imageHeight": 1800,
+      "story": "Angel Holding the Body of Christ was a work of art created by Greek painter Nikolaos Kallergis. Kallergis was born in Zakynthos. His family was originally from Crete. His father was a painter. Nikolaos was active from 1715–1747. He was a representative of the Heptanese school. His family owned a church on the island of Zakynthos and a massive library. The family was educated. According to the Institute of Neohellenic Research, thirty-two of his painting’s survived.",
+      "facts": [
+        "The work of art features a superlative decorative motif reminiscent of the Rococo style.",
+        "The angel's flesh tone compared to Jesus's distinguishes the two figures."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Angel_Holding_the_Body_of_Christ",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 677,
+      "qid": "Q112433440",
+      "imageBytes": 4732340,
+      "imageCredit": {
+        "author": "Nikolaos Kallergis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Nikolaos_Kallergis_Angel_and_Jesus.png"
+      }
+    },
+    {
+      "slug": "ecce-homo-christ-behold-the-man-q141413765",
+      "title": "Ecce Homo Christ, Behold the Man",
+      "year": 1732,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ecce_Homo_Nikolaos_Kallergis.png",
+      "imageWidth": 402,
+      "imageHeight": 1178,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 70,
+      "heightCm": 206.5,
+      "pageviews": null,
+      "qid": "Q141413765",
+      "imageBytes": 861862,
+      "imageCredit": {
+        "author": "Nikolaos Kallergis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Ecce_Homo_Nikolaos_Kallergis.png"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "angelos-pitzamanos",
+  "periodSlug": "cretan-school",
+  "name": "Angelos Pitzamanos",
+  "wikiTitle": "Angelos Pitzamanos",
+  "qid": "Q4763003",
+  "birthYear": 1467,
+  "deathYear": 1535,
+  "tagline": "Greek Renaissance painter (1467–1535)",
+  "bio": "Angelos Pitzamanos was a Greek Renaissance painter. The artist is sometimes referred to as Angelos Bitzamanos. \nHe was born in Crete and migrated to Otranto, Southern Italy, where he did most of his work. A contract between Andreas Pavias and Pitzamanos illustrates that Pitzamanos was his apprentice. Angelos was a student of Andreas Pavias for five years (1482–1487). It is evident that his work featured both the Greek style and the Italian style of the time. Pitzamanos later became a famous master.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Pitzamanos_Virgin_and_Child_with_Saint_John.png",
+  "portraitWidth": 1392,
+  "portraitHeight": 1800,
+  "portraitCredit": {
+    "author": "Angelos Pitzamanos",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pitzamanos_Virgin_and_Child_with_Saint_John.png"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angelos_Pitzamanos",
+  "paintings": [
+    {
+      "slug": "madonna-of-constantinople",
+      "title": "Madonna of Constantinople",
+      "year": 1482,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Madonna_of_Constantinople_Angelos_Pitzamanos.jpg",
+      "imageWidth": 2813,
+      "imageHeight": 2813,
+      "story": "Madonna of Constantinople is a tempera painting created by Greek painter Angelos Pitzamanos. Angelo was from the island of Crete. He was active from 1482 to 1535. His teacher was famous painter Andreas Pavias. Angelo finished commissions with his brother Donatus Pitzamanos. Eleven remaining works are attributed to Angelo. He signed most of his works in Latin, his signature poem was Angelus Bizamanus the Greek painter from Crete.",
+      "facts": [
+        "The background features a decorated green curtain adorned with gilded decorations and faded Greek inscriptions.",
+        "The artist creates the illusion of an outdoor aesthetically pleasing landscape to the left and right of the curtain."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Madonna_of_Constantinople",
+      "sitelinks": 2,
+      "widthCm": 13.3,
+      "heightCm": 17,
+      "pageviews": 1018,
+      "qid": "Q110039820",
+      "imageBytes": 2263723,
+      "imageCredit": {
+        "author": "Angelos Pitzamanos",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Madonna_of_Constantinople_Angelos_Pitzamanos.jpg"
+      }
+    },
+    {
+      "slug": "the-visitation-q131826959",
+      "title": "The Visitation",
+      "year": 1500,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/The_Visitation_by_Angelus_Bizamanus.jpg",
+      "imageWidth": 6903,
+      "imageHeight": 8863,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 17.9,
+      "heightCm": 23,
+      "pageviews": null,
+      "qid": "Q131826959",
+      "imageBytes": 5038586,
+      "imageCredit": {
+        "author": "Angelos Pitzamanos",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_Visitation_by_Angelus_Bizamanus.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "ioannis-kornaros",
+  "periodSlug": "cretan-school",
+  "name": "Ioannis Kornaros",
+  "wikiTitle": "Ioannis Kornaros",
+  "qid": "Q25907348",
+  "birthYear": 1745,
+  "deathYear": 1821,
+  "tagline": "Greek painter",
+  "bio": "Ioannis Kornaros was a Greek painter. He was one of the few painters from Crete during the 19th century. He does not belong to the Cretan Renaissance but was influenced by the art. He is considered to be one of the foremost icon painters of the Greek Neoclassical era and Modern Greek Enlightenment in art also known as Neo Hellenikos Diafotismos. He implemented a unique style. He was influenced by Michael Damaskinos, Georgios Klontzas, Victor and other Cretan artists. He influenced Modern Greek art. He is one few Greek painters affiliated with Cyprus. Others included Ioannis Kyprios and Theodore Apsevdis. His teacher was Georgios Kastrofylakas. His most famous painting Great Art Thou resembles Georgios Klontzas's In Thee Rejoiceth.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Megas_Ei_Kyrie_from_Ioannis_Kornaros_1770.jpg",
+  "portraitWidth": 611,
+  "portraitHeight": 768,
+  "portraitCredit": {
+    "author": "Ιωάννης Κορνάρος (1745-1821)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Megas_Ei_Kyrie_from_Ioannis_Kornaros_1770.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ioannis_Kornaros",
+  "paintings": [
+    {
+      "slug": "catherine-of-alexandria-kornaros",
+      "title": "Catherine of Alexandria (Kornaros)",
+      "year": 1760,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Giovanni_cornaros%2C_santa_caterina_d%27alessandria%2C_1775-1800_ca.jpg",
+      "imageWidth": 2400,
+      "imageHeight": 3552,
+      "story": "Catherine of Alexandria is a tempera painting created by Ioannis Kornaros. \nKornaros was probably a monk in Crete during the period the Ottoman Empire occupied it from (1667–1898). He was a student of Georgios Kastrofylakas, and both painters were influenced by the late Cretan School. There were some painters residing in Crete after the Ottoman occupation, including Michael Prevelis. Oriental themes influenced some of Kastrofylakas' works. Both artists were part of the Greek Neoclassical era and the Modern Greek Enlightenment in art. One of Kornaros' most notable works is a painting entitled Great Art Thou . The painter was active in Crete, Mount Sinai, and Cyprus. He died the same year the Greek War of Independence began. According to the Institute of Neohellenic Research, forty-eight of his paintings have survived.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Catherine_of_Alexandria_(Kornaros)",
+      "sitelinks": 2,
+      "widthCm": 41,
+      "heightCm": 60.5,
+      "pageviews": 612,
+      "qid": "Q131581929",
+      "imageBytes": 5229526,
+      "imageCredit": {
+        "author": "Sailko",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Giovanni_cornaros,_santa_caterina_d'alessandria,_1775-1800_ca.jpg"
+      }
+    },
+    {
+      "slug": "megas-ei-kyrie-q131581867",
+      "title": "Megas Ei Kyrie",
+      "year": 1770,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/MegasEiKyrie_MoniToplouLasithiKritis.jpg",
+      "imageWidth": 1459,
+      "imageHeight": 1833,
+      "story": "Baptism of Jesus Resurrection of Jesus Madonna and Child Last Supper",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 85,
+      "heightCm": 133,
+      "pageviews": null,
+      "qid": "Q131581867",
+      "imageBytes": 4483755,
+      "imageCredit": {
+        "author": "Ioannis Kornaros",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:MegasEiKyrie_MoniToplouLasithiKritis.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

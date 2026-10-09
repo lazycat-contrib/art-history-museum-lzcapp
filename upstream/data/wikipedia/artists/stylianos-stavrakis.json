@@ -1,0 +1,76 @@
+{
+  "slug": "stylianos-stavrakis",
+  "periodSlug": "cretan-school",
+  "name": "Stylianos Stavrakis",
+  "wikiTitle": "Stylianos Stavrakis",
+  "qid": "Q108109607",
+  "birthYear": 1709,
+  "deathYear": 1786,
+  "tagline": "Greek painter",
+  "bio": "Stylianos Stavrakis, was a Greek painter during the Neo-Hellenic Enlightenment era in art. He was a goldsmith and painter. He was very active on the Ionian Islands. Nikolaos Koutouzis, Nikolaos Doxaras and Nikolaos Kallergis were all active in Zakynthos during the same period. He is a prominent member of the coveted Heptanese painting style. He comes from a family of painters. His brother Andreas Stavrakis and nephew Demetrios Stavrakis were both famous painters. He influenced countless artists. Konstantinos Kontarinis and other artists of the Ionian Islands began to emulate his work. His most notable work is The Deposition from the Cross (Stavrakis). Fourteen of his paintings survived. Most of them can be found in Zakynthos, Greece.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Stylianos_Stavrakis_Descent_from_the_Cross.png",
+  "portraitWidth": 769,
+  "portraitHeight": 929,
+  "portraitCredit": {
+    "author": "Stylianos Stavrakis",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Stylianos_Stavrakis_Descent_from_the_Cross.png"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stylianos_Stavrakis",
+  "paintings": [
+    {
+      "slug": "vision-of-constantine-stavarkis",
+      "title": "Vision of Constantine (Stavarkis)",
+      "year": 1725,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Vision_of_Constantine_the_Great_by_Stylianos_Stavrakis_%28Byzantine_museum%29.jpg",
+      "imageWidth": 1080,
+      "imageHeight": 628,
+      "story": "Vision of Constantine (Stavarkis) is a tempera painting created by Greek painter and goldsmith Stylianos Stavrakis. Stavrakis was a major representative of the Heptanese school. Many of his works were completed on the Ionian islands namely Zakynthos. He was active during the 1700s. He was from a prominent family of painters\nHis student was his nephew famous Greek painter Demetrios Stavrakis.",
+      "facts": [
+        "Vision of Constantine is a tempera painting on wood panel in the form of an arch.",
+        "The painting was used to fill an archway in a church in Zakynthos."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vision_of_Constantine_(Stavarkis)",
+      "sitelinks": 3,
+      "widthCm": 174,
+      "heightCm": 86,
+      "pageviews": 1013,
+      "qid": "Q112225185",
+      "imageBytes": 101217,
+      "imageCredit": {
+        "author": "Stylianos Stavrakis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Vision_of_Constantine_the_Great_by_Stylianos_Stavrakis_(Byzantine_museum).jpg"
+      }
+    },
+    {
+      "slug": "the-deposition-from-the-cross-stavrakis",
+      "title": "The Deposition from the Cross (Stavrakis)",
+      "year": 1729,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Stylianos_Stavrakis_Descent_from_the_Cross.png",
+      "imageWidth": 769,
+      "imageHeight": 929,
+      "story": "The Deposition from the Cross or Descent from the Cross is a tempera painting created by Greek painter Stylianos Stavrakis. He was active during the early part of the 1700s. His nephew and brother were also famous painters. His nephew Demetrios Stavrakis was also his pupil. He was also a goldsmith. Most of his works were completed on the island of Zakynthos. He was a representative of the Heptanese school and Greek Rococo. Fourteen of his paintings survived.",
+      "facts": [
+        "The Descent from the Cross is made of tempera paint, wood panel, and gold leaf.",
+        "Ioannis Apakas's Descent from the Cross features flattened surfaces in line with the maniera greca."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Deposition_from_the_Cross_(Stavrakis)",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 398,
+      "qid": "Q112225184",
+      "imageBytes": 1714026,
+      "imageCredit": {
+        "author": "Stylianos Stavrakis",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Stylianos_Stavrakis_Descent_from_the_Cross.png"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

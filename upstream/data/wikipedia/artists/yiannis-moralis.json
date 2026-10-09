@@ -1,0 +1,42 @@
+{
+  "slug": "yiannis-moralis",
+  "periodSlug": "contemporary",
+  "name": "Yiannis Moralis",
+  "wikiTitle": "Yiannis Moralis",
+  "qid": "Q2003723",
+  "birthYear": 1916,
+  "deathYear": 2009,
+  "tagline": "Greek visual artist (1916–2009)",
+  "bio": "Yiannis Moralis was an important Greek visual artist and part of the so-called \"Generation of the '30s\". He is a person who carried weight in many fields and found himself to be equally au courant. Furthermore, he exhibited a strong sense of responsibility when it came to confronting modern day problems. His art is distinct for the esoteric nature of its forms and its capacity and ability to suggest space.",
+  "portraitUrl": null,
+  "portraitWidth": null,
+  "portraitHeight": null,
+  "portraitCredit": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yiannis_Moralis",
+  "paintings": [
+    {
+      "slug": "funeral-composition",
+      "title": "Funeral Composition",
+      "year": 1958,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5a/Funeral_Composition.jpg",
+      "imageWidth": 281,
+      "imageHeight": 260,
+      "story": "Funeral Composition is painting by Yiannis Moralis from 1958.",
+      "facts": [
+        "It is in the collection of the National Gallery-Museum Alexandros Soutzos (Ex.",
+        "This work of Yannis Moralis brings together a number of key features that seem of interest and concern to the artist since the early 1950s."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Funeral_Composition",
+      "sitelinks": 2,
+      "qid": "Q22671271",
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Yiannis Moralis / National Gallery, Athens",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Funeral_Composition.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

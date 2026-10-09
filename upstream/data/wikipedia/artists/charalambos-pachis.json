@@ -1,0 +1,93 @@
+{
+  "slug": "charalambos-pachis",
+  "periodSlug": "academic-art",
+  "name": "Charalambos Pachis",
+  "wikiTitle": "Charalambos Pachis",
+  "qid": "Q12886041",
+  "birthYear": 1844,
+  "deathYear": 1891,
+  "tagline": "Greek painter",
+  "bio": "Charalambos Pachis was a Greek painter of the Heptanese school who specialized in landscapes and historical scenes.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Pachis-Feraios.jpg",
+  "portraitWidth": 370,
+  "portraitHeight": 483,
+  "portraitCredit": {
+    "author": "Charalambos Pachis (1844-1891)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Pachis-Feraios.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charalambos_Pachis",
+  "paintings": [
+    {
+      "slug": "may-day-on-corfu-q128258459",
+      "title": "May Day on Corfu",
+      "year": 1878,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/1878_Pachis_May_Day_on_Corfu_1888_National_Gallery_-_Corfu_Annex_anagoria.jpg",
+      "imageWidth": 9841,
+      "imageHeight": 12000,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q128258459",
+      "imageBytes": 46486377,
+      "imageCredit": {
+        "author": "Charalambos Pachis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:1878_Pachis_May_Day_on_Corfu_1888_National_Gallery_-_Corfu_Annex_anagoria.jpg"
+      }
+    },
+    {
+      "slug": "o-assassinio-de-capodistrias-charalambos-pachis-galeria-municipal-de-corfu-02-q130565224",
+      "title": "O Assassínio de Capodistrias, Charalambos Pachis, Galeria Municipal de Corfu 02",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/O_Assass%C3%ADnio_de_Capodistrias%2C_Charalambos_Pachis%2C_Galeria_Municipal_de_Corfu_02.jpg",
+      "imageWidth": 1081,
+      "imageHeight": 811,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q130565224",
+      "imageBytes": 521325,
+      "imageCredit": {
+        "author": "GualdimG",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:O_Assass%C3%ADnio_de_Capodistrias,_Charalambos_Pachis,_Galeria_Municipal_de_Corfu_02.jpg"
+      }
+    },
+    {
+      "slug": "ioannis-capodistrias-charalambos-pachis-galeria-municipal-de-corfu-03-q130566125",
+      "title": "Ioannis Capodistrias, Charalambos Pachis, Galeria Municipal de Corfu 03",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ioannis_Capodistrias%2C_Charalambos_Pachis%2C_Galeria_Municipal_de_Corfu_03.jpg",
+      "imageWidth": 753,
+      "imageHeight": 920,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q130566125",
+      "imageBytes": 93181,
+      "imageCredit": {
+        "author": "GualdimG",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ioannis_Capodistrias,_Charalambos_Pachis,_Galeria_Municipal_de_Corfu_03.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,255 @@
+{
+  "slug": "george-grosz",
+  "periodSlug": "expressionism",
+  "name": "George Grosz",
+  "wikiTitle": "George Grosz",
+  "qid": "Q107194",
+  "birthYear": 1893,
+  "deathYear": 1959,
+  "tagline": "German artist (1893–1959)",
+  "bio": "George Grosz was a German artist known especially for his caricatural drawings and paintings of Berlin life in the 1920s. He was a prominent member of the Berlin Dada and New Objectivity groups during the Weimar Republic. He emigrated to the United States in 1933, and became a naturalized citizen in 1938. Abandoning the style and subject matter of his earlier work, he exhibited regularly and taught for many years at the Art Students League of New York. In 1959 he returned to Berlin, where he died shortly afterwards.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/GeorgeGrosz.jpg",
+  "portraitWidth": 281,
+  "portraitHeight": 382,
+  "portraitCredit": {
+    "author": null,
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://en.wikipedia.org/wiki/File:GeorgeGrosz.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Grosz",
+  "paintings": [
+    {
+      "slug": "metropolis-grosz",
+      "title": "Metropolis (Grosz)",
+      "year": 1917,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8d/George_Grosz_-_Metropolis_%281916-17%29.jpg",
+      "imageWidth": 2750,
+      "imageHeight": 2728,
+      "story": "Metropolis is an oil on canvas painting by the German artist George Grosz, executed in 1916–1917. It belongs to the collection of the Thyssen-Bornemisza Museum in Madrid.",
+      "facts": [
+        "When the Nazis reached power, they banned modern art, so Grosz was one of the artists outlawed as degenerate.",
+        "Shortly thereafter, it was among the works sold by the Nazi regime in the Fischer Gallery in Lucerne, as part of fund-raising for the rearmament program."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Metropolis_(Grosz)",
+      "sitelinks": 7,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 3829,
+      "qid": "Q21711769",
+      "imageBytes": 2219396,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "George Grosz",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:George_Grosz_-_Metropolis_(1916-17).jpg"
+      }
+    },
+    {
+      "slug": "daum-marries-her-pedantic-automaton-george-in-may-1920",
+      "title": "Daum Marries Her Pedantic Automaton \"George\" in May 1920",
+      "year": 1920,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d0/George_Grosz%2C_Daum_marries_her_pedantic_automaton_George_in_May_1920%2C_John_Heartfield_is_very_glad_of_it%2C_Berlinische_Galerie.jpg",
+      "imageWidth": 2133,
+      "imageHeight": 3000,
+      "story": "Daum Marries Her Pedantic Automaton \"George\" in May 1920. John Heartfield is very glad of it. is a painting created by using the combination of pencil, pen, brush and ink, watercolor and collage, by the German artist George Grosz, in 1920. The painting does have an original English title. It is held at the Berlin Landesmuseum fur Moderne Kunst, in the Berlinische Galerie.",
+      "facts": [
+        "The scene takes place having an irrealistic urban background that seems inspired by the work of Giorgio de Chirico.",
+        "This painting reflects his Dada artistic tendency of the time, and is an ironic take on his recent marriage."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daum_Marries_Her_Pedantic_Automaton_%22George%22_in_May_1920",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 2073,
+      "qid": "Q108730270",
+      "imageBytes": 3733326,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "George Grosz",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:George_Grosz,_Daum_marries_her_pedantic_automaton_George_in_May_1920,_John_Heartfield_is_very_glad_of_it,_Berlinische_Galerie.jpg"
+      }
+    },
+    {
+      "slug": "the-love-sick",
+      "title": "The Love Sick",
+      "year": 1916,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Der_Liebeskranke.jpg",
+      "imageWidth": 1278,
+      "imageHeight": 1660,
+      "story": "The Love Sick is an oil on canvas painting by the German expressionist painter George Grosz, executed in 1916. The unsigned work is held at the Kunstsammlung Nordrhein-Westfalen, in Düsseldorf. It was bought from the New York gallery owner Richard L. Feigen, in 1979.",
+      "facts": [
+        "Grosz, after serving in the German Army since 1914, would be dismissed on 11 May 1915, for medical reasons.",
+        "He worked frantically from July 1915 until January 1917, when he was drafted for service, in his workshop and home located in Berlin, at the Stephanstrasse."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Love_Sick",
+      "sitelinks": 2,
+      "widthCm": 77,
+      "heightCm": 100,
+      "pageviews": 1913,
+      "qid": "Q48775220",
+      "imageBytes": 402808,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "w:George Grosz",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Der_Liebeskranke.jpg"
+      }
+    },
+    {
+      "slug": "the-funeral-grosz",
+      "title": "The Funeral (Grosz)",
+      "year": 1917,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/Grosz_Widmung_an_Oskar_Panizza.jpg",
+      "imageWidth": 800,
+      "imageHeight": 1038,
+      "story": "The Funeral (often The Funeral (Dedicated to Oskar Panizza)) is a painting by the German Expressionist artist George Grosz, completed between 1917 and 1918. The work combines elements of Futurism and Cubism to show a funeral procession in a modern urban city, as an infernal abyss populated by twisted and grotesque attendants. The painting is dedicated to the German psychiatrist and avant-garde writer Oskar Panizza (1853–1921), noted for his play Liebeskonzil which draws on the first historically documented outbreak of syphilis and depicts God the Father as a senile old man. Panizza's works, in which he rejected militarism and religious authority were deemed blasphemous by the Church and the government of Emperor Wilhelm II. They were later admired by Grosz and other idealists of the dada generation.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Funeral_(Grosz)",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 6473,
+      "qid": "Q7735459",
+      "imageBytes": 278114,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "George Grosz",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Grosz_Widmung_an_Oskar_Panizza.jpg"
+      }
+    },
+    {
+      "slug": "the-poet-max-herrmann-neisse",
+      "title": "The Poet Max Herrmann-Neisse",
+      "year": 1927,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/df/The_Poet_Max_Herrmann-Neisse.jpg",
+      "imageWidth": 2000,
+      "imageHeight": 1597,
+      "story": "The Poet Max Hermann-Neisse is an oil-on-canvas painting executed in 1927 by German artist George Grosz. It depicts his personal friend, the writer and cabaret critic Max Herrmann-Neisse. The portrait is exemplary of the New Objectivity artistic approach. It is held at the Museum of Modern Art, in New York.",
+      "facts": [
+        "There was a property dispute between the Museum of Modern Art, New York, which bought the painting in 1952, and the Estate of George Grosz, which claimed its ownership, because it had been allegedly illegally looted by the Nazi regime in 1933.",
+        "George Grosz was a friend of Max Herrmann-Neisse, who was a leading cabaret critic in Berlin."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Poet_Max_Herrmann-Neisse",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 659,
+      "qid": "Q19883950",
+      "imageBytes": 1218540,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "w:George Grosz",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Poet_Max_Herrmann-Neisse.jpg"
+      }
+    },
+    {
+      "slug": "eclipse-of-the-sun-grosz",
+      "title": "Eclipse of the Sun (Grosz)",
+      "year": 1926,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5e/Eclipse_of_the_Sun_%28Grosz%29.webp",
+      "imageWidth": 1772,
+      "imageHeight": 2000,
+      "story": "Eclipse of the Sun is an oil-on-canvas painting by German artist George Grosz, painted in 1926. It is held at the Heckscher Museum of Art, in Huntington, New York, where it is the most famous painting.",
+      "facts": [
+        "The painting represents Grosz's harsh indictment of the political and economical realities of Germany during the Weimar Republic, specially the economic interests that dominated the new regime.",
+        "It depicts several characters around a table before the backdrop of a burning city."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eclipse_of_the_Sun_(Grosz)",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": 207.3,
+      "pageviews": 7651,
+      "qid": "Q108517416",
+      "imageBytes": 287116,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "George Grosz",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Eclipse_of_the_Sun_(Grosz).webp"
+      }
+    },
+    {
+      "slug": "cain-or-hitler-in-hell",
+      "title": "Cain, or Hitler in Hell",
+      "year": 1944,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Cain, or Hitler in Hell is an oil-on-canvas painting by German American artist George Grosz, painted in 1944. It is one of the most known paintings of the years when Grosz lived in the United States, from 1933 to 1959, after leaving Germany, shortly before the Nazis seized power. It was part of Grosz's heirs collection until being purchased in 2019 by the Deutsches Historisches Museum, in Berlin, where it has been exhibited since 2020.",
+      "facts": [
+        "The painting was created when World War II was in its final stages, with the defeat of Nazi Germany predictable.",
+        "An enormous quantity of tiny skeletons rise from the ground beneath him and start clambering his legs."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cain%2C_or_Hitler_in_Hell",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 3515,
+      "qid": "Q108749505",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "peace-ii",
+      "title": "Peace II",
+      "year": 1946,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/47/Peace_II_by_George_Grosz.jpeg",
+      "imageWidth": 264,
+      "imageHeight": 377,
+      "story": "Peace II is an oil-on-canvas painting by German American artist George Grosz, created in 1946. It is held at the Whitney Museum of American Art, in New York.",
+      "facts": [
+        "Grosz was living in the United States when World War II finished in 1945.",
+        "He had lived in the US since 1933 and did not return to his native Germany until 1959, shortly before his death."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peace_II",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 761,
+      "qid": "Q110517222",
+      "imageBytes": 35434,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "George Grosz",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Peace_II_by_George_Grosz.jpeg"
+      }
+    },
+    {
+      "slug": "the-wanderer-painting",
+      "title": "The Wanderer (painting)",
+      "year": 1943,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "The Wanderer is an oil painting on canvas created by the German artist George Grosz. The painting was completed in 1943 and is currently on display at the Memorial Art Gallery in Rochester, New York.",
+      "facts": [
+        "“In the drawings I offer you in this book, you will see the record of an artist's growth.",
+        "The Wanderer was acquired originally by the Encyclopedia Britannica to become a part of its collection of contemporary American paintings.",
+        "Subsequently, Senator William Benton purchased the painting from them in 1948, and it was later acquired once more by the Memorial Art Gallery, where it currently resides on display."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Wanderer_(painting)",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1043,
+      "qid": "Q123807825",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    }
+  ],
+  "ingestVersion": 5
+}

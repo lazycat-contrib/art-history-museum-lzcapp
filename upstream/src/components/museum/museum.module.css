@@ -1,0 +1,793 @@
+/* Museum HUD overrides layered on the global .mus-* / .insp-* rules.
+   Classes are doubled (.x.x) so they win over the single-class globals
+   regardless of stylesheet order. */
+
+/* The top bar (back link) sits above the "step inside" overlay (z 30), so
+   the way out is always reachable. */
+.top.top {
+  z-index: 40;
+}
+
+/* ...but the centred title card must not catch clicks meant for the overlay
+   or cover the inspect panel on narrower screens. */
+.placard.placard {
+  pointer-events: none;
+  transition: opacity 0.4s ease;
+}
+
+.placardHidden.placardHidden {
+  opacity: 0;
+}
+
+/* The title card centred on the screen (as the room navigator under it is): the way back on the left and a
+   custom room's Edit / Save / Share on the right get equal columns, so wider buttons on one side do not push
+   it over; only when they need more than half the spare width does it give way, never overlap. */
+@media (min-width: 641px) {
+  .top.top {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    column-gap: 16px;
+  }
+}
+.topSide.topSide {
+  display: flex;
+  align-items: flex-start;
+  pointer-events: none;
+}
+.topSide.topSide > * {
+  pointer-events: auto;
+}
+.topRight.topRight {
+  justify-content: flex-end;
+}
+
+@media (max-width: 640px) {
+  .placard.placard {
+    padding: 8px 14px;
+  }
+}
+
+/* Controls hint: wrap instead of running off narrower screens (up to eleven
+   entries on desktop, with the audio guide and a custom room's elevator: ~1420 px on one line). */
+@media (max-width: 1480px) {
+  .hint.hint {
+    bottom: 16px;
+    max-width: calc(100vw - 32px);
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 6px;
+    column-gap: 18px;
+    white-space: normal;
+    text-align: center;
+    border-radius: 18px;
+  }
+}
+
+/* Inspect panel: a bottom sheet on narrow screens. Keep the breakpoint and
+   height in sync with inspectPanelInset() in layout.ts. */
+@media (max-width: 760px) {
+  .panel.panel {
+    top: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: min(50vh, 480px);
+    border-radius: 16px 16px 0 0;
+    box-shadow: 0 -24px 60px rgba(0, 0, 0, 0.5);
+  }
+  .panel.panel :global(.insp-scroll) {
+    padding: 30px 22px 22px;
+  }
+  .panel.panel :global(.insp-zoom-hint) {
+    padding: 10px 22px;
+  }
+}
+
+/* A suite's room navigator ("‹ Room 4 of 16 · 1530–1535 ›"): a child of the
+   top bar, hung just below it, so it clears the title card however tall that
+   grows (a long name wraps on a phone). The bar sits above the "step inside"
+   overlay (z 30), so it stays usable there. The pill is dark enough for its
+   gold label to keep >= 4.5:1 over the brightest laylight behind it (the
+   blur's backdrop is replaced by a solid pseudo-element so the open list can
+   blur the page itself). */
+.roomNav {
+  position: absolute;
+  top: calc(100% - 6px);
+  left: 50%;
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px;
+  color: var(--light);
+  border: 1px solid rgba(199, 169, 122, 0.4);
+  border-radius: 999px;
+  isolation: isolate;
+  transform: translateX(-50%);
+  transition: opacity 0.4s ease;
+  pointer-events: auto;
+}
+
+.roomNav::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background: rgba(10, 9, 8, 0.8);
+  backdrop-filter: blur(8px);
+  pointer-events: none;
+}
+
+.roomNavHidden.roomNavHidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.roomNav button:focus-visible {
+  outline: 2px solid var(--gold-soft);
+  outline-offset: 2px;
+}
+
+.roomNavBtn {
+  width: 30px;
+  height: 30px;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: var(--gold-soft);
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.roomNavBtn:hover:not(:disabled),
+.roomNavLabel:hover:not(:disabled) {
+  background: rgba(199, 169, 122, 0.14);
+}
+
+.roomNavBtn:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+.roomNavLabel {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 6px 16px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 10px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.roomNavLabel b {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 0.22em;
+  color: var(--gold-soft);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
+  /* the serif's old-style "1" reads as a dotless ı at this size */
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.roomNavOf {
+  font-family: var(--sans, inherit);
+  font-size: 10px;
+  letter-spacing: 0.3em;
+  color: var(--light);
+  opacity: 0.7;
+}
+
+.roomNavYears {
+  opacity: 0.85;
+}
+
+/* entering a room: the label glows up for a moment */
+.roomNavPulse {
+  animation: roomNavPulse 2.4s ease;
+}
+
+@keyframes roomNavPulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(199, 169, 122, 0.55);
+    background: rgba(199, 169, 122, 0.22);
+  }
+  100% {
+    box-shadow: 0 0 0 14px rgba(199, 169, 122, 0);
+    background: transparent;
+  }
+}
+
+/* The open list stands above everything under the bar (the "step inside"
+   title included): near-opaque, and blurred where it is not. */
+.roomList {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 50%;
+  z-index: 1;
+  width: 260px;
+  max-width: calc(100vw - 32px);
+  max-height: min(52vh, 420px);
+  overflow-y: auto;
+  margin: 0;
+  padding: 6px;
+  border: 1px solid rgba(199, 169, 122, 0.4);
+  border-radius: 12px;
+  background: rgba(12, 11, 9, 0.96);
+  backdrop-filter: blur(14px);
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.55);
+  transform: translateX(-50%);
+}
+
+.roomList button {
+  display: flex;
+  width: 100%;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 12px;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--light);
+  font: inherit;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.roomList button b {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--gold-soft);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.roomList button:hover,
+.roomList button:focus-visible,
+.roomList button[aria-current="location"] {
+  background: rgba(199, 169, 122, 0.16);
+}
+
+.roomList button:focus-visible {
+  outline-offset: -2px;
+}
+
+/* the jump between rooms: a quick fade through black */
+.teleportFade {
+  position: absolute;
+  inset: 0;
+  z-index: 35;
+  background: #050403;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.26s ease;
+}
+
+.teleportFadeOn {
+  opacity: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .roomNavPulse {
+    animation: none;
+  }
+}
+
+@media (max-width: 640px) {
+  .roomNav {
+    top: calc(100% - 10px);
+    gap: 0;
+    padding: 2px;
+  }
+  .roomNavLabel {
+    gap: 8px;
+    padding: 6px 8px;
+    letter-spacing: 0.16em;
+  }
+  .roomNavBtn {
+    width: 28px;
+    height: 28px;
+  }
+}
+
+/* Inspect panel, a work still in copyright: the tag above the title and a
+   clear way to see the image on Wikipedia. */
+.copyrightTag {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 4px 10px;
+  font-size: 10px;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--gold-ink);
+  border: 1px solid rgba(165, 127, 70, 0.45);
+  border-radius: 999px;
+}
+
+.wikiView.wikiView {
+  margin-top: 20px;
+  font-size: 11.5px;
+  color: var(--gold-ink);
+  border-bottom-color: rgba(165, 127, 70, 0.75);
+}
+
+/* Inspect panel: image and text attribution, a quiet footnote under the
+   source link (--ink-soft: 5.9:1 on the panel). */
+.credits {
+  margin-top: 18px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(165, 127, 70, 0.22);
+  font-size: 11px;
+  line-height: 1.55;
+  letter-spacing: 0.02em;
+  color: var(--ink-soft);
+  overflow-wrap: anywhere;
+}
+
+.credits p + p {
+  margin-top: 3px;
+}
+
+.credits a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(165, 127, 70, 0.45);
+}
+
+.credits a:hover,
+.credits a:focus-visible {
+  color: var(--ink);
+  border-bottom-color: var(--gold-ink);
+}
+
+/* A custom room's elevator (Elevator.tsx, beside the entrance doors): its buttons while the visitor stands
+   at it, else a way to walk there. */
+.lift {
+  position: absolute;
+  right: 20px;
+  bottom: 72px; /* above the controls hint */
+  z-index: 35;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+}
+.liftTitle {
+  padding: 0 6px;
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: rgba(233, 229, 226, 0.7);
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.8);
+}
+.elevator {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 20px 12px 14px;
+  font: inherit;
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-align: left;
+  color: var(--light);
+  border: 1px solid var(--gold-soft);
+  border-radius: 14px;
+  background: rgba(10, 9, 8, 0.6);
+  backdrop-filter: blur(8px);
+  cursor: pointer;
+}
+.elevator small {
+  display: block;
+  margin-top: 3px;
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  color: rgba(233, 229, 226, 0.65);
+}
+.elevatorArrow {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border: 1px solid rgba(233, 229, 226, 0.4);
+  border-radius: 50%;
+  color: var(--gold-soft);
+}
+
+/* A custom room's Edit / Share, clear of the source badge pinned top-right (.mus-source, 36 px at 24 px). */
+.roomActions {
+  display: flex;
+  gap: 8px;
+  margin-right: 52px;
+}
+@media (max-width: 640px) {
+  .roomActions {
+    margin-right: 0;
+  }
+}
+
+/* A custom room's introduction (its wall text), on the doors and the "step inside" card. */
+.intro.intro {
+  max-width: 560px;
+  margin: 14px auto 0;
+  font-family: var(--serif);
+  font-size: 19px;
+  font-style: italic;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-transform: none;
+  opacity: 0.9;
+}
+
+/* Walking on after Esc (or after leaving a painting with Esc): the room stays in view, a click anywhere or a
+   walk key takes the cursor back. */
+.resume.resume {
+  background: transparent;
+  backdrop-filter: none;
+}
+.resumePill.resumePill {
+  padding: 10px 20px;
+  border-radius: 999px;
+  border: 1px solid rgba(199, 169, 122, 0.4);
+  background: rgba(10, 9, 8, 0.6);
+  backdrop-filter: blur(8px);
+  font-size: 11px;
+  letter-spacing: 0.24em;
+  opacity: 0.92;
+}
+
+/* The settings (SettingsPanel.tsx): a button top-left under the audio guide's, a centred card. */
+.hudTools {
+  position: absolute;
+  left: 24px;
+  top: 128px;
+  z-index: 35;
+  display: flex;
+  gap: 8px;
+}
+.hudTool {
+  padding: 8px 16px;
+  font: inherit;
+  font-size: 10.5px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: rgba(233, 229, 226, 0.8);
+  border: 1px solid rgba(233, 229, 226, 0.25);
+  border-radius: 999px;
+  background: rgba(10, 9, 8, 0.5);
+  backdrop-filter: blur(8px);
+  cursor: pointer;
+}
+.hudTool kbd {
+  margin-left: 8px;
+  font: inherit;
+  color: var(--gold-soft);
+}
+/* with the controls hidden: one faint button to bring them back */
+.hudBack {
+  position: absolute;
+  left: 16px;
+  bottom: 16px;
+  z-index: 35;
+  opacity: 0.55;
+}
+.hudBack:hover,
+.hudBack:focus-visible {
+  opacity: 1;
+}
+@media (max-width: 720px) {
+  .hudTools {
+    left: 12px;
+    top: 106px;
+  }
+}
+.hudOff :global(.mus-top),
+.hudOff :global(.mus-hint),
+.hudOff :global(.mus-guide),
+.hudOff :global(.mus-music),
+.hudOff .lift,
+.hudOff .hudTools {
+  display: none;
+}
+
+.settingsBack {
+  position: absolute;
+  inset: 0;
+  z-index: 45;
+  display: grid;
+  place-items: center;
+  padding: 16px;
+  background: rgba(5, 4, 3, 0.35);
+}
+.settings {
+  width: min(420px, 100%);
+  max-height: calc(100% - 32px);
+  overflow-y: auto;
+  padding: 22px 24px 20px;
+  color: var(--light);
+  border: 1px solid rgba(199, 169, 122, 0.4);
+  border-radius: 16px;
+  background: rgba(12, 11, 9, 0.92);
+  backdrop-filter: blur(14px);
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.55);
+}
+.settings h2 {
+  margin: 0 0 14px;
+  font-family: var(--serif);
+  font-weight: 500;
+  font-size: 22px;
+  color: var(--gold-soft);
+}
+.settings section + section {
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(199, 169, 122, 0.18);
+}
+.settings h3 {
+  margin: 0 0 8px;
+  font-size: 10.5px;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: rgba(233, 229, 226, 0.75);
+}
+.settings p {
+  margin: 8px 0 0;
+  font-size: 12.5px;
+  line-height: 1.45;
+  color: rgba(233, 229, 226, 0.62);
+}
+.seg {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.seg button {
+  flex: 1 1 auto;
+  padding: 8px 12px;
+  font: inherit;
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  color: rgba(233, 229, 226, 0.85);
+  border: 1px solid rgba(233, 229, 226, 0.22);
+  border-radius: 999px;
+  background: transparent;
+  cursor: pointer;
+}
+.seg button:hover {
+  background: rgba(199, 169, 122, 0.12);
+}
+.seg button[aria-pressed="true"] {
+  color: #15110c;
+  border-color: var(--gold-soft);
+  background: var(--gold-soft);
+}
+.seg button:focus-visible,
+.settingsDone:focus-visible,
+.hudTool:focus-visible {
+  outline: 2px solid var(--gold-soft);
+  outline-offset: 2px;
+}
+.settingsDone {
+  display: block;
+  width: 100%;
+  margin-top: 20px;
+  padding: 10px;
+  font: inherit;
+  font-size: 11px;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--gold-soft);
+  border: 1px solid var(--gold-soft);
+  border-radius: 999px;
+  background: transparent;
+  cursor: pointer;
+}
+
+/* Inspect: the image as it is (InspectPanel's Original), flat on a dark ground, above everything. */
+.originalBtn.originalBtn {
+  display: block;
+  padding: 0 0 2px;
+  font: inherit;
+  font-size: 10.5px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  border: 0;
+  border-bottom: 1px solid rgba(165, 127, 70, 0.4);
+  background: none;
+  cursor: pointer;
+}
+.originalBtn.originalBtn:hover,
+.originalBtn.originalBtn:focus-visible {
+  color: var(--ink);
+  border-bottom-color: var(--gold-ink);
+}
+.original {
+  position: fixed;
+  inset: 0;
+  z-index: 300;
+  display: grid;
+  place-items: center;
+  padding: 24px 24px 76px;
+  background: #0b0a09;
+  cursor: zoom-out;
+}
+.original img {
+  max-width: calc(100vw - 48px);
+  max-height: calc(100vh - 100px);
+  max-height: calc(100dvh - 100px);
+  object-fit: contain;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
+}
+.originalBar {
+  position: absolute;
+  left: 50%;
+  bottom: 18px;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  max-width: calc(100vw - 32px);
+  padding: 8px 10px 8px 20px;
+  font-size: 12px;
+  color: rgba(233, 229, 226, 0.85);
+  border: 1px solid rgba(233, 229, 226, 0.2);
+  border-radius: 999px;
+  background: rgba(20, 18, 16, 0.85);
+  transform: translateX(-50%);
+  cursor: default;
+}
+.originalBar span {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-family: var(--serif);
+  font-size: 15px;
+}
+.originalBar a {
+  flex: none;
+  color: var(--gold-soft);
+  text-decoration: none;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-size: 10.5px;
+}
+.originalBar button {
+  flex: none;
+  padding: 7px 16px;
+  font: inherit;
+  font-size: 10.5px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--gold-soft);
+  border: 1px solid var(--gold-soft);
+  border-radius: 999px;
+  background: transparent;
+  cursor: pointer;
+}
+
+/* Inspect panel: about this work (movement, genre, collection; before and after; the same year). */
+.about {
+  margin-top: 22px;
+  padding-top: 16px;
+  border-top: 1px solid rgba(165, 127, 70, 0.22);
+}
+.about h3 {
+  margin: 0 0 10px;
+  font-size: 10.5px;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--gold-ink);
+}
+.about dl {
+  margin: 0;
+  display: grid;
+  gap: 4px;
+}
+.about dl div {
+  display: grid;
+  grid-template-columns: 92px 1fr;
+  gap: 10px;
+  font-size: 13.5px;
+  line-height: 1.4;
+}
+.about dt {
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: var(--ink-soft);
+}
+.about dd {
+  margin: 0;
+  color: var(--ink);
+}
+.aboutSteps {
+  display: grid;
+  gap: 8px;
+  margin-top: 14px;
+}
+.aboutStep {
+  display: block;
+  width: 100%;
+  padding: 8px 12px;
+  font: inherit;
+  font-family: var(--serif);
+  font-size: 15px;
+  text-align: left;
+  color: var(--ink);
+  border: 1px solid rgba(165, 127, 70, 0.3);
+  border-radius: 8px;
+  background: transparent;
+  cursor: pointer;
+}
+.aboutStep:hover,
+.aboutStep:focus-visible {
+  border-color: var(--gold-ink);
+  background: rgba(165, 127, 70, 0.08);
+}
+.aboutStep small {
+  display: block;
+  margin-bottom: 2px;
+  font-family: var(--sans, inherit);
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+.aboutYear {
+  margin-top: 14px;
+  font-size: 13.5px;
+  line-height: 1.45;
+  color: var(--ink);
+}
+.aboutYear small {
+  display: block;
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+.aboutYear ul {
+  margin: 4px 0 0;
+  padding-left: 18px;
+}
+
+/* Inspect panel: the work's tags (era, period, movement, school, genre, country). */
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0 0 14px;
+  padding: 0;
+  list-style: none;
+}
+.tags li {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  padding: 4px 10px;
+  font-size: 12.5px;
+  line-height: 1.3;
+  color: var(--ink);
+  border: 1px solid rgba(165, 127, 70, 0.35);
+  border-radius: 999px;
+  background: rgba(165, 127, 70, 0.06);
+}
+.tags small {
+  font-size: 9.5px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}

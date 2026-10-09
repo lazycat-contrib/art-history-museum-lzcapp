@@ -1,0 +1,10 @@
+exhibition_id,room,title,wall_text,terms,artists,nationality,year_from,year_to,title_words,max_works,rank_by
+greek-painting,1,The Cretan School,"Icons and altarpieces painted in Venetian Crete, joining Byzantine tradition with Italian painting.",period:cretan-school,,,1400,1669,,24,featured
+greek-painting,2,Domenikos Theotokopoulos,"El Greco trained as an icon painter in Candia before Venice, Rome and Toledo.",,el-greco,,,,,12,featured
+greek-painting,3,The Ionian Islands,"After Crete fell in 1669 its painters moved to Corfu, Zakynthos and Kefalonia: the Heptanese school.",period:cretan-school,,,1670,1830,,24,featured
+greek-painting,4,Athens and Munich,"The painters of the new Greek state, most of them trained at the Munich Academy.",,,Greece|Kingdom of Greece|Greeks,1830,1900,,30,featured
+greek-painting,5,Light and Colour,"Greek painters after 1900, from the Munich manner to light, colour and modern art.",,,Greece|Kingdom of Greece|Third Hellenic Republic|Greeks,1900,1960,,30,featured
+greek-painting,6,Yannis Gaïtis,"Gaïtis's little men, repeated in rows and crowds, from his catalogue raisonné released by his family.",,yannis-gaitis,,,,,40,year
+the-sea,1,Harbours and Ships,"Sea painting as a genre of its own, in the Netherlands and after.",,,,1600,1799,sea|harbou?r|ships?|shore|seascape|marine|coast|port|naval|fleet|storm,30,featured
+the-sea,2,Storm and Shore,"The Romantic sea: wrecks, storms and the coast.",,,,1800,1870,sea|harbou?r|ships?|shore|seascape|marine|coast|port|naval|wave|storm|beach,30,featured
+the-sea,3,Light on the Water,"Painters outdoors, from the Channel coast to the Aegean.",,,,1870,1950,sea|harbou?r|ships?|shore|seascape|marine|coast|port|boats?|wave|beach|bay,30,featured

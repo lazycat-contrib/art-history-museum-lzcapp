@@ -1,0 +1,73 @@
+{
+  "slug": "efstathios-karousos",
+  "periodSlug": "cretan-school",
+  "name": "Efstathios Karousos",
+  "wikiTitle": "Efstathios Karousos",
+  "qid": "Q108839551",
+  "birthYear": 1735,
+  "deathYear": 1818,
+  "tagline": "Greek painter (died 1818)",
+  "bio": "Efstathios Karousos also known as Eustathios Karousos, Efstathio Karousou (Greek: Ευστάθιο Καρουσου, Eustacchio Caruso and Eustachio Caruso. He was a Greek painter and writer. He is one of the elite painters from the island of Cephalonia. Other painters from the same region around the same period included Andreas Karantinos and Gerasimos Pitsamanos. He was active in Cephalonia, Naples, Trieste, and other parts of Italy. Some of his paintings have survived. He is one of few Greek painters to have worked and lived outside of the Venetian Empire. Both Karousos and Belisario Corenzio were active painters in Naples. Some of his work emulated the typical Heptanese School. According to the Institute of Neohellenic Research, forty-nine of his works survived. Thirty-eight of his works are in the church Santi Pietro e Paolo dei Greci.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Efstathios_Karousos_Agios_Eleftherios.png",
+  "portraitWidth": 322,
+  "portraitHeight": 527,
+  "portraitCredit": {
+    "author": "Efstathios Karousos",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Efstathios_Karousos_Agios_Eleftherios.png"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Efstathios_Karousos",
+  "paintings": [
+    {
+      "slug": "entry-of-christ-into-jerusalem-karousos",
+      "title": "Entry of Christ into Jerusalem (Karousos)",
+      "year": 1780,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Efstathios_Karousos_Entry_of_Christ_into_Jerusalem.png",
+      "imageWidth": 522,
+      "imageHeight": 702,
+      "story": "Entry of Christ into Jerusalem or Veoforos is a tempera painting created by Efstathios Karousos. He was a Greek painter. He was a prominent member of the Heptanese School. He was from Kefalonia. He was active in Kefalonia, Naples, Triste and Venice. He is the second Greek painter associated with Naples the other was Belisario Corenzio. Both painters were affiliated with Santi Pietro e Paolo dei Greci. Karouso's artistic period was from 1750 to 1818. Thirty-eight of his works survived. Most of his works are in the church Santi Pietro e Paolo dei Greci.",
+      "facts": [
+        "The materials used for the work were tempera paint, gold leaf, and wood.",
+        "His features are demonstrative of the artist's advanced knowledge of painting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Entry_of_Christ_into_Jerusalem_(Karousos)",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 619,
+      "qid": "Q112321489",
+      "imageBytes": 833239,
+      "imageCredit": {
+        "author": "Efstathios Karousos",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Efstathios_Karousos_Entry_of_Christ_into_Jerusalem.png"
+      }
+    },
+    {
+      "slug": "presentation-of-mary-karousos-q113253665",
+      "title": "Presentation of Mary (Karousos)",
+      "year": 1774,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Presentation_of_Mary_%28Karousos%29.png",
+      "imageWidth": 639,
+      "imageHeight": 865,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q113253665",
+      "imageBytes": 1426485,
+      "imageCredit": {
+        "author": "Efstathios Karousos",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Presentation_of_Mary_(Karousos).png"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

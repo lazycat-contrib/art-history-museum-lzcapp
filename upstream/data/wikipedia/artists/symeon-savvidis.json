@@ -1,0 +1,139 @@
+{
+  "slug": "symeon-savvidis",
+  "periodSlug": "academic-art",
+  "name": "Symeon Savvidis",
+  "wikiTitle": "Symeon Savvidis",
+  "qid": "Q2374523",
+  "birthYear": 1859,
+  "deathYear": 1927,
+  "tagline": "Greek painter",
+  "bio": "Symeon Savvidis, or Sabbides was a Greek painter; influenced by the Munich School. His most familiar works are on Turkish themes.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Pipe_lit_by_Symeon_Sabbides.jpg",
+  "portraitWidth": 570,
+  "portraitHeight": 846,
+  "portraitCredit": {
+    "author": "Symeon Sabbides (1859-1827)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Pipe_lit_by_Symeon_Sabbides.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Symeon_Savvidis",
+  "paintings": [
+    {
+      "slug": "boats-in-bosphorus-q56739767",
+      "title": "Boats in Bosphorus",
+      "year": 1898,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Boats_in_Bosphorus_by_Symeon_Sabbides.jpg",
+      "imageWidth": 730,
+      "imageHeight": 478,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q56739767",
+      "imageBytes": 75004,
+      "imageCredit": {
+        "author": "Symeon Savvidis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Boats_in_Bosphorus_by_Symeon_Sabbides.jpg"
+      }
+    },
+    {
+      "slug": "the-lighting-of-the-tobacco-pipe-q56739781",
+      "title": "The lighting of the tobacco pipe",
+      "year": 1898,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Pipe_lit_by_Symeon_Sabbides.jpg",
+      "imageWidth": 570,
+      "imageHeight": 846,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 56,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q56739781",
+      "imageBytes": 68436,
+      "imageCredit": {
+        "author": "Symeon Sabbides (1859-1827)",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pipe_lit_by_Symeon_Sabbides.jpg"
+      }
+    },
+    {
+      "slug": "a-study-of-colors-q56739808",
+      "title": "A study of colors",
+      "year": 1910,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/A_study_of_colors_by_Symeon_Sabbides.jpg",
+      "imageWidth": 710,
+      "imageHeight": 858,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q56739808",
+      "imageBytes": 151559,
+      "imageCredit": {
+        "author": "Symeon Savvidis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:A_study_of_colors_by_Symeon_Sabbides.jpg"
+      }
+    },
+    {
+      "slug": "landscape-in-istanbul-q56739837",
+      "title": "Landscape in Istanbul",
+      "year": 1890,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/%CE%A4%CE%BF%CF%80%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1_%CF%83%CF%84%CE%B7%CE%BD_%CE%9A%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CE%BF%CF%8D%CF%80%CE%BF%CE%BB%CE%B7.jpg",
+      "imageWidth": 3046,
+      "imageHeight": 2016,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q56739837",
+      "imageBytes": 6040376,
+      "imageCredit": {
+        "author": "Symeon Savvidis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%CE%A4%CE%BF%CF%80%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1_%CF%83%CF%84%CE%B7%CE%BD_%CE%9A%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CE%BF%CF%8D%CF%80%CE%BF%CE%BB%CE%B7.jpg"
+      }
+    },
+    {
+      "slug": "study-a-kneeling-woman-q56739847",
+      "title": "Study a kneeling woman",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/%CE%9C%CE%B5%CE%BB%CE%AD%CF%84%CE%B7_%CE%B3%CE%BF%CE%BD%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%AE%CF%82_%CE%B3%CF%85%CE%BD%CE%B1%CE%AF%CE%BA%CE%B1%CF%82.jpg",
+      "imageWidth": 2224,
+      "imageHeight": 2736,
+      "story": "Sabbides Simeon, charcoal and pencil on paper,42 x 32 cm, Private Collection",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q56739847",
+      "imageBytes": 3979260,
+      "imageCredit": {
+        "author": "Symeon Savvidis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%CE%9C%CE%B5%CE%BB%CE%AD%CF%84%CE%B7_%CE%B3%CE%BF%CE%BD%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%AE%CF%82_%CE%B3%CF%85%CE%BD%CE%B1%CE%AF%CE%BA%CE%B1%CF%82.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

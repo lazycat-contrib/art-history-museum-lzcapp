@@ -1,0 +1,1534 @@
+{
+  "slug": "salvador-dali",
+  "periodSlug": "surrealism",
+  "name": "Salvador Dalí",
+  "wikiTitle": "Salvador Dalí",
+  "qid": "Q5577",
+  "birthYear": 1904,
+  "deathYear": 1989,
+  "tagline": "Spanish surrealist artist (1904–1989)",
+  "bio": "Salvador Domingo Felipe Jacinto Dalí i Domènech, Marquess of Dalí de Púbol, known as Salvador Dalí, was a Spanish surrealist artist renowned for his technical skill, precise draftsmanship, and the striking and bizarre images in his work.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Salvador_Dal%C3%AD_1939.jpg",
+  "portraitWidth": 2885,
+  "portraitHeight": 3706,
+  "portraitCredit": {
+    "author": "Van Vechten, Carl, 1880-1964.",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Salvador_Dal%C3%AD_1939.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD",
+  "paintings": [
+    {
+      "slug": "the-persistence-of-memory",
+      "title": "The Persistence of Memory",
+      "year": 1931,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg",
+      "imageWidth": 371,
+      "imageHeight": 268,
+      "story": "The Persistence of Memory is a 1931 painting by artist Salvador Dalí and one of the most recognizable works of Surrealism. First exhibited at the Julien Levy Gallery in 1932 and sold for $250, The Persistence of Memory was donated to the Museum of Modern Art (MoMA) in New York City two years later in 1934 by an anonymous donor, where it has remained ever since. It is widely recognized and frequently referred to in popular culture, and sometimes referred to by more descriptive titles, such as \"The Melting Clocks\", \"The Soft Watches\" or \"The Melting Watches\".",
+      "facts": [
+        "Asked by Ilya Prigogine whether this was the case, Dalí replied that the soft watches were not inspired by the theory of relativity, but by the surrealist perception of a Camembert melting in the sun.",
+        "\" In the center of the painting, beneath the rightmost clock, is a distorted human face in profile.",
+        "Many of Dalí's paintings were inspired by the landscapes of his life in Catalonia."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Persistence_of_Memory",
+      "sitelinks": 48,
+      "widthCm": 33,
+      "heightCm": 24.1,
+      "pageviews": 384542,
+      "qid": "Q25729",
+      "imageBytes": 36722,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí (1904-1989)",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Persistence_of_Memory.jpg"
+      }
+    },
+    {
+      "slug": "the-great-masturbator",
+      "title": "The Great Masturbator",
+      "year": 1929,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/90/DaliGreatMasturbator.jpg",
+      "imageWidth": 2046,
+      "imageHeight": 1499,
+      "story": "The Great Masturbator (1929) is a painting by Salvador Dalí, painted during the surrealist movement. It is currently displayed at the Museo Nacional Centro de Arte Reina Sofía, Madrid.",
+      "facts": [
+        "The photos of grotesquely damaged and diseased genitalia fascinated and horrified young Dalí, and he continued to associate sex with putrefaction and decay into his adulthood.",
+        "In the centre of the painting there is a distorted human face in profile looking downwards, based on the shape of a natural rock formation at Cap de Creus along the sea-shore of Catalonia."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Great_Masturbator",
+      "sitelinks": 18,
+      "widthCm": 150,
+      "heightCm": 110,
+      "pageviews": 166857,
+      "qid": "Q167536",
+      "imageBytes": 310151,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:DaliGreatMasturbator.jpg"
+      }
+    },
+    {
+      "slug": "the-face-of-war",
+      "title": "The Face of War",
+      "year": 1940,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a9/The_Face_of_War.jpg",
+      "imageWidth": 367,
+      "imageHeight": 271,
+      "story": "The Face of War is an oil painting by the Spanish surrealist Salvador Dalí, from 1940. It was painted during a brief period when the artist lived in California. The painting is owned by the Museum Boijmans Van Beuningen, in Rotterdam",
+      "facts": [
+        "The trauma and the view of war had often served as inspiration for Dalí's work.",
+        "He sometimes believed his artistic vision to be premonitions of war."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Face_of_War",
+      "sitelinks": 16,
+      "widthCm": 79,
+      "heightCm": 64,
+      "pageviews": 16734,
+      "qid": "Q2663568",
+      "imageBytes": 19399,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Face_of_War.jpg"
+      }
+    },
+    {
+      "slug": "the-burning-giraffe",
+      "title": "The Burning Giraffe",
+      "year": 1937,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/The_Burning_Giraffe.jpg",
+      "imageWidth": 270,
+      "imageHeight": 368,
+      "story": "The Burning Giraffe is an oil painting by the Spanish surrealist Salvador Dalí, from 1937. It is held in the Kunstmuseum Basel.",
+      "facts": [
+        "The hands, forearms, and face of the nearest figure are stripped down to the muscular tissue beneath the skin.",
+        "Dalí painted Burning Giraffe before his exile in the United States, which was from 1940 to 1948."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Burning_Giraffe",
+      "sitelinks": 15,
+      "widthCm": 27,
+      "heightCm": 35,
+      "pageviews": 29162,
+      "qid": "Q133839",
+      "imageBytes": 25071,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Burning_Giraffe.jpg"
+      }
+    },
+    {
+      "slug": "dream-caused-by-the-flight-of-a-bee-around-a-pomegranate-a-second-before-awakening",
+      "title": "Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening",
+      "year": 1944,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/df/Dream_Caused_by_the_Flight_of_a_Bumblebee_around_a_Pomegranate_a_Second_Before_Awakening.jpg",
+      "imageWidth": 281,
+      "imageHeight": 354,
+      "story": "Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening is a surrealist painting by Salvador Dalí, from 1944. A shorter alternate title for the painting is Dream Caused by the Flight of a Bee. The woman in the painting, dreaming, is believed to represent his wife, Gala, a regular presence in his work. The painting is held in the Thyssen-Bornemisza Museum, in Madrid.",
+      "facts": [
+        "The elephant carries on its back an obelisk, inspired by Bernini's Elephant and Obelisk in Rome's Piazza Santa Maria sopra Minerva.",
+        "In this \"hand-painted dream photograph\", as Dalí generally called his paintings, there is a seascape of distant horizons and calm waters, perhaps Portlligat, amidst which Gala is the subject of the scene."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dream_Caused_by_the_Flight_of_a_Bee_Around_a_Pomegranate_a_Second_Before_Awakening",
+      "sitelinks": 13,
+      "widthCm": 40.5,
+      "heightCm": 51,
+      "pageviews": 65134,
+      "qid": "Q172354",
+      "imageBytes": 44485,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Dream_Caused_by_the_Flight_of_a_Bumblebee_around_a_Pomegranate_a_Second_Before_Awakening.jpg"
+      }
+    },
+    {
+      "slug": "crucifixion-corpus-hypercubus",
+      "title": "Crucifixion (Corpus Hypercubus)",
+      "year": 1954,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/09/Dali_Crucifixion_hypercube.jpg",
+      "imageWidth": 252,
+      "imageHeight": 394,
+      "story": "Crucifixion (Corpus Hypercubus) is a 1954 oil-on-canvas painting by Salvador Dalí. A nontraditional, surrealist portrayal of the Crucifixion, it depicts Christ on a polyhedron net of a tesseract (hypercube). It is one of his best-known paintings from the later period of his career. It is displayed at the Metropolitan Museum of Art in New York City.",
+      "facts": [
+        "Consistent with his theory of nuclear mysticism, Dalí uses classical elements along with ideas inspired by mathematics and science.",
+        "After being first exhibited in Rome in 1954, Corpus Hypercubus was acquired in 1955 by the Metropolitan Museum of Art in New York City, where it was renamed Crucifixion."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Crucifixion_(Corpus_Hypercubus)",
+      "sitelinks": 13,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 95370,
+      "qid": "Q2583260",
+      "imageBytes": 20350,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Dali_Crucifixion_hypercube.jpg"
+      }
+    },
+    {
+      "slug": "soft-construction-with-boiled-beans-premonition-of-civil-war",
+      "title": "Soft Construction with Boiled Beans (Premonition of Civil War)",
+      "year": 1936,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/89/SalvadorDali-SoftConstructionWithBeans.jpg",
+      "imageWidth": 317,
+      "imageHeight": 315,
+      "story": "Soft Construction with Boiled Beans (Premonition of Civil War) (1936) is a painting by the Spanish surrealist artist Salvador Dalí. Dalí created the piece to represent the horrors of the Spanish Civil War, having painted it only six months before the conflict began. He subsequently claimed that he was aware the war was going to occur long before it began, and cited his work as evidence of \"the prophetic power of his subconscious mind.\" However, some have speculated that Dalí may have changed the name of the painting after the war to emphasize his prophetic assertions, although it is not entirely certain.",
+      "facts": [
+        "The painting is oil on canvas and is located in the Philadelphia Museum of Art.",
+        "Dalí painted it in 1936, but there are studies dating back to 1934."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Soft_Construction_with_Boiled_Beans_(Premonition_of_Civil_War)",
+      "sitelinks": 13,
+      "widthCm": 99.9,
+      "heightCm": 100,
+      "pageviews": 60418,
+      "qid": "Q63844",
+      "imageBytes": 56959,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:SalvadorDali-SoftConstructionWithBeans.jpg"
+      }
+    },
+    {
+      "slug": "christ-of-saint-john-of-the-cross",
+      "title": "Christ of Saint John of the Cross",
+      "year": 1951,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8c/Christ_of_Saint_John_of_the_Cross.jpg",
+      "imageWidth": 237,
+      "imageHeight": 421,
+      "story": "Christ of Saint John of the Cross is a painting by Salvador Dalí made in 1951 which is in the collection of the Kelvingrove Art Gallery and Museum, Glasgow. It depicts Jesus Christ on the cross in a darkened sky floating over a body of water complete with a boat and fishermen. Although it is a depiction of the crucifixion, it is devoid of nails, blood, and a crown of thorns, because, according to Dalí, he was convinced by a dream that these features would mar his depiction of Christ. Also in a dream, the importance of depicting Christ in the extreme angle evident in the painting was revealed to him.",
+      "facts": [
+        "The painting and intellectual property rights were acquired for Glasgow Corporation in 1952 by Tom Honeyman, then the Director of Glasgow Museums.",
+        "In 1961, a visitor attacked the painting with a stone and tore the canvas with his hands.",
+        "It was restored over several months by conservators at Kelvingrove and returned to public display."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christ_of_Saint_John_of_the_Cross",
+      "sitelinks": 12,
+      "widthCm": 116,
+      "heightCm": 205,
+      "pageviews": 131643,
+      "qid": "Q25749",
+      "imageBytes": 33955,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Christ_of_Saint_John_of_the_Cross.jpg"
+      }
+    },
+    {
+      "slug": "leda-atomica",
+      "title": "Leda Atomica",
+      "year": 1949,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Leda_atomica.jpg",
+      "imageWidth": 274,
+      "imageHeight": 363,
+      "story": "Leda Atomica is an oil painting by Salvador Dalí, from 1949. It is exhibited in the Dalí Theatre and Museum in Figueres.",
+      "facts": [
+        "The picture depicts Leda, the mythological queen of Sparta, with the swan.",
+        "Leda is a nude frontal portrait of Dalí's wife, Gala, who is seated on a pedestal with a swan suspended behind and to her left."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leda_Atomica",
+      "sitelinks": 11,
+      "widthCm": 46,
+      "heightCm": 61,
+      "pageviews": 10734,
+      "qid": "Q133508",
+      "imageBytes": 24115,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Leda_atomica.jpg"
+      }
+    },
+    {
+      "slug": "landscape-near-figueras",
+      "title": "Landscape Near Figueras",
+      "year": 1912,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/76/Landscape_Near_Figueras.jpg",
+      "imageWidth": 251,
+      "imageHeight": 396,
+      "story": "Landscape Near Figueras (1910) is a painting by the Spanish artist Salvador Dalí. This is one of the earliest known works by Dalí, having been painted when he was about six years old.",
+      "facts": [
+        "At the beginning of Dalí's career, his primary influence was from the Impressionist movement.",
+        "This painting is one of the purest examples of Dalí's impressionist period."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Landscape_Near_Figueras",
+      "sitelinks": 11,
+      "widthCm": 9,
+      "heightCm": 14,
+      "pageviews": 6871,
+      "qid": "Q2471159",
+      "imageBytes": 15777,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí(1904-1989)",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Landscape_Near_Figueras.jpg"
+      }
+    },
+    {
+      "slug": "the-sacrament-of-the-last-supper",
+      "title": "The Sacrament of the Last Supper",
+      "year": 1955,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f1/Dali_-_The_Sacrament_of_the_Last_Supper_-_lowres.jpg",
+      "imageWidth": 403,
+      "imageHeight": 247,
+      "story": "The Sacrament of the Last Supper is a painting by Salvador Dalí. Completed in 1955 after nine months of work, it remains one of his most popular compositions and is among the most-viewed works at the National Gallery of Art in Washington, DC.",
+      "facts": [
+        "The Sacrament of the Last Supper was completed during Dalí's post-World War II period, which is characterized by his increased interest in science, optical illusion and religion.",
+        "During this time he became a devout Roman Catholic and simultaneously was astonished by the Atomic Age."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Sacrament_of_the_Last_Supper",
+      "sitelinks": 11,
+      "widthCm": 267,
+      "heightCm": 166.7,
+      "pageviews": 33627,
+      "qid": "Q30521",
+      "imageBytes": 25403,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Dali_-_The_Sacrament_of_the_Last_Supper_-_lowres.jpg"
+      }
+    },
+    {
+      "slug": "the-temptation-of-st-anthony-dali",
+      "title": "The Temptation of St. Anthony (Dalí)",
+      "year": 1946,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c0/The_Temptation_of_St._Anthony.jpg",
+      "imageWidth": 300,
+      "imageHeight": 225,
+      "story": "The Temptation of St. Anthony is an oil on canvas painting by Spanish surrealist artist Salvador Dalí, from 1946. It is considered a precursor to the body of Dalí's work commonly known as the \"classical period\" or the \"Dalí Renaissance\".",
+      "facts": [
+        "The other elephants are carrying buildings on their backs; the first carries an obelisk inspired by that of Bernini in Rome, and the second and third are burdened with Venetian edifices in the style of Palladio.",
+        "The focal point is the animal parade because it is the largest element in the painting, turning the viewer's focus towards temptation.",
+        "Dalí chose to paint subjects that he considered spiritual, and to reveal hidden powers in them.",
+        "He believed that all objects possessed this power, and desired to capture it in his painting and his own possession by painting them; this was inspired by a fascination he had with the atomic bomb, which he found particularly mystical and powerful."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Temptation_of_St._Anthony_(Dal%C3%AD)",
+      "sitelinks": 11,
+      "widthCm": 120,
+      "heightCm": 90,
+      "pageviews": 42047,
+      "qid": "Q94845",
+      "imageBytes": 58780,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Temptation_of_St._Anthony.jpg"
+      }
+    },
+    {
+      "slug": "the-basket-of-bread",
+      "title": "The Basket of Bread",
+      "year": 1926,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3d/TheBasketofBread.jpg",
+      "imageWidth": 400,
+      "imageHeight": 393,
+      "story": "The Basket of Bread is a painting by Spanish surrealist Salvador Dalí. The painting depicts four pieces of bread with butter on them sitting in a basket. One is separated from the others and is half-bitten. The basket sits on a white cloth. The painting is in the Theater Museum in Figueres",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Basket_of_Bread",
+      "sitelinks": 10,
+      "widthCm": 31.5,
+      "heightCm": 31.5,
+      "pageviews": 11572,
+      "qid": "Q153517",
+      "imageBytes": 35482,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:TheBasketofBread.jpg"
+      }
+    },
+    {
+      "slug": "young-woman-at-a-window",
+      "title": "Young Woman at a Window",
+      "year": 1925,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Young_Woman_at_a_Window.jpg",
+      "imageWidth": 800,
+      "imageHeight": 1119,
+      "story": "Young Woman at a Window is a 1925 oil on paper realist work by Salvador Dalí, produced in his youth. It shows the painter's sister Ana Maria, seen from behind in front of a window at Cadaqués. It is now in the Museo Reina Sofía, in Madrid.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Young_Woman_at_a_Window",
+      "sitelinks": 10,
+      "widthCm": 74.5,
+      "heightCm": 105,
+      "pageviews": 20385,
+      "qid": "Q153552",
+      "imageBytes": 481353,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Young_Woman_at_a_Window.jpg"
+      }
+    },
+    {
+      "slug": "the-disintegration-of-the-persistence-of-memory",
+      "title": "The Disintegration of the Persistence of Memory",
+      "year": 1954,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7c/DisintegrationofPersistence.jpg",
+      "imageWidth": 361,
+      "imageHeight": 275,
+      "story": "La Desintegración de la Persistencia de la Memoria or The Disintegration of the Persistence of Memory is an oil on canvas painting by the Spanish surrealist Salvador Dalí. It is a 1954 re-creation of the artist's famous 1931 work The Persistence of Memory, and measures a diminutive 25.4 × 33 cm. It was originally known as The Chromosome of a Highly coloured Fish's Eye Starting the Harmonious Disintegration of the Persistence of Memory, and first exhibited at the Carstairs Gallery in New York in 1954.",
+      "facts": [
+        "In this version, the landscape from the original work has been flooded with water.",
+        "Disintegration depicts what is occurring both above and below the water's surface."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Disintegration_of_the_Persistence_of_Memory",
+      "sitelinks": 10,
+      "widthCm": 33,
+      "heightCm": 24,
+      "pageviews": 25453,
+      "qid": "Q2461937",
+      "imageBytes": 24649,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dali",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:DisintegrationofPersistence.jpg"
+      }
+    },
+    {
+      "slug": "metamorphosis-of-narcissus",
+      "title": "Metamorphosis of Narcissus",
+      "year": 1938,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/21/Metamorphosis_of_Narcissus.jpg",
+      "imageWidth": 391,
+      "imageHeight": 255,
+      "story": "Metamorphosis of Narcissus is an oil-on-canvas painting by the Spanish surrealist Salvador Dalí, from 1937. Originally titled Métamorphose de Narcisse, This painting is from Dalí's paranoiac-critical period and depicts his interpretation of the Greek myth of Narcissus. Dalí began his painting in the spring of 1937 while in Zürs, in the Austrian Alps.",
+      "facts": [
+        "According to Greek mythology, Narcissus's beauty made him attractive to nearly everyone who saw him and both men and women pursued him, but he rejected all advances.",
+        "One of his admirers, a nymph named Echo, fell so madly in love with him that, after he rejected her, she wasted away until only her voice remained.",
+        "In the mid-ground of the painting stands a group of Narcissus's rejected suitors.",
+        "Metamorphosis of Narcissus differs from Dalí's other double-image paintings, in which there are multiple images hidden in one because Narcissus's figure is doubled in the stone hand."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Metamorphosis_of_Narcissus",
+      "sitelinks": 10,
+      "widthCm": 78.1,
+      "heightCm": 51.1,
+      "pageviews": 49098,
+      "qid": "Q2464824",
+      "imageBytes": 31684,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Metamorphosis_of_Narcissus.jpg"
+      }
+    },
+    {
+      "slug": "the-hallucinogenic-toreador",
+      "title": "The Hallucinogenic Toreador",
+      "year": 1970,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/cc/The_Hallucinogenic_Toreador.png",
+      "imageWidth": 271,
+      "imageHeight": 366,
+      "story": "The Hallucinogenic Toreador is a 1969–1970 multi-leveled oil painting by Salvador Dalí which employs the canons of his particular interpretation of surrealist thought. It is held at the Salvador Dalí Museum in St. Petersburg, Florida.\nIn The Hallucinogenic Toreador Dalí transmits his wife's dislike for bullfighting by combining symbolism, optical illusions, and estranging yet familiar motifs. Dalí used his paranoiac-critical method to create his own visual language within the painting, and combined versatile images as an instructive example of his artistic ability and vision.",
+      "facts": [
+        "The entire scene is contained within a bullfighting ring, submerged under a barrage of red and yellow tones, alluding tentatively to the colors of the Spanish flag.",
+        "In the upper left section we observe a representational portrait of Dalí's wife, Gala, to whom the artist has dedicated this piece."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Hallucinogenic_Toreador",
+      "sitelinks": 9,
+      "widthCm": 299,
+      "heightCm": 398,
+      "pageviews": 60153,
+      "qid": "Q2136474",
+      "imageBytes": 205853,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Hallucinogenic_Toreador.png"
+      }
+    },
+    {
+      "slug": "the-discovery-of-america-by-christopher-columbus",
+      "title": "The Discovery of America by Christopher Columbus",
+      "year": 1958,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/Dali_DiscoveryOfAmerica.jpg",
+      "imageWidth": 274,
+      "imageHeight": 363,
+      "story": "The Discovery of America by Christopher Columbus is a painting by the Spanish artist Salvador Dalí, begun in 1958 and finished in 1959. It is over 14 feet tall and over 9 feet wide, one in a series of large paintings Dalí did during this era.",
+      "facts": [
+        "It was commissioned for Huntington Hartford for the opening of his Museum Gallery of Modern Art in New York's 2 Columbus Circle.",
+        "It combines Spanish history, religion, art, and myth into a unified whole."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Discovery_of_America_by_Christopher_Columbus",
+      "sitelinks": 9,
+      "widthCm": 284,
+      "heightCm": 410,
+      "pageviews": 20098,
+      "qid": "Q335403",
+      "imageBytes": 36884,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Dali_DiscoveryOfAmerica.jpg"
+      }
+    },
+    {
+      "slug": "the-colossus-of-rhodes-dali",
+      "title": "The Colossus of Rhodes (Dalí)",
+      "year": 1954,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/83/The_Colossus_of_Rhodes_%28Dal%C3%AD%29.png",
+      "imageWidth": 237,
+      "imageHeight": 419,
+      "story": "The Colossus of Rhodes is an oil painting on canvas by the Spanish surrealist artist Salvador Dalí, from 1954. It is one of a series of seven paintings he created for the 1956 film Seven Wonders of the World, each depicting one of the wonders. The work shows the Colossus of Rhodes, the ancient statue of the Greek titan-god of the sun, Helios. The painting was not used for the film and was donated to the Kunstmuseum Bern in 1981, where it remains.",
+      "facts": [
+        "In his ninth-century AD Chronographia, Theophanes the Confessor wrote that its ruins remained until 652–53, when Muawiyah I conquered Rhodes and the Colossus was sold for scrap.",
+        "\" Dalí was commissioned to create artwork for the Seven Wonders of the World, a 1956 travelogue exploring natural and man-made wonders.",
+        "It is only marginally surrealist—the god of the sun shields himself from his domain—and resembles a poster, befitting a work commissioned for a film."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Colossus_of_Rhodes_(Dal%C3%AD)",
+      "sitelinks": 9,
+      "widthCm": 39,
+      "heightCm": 68.8,
+      "pageviews": 9498,
+      "qid": "Q47471081",
+      "imageBytes": 155954,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí.",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Colossus_of_Rhodes_(Dal%C3%AD).png"
+      }
+    },
+    {
+      "slug": "galatea-of-the-spheres",
+      "title": "Galatea of the Spheres",
+      "year": 1952,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/08/Galaofspheres.JPG",
+      "imageWidth": 276,
+      "imageHeight": 361,
+      "story": "Galatea of the Spheres is a painting by Salvador Dalí made in 1952. It depicts Gala Dalí, Salvador Dalí's wife and muse, as pieced together through a series of spheres arranged in a continuous array. The name Galatea refers to a sea nymph of Classical mythology renowned for her virtue, and may also refer to the statue beloved by its creator, Pygmalion.",
+      "facts": [
+        "0 cm, the painting depicts the bust of Gala composed of a matrix of spheres seemingly suspended in space.",
+        "It represents a synthesis of Renaissance art and atomic theory and illustrates the ultimate discontinuity of matter, the spheres themselves representing atomic particles."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Galatea_of_the_Spheres",
+      "sitelinks": 8,
+      "widthCm": 54,
+      "heightCm": 65,
+      "pageviews": 45342,
+      "qid": "Q137457",
+      "imageBytes": 22962,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Galaofspheres.JPG"
+      }
+    },
+    {
+      "slug": "portrait-of-my-father",
+      "title": "Portrait of My Father",
+      "year": 1925,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/ba/Portrait_of_My_Father.jpg",
+      "imageWidth": 800,
+      "imageHeight": 809,
+      "story": "Portrait of My Father is an oil on canvas painting by Salvador Dalí, created in 1925, depicting his father, Salvador Rafael Aniceto Dalí Cusí. It is now in the National Art Museum of Catalonia, in Barcelona.",
+      "facts": [
+        "Dalí held his first exhibition at the Galeries Dalmau in Barcelona in 1925, before making his first trip to Paris and moving towards Surrealism.",
+        "This portrait is considered one of the best from his early period, even by Dalí himself, coinciding with his return to Figueres after his final expulsion from the Academy."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_My_Father",
+      "sitelinks": 8,
+      "widthCm": 100,
+      "heightCm": 100,
+      "pageviews": 3729,
+      "qid": "Q198622",
+      "imageBytes": 205261,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Portrait_of_My_Father.jpg"
+      }
+    },
+    {
+      "slug": "the-first-days-of-spring",
+      "title": "The First Days of Spring",
+      "year": 1929,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_First_Days_of_Spring_by_Salvador_Dal%C3%AD.jpg",
+      "imageWidth": 2048,
+      "imageHeight": 1565,
+      "story": "The First Days of Spring is an oil and collage on panel painting by the Spanish surrealist Salvador Dalí, created in 1929.",
+      "facts": [
+        "The setting for this image is an expansive, smooth gray plane.",
+        "It is elevated on the right and steps down to a lower level at the left."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_First_Days_of_Spring",
+      "sitelinks": 8,
+      "widthCm": 64,
+      "heightCm": 49.5,
+      "pageviews": 29163,
+      "qid": "Q2920341",
+      "imageBytes": 309878,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_First_Days_of_Spring_by_Salvador_Dal%C3%AD.jpg"
+      }
+    },
+    {
+      "slug": "basket-of-bread",
+      "title": "Basket of Bread",
+      "year": 1945,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ea/BasketofBread.jpg",
+      "imageWidth": 335,
+      "imageHeight": 298,
+      "story": "Basket of Bread or Basket of Bread-Rather Death Than Shame is an oil painting by Spanish Surrealist artist Salvador Dalí, from 1945. The painting depicts a heel of a loaf bread in a basket, sitting near the edge of a table.",
+      "facts": [
+        "This Week Magazine, at one time had a circulation of 15 million, the largest in the world.",
+        "\"Bread has always been one of the oldest subjects of fetishism and obsession in my work, the first and the one to which I have remained the most faithful."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Basket_of_Bread",
+      "sitelinks": 8,
+      "widthCm": 38,
+      "heightCm": 33,
+      "pageviews": 8519,
+      "qid": "Q610803",
+      "imageBytes": 12426,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:BasketofBread.jpg"
+      }
+    },
+    {
+      "slug": "shirley-temple-the-youngest-most-sacred-monster-of-the-cinema-in-her-time",
+      "title": "Shirley Temple, The Youngest, Most Sacred Monster of the Cinema in Her Time",
+      "year": 1939,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b4/Dali_Temple_image.jpg",
+      "imageWidth": 362,
+      "imageHeight": 275,
+      "story": "Shirley Temple, The Youngest, Most Sacred Monster of the Cinema in Her Time, also known as the Barcelona Sphinx, is an artwork in gouache, pastel and collage on cardboard, by surrealist painter Salvador Dalí, from 1939. It measures 75 cm × 100 cm. It is housed at Museum Boijmans Van Beuningen, in Rotterdam.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shirley_Temple%2C_The_Youngest%2C_Most_Sacred_Monster_of_the_Cinema_in_Her_Time",
+      "sitelinks": 7,
+      "widthCm": 100,
+      "heightCm": 75,
+      "pageviews": 11671,
+      "qid": "Q1400994",
+      "imageBytes": 18506,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Dali_Temple_image.jpg"
+      }
+    },
+    {
+      "slug": "apparition-of-face-and-fruit-dish-on-a-beach",
+      "title": "Apparition of Face and Fruit Dish on a Beach",
+      "year": 1938,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3c/Face_and_Fruit_Dish.jpg",
+      "imageWidth": 357,
+      "imageHeight": 278,
+      "story": "Apparition of Face and Fruit Dish on a Beach is an oil painting by the Spanish surrealist artist Salvador Dalí, from 1938. It is part of the Ella Gallup Sumner and Mary Catlin Sumner Collection of the Wadsworth Atheneum Museum of Art, in Hartford, Connecticut.",
+      "facts": [
+        "This work belongs to a group of paintings by Dalí that instantiate an optical illusion called the double, multiple, or ambiguous image.",
+        "The painting is dominated by a depiction of a stemmed silver fruit bowl containing pears."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Apparition_of_Face_and_Fruit_Dish_on_a_Beach",
+      "sitelinks": 7,
+      "widthCm": 148.8,
+      "heightCm": 114.5,
+      "pageviews": 6990,
+      "qid": "Q1446552",
+      "imageBytes": 19817,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Face_and_Fruit_Dish.jpg"
+      }
+    },
+    {
+      "slug": "slave-market-with-the-disappearing-bust-of-voltaire",
+      "title": "Slave Market with the Disappearing Bust of Voltaire",
+      "year": 1940,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/Bust_Voltaire.jpg",
+      "imageWidth": 374,
+      "imageHeight": 267,
+      "story": "Slave Market with the Disappearing Bust of Voltaire is an oil painting by the Spanish Surrealist artist Salvador Dalí, from 1940. The painting depicts a slave market, while a woman at a booth watches the people. A variety of people, dressed in a 17th century fashion, seem to make up the face of Voltaire, while the face seems to be positioned on an object to form a bust of Voltaire. Voltaire was a French rationalist writer and philosopher known for his opposition to slavery.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Slave_Market_with_the_Disappearing_Bust_of_Voltaire",
+      "sitelinks": 7,
+      "widthCm": 65.2,
+      "heightCm": 46.2,
+      "pageviews": 10122,
+      "qid": "Q2509326",
+      "imageBytes": 20427,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Bust_Voltaire.jpg"
+      }
+    },
+    {
+      "slug": "geopoliticus-child-watching-the-birth-of-the-new-man",
+      "title": "Geopoliticus Child Watching the Birth of the New Man",
+      "year": 1943,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/cd/Geopoliticus_Child_Watching_the_Birth_of_the_New_Man.jpg",
+      "imageWidth": 300,
+      "imageHeight": 263,
+      "story": "Geopoliticus Child Watching the Birth of the New Man is a 1943 painting by Salvador Dalí. The painting was done during Dalí's stay in the United States from 1940 to 1948. It is said to be one of his most recognizable paintings. It is of a man scrambling out of an egg while an adult woman and child look on. The work is held at the Salvador Dalí Museum, in St. Petersburg, Florida.",
+      "facts": [
+        "The man emerging from egg is the \"New Man\" referenced in the title, and the \"Geopoliticus Child\" can be seen crouching in the lower right-hand corner.",
+        "However, Child Watching the Birth of the New Man and other later works mimics the egg as a Christian symbol of purity and perfection."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Geopoliticus_Child_Watching_the_Birth_of_the_New_Man",
+      "sitelinks": 7,
+      "widthCm": 52,
+      "heightCm": 44.5,
+      "pageviews": 13147,
+      "qid": "Q3054146",
+      "imageBytes": 78939,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Geopoliticus_Child_Watching_the_Birth_of_the_New_Man.jpg"
+      }
+    },
+    {
+      "slug": "the-swallow-s-tail",
+      "title": "The Swallow's Tail",
+      "year": 1983,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/22/The_Swallowtail.jpg",
+      "imageWidth": 356,
+      "imageHeight": 280,
+      "story": "The Swallow's Tail — Series of Catastrophes was Salvador Dalí's last painting. It was completed in May 1983, as the final part of a series based on the mathematical catastrophe theory of René Thom.",
+      "facts": [
+        "Thom suggested that in four-dimensional phenomena, there are seven possible equilibrium surfaces, and therefore seven possible discontinuities, or \"elementary catastrophes\": fold, cusp, swallowtail, butterfly, hyperbolic umbilic, elliptic umbilic, and parabolic umbilic.",
+        "\"The shape of Dalí's Swallow's Tail is taken directly from Thom's four-dimensional graph of the same title, combined with a second catastrophe graph, the s-curve that Thom dubbed, 'the cusp'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Swallow's_Tail",
+      "sitelinks": 7,
+      "widthCm": 92.2,
+      "heightCm": 73,
+      "pageviews": 16726,
+      "qid": "Q611945",
+      "imageBytes": 15919,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Swallowtail.jpg"
+      }
+    },
+    {
+      "slug": "the-ghost-of-vermeer-of-delft-which-can-be-used-as-a-table",
+      "title": "The Ghost of Vermeer of Delft Which Can Be Used as a Table",
+      "year": 1934,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Ghost_of_Vermeer.jpg",
+      "imageWidth": 268,
+      "imageHeight": 370,
+      "story": "The Ghost of Vermeer of Delft Which Can Be Used as a Table is a small Surrealist oil painting by Salvador Dalí. Its full title is The Ghost of Vermeer of Delft Which Can Be Used as a Table . It makes reference to The Art of Painting by Johannes Vermeer, a famous seventeenth-century work in which a painter, thought to be a self-portrait of Vermeer, is depicted with his back to the viewer, in distinctive costume. It is one of a number of paintings expressive of Dalí's enormous admiration for Vermeer.",
+      "facts": [
+        "The Ghost of Vermeer should also be seen in the context of his other reworkings of historic paintings, such as several works inspired by Jean-François Millet's The Angelus.",
+        "Dalí revered Vermeer, and also drew several times on his The Lacemaker, for instance in Paranoiac-Critical Study of Vermeer's Lacemaker."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Ghost_of_Vermeer_of_Delft_Which_Can_Be_Used_as_a_Table",
+      "sitelinks": 6,
+      "widthCm": 14,
+      "heightCm": 18.1,
+      "pageviews": 6891,
+      "qid": "Q2067674",
+      "imageBytes": 15566,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Ghost_of_Vermeer.jpg"
+      }
+    },
+    {
+      "slug": "living-still-life",
+      "title": "Living Still Life",
+      "year": 1956,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/Still_Life_Moving_Fast.jpg",
+      "imageWidth": 356,
+      "imageHeight": 280,
+      "story": "Living Still Life is a 1956 painting by the artist Salvador Dalí. Dalí painted this piece during a period that he called \"Nuclear Mysticism\". Nuclear Mysticism is composed of different theories that try to show the relationships between quantum physics and the conscious mind. The different theories are composed of elements that range from \"Catalan philosophers” to \"classicism, pop art, and nuclear physics\". The painting, done in 1956, currently resides at the Salvador Dalí Museum in St. Petersburg, Florida.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Living_Still_Life",
+      "sitelinks": 6,
+      "widthCm": 160,
+      "heightCm": 125,
+      "pageviews": 6771,
+      "qid": "Q2508181",
+      "imageBytes": 32480,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Still_Life_Moving_Fast.jpg"
+      }
+    },
+    {
+      "slug": "the-madonna-of-port-lligat",
+      "title": "The Madonna of Port Lligat",
+      "year": 1949,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d3/The_Madonna_of_Port_Lligat.jpg",
+      "imageWidth": 276,
+      "imageHeight": 362,
+      "story": "The Madonna of Port Lligat is a pair of paintings by Salvador Dalí. The first was created in 1949, measures 49.5 x 38.3 centimetres, and is housed at the Haggerty Museum of Art at Marquette University in Milwaukee, Wisconsin, USA. Dalí presented it to Pope Pius XII in an audience for approval, which was granted. Dalí created a second painting in ca. 1950 with the same title and same themes, with various poses and details changed, measuring 275.3 x 209.8 centimetres (108.4 x 82.6 in). The 1950 Madonna is exhibited at the Fukuoka Art Museum in Japan.",
+      "facts": [
+        "The paintings depict a seated Madonna (posed by Dalí's wife, Gala) with the infant Christ on her lap.",
+        "Both figures have rectangular holes cut into their torsos, suggestive of their transcendent status."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Madonna_of_Port_Lligat",
+      "sitelinks": 6,
+      "widthCm": 37,
+      "heightCm": 48.9,
+      "pageviews": 25271,
+      "qid": "Q2758680",
+      "imageBytes": 23108,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Madonna_of_Port_Lligat.jpg"
+      }
+    },
+    {
+      "slug": "galacidalacidesoxyribonucleicacid",
+      "title": "Galacidalacidesoxyribonucleicacid",
+      "year": 1963,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a6/Galacidalacidesoxyribonucleicacid.jpg",
+      "imageWidth": 369,
+      "imageHeight": 270,
+      "story": "Galacidalacidesoxiribunucleicacid (also known as Homage to Crick and Watson (Discoverers of DNA)) is a 1963 painting by Salvador Dalí. The painting's title is a portmanteau of the name of Dalí's wife, Gala Dalí, and deoxyribonucleic acid (DNA). It is a tribute to Francis Crick and James D. Watson, who are credited with determining the double helical structure of DNA in 1953.",
+      "facts": [
+        "1\" or \"White on White\") I call my Hommage to Crick and Watson: GALACIDALACIDESOXIRIBUNUCLEICACID.",
+        "But the theme is even longer: long as the genetical persistence of human memory."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Galacidalacidesoxyribonucleicacid",
+      "sitelinks": 6,
+      "widthCm": 410,
+      "heightCm": 305,
+      "pageviews": 6284,
+      "qid": "Q3094469",
+      "imageBytes": 17457,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Galacidalacidesoxyribonucleicacid.jpg"
+      }
+    },
+    {
+      "slug": "the-invisible-man-painting",
+      "title": "The Invisible Man (painting)",
+      "year": 1932,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/The_Invisible_Man.jpg",
+      "imageWidth": 239,
+      "imageHeight": 415,
+      "story": "The Invisible Man is an oil on canvas by Spanish artist Salvador Dalí, created in 1929-1932. It is held in the Museo Nacional Centro de Arte Reina Sofía, in Madrid.",
+      "facts": [
+        "It was also inspired by the works of Giuseppe Arcimboldo, an Italian Renaissance painter famous for creating human faces out of flowers, fruits, plants, animals, and objects.",
+        "Although left unfinished and considered a failed attempt at creating a good painting, it is Dalí's first canvas to feature a double image."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Invisible_Man_(painting)",
+      "sitelinks": 6,
+      "widthCm": 81,
+      "heightCm": 140,
+      "pageviews": 4938,
+      "qid": "Q335051",
+      "imageBytes": 23437,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Invisible_Man.jpg"
+      }
+    },
+    {
+      "slug": "la-gare-de-perpignan",
+      "title": "La Gare de Perpignan",
+      "year": 1965,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/04/La_Gare_de_Perpignan.jpg",
+      "imageWidth": 300,
+      "imageHeight": 222,
+      "story": "La Gare de Perpignan is a c. 1965 large-scale oil on canvas painting by the Spanish surrealist Salvador Dalí, on display in the Museum Ludwig in Cologne.",
+      "facts": [
+        "The sacrifice of the son is imaged in the form of Christ on the Cross, with his crown of thorns, floating in the center of the composition.",
+        "The bleeding wound of Christ is associated with the farmer's fork (on the right) thrust into the ground (as a fertility ritual)."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Gare_de_Perpignan",
+      "sitelinks": 5,
+      "widthCm": 406,
+      "heightCm": 295,
+      "pageviews": 16709,
+      "qid": "Q3209358",
+      "imageBytes": 49927,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:La_Gare_de_Perpignan.jpg"
+      }
+    },
+    {
+      "slug": "cabaret-scene",
+      "title": "Cabaret Scene",
+      "year": 1922,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a1/Cabaret_Scene.jpg",
+      "imageWidth": 640,
+      "imageHeight": 813,
+      "story": "Cabaret Scene is an oil on canvas painting by the Spanish surrealist Salvador Dalí, executed in 1922. It is held at the Morohashi Museum of Modern Art, in Fukushima. It was a cubist experiment that came between Dalí's early impressionist work and the classic surrealist technique he later developed. Dalí was inspired by Pablo Picasso after he was expelled from the School of Fine Arts in Spain.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cabaret_Scene",
+      "sitelinks": 5,
+      "widthCm": 41,
+      "heightCm": 52,
+      "pageviews": 7133,
+      "qid": "Q5015245",
+      "imageBytes": 99245,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Cabaret_Scene.jpg"
+      }
+    },
+    {
+      "slug": "apparatus-and-hand",
+      "title": "Apparatus and Hand",
+      "year": 1927,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/Apparatus_and_Hand.jpg",
+      "imageWidth": 1556,
+      "imageHeight": 2048,
+      "story": "Apparatus and Hand is a 1927 oil painting by Salvador Dalí. The painting currently resides at the Salvador Dalí Museum in St. Petersburg, Florida. This work is on loan from the collection of Mr. and Mrs. A Reynolds Morse.",
+      "facts": [
+        "Dalí would join the surrealists in 1929, and this pre-surrealist painting shows the influence that group, who also were inspired by Freud.",
+        "This work of surrealistic art showcases a geometric figure with a tumescent red hand protruding from its head."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Apparatus_and_Hand",
+      "sitelinks": 5,
+      "widthCm": 47.6,
+      "heightCm": 62.2,
+      "pageviews": 4884,
+      "qid": "Q611358",
+      "imageBytes": 128344,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Apparatus_and_Hand.jpg"
+      }
+    },
+    {
+      "slug": "the-enigma-of-hitler",
+      "title": "The Enigma of Hitler",
+      "year": 1939,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "\nThe Enigma of Hitler is an oil on canvas painting by Salvador Dalí, created in 1939. It was made around the time of his expulsion from the Surrealist movement. The painting is held in the collection of the Museo Nacional Centro de Arte Reina Sofía, in Madrid.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Enigma_of_Hitler",
+      "sitelinks": 4,
+      "widthCm": 51.2,
+      "heightCm": 79.3,
+      "pageviews": 13957,
+      "qid": "Q5912498",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "morphological-echo",
+      "title": "Morphological Echo",
+      "year": 1934,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/41/Morphological_Echo_1.jpg",
+      "imageWidth": 290,
+      "imageHeight": 344,
+      "story": "Morphological Echo is a title shared by two oil-on-panel paintings created by the Spanish surrealist Salvador Dalí.",
+      "facts": [
+        "The first of these works was painted between 1934 and 1936 and measures 64 cm × 54 cm (25 in × 21 in).",
+        "It depicts a seemingly minimal architectural setting with several surrealist images in its finer details."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Morphological_Echo",
+      "sitelinks": 3,
+      "widthCm": 61.6,
+      "heightCm": 64.8,
+      "pageviews": 2091,
+      "qid": "Q12406429",
+      "imageBytes": 14885,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Morphological_Echo_1.jpg"
+      }
+    },
+    {
+      "slug": "the-accommodations-of-desire",
+      "title": "The Accommodations of Desire",
+      "year": 1929,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/The_Accommodations_of_Desire.jpg",
+      "imageWidth": 2586,
+      "imageHeight": 1600,
+      "story": "The Accommodations of Desire is a 1929 surrealist oil painting and mixed media collage on board by Spanish artist Salvador Dalí. It is now in the Metropolitan Museum of Art in New York City.",
+      "facts": [
+        "Dalí was inspired to create the piece after a walk with his future wife Gala Dalí, who was at the time married to fellow surrealist Paul Éluard, with whom Dalí was having an affair.",
+        "The painting purportedly represents Dalí's anxiety over the situation, and what the future would hold for him."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Accommodations_of_Desire",
+      "sitelinks": 3,
+      "widthCm": 34.9,
+      "heightCm": 22.2,
+      "pageviews": 3793,
+      "qid": "Q19922659",
+      "imageBytes": 2430568,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí. / Metropolitan Museum of Art",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Accommodations_of_Desire.jpg"
+      }
+    },
+    {
+      "slug": "couple-with-their-heads-full-of-clouds",
+      "title": "Couple with Their Heads Full of Clouds",
+      "year": 1936,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "\nCouple with Their Heads Full of Clouds is a 1936 diptych painting by Salvador Dalí. The oil on plywood work represent tables in a desert landscape and are cut out like the silhouettes of the characters in Jean-François Millet's painting The Angelus (L'Angélus). The works are both double portraits of Salvador and Gala Dalí.",
+      "facts": [
+        "31 million at auction at Bonham's in London in October 2020, the first time the work had ever come under the gavel.",
+        "This work is part of the permanent collection of the Boijmans Van Beuningen Museum in Rotterdam."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Couple_with_Their_Heads_Full_of_Clouds",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 3161,
+      "qid": "Q19925896",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "the-ecumenical-council-painting",
+      "title": "The Ecumenical Council (painting)",
+      "year": 1960,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/The_Ecumenical_Council_by_Salvador_Dali.jpg",
+      "imageWidth": 285,
+      "imageHeight": 349,
+      "story": "The Ecumenical Council is a surrealist painting by Spanish artist Salvador Dalí completed in 1960. It is one of his masterpieces, taking two years to complete and very large at 299.7 by 254 centimetres. The painting is a complex assemblage of art historical references and religious scenes emphasizing Catholic symbolism.",
+      "facts": [
+        "It is heavily inspired by Diego Velázquez, and was completed in time for the 300th anniversary of his death.",
+        "George Orwell, who wrote a critique of Dalí's novel Hidden Faces, writes that Dalí admitted that the rocks in The Ecumenical Council are abstract compositions that serve as symbols.",
+        "Their first purchase was Dalí's war-inspired Daddy Longlegs of the Evening ..."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Ecumenical_Council_(painting)",
+      "sitelinks": 2,
+      "widthCm": 254,
+      "heightCm": 300,
+      "pageviews": 37196,
+      "qid": "Q4127333",
+      "imageBytes": 34016,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Ecumenical_Council_by_Salvador_Dali.jpg"
+      }
+    },
+    {
+      "slug": "the-apotheosis-of-homer-dali",
+      "title": "The Apotheosis of Homer (Dalí)",
+      "year": 1945,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/The_Apotheosis_of_Homer.jpg",
+      "imageWidth": 300,
+      "imageHeight": 166,
+      "story": "The Apotheosis of Homer is an oil on canvas painting by Salvador Dalí, created c. 1945. It is at the \nBayerische Staatsgemäldesammlungen, Pinakothek der Moderne, in Munich.",
+      "facts": [
+        "The canvas reflects the painter's fascination with Greek and Roman history and mythology.",
+        "Gloria Platzner speculates that Dalí \"reduces Homer to a piece of broken statuary, a relic, while the solid temple of the muse itself melts\"..."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Apotheosis_of_Homer_(Dal%C3%AD)",
+      "sitelinks": 2,
+      "widthCm": 116.7,
+      "heightCm": 63.7,
+      "pageviews": 3178,
+      "qid": "Q7714000",
+      "imageBytes": 53131,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Apotheosis_of_Homer.jpg"
+      }
+    },
+    {
+      "slug": "dali-seen-from-the-back-painting-gala-from-the-back-eternalised-by-six-virtual-corneas-provisionally-reflected-by-six-real-mirrors",
+      "title": "Dalí Seen from the Back Painting Gala from the Back Eternalised by Six Virtual Corneas Provisionally Reflected by Six Real Mirrors",
+      "year": 1973,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "\nDalí Seen from the Back Painting Gala from the Back Eternalised by Six Virtual Corneas Provisionally Reflected by Six Real Mirrors is an oil painting on canvas executed in 1972–73 by the Spanish artist Salvador Dalí. It is in the permanent collection of Dalí Theatre and Museum in Figueres, Spain.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dal%C3%AD_Seen_from_the_Back_Painting_Gala_from_the_Back_Eternalised_by_Six_Virtual_Corneas_Provisionally_Reflected_by_Six_Real_Mirrors",
+      "sitelinks": 1,
+      "widthCm": 120,
+      "heightCm": 60,
+      "pageviews": 3622,
+      "qid": "Q101805745",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "a-chemist-lifting-with-extreme-precaution-the-cuticle-of-a-grand-piano",
+      "title": "A Chemist Lifting with Extreme Precaution the Cuticle of a Grand Piano",
+      "year": 1936,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8c/A_chemist_lifting_with_extreme_precaution_the_cuticle_of_a_grand_piano.png",
+      "imageWidth": 363,
+      "imageHeight": 275,
+      "story": "A Chemist Lifting with Extreme Precaution the Cuticle of a Grand Piano is a 1936 oil painting by artist Salvador Dalí. The painting is an example of Dalí's distinctive, avant-garde brand of surrealism as well as a curious example of Dalí's mysterious relationship with Judaism.",
+      "facts": [
+        "The Art Institute of Chicago acquired the painting as a gift from Shapiro in 1996.",
+        "One of Dalí's especially beloved tracks, an old scratched record of Tristan und Isolde, played constantly, and was playing on the day Dalí died in 1989."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/A_Chemist_Lifting_with_Extreme_Precaution_the_Cuticle_of_a_Grand_Piano",
+      "sitelinks": 1,
+      "widthCm": 64.1,
+      "heightCm": 48.3,
+      "pageviews": 2680,
+      "qid": "Q20266337",
+      "imageBytes": 143303,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:A_chemist_lifting_with_extreme_precaution_the_cuticle_of_a_grand_piano.png"
+      }
+    },
+    {
+      "slug": "hitler-masturbating",
+      "title": "Hitler Masturbating",
+      "year": 1973,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/26/Hitler_Masturbating.png",
+      "imageWidth": 353,
+      "imageHeight": 270,
+      "story": "Hitler Masturbating is a gouache-on-paper painting by Spanish Surrealist artist Salvador Dalí, which, in turn, is an alteration of a work by an unknown artist. Completed in 1973, it is 16.5 cm × 21.6 cm in size and is housed at the Salvador Dalí Museum in St. Petersburg, Florida, United States. As of 2022, the painting is not available for public viewing.",
+      "facts": [
+        "It was also featured in the French edition of Dalí's novel Hidden Faces.",
+        "Hitler Masturbating is an alteration of a painting which portrayed a herd of horses traversing a snowy landscape."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hitler_Masturbating",
+      "sitelinks": 1,
+      "widthCm": 21.6,
+      "heightCm": 16.5,
+      "pageviews": 82428,
+      "qid": "Q36030104",
+      "imageBytes": 169343,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí Museum",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Hitler_Masturbating.png"
+      }
+    },
+    {
+      "slug": "swans-reflecting-elephants",
+      "title": "Swans Reflecting Elephants",
+      "year": 1937,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f6/Swans_reflecting_elephants.jpg",
+      "imageWidth": 395,
+      "imageHeight": 252,
+      "story": "Swans Reflecting Elephants is an oil on canvas painting by the Spanish surrealist Salvador Dalí, from 1937. It is held in a private collection.",
+      "facts": [
+        "The double images were a major part of Dalí's \"paranoia-critical method\", which he put forward in his 1935 essay \"The Conquest of the Irrational\".",
+        "\" Dalí used this method to bring forth the hallucinatory forms, double images and visual illusions that filled his paintings during the 1930s, most likely his most creative decade."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Swans_Reflecting_Elephants",
+      "sitelinks": 11,
+      "widthCm": 77,
+      "heightCm": 51,
+      "pageviews": 25080,
+      "qid": "Q172558",
+      "imageBytes": 27230,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Swans_reflecting_elephants.jpg"
+      }
+    },
+    {
+      "slug": "the-elephants",
+      "title": "The Elephants",
+      "year": 1948,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/Dali_Elephants.jpg",
+      "imageWidth": 362,
+      "imageHeight": 275,
+      "story": "The Elephants is a 1948 painting by the Catalan surrealist artist Salvador Dalí.",
+      "facts": [
+        "The obelisks on the backs of the elephants are believed to be inspired by Gian Lorenzo Bernini's sculpture base in Rome of an elephant carrying an ancient obelisk, and was mentioned in several communications of the artist, so can be considered a reliable claim.",
+        "The elephant is a recurring theme in the works of Dalí, first appearing in his 1944 work Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening, and also in The Temptation of Saint Anthony and Swans Reflecting Elephants."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Elephants",
+      "sitelinks": 9,
+      "widthCm": 60,
+      "heightCm": 49,
+      "pageviews": 36050,
+      "qid": "Q4423965",
+      "imageBytes": 14300,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dali",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Dali_Elephants.jpg"
+      }
+    },
+    {
+      "slug": "tuna-fishing-painting",
+      "title": "Tuna Fishing (painting)",
+      "year": 1966,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Tuna_Fishing.jpg",
+      "imageWidth": 300,
+      "imageHeight": 227,
+      "story": "Tuna Fishing (Homage to Meissonier) is an oil on canvas painting by Spanish artist Salvador Dalí, from 1966–1967. It has been considered as one of Dalí's last masterpieces.",
+      "facts": [
+        "The scene is filled chaotically with the violent struggle of the men in the picture and the big fish: In the centre a golden knife is stabbed into the fish and the azure-blue sea becomes red with blood.",
+        "The painting is a dedication to Jean-Louis-Ernest Meissonier, a 19th-century French painter who specialised in battle scenes."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tuna_Fishing_(painting)",
+      "sitelinks": 6,
+      "widthCm": 404,
+      "heightCm": 304,
+      "pageviews": 7896,
+      "qid": "Q1445581",
+      "imageBytes": 79167,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Tuna_Fishing.jpg"
+      }
+    },
+    {
+      "slug": "the-lugubrious-game",
+      "title": "The Lugubrious Game",
+      "year": 1929,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Lugubrious_Game.jpg",
+      "imageWidth": 1920,
+      "imageHeight": 2947,
+      "story": "The Lugubrious Game is a part oil painting and part collage-on-cardboard work created by Salvador Dalí in 1929. The name of the painting was given by poet Paul Éluard. It is held in a private collection.",
+      "facts": [
+        "In 1929, several Surrealists including Paul Éluard and his wife Gala were visiting Dalí at his home in Spain.",
+        "Upon seeing the Surrealist style painting, they were intrigued by it, which led to Dalí becoming an official member of the movement."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Lugubrious_Game",
+      "sitelinks": 5,
+      "widthCm": 30.3,
+      "heightCm": 44.4,
+      "pageviews": 28781,
+      "qid": "Q195776",
+      "imageBytes": 1585919,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Lugubrious_Game.jpg"
+      }
+    },
+    {
+      "slug": "young-virgin-auto-sodomized-by-the-horns-of-her-own-chastity",
+      "title": "Young Virgin Auto-Sodomized by the Horns of Her Own Chastity",
+      "year": 1954,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e8/Dali_Young_Virgin_Auto.jpg",
+      "imageWidth": 274,
+      "imageHeight": 364,
+      "story": "Young Virgin Auto-Sodomized by the Horns of Her Own Chastity is an oil painting by Salvador Dalí from 1954.",
+      "facts": [
+        "During the 1950s, Dalí painted many of his subjects as composed of rhinoceros horns.",
+        "\" Dalí's inspiration for the image appears to have come from Vermeer, one of a handful of artists regarded by Dalí as masters."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Young_Virgin_Auto-Sodomized_by_the_Horns_of_Her_Own_Chastity",
+      "sitelinks": 5,
+      "widthCm": 30,
+      "heightCm": 40,
+      "pageviews": 23695,
+      "qid": "Q763485",
+      "imageBytes": 18009,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Dali_Young_Virgin_Auto.jpg"
+      }
+    },
+    {
+      "slug": "vilabertran-dali",
+      "title": "Vilabertran (Dalí)",
+      "year": 1913,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/Vilabertrin.jpg",
+      "imageWidth": 640,
+      "imageHeight": 406,
+      "story": "Vilabertran (1913) is a painting by the Spanish surrealist artist Salvador Dalí. This is among Dalí's earliest works, having been painted when he was about nine years old. It is an oil painting on cardboard of a landscape from Vilabertran, where Dalí often worked and which he often drew in his early period.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vilabertran_(Dal%C3%AD)",
+      "sitelinks": 3,
+      "widthCm": 20,
+      "heightCm": 15,
+      "pageviews": 3421,
+      "qid": "Q3013774",
+      "imageBytes": 47955,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí (1904-1989)",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Vilabertrin.jpg"
+      }
+    },
+    {
+      "slug": "cartel-de-don-juan-tenorio",
+      "title": "Cartel de Don Juan Tenorio",
+      "year": 1949,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/61/Cartel_de_Don_Juan_Tenorio.jpg",
+      "imageWidth": 300,
+      "imageHeight": 235,
+      "story": "Cartel de Don Juan Tenorio is a gouache and watercolor on card painting by Spanish surrealist artist Salvador Dalí, from 1949. It is held in a private collection. It is perhaps best known for its theft and return.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cartel_de_Don_Juan_Tenorio",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 933,
+      "qid": "Q5047078",
+      "imageBytes": 79616,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Cartel_de_Don_Juan_Tenorio.jpg"
+      }
+    },
+    {
+      "slug": "the-seven-lively-arts-dali",
+      "title": "The Seven Lively Arts (Dalí)",
+      "year": 1944,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "The Seven Lively Arts was a series of seven paintings created by the Spanish surrealist painter Salvador Dalí in 1944 and, after they were lost in a fire in 1956, recreated in an updated form by Dalí in 1957. The paintings depicted the seven arts of dancing, opera, ballet, music, cinema, radio/television and theatre.",
+      "facts": [
+        "As an additional attraction he commissioned Salvador Dalí to create the original series of seven artworks for display in the theatre lobby.",
+        "In 1944, as the Second World War was drawing to a conclusion, the impresario Billy Rose, who had bought the Ziegfeld Theatre and converted it back from a cinema to a theater, decided to put on a musical revue, with music by Cole Porter and Igor Stravinski, entitled the Seven Lively Arts."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Seven_Lively_Arts_(Dal%C3%AD)",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 2871,
+      "qid": "Q85808424",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "lincoln-in-dalivision",
+      "title": "Lincoln in Dalivision",
+      "year": 1977,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Lincoln_in_Dalivision%2C_Salvador_Dali_Lincoln_in_Dalivision_Print%2C_Lincoln_in_Dalivision.jpg",
+      "imageWidth": 254,
+      "imageHeight": 393,
+      "story": "Lincoln in Dalivision is a 1977 original limited edition lithograph created by Salvador Dalí. It is often considered one of the most counterfeited Dalí lithographs. Dalí authentication experts who have noted the counterfeiting issue with this work include Albert Field, Frank Hunter, Robert Descharnes and Bernard Ewell. Lee Catterall comments in his book The Great Dalí Art Fraud & other deceptions, \"The painting most commonly reproduced for such fraudulent purposes was Lincoln in Dalivision, 'prints' of which Los Angeles art appraiser Dena Hall testified in the Hawaii trial have become as commonplace as 'pancakes at the pancake house.'\"",
+      "facts": [
+        "\"The Recognition of Faces,\" by Leon Harmon, was the first published work on photomosaic concepts.",
+        "Dalí began his first painting that led to Lincoln in Dalivision in 1974 and finished the version that would be used for Lincoln in Dalivision in 1976."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_in_Dalivision",
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 14908,
+      "qid": "Q6551205",
+      "imageBytes": 23621,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Levine & Levine",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Lincoln_in_Dalivision,_Salvador_Dali_Lincoln_in_Dalivision_Print,_Lincoln_in_Dalivision.jpg"
+      }
+    },
+    {
+      "slug": "la-toile-daligram",
+      "title": "La Toile Daligram",
+      "year": 1972,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "La Toile Daligram was a work created in 1972 by Spanish Surrealist artist Salvador Dalí.",
+      "facts": [
+        "It was in 1970, the year when Dalí offered his wife and muse Gala the Castle of Púbol, the object of a promise made in 1930, that he created a set of graphics and symbols of great beauty and artistic expressiveness, executed in black and gold ink on two pieces of cardboard.",
+        "This creation is known as Daligrammes and represents the initials of Dalí and Gala as well as symbols that clearly allude to royalty such as the crown and the fleur-de-lis."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Toile_Daligram",
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 643,
+      "qid": "Q3213161",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "portrait-of-luis-bunuel-q211293",
+      "title": "Portrait of Luis Buñuel",
+      "year": 1924,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Madrid_%2849191190833%29.jpg",
+      "imageWidth": 2736,
+      "imageHeight": 1824,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 5,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q211293",
+      "imageBytes": 1791869,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Jeremy Thompson from Los Angeles, California",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Madrid_(49191190833).jpg"
+      }
+    },
+    {
+      "slug": "the-spectre-of-sex-appeal-q61944806",
+      "title": "The Spectre of Sex-Appeal",
+      "year": 1934,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Salvador_Dali_-_Le_spectre_du_sex-appeal.jpg",
+      "imageWidth": 1488,
+      "imageHeight": 1890,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 13.9,
+      "heightCm": 17.9,
+      "pageviews": null,
+      "qid": "Q61944806",
+      "imageBytes": 398959,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dali",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Salvador_Dali_-_Le_spectre_du_sex-appeal.jpg"
+      }
+    },
+    {
+      "slug": "the-rainbow-q50225924",
+      "title": "The Rainbow",
+      "year": 1972,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Salvador_Dali_The_Rainbow_1972.jpg",
+      "imageWidth": 786,
+      "imageHeight": 521,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q50225924",
+      "imageBytes": 51639,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Salvador Dalí",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Salvador_Dali_The_Rainbow_1972.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

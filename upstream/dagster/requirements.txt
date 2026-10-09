@@ -1,0 +1,6 @@
+# Dagster itself (dagster/.venv), the same versions as scrape-cars. The archive commands keep archive/.venv.
+# run_dagster.ps1 setup also installs scraper-framework[dagster] from its clone (SCRAPER_FRAMEWORK_DIR, else
+# ../scraper-framework): scraper_framework.dagster, the Dagster glue shared with scrape-cars, lives there.
+dagster==1.13.24
+dagster-webserver==1.13.24
+tzdata  # time zones for zoneinfo on Windows

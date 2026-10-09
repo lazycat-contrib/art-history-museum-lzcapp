@@ -1,0 +1,162 @@
+{
+  "slug": "yiannis-poulakas",
+  "periodSlug": "realism",
+  "name": "Yiannis Poulakas",
+  "wikiTitle": "Yiannis Poulakas",
+  "qid": "Q8053497",
+  "birthYear": 1863,
+  "deathYear": 1942,
+  "tagline": "Greek painter and scenographer",
+  "bio": "Yiannis Poulakas was a Greek painter and scenographer. Poulakas was professionally concerned primarily with scenography and secondarily with painting.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/IOANNIS-POULAKAS.png",
+  "portraitWidth": 242,
+  "portraitHeight": 320,
+  "portraitCredit": {
+    "author": "Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:IOANNIS-POULAKAS.png"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yiannis_Poulakas",
+  "paintings": [
+    {
+      "slug": "the-naval-battle-of-volos-q115235962",
+      "title": "The Naval Battle of Volos",
+      "year": 1920,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Yiannis_Poulakas%2C_%CE%97_%CE%BD%CE%B1%CF%85%CE%BC%CE%B1%CF%87%CE%AF%CE%B1_%CF%84%CE%BF%CF%85_%CE%92%CF%8C%CE%BB%CE%BF%CF%85_%CF%84%CE%BF%CF%85_1827-%CF%84%CE%BF_%CF%80%CE%BB%CE%BF%CE%AF%CE%BF_%22%CE%9A%CE%B1%CF%81%CF%84%CE%B5%CF%81%CE%AF%CE%B1%22%2C_80x120cm%2C_1920.jpg",
+      "imageWidth": 2864,
+      "imageHeight": 1844,
+      "story": "The Naval Battle of Volos [ in 1827 ], oil on canvas, 80 cm x 120 cm. Held at the Townhall of Volos, Volos, Greece.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 120,
+      "heightCm": 80,
+      "pageviews": null,
+      "qid": "Q115235962",
+      "imageBytes": 1617913,
+      "imageCredit": {
+        "author": "Yannis Poulakas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Yiannis_Poulakas,_%CE%97_%CE%BD%CE%B1%CF%85%CE%BC%CE%B1%CF%87%CE%AF%CE%B1_%CF%84%CE%BF%CF%85_%CE%92%CF%8C%CE%BB%CE%BF%CF%85_%CF%84%CE%BF%CF%85_1827-%CF%84%CE%BF_%CF%80%CE%BB%CE%BF%CE%AF%CE%BF_%22%CE%9A%CE%B1%CF%81%CF%84%CE%B5%CF%81%CE%AF%CE%B1%22,_80x120cm,_1920.jpg"
+      }
+    },
+    {
+      "slug": "beach-of-volos-q115236130",
+      "title": "Beach of Volos",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Yiannis-poulakas-volos-beach-45x65-signed-no-date.jpg",
+      "imageWidth": 1062,
+      "imageHeight": 731,
+      "story": "Beach of Volos. Oil on canvas. 45 cm x 65 cm. Signed. No date?",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 65,
+      "heightCm": 45,
+      "pageviews": null,
+      "qid": "Q115236130",
+      "imageBytes": 179355,
+      "imageCredit": {
+        "author": "Yannis Poulakas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Yiannis-poulakas-volos-beach-45x65-signed-no-date.jpg"
+      }
+    },
+    {
+      "slug": "beach-with-boat-q115237257",
+      "title": "Beach with boat.",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Yiannis-poulakas-beach-with-_boat-42x70-no-date.jpg",
+      "imageWidth": 1500,
+      "imageHeight": 867,
+      "story": "Beach with boat. Oil on canvas. 42 cm x 70 cm. Signed. Not dated?",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 70,
+      "heightCm": 42,
+      "pageviews": null,
+      "qid": "Q115237257",
+      "imageBytes": 375557,
+      "imageCredit": {
+        "author": "Yannis Poulakas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Yiannis-poulakas-beach-with-_boat-42x70-no-date.jpg"
+      }
+    },
+    {
+      "slug": "seascape-near-volos-q115522209",
+      "title": "Seascape near Volos",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ioannis_Poulakas_Seascape_near_Volos.jpg",
+      "imageWidth": 1884,
+      "imageHeight": 3456,
+      "story": "Seascape near Volos. Oil on canvas, 99 cm x 54 cm, no date. Auctioned by Bonhams, London in 2012. In private collection.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 54,
+      "heightCm": 99,
+      "pageviews": null,
+      "qid": "Q115522209",
+      "imageBytes": 1421387,
+      "imageCredit": {
+        "author": "Yannis Poulakas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Seascape_near_Volos.jpg"
+      }
+    },
+    {
+      "slug": "sailing-ship-and-steamer-q115522221",
+      "title": "Sailing ship and steamer",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ioannis_Poulakas_Sailing_ship_and_steamer.jpg",
+      "imageWidth": 4071,
+      "imageHeight": 2880,
+      "story": "Sailing ship and steamer. Oil on canvas, 85 cm x 121 cm, no date. In private collection.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 121,
+      "heightCm": 85,
+      "pageviews": null,
+      "qid": "Q115522221",
+      "imageBytes": 1920068,
+      "imageCredit": {
+        "author": "Yannis Poulakas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Sailing_ship_and_steamer.jpg"
+      }
+    },
+    {
+      "slug": "promenade-at-the-harbor-of-volos-q115522469",
+      "title": "Promenade at the harbor of Volos",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ioannis_Poulakas_Promenade_at_the_harbor_of_Volos.jpg",
+      "imageWidth": 1934,
+      "imageHeight": 2880,
+      "story": "Promenade at the harbor of Volos. Oil on canvas laid on board, 99 cm x 67 cm. Auctioned by Bonhams, London in 2017. In private collection.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 67,
+      "heightCm": 99,
+      "pageviews": null,
+      "qid": "Q115522469",
+      "imageBytes": 1355298,
+      "imageCredit": {
+        "author": "Yannis Poulakas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Promenade_at_the_harbor_of_Volos.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

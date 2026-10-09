@@ -1,0 +1,139 @@
+{
+  "slug": "alonso-berruguete",
+  "periodSlug": "high-renaissance",
+  "name": "Alonso Berruguete",
+  "wikiTitle": "Alonso Berruguete",
+  "qid": "Q114357",
+  "birthYear": 1486,
+  "deathYear": 1561,
+  "tagline": "Spanish painter, sculptor and architect (c. 1488–1561)",
+  "bio": "Alonso González de Berruguete was a Spanish painter, sculptor and architect. He is considered to be the most important sculptor of the Spanish Renaissance, and is known for his emotive sculptures depicting religious ecstasy or torment.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Alonso_Gonz%C3%A1lez_de_Berruguete_001.jpg",
+  "portraitWidth": 788,
+  "portraitHeight": 964,
+  "portraitCredit": {
+    "author": "Alonso Berruguete",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Alonso_Gonz%C3%A1lez_de_Berruguete_001.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alonso_Berruguete",
+  "paintings": [
+    {
+      "slug": "retablo-de-san-benito-el-real-valladolid-q6106616",
+      "title": "Retablo de San Benito el Real (Valladolid)",
+      "year": 1527,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Retablo_Mayor_de_San_Benito_el_Real%2C_Valladolid._Primer_cuerpo.jpg",
+      "imageWidth": 3477,
+      "imageHeight": 2318,
+      "story": "Monastery of San Benito el Real, Valladolid (Spain). Disentailment. First storey of the retable. Alonso Berruguete (1526-1532). Polychrome wood, oil on panel.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q6106616",
+      "imageBytes": 5509279,
+      "imageCredit": {
+        "author": "José Luis Filpo Cabana",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Retablo_Mayor_de_San_Benito_el_Real,_Valladolid._Primer_cuerpo.jpg"
+      }
+    },
+    {
+      "slug": "salome-with-the-head-of-john-the-baptist-q3945708",
+      "title": "Salome with the head of John the Baptist",
+      "year": 1512,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Alonso_Gonz%C3%A1lez_de_Berruguete_001.jpg",
+      "imageWidth": 788,
+      "imageHeight": 964,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 71,
+      "heightCm": 88,
+      "pageviews": null,
+      "qid": "Q3945708",
+      "imageBytes": 129645,
+      "imageCredit": {
+        "author": "Alonso Berruguete",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Alonso_Gonz%C3%A1lez_de_Berruguete_001.jpg"
+      }
+    },
+    {
+      "slug": "great-retable-of-san-benito-el-real-q125169893",
+      "title": "Great retable of San Benito el Real",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Alonso_Berruguete_-_Great_retable_of_San_Benito_el_Real_-_Google_Art_Project.jpg",
+      "imageWidth": 2849,
+      "imageHeight": 4289,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q125169893",
+      "imageBytes": 4403239,
+      "imageCredit": {
+        "author": "Alonso Berruguete",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Alonso_Berruguete_-_Great_retable_of_San_Benito_el_Real_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "madonna-mit-kind-mit-dem-jungen-st-johannes-q125171781",
+      "title": "Madonna mit Kind mit dem jungen St. Johannes",
+      "year": 1510,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Alonso_Berruguete_-_Madonna_and_Child_with_the_Young_St_John_-_WGA02076.jpg",
+      "imageWidth": 1100,
+      "imageHeight": 1102,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q125171781",
+      "imageBytes": 113018,
+      "imageCredit": {
+        "author": "Alonso Berruguete",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Alonso_Berruguete_-_Madonna_and_Child_with_the_Young_St_John_-_WGA02076.jpg"
+      }
+    },
+    {
+      "slug": "coronation-of-mary-with-saints-jerome-francis-of-assisi-bonaventura-and-louis-of-toulouse-q29651475",
+      "title": "Coronation of Mary with Saints Jerome, Francis of Assisi, Bonaventura and Louis of Toulouse",
+      "year": 1500,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Filippino_Lippi_-_Berruguete_-_Le_Couronnement_de_la_Vierge_avec_saint_J%C3%A9r%C3%B4me%2C_saint_Fran%C3%A7ois%2C_saint_Bonaventure_et_saint_Louis_de_Toulouse%2C_vers_INV_419.jpg",
+      "imageWidth": 1500,
+      "imageHeight": 1217,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q29651475",
+      "imageBytes": 336315,
+      "imageCredit": {
+        "author": "Filippino Lippi",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Filippino_Lippi_-_Berruguete_-_Le_Couronnement_de_la_Vierge_avec_saint_J%C3%A9r%C3%B4me,_saint_Fran%C3%A7ois,_saint_Bonaventure_et_saint_Louis_de_Toulouse,_vers_INV_419.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

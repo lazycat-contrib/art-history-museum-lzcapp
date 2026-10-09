@@ -1,0 +1,162 @@
+{
+  "slug": "cui-bai",
+  "periodSlug": "chinese-painting",
+  "name": "Cui Bai",
+  "wikiTitle": "Cui Bai",
+  "qid": "Q709216",
+  "birthYear": 1000,
+  "deathYear": 1074,
+  "tagline": "Chinese painter",
+  "bio": "\n\nCui Bai was a prominent Chinese painter of the Northern Song Dynasty (960–1279). A native of Anhui Province, Cui was best known for paintings of animals and plants. At some point during his life, he traveled to the capital of Kaifeng to seek employment as a court artist, and was accepted by Emperor Shenzong of Song, who admired his works. He became a renowned artist of Shenzong's court, but gained an awkward reputation for his often eccentric behavior.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Cui_Bai_-_Magpies_and_Hare.jpg",
+  "portraitWidth": 1776,
+  "portraitHeight": 3335,
+  "portraitCredit": {
+    "author": "Cui Bai",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Cui_Bai_-_Magpies_and_Hare.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cui_Bai",
+  "paintings": [
+    {
+      "slug": "magpies-and-hare-q19689600",
+      "title": "Magpies and Hare",
+      "year": 1061,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/%E9%9B%99%E5%96%9C%E5%9C%96.jpg",
+      "imageWidth": 733,
+      "imageHeight": 1383,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 103.4,
+      "heightCm": 193.7,
+      "pageviews": null,
+      "qid": "Q19689600",
+      "imageBytes": 188212,
+      "imageCredit": {
+        "author": "Cui Bai",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%E9%9B%99%E5%96%9C%E5%9C%96.jpg"
+      }
+    },
+    {
+      "slug": "painting-q116459624",
+      "title": "崔白寒雀图卷",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/%E5%B4%94%E7%99%BD%E5%AF%92%E9%9B%80%E5%9B%BE%E5%8D%B7.png",
+      "imageWidth": 45599,
+      "imageHeight": 4599,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q116459624",
+      "imageBytes": 442771707,
+      "imageCredit": {
+        "author": "Cui Bai",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%E5%B4%94%E7%99%BD%E5%AF%92%E9%9B%80%E5%9B%BE%E5%8D%B7.png"
+      }
+    },
+    {
+      "slug": "peacocks-and-a-loquat-tree-q121504428",
+      "title": "Peacocks and a Loquat Tree",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%E7%95%AB%E6%9E%87%E6%9D%B7%E5%AD%94%E9%9B%80.jpg",
+      "imageWidth": 3713,
+      "imageHeight": 6166,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 109.8,
+      "heightCm": 183.1,
+      "pageviews": null,
+      "qid": "Q121504428",
+      "imageBytes": 1628254,
+      "imageCredit": {
+        "author": "Cui Bai",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%E7%95%AB%E6%9E%87%E6%9D%B7%E5%AD%94%E9%9B%80.jpg"
+      }
+    },
+    {
+      "slug": "reeds-and-goose-q121539151",
+      "title": "Reeds and Goose",
+      "year": 1030,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%E5%AE%8B%E5%B4%94%E7%99%BD%E8%98%86%E8%8A%B1%E7%BE%B2%E6%84%9B_%E8%BB%B8.png",
+      "imageWidth": 1924,
+      "imageHeight": 3121,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 86.3,
+      "heightCm": 141.2,
+      "pageviews": null,
+      "qid": "Q121539151",
+      "imageBytes": 9936705,
+      "imageCredit": {
+        "author": "Cui Bai",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E5%B4%94%E7%99%BD%E8%98%86%E8%8A%B1%E7%BE%B2%E6%84%9B_%E8%BB%B8.png"
+      }
+    },
+    {
+      "slug": "hibicus-on-an-autumn-bank-and-geese-q124300548",
+      "title": "Hibicus on an Autumn Bank and Geese",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/%E7%A7%8B%E6%B5%A6%E8%93%89%E5%AE%BE%E8%BD%B4.%E5%AE%8B.%E5%B4%94%E7%99%BD.%E7%BB%98.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.tif",
+      "imageWidth": 4254,
+      "imageHeight": 6574,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 95.5,
+      "heightCm": 149.1,
+      "pageviews": null,
+      "qid": "Q124300548",
+      "imageBytes": 61550604,
+      "imageCredit": {
+        "author": "Cui Bai",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%E7%A7%8B%E6%B5%A6%E8%93%89%E5%AE%BE%E8%BD%B4.%E5%AE%8B.%E5%B4%94%E7%99%BD.%E7%BB%98.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.tif"
+      }
+    },
+    {
+      "slug": "painting-q137981868",
+      "title": "宋崔白雙喜圖 軸",
+      "year": 1061,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/%E5%AE%8B%E5%B4%94%E7%99%BD%E9%9B%99%E5%96%9C%E5%9C%96_%E8%BB%B8.jpg",
+      "imageWidth": 907,
+      "imageHeight": 1653,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 103.4,
+      "heightCm": 193.7,
+      "pageviews": null,
+      "qid": "Q137981868",
+      "imageBytes": 227306,
+      "imageCredit": {
+        "author": "國立故宮博物院",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "page": "https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E5%B4%94%E7%99%BD%E9%9B%99%E5%96%9C%E5%9C%96_%E8%BB%B8.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,190 @@
+{
+  "slug": "xu-beihong",
+  "periodSlug": "chinese-painting",
+  "name": "Xu Beihong",
+  "wikiTitle": "Xu Beihong",
+  "qid": "Q714152",
+  "birthYear": 1895,
+  "deathYear": 1953,
+  "tagline": "Chinese painter (1895–1953)",
+  "bio": "Xu Beihong, also known as Ju Péon, was a Chinese painter.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/XuBeihong.jpg",
+  "portraitWidth": 763,
+  "portraitHeight": 945,
+  "portraitCredit": {
+    "author": null,
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:XuBeihong.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Xu_Beihong",
+  "paintings": [
+    {
+      "slug": "put-down-your-whip-painting",
+      "title": "Put Down Your Whip (painting)",
+      "year": 1939,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Put_Down_Your_Whip_by_Xu_Beihong.jpg",
+      "imageWidth": 673,
+      "imageHeight": 1077,
+      "story": "Put Down Your Whip is a 1939 oil painting by Chinese realist painter Xu Beihong. Completed during Xu's stay in Singapore, the painting was exhibited numerous times before its disappearance from public view in 1954. It re-emerged in 2007 and was sold for HK$72 million in an auction on 7 April 2007 in Hong Kong, a then record for the highest price paid for a Chinese painting at auction. It is currently displayed in the National Gallery Singapore.",
+      "facts": [
+        "In October 1939, during his stay in Singapore, Xu Beihong was inspired by a street drama performance titled Put Down Your Whip by actress Wang Ying, a friend of the artist.",
+        "They sang about the hardship under the Japanese occupation and inspired their listeners to support the anti-Japanese war.",
+        "The painting eventually landed in the hands of an anonymous Asian collector, until being put up for auction in 2007.",
+        "2 million), setting a record for the highest price ever paid for a Chinese painting at an auction."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Put_Down_Your_Whip_(painting)",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1119,
+      "qid": "Q7262084",
+      "imageBytes": 318086,
+      "imageCredit": {
+        "author": "Xu Beihong",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Put_Down_Your_Whip_by_Xu_Beihong.jpg"
+      }
+    },
+    {
+      "slug": "painting-q116490385",
+      "title": "徐悲鸿虎图轴",
+      "year": 1918,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/%E5%BE%90%E6%82%B2%E9%B8%BF%E8%99%8E%E5%9B%BE%E8%BD%B4.jpg",
+      "imageWidth": 3240,
+      "imageHeight": 6012,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 43.6,
+      "heightCm": 90.4,
+      "pageviews": null,
+      "qid": "Q116490385",
+      "imageBytes": 2024514,
+      "imageCredit": {
+        "author": "Xu Beihong",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%E5%BE%90%E6%82%B2%E9%B8%BF%E8%99%8E%E5%9B%BE%E8%BD%B4.jpg"
+      }
+    },
+    {
+      "slug": "sketch-of-a-man-from-the-front-and-the-side-q116716882",
+      "title": "Sketch of a Man from the Front and the Side",
+      "year": 1924,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sketch_of_a_Man_from_the_Front_and_the_Side.jpg",
+      "imageWidth": 2560,
+      "imageHeight": 3023,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 44,
+      "heightCm": 52,
+      "pageviews": null,
+      "qid": "Q116716882",
+      "imageBytes": 2142667,
+      "imageCredit": {
+        "author": "Xu Beihong",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Sketch_of_a_Man_from_the_Front_and_the_Side.jpg"
+      }
+    },
+    {
+      "slug": "the-buffalo-demon-and-the-snake-spirit-q131765747",
+      "title": "The Buffalo Demon and the Snake Spirit",
+      "year": 1943,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Buffle_et_serpent.jpg",
+      "imageWidth": 1711,
+      "imageHeight": 2500,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q131765747",
+      "imageBytes": 654567,
+      "imageCredit": {
+        "author": "Xu Beihong",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Buffle_et_serpent.jpg"
+      }
+    },
+    {
+      "slug": "painting-q132625560",
+      "title": "徐悲鸿 康有为夫人像",
+      "year": 1916,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/%E5%BE%90%E6%82%B2%E9%B8%BF_%E5%BA%B7%E6%9C%89%E4%B8%BA%E5%A4%AB%E4%BA%BA%E5%83%8F.jpg",
+      "imageWidth": 4533,
+      "imageHeight": 5500,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q132625560",
+      "imageBytes": 2170028,
+      "imageCredit": {
+        "author": "Xu Beihong",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%E5%BE%90%E6%82%B2%E9%B8%BF_%E5%BA%B7%E6%9C%89%E4%B8%BA%E5%A4%AB%E4%BA%BA%E5%83%8F.jpg"
+      }
+    },
+    {
+      "slug": "the-eight-horses-xu-beihong-q60390055",
+      "title": "The eight horses (Xu Beihong)",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_eight_horses_%28Xu_Beihong%29.jpg",
+      "imageWidth": 978,
+      "imageHeight": 639,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q60390055",
+      "imageBytes": 138502,
+      "imageCredit": {
+        "author": "Xu Beihong",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_eight_horses_(Xu_Beihong).jpg"
+      }
+    },
+    {
+      "slug": "portrait-of-sun-duoci-1912-1975-q124023202",
+      "title": "Portrait-of Sun Duoci (1912-1975)",
+      "year": 1920,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/A_Portrait-of_Sun_Duoci_by_Xu_Beihong.jpg",
+      "imageWidth": 1000,
+      "imageHeight": 1142,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q124023202",
+      "imageBytes": 131273,
+      "imageCredit": {
+        "author": "Xu Beihong",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:A_Portrait-of_Sun_Duoci_by_Xu_Beihong.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "stephanos-tzangarolas",
+  "periodSlug": "cretan-school",
+  "name": "Stephanos Tzangarolas",
+  "wikiTitle": "Stephanos Tzangarolas",
+  "qid": "Q107985224",
+  "birthYear": 1660,
+  "deathYear": 1710,
+  "tagline": "Greek painter",
+  "bio": "Stephanos Tzangarolas also known as Stephano Tzangarola. He was a Greek painter during the late Cretan Renaissance. He migrated from Crete to the island of Corfu. He is a member of the Heptanese School and the Cretan Renaissance. His contemporaries at the time were Panagiotis Doxaras, Theodore Poulakis and Elias Moskos. His artwork began to reflect the transition of the classical maniera greca of Crete to the more refined style of the Ionian Islands. His style resembles the transition of Gentile da Fabriano and Fra Angelico from the maniera greca to their respective styles. Tzangarolas paintings influenced countless artists both Italian and Greek. Some artists that reflect his style include Spyridon Sperantzas and Georgios Kastrofylakas. His paintings can be found all over Greece mainly Athens and the Ionian Islands. Some of his work is in Cairo and London. His student was famous Greek painter Andreas Karantinos.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Stephanos_Tzangarolas_Virgin_and_Child.png",
+  "portraitWidth": 597,
+  "portraitHeight": 827,
+  "portraitCredit": {
+    "author": "Stephanos Tzangarolas",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Stephanos_Tzangarolas_Virgin_and_Child.png"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephanos_Tzangarolas",
+  "paintings": [
+    {
+      "slug": "virgin-glykofilousa-with-the-akathist-hymn-tzangarolas",
+      "title": "Virgin Glykofilousa with the Akathist Hymn (Tzangarolas)",
+      "year": 1700,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Stephanos_Tzangarolas_Virgin_and_Child.png",
+      "imageWidth": 597,
+      "imageHeight": 827,
+      "story": "The Virgin Glykofilousa with the Akathist Hymn is a tempera painting created by Greek painter Stephano Tzangarola. The work is a symbol of the craftsmanship of the Heptanese school and the evolution of Greek painting from the Byzantine style to the Cretan Renaissance style. Tzangarola was originally from Crete and migrated to Corfu. The Ionian Islands became the artistic center of the Greek world. He was active from 1675 to 1710 during the Greek Baroque period and Rococo. Twenty-two of his works survived. His student was famous Greek painter and Archpriest Andreas Karantinos.",
+      "facts": [
+        "The Virgin Glykofilousa with the Akathist Hymn is an egg tempera painting with gold leaf on a wood panel.",
+        "The work exhibits a mixture of the Greek Baroque, Late Cretan School, and the Rococo."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Virgin_Glykofilousa_with_the_Akathist_Hymn_(Tzangarolas)",
+      "sitelinks": 2,
+      "widthCm": 65,
+      "heightCm": 92,
+      "pageviews": 369,
+      "qid": "Q111181845",
+      "imageBytes": 1232122,
+      "imageCredit": {
+        "author": "Stephanos Tzangarolas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Stephanos_Tzangarolas_Virgin_and_Child.png"
+      }
+    },
+    {
+      "slug": "adoration-of-the-shepherds-tzangarolas",
+      "title": "Adoration of the Shepherds (Tzangarolas)",
+      "year": 1675,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Adoration_of_the_Shepherds_Close_Up_Tzangarolas.png",
+      "imageWidth": 1593,
+      "imageHeight": 1219,
+      "story": "Adoration of the Shepherds is a tempera painting created by Greek painter Stephanos Tzangarolas. The painter was originally from Crete. He was a member of a wealthy Cretan family. He was a teacher and priest. He signed most of his works. He migrated to Corfu. His work period was from 1675 to 1710. He was active during the Greek Baroque period. 22 of his works survived. He was a prominent member of the Heptanese School.",
+      "facts": [
+        "The materials used for the work were tempera paint, gold leaf, and wood.",
+        "He imported some of the figures from the Cornelis Cort engraving."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adoration_of_the_Shepherds_(Tzangarolas)",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 310,
+      "qid": "Q112598329",
+      "imageBytes": 3568615,
+      "imageCredit": {
+        "author": "Stephanos Tzangarolas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Adoration_of_the_Shepherds_Close_Up_Tzangarolas.png"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

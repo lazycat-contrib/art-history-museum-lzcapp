@@ -1,0 +1,165 @@
+{
+  "slug": "nikiforos-lytras",
+  "periodSlug": "academic-art",
+  "name": "Nikiforos Lytras",
+  "wikiTitle": "Nikiforos Lytras",
+  "qid": "Q1383454",
+  "birthYear": 1832,
+  "deathYear": 1904,
+  "tagline": "Greek painter (1832–1904)",
+  "bio": "Nikiforos Lytras was a Greek painter. He was born in Tinos and trained in Athens at the School of Arts. In 1860, he won a scholarship to Royal Academy of Fine Arts of Munich. After completing these studies, he became a professor at the School of Arts in 1866, a position he held for the rest of his life. He remained faithful to the precepts and principles of the Munich School, while paying greatest attention both to ethnographic themes and portraiture. His most famous portrait was of the royal couple, Otto and Amalia, and his most well-known landscape a depiction of the region of Lavrio.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Nikiforos_Lytras_Self-portrait.png",
+  "portraitWidth": 1015,
+  "portraitHeight": 1200,
+  "portraitCredit": {
+    "author": "Nikiforos Lytras",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Nikiforos_Lytras_Self-portrait.png"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikiforos_Lytras",
+  "paintings": [
+    {
+      "slug": "the-dirge-in-psara",
+      "title": "The Dirge in Psara",
+      "year": 1888,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lytras_Nikephoros_-_The_Dirge_in_Psara_%28before_1888%29.jpg",
+      "imageWidth": 1614,
+      "imageHeight": 1100,
+      "story": "The Dirge in Psara is a painting by Nikiforos Lytras, dated to before 1888. The painting is an oil on canvas with dimensions of 97 x 140 centimeters. It is part of the collection of the National Gallery, in Athens.",
+      "facts": [
+        "This is one of the most well-known paintings of Lytras Nikiforos.",
+        "The common people's customs and their life incidents was a source of inspiration to the painter."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Dirge_in_Psara",
+      "sitelinks": 2,
+      "widthCm": 140,
+      "heightCm": 97,
+      "pageviews": 284,
+      "qid": "Q22671113",
+      "imageBytes": 281339,
+      "imageCredit": {
+        "author": "Nikiforos Lytras",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Lytras_Nikephoros_-_The_Dirge_in_Psara_(before_1888).jpg"
+      }
+    },
+    {
+      "slug": "painting-q26253001",
+      "title": "Εσωτερικό σπιτιού, Νικηφόρος Λύτρας",
+      "year": 1879,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/%CE%95%CF%83%CF%89%CF%84%CE%B5%CF%81%CE%B9%CE%BA%CF%8C_%CF%83%CF%80%CE%B9%CF%84%CE%B9%CE%BF%CF%8D%2C_%CE%9D%CE%B9%CE%BA%CE%B7%CF%86%CF%8C%CF%81%CE%BF%CF%82_%CE%9B%CF%8D%CF%84%CF%81%CE%B1%CF%82.jpg",
+      "imageWidth": 523,
+      "imageHeight": 650,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q26253001",
+      "imageBytes": 81548,
+      "imageCredit": {
+        "author": "Nikiforos Lytras",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%CE%95%CF%83%CF%89%CF%84%CE%B5%CF%81%CE%B9%CE%BA%CF%8C_%CF%83%CF%80%CE%B9%CF%84%CE%B9%CE%BF%CF%8D,_%CE%9D%CE%B9%CE%BA%CE%B7%CF%86%CF%8C%CF%81%CE%BF%CF%82_%CE%9B%CF%8D%CF%84%CF%81%CE%B1%CF%82.jpg"
+      }
+    },
+    {
+      "slug": "the-burning-of-the-turkish-flagship-by-kanaris-q101208343",
+      "title": "The Burning of the Turkish Flagship by Kanaris",
+      "year": 1873,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/The_burning_of_the_Turkish_flagship_by_Kanaris.png",
+      "imageWidth": 2132,
+      "imageHeight": 2697,
+      "story": "The attack to the turkish flagship by a fireship commanded by Kanaris at the island of Chios",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 109,
+      "heightCm": 143,
+      "pageviews": null,
+      "qid": "Q101208343",
+      "imageBytes": 17288562,
+      "imageCredit": {
+        "author": "Nikiforos Lytras",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_burning_of_the_Turkish_flagship_by_Kanaris.png"
+      }
+    },
+    {
+      "slug": "nude-q114353992",
+      "title": "Nude",
+      "year": 1867,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/%CE%9D%CE%B9%CE%BA%CE%B7%CF%86%CF%8C%CF%81%CE%BF%CF%82_%CE%9B%CF%8D%CF%84%CF%81%CE%B1%CF%82_-_%CE%93%CF%85%CE%BC%CE%BD%CF%8C.jpg",
+      "imageWidth": 800,
+      "imageHeight": 572,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 118,
+      "heightCm": 86,
+      "pageviews": null,
+      "qid": "Q114353992",
+      "imageBytes": 322133,
+      "imageCredit": {
+        "author": "Nikiforos Lytras",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%CE%9D%CE%B9%CE%BA%CE%B7%CF%86%CF%8C%CF%81%CE%BF%CF%82_%CE%9B%CF%8D%CF%84%CF%81%CE%B1%CF%82_-_%CE%93%CF%85%CE%BC%CE%BD%CF%8C.jpg"
+      }
+    },
+    {
+      "slug": "anthi-epitafiou-painting-by-nikiforos-lytras-q26212897",
+      "title": "Anthi Epitafiou, painting by Nikiforos Lytras",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Anthi_Epitafiou%2C_painting_by_Nikiforos_Lytras.jpg",
+      "imageWidth": 690,
+      "imageHeight": 1090,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q26212897",
+      "imageBytes": 117769,
+      "imageCredit": {
+        "author": "Nikiforos Lytras",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Anthi_Epitafiou,_painting_by_Nikiforos_Lytras.jpg"
+      }
+    },
+    {
+      "slug": "otto-king-of-greece-with-the-decree-founding-the-national-bank-of-greece-q123483031",
+      "title": "Otto, King of Greece with the Decree Founding the National Bank of Greece",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/%22Othon_with_the_Decree_Founding_the_National_Bank_of_Greece%22_%28c._1898-1899%29_-_Nikiphoros_Lytras.jpg",
+      "imageWidth": 1404,
+      "imageHeight": 2909,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q123483031",
+      "imageBytes": 619397,
+      "imageCredit": {
+        "author": "Nikiforos Lytras",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%22Othon_with_the_Decree_Founding_the_National_Bank_of_Greece%22_(c._1898-1899)_-_Nikiphoros_Lytras.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "konstantinos-maleas",
+  "periodSlug": "post-impressionism",
+  "name": "Konstantinos Maleas",
+  "wikiTitle": "Konstantinos Maleas",
+  "qid": "Q737559",
+  "birthYear": 1879,
+  "deathYear": 1928,
+  "tagline": "Greek painter",
+  "bio": "Konstantinos Maleas was one of the most important Post-Impressionist Greek painters of the 20th century. Along with Konstantinos Parthenis, he is sometimes considered Greece's most important modern artist.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/KONSTANTINOS-MALEAS.jpg",
+  "portraitWidth": 110,
+  "portraitHeight": 126,
+  "portraitCredit": {
+    "author": "Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:KONSTANTINOS-MALEAS.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Konstantinos_Maleas",
+  "paintings": [
+    {
+      "slug": "aswan-q26703178",
+      "title": "Aswan",
+      "year": 1923,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/%CE%9A%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%AF%CE%BD%CE%BF%CF%82_%CE%9C%CE%B1%CE%BB%CE%AD%CE%B1%CF%82%2C_%CE%91%CF%83%CF%83%CE%BF%CF%85%CE%AC%CE%BD_%CF%84%CE%BF%CF%85_%CE%9D%CE%B5%CE%AF%CE%BB%CE%BF%CF%85.jpg",
+      "imageWidth": 2374,
+      "imageHeight": 2400,
+      "story": "Aswan. Oil and pencil on pasteboard, 23 cm x 24 cm. National Gallery of Greece, Corfu Annex.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 23.5,
+      "heightCm": 23,
+      "pageviews": null,
+      "qid": "Q26703178",
+      "imageBytes": 1914133,
+      "imageCredit": {
+        "author": "Konstantinos Maleas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%CE%9A%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%AF%CE%BD%CE%BF%CF%82_%CE%9C%CE%B1%CE%BB%CE%AD%CE%B1%CF%82,_%CE%91%CF%83%CF%83%CE%BF%CF%85%CE%AC%CE%BD_%CF%84%CE%BF%CF%85_%CE%9D%CE%B5%CE%AF%CE%BB%CE%BF%CF%85.jpg"
+      }
+    },
+    {
+      "slug": "delphi-q56833971",
+      "title": "Delphi",
+      "year": 1922,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/MaleasDelphi.jpg",
+      "imageWidth": 2000,
+      "imageHeight": 1555,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 77,
+      "heightCm": 61,
+      "pageviews": null,
+      "qid": "Q56833971",
+      "imageBytes": 911982,
+      "imageCredit": {
+        "author": "Konstantinos Maleas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:MaleasDelphi.jpg"
+      }
+    },
+    {
+      "slug": "kammeni-santorini-q56836885",
+      "title": "Kammeni, Santorini",
+      "year": 1924,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Maleas-konstantinos-kammeni-santorinis.jpeg",
+      "imageWidth": 2000,
+      "imageHeight": 1823,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 56,
+      "heightCm": 50,
+      "pageviews": null,
+      "qid": "Q56836885",
+      "imageBytes": 759939,
+      "imageCredit": {
+        "author": "Konstantinos Maleas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Maleas-konstantinos-kammeni-santorinis.jpeg"
+      }
+    },
+    {
+      "slug": "the-church-of-the-pantanassa-naxos-q56836910",
+      "title": "The Church of the Pantanassa, Naxos",
+      "year": 1924,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pantanassa%2C_Naxos_by_Konstantinos_Maleas.jpg",
+      "imageWidth": 2000,
+      "imageHeight": 1548,
+      "story": "The Church of Pantanassa, Naxos, oil on pasteboard, 53 cm x 69 cm. National Gallery of Greece",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 69,
+      "heightCm": 53,
+      "pageviews": null,
+      "qid": "Q56836910",
+      "imageBytes": 813993,
+      "imageCredit": {
+        "author": "Konstantinos Maleas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pantanassa,_Naxos_by_Konstantinos_Maleas.jpg"
+      }
+    },
+    {
+      "slug": "landscape-by-the-sea-q131245453",
+      "title": "Landscape by the sea",
+      "year": 1919,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Konstantinos_maleas%2C_paesaggio_marino%2C_1918-1920_cropped.jpg",
+      "imageWidth": 3584,
+      "imageHeight": 2181,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 52.2,
+      "heightCm": 33.5,
+      "pageviews": null,
+      "qid": "Q131245453",
+      "imageBytes": 6041752,
+      "imageCredit": {
+        "author": "Konstantinos Maleas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Konstantinos_maleas,_paesaggio_marino,_1918-1920_cropped.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

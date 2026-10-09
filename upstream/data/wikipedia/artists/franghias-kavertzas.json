@@ -1,0 +1,76 @@
+{
+  "slug": "franghias-kavertzas",
+  "periodSlug": "cretan-school",
+  "name": "Franghias Kavertzas",
+  "wikiTitle": "Franghias Kavertzas",
+  "qid": "Q104483225",
+  "birthYear": 1590,
+  "deathYear": 1647,
+  "tagline": "Greek painter (1590/1600–1648)",
+  "bio": "Frantzeskos or Franghias Kavertzas was a Greek painter. His painting style resembles the late Cretan school or early Greek Baroque period. His work was influenced by Georgios Klontzas, Michael Damaskinos and Emmanuel Tzanfournaris. He was active in Crete during the early part of the 17th century, roughly after the death of Georgios Klontzas. He painted two icons that are very similar to Klontzas's most notable pieces. Theodore Poulakis also painted similar themes. Kavertzas' artwork incorporates the Venetian school. His works also influenced Leos Moskos. His most notable works are the Last Judgement, In You Rejoiceth.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Last_Judgment_by_F.Kavertzas_%281640-41%29.jpg",
+  "portraitWidth": 2689,
+  "portraitHeight": 3168,
+  "portraitCredit": {
+    "author": "Frantzeskos Kavertzas",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Last_Judgment_by_F.Kavertzas_(1640-41).jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Franghias_Kavertzas",
+  "paintings": [
+    {
+      "slug": "in-you-rejoiceth-kavertzas",
+      "title": "In You Rejoiceth (Kavertzas)",
+      "year": 1615,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Franghias_Kavertzas_-_En_Toi_se_r%C3%A9jouit_-_PPP4881_-_Mus%C3%A9e_des_Beaux-Arts_de_la_ville_de_Paris.jpg",
+      "imageWidth": 5254,
+      "imageHeight": 5512,
+      "story": "In You Rejoiceth also known as Epi Si Harri is a tempera and gold leaf painting by Frantzeskos Kavertzas. The painting is a tribute to the Virgin Mary. \nKavertzas was active on the island of Crete during the first half of the 17th century. He was a member of the late Cretan School. Seven of his works survived, five were signed. His two most notable pieces are The Last Judgment and In You Rejoiceth. The theme and style behind In You Rejoiceth mostly resembles Georgios Klontzas's painting In Thee Rejoiceth. Theodore Poulakis also created his own version of the masterpiece In Thee Rejoiceth  towards the second half of the 17th century. Many artists created their own version of the painting. The theme became a prototype in Crete during the 17th century. Leos Moskos also created his own version of the painting. The Klontzas and Poulakis paintings both feature the Hymn to the Virgin. The Kavertzas painting lacks the pictorial representation of the Hymn to the Virgin. The name is used on paintings that are stylistically similar to Klontzas's original work. Frantzeskos Kavertzas painting is located in Paris at the Musée des beaux-arts de la ville de Paris.",
+      "facts": [
+        "The painting follows the lines of the Italian cangiante style.",
+        "The materials used to create the masterpiece were egg tempera, gold leaf, and wood panel."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/In_You_Rejoiceth_(Kavertzas)",
+      "sitelinks": 2,
+      "widthCm": 55,
+      "heightCm": 58,
+      "pageviews": 327,
+      "qid": "Q104483224",
+      "imageBytes": 6002503,
+      "imageCredit": {
+        "author": "Frantzeskos Kavertzas",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "page": "https://commons.wikimedia.org/wiki/File:Franghias_Kavertzas_-_En_Toi_se_r%C3%A9jouit_-_PPP4881_-_Mus%C3%A9e_des_Beaux-Arts_de_la_ville_de_Paris.jpg"
+      }
+    },
+    {
+      "slug": "the-last-judgment-kavertzas",
+      "title": "The Last Judgment (Kavertzas)",
+      "year": 1641,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Last_Judgment_by_F.Kavertzas_%281640-41%29.jpg",
+      "imageWidth": 2689,
+      "imageHeight": 3168,
+      "story": "The Last Judgment also known as The Second Coming is an egg tempera painting by Francheskos Kavertzas. His artistic period was during the first half of the 17th century. Seven of his works survived, five were signed. He was a member of the late Cretan school. The Last Judgment painted by Georgios Klontzas inspired countless Cretan artists, Kavertzas was one of them. Kavertzas's painting In You Rejoiceth strongly resembles Klontzas's In Thee Rejoiceth. Leos Moskos was also inspired by Klontzas's work. He also painted a similar version of The Last Judgment. The final judgment is the last judgment of every person on earth. The painting is a pictural representation of that event. The Kavertzas The Last Judgment is unique because it features a nun. Her name was Evgenia Trapezontiopoulla. According to records on March 9, 1641, the nun could not afford to pay for the painting. Kavertzas and the nun bartered instead. The painting is part of the collection of the Hellenic Institute of Venice in Italy.",
+      "facts": [
+        "At the top part of the icon, Jesus lies on the vertical axis of the image.",
+        "John the Baptist is to his left, he is followed by six apostles."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Last_Judgment_(Kavertzas)",
+      "sitelinks": 2,
+      "widthCm": 124.5,
+      "heightCm": 138,
+      "pageviews": 973,
+      "qid": "Q109569195",
+      "imageBytes": 730120,
+      "imageCredit": {
+        "author": "Frantzeskos Kavertzas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Last_Judgment_by_F.Kavertzas_(1640-41).jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "nikolaos-doxaras",
+  "periodSlug": "cretan-school",
+  "name": "Nikolaos Doxaras",
+  "wikiTitle": "Nikolaos Doxaras",
+  "qid": "Q1651424",
+  "birthYear": 1710,
+  "deathYear": 1775,
+  "tagline": "18th-century Greek painter",
+  "bio": "Nikolaos Doxaras. He was a Greek painter and teacher. His father was famous painter Panagiotis Doxaras. Panagiotis Doxaras was the father of the Greek Rococo and the Modern Greek Enlightenment in art. They are both prominent members of the Heptanese School. They refined Greek art bringing the Maniera Greca into the Maniera Italiana. Artists he influenced include: Nikolaos Kantounis, Nikolaos Koutouzis and Gerasimos Pitsamanos. His influence can be seen in some of Nikolaos Kantounis's paintings notably The Assumption. Nikolaos taught famous painter Nikolaos Koutouzis. Both Nikolaos Koutouzis and Doxaras artistic style refined the art of the Ionian Islands. Venetian painting influenced countless Greek artists who were living in the empire. From Michael Damaskinos to Theodore Poulakis. Twenty years after Nikolaos's death the style came to an end due to the Fall of the Republic of Venice. A new artistic style developed after the Greek Rococo which coincided with Neoclassicism in the rest of Europe called the middle Modern Greek Enlightenment in art also known as Neo-Hellenikos Diafotismos.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Nikolaos_Doxaras_Assumption_of_Mary.png",
+  "portraitWidth": 586,
+  "portraitHeight": 765,
+  "portraitCredit": {
+    "author": "Nikolaos Doxaras",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nikolaos_Doxaras_Assumption_of_Mary.png"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikolaos_Doxaras",
+  "paintings": [
+    {
+      "slug": "assumption-of-mary-doxaras",
+      "title": "Assumption of Mary (Doxaras)",
+      "year": 1730,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Nikolaos_Doxaras_Assumption_of_Mary.png",
+      "imageWidth": 586,
+      "imageHeight": 765,
+      "story": "Assumption of Mary was a painting created by Greek painter Nikolaos Doxaras. He was the son of famous Greek painter Panagiotis Doxaras. Nikolaos flourished on the Ionian Islands. He was a representative of the Heptanese School. He traveled all of the Ionian Islands painting. He spent close to a decade in Venice. He had a relationship with Johann Schulenberg. Doxaras stayed with him from 1730 to 1738 at the Palazzo Loredan. He was his confidant at the Schulenburg Art Gallery. He also painted for Schulenburg. He left Venice and continued painting all over the Ionian islands until his death. He was active from 1725 to 1775. Five of his paintings survived. Both Nikolaos and his father attempted to popularize oil painting.",
+      "facts": [
+        "The painting bears similarities to Tintoretto's Assumption in both works angels hold up the Virgin Mary.",
+        "A few of the bearded figures below also reflect Tintoretto's masterpiece."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Assumption_of_Mary_(Doxaras)",
+      "sitelinks": 2,
+      "widthCm": 34,
+      "heightCm": 45,
+      "pageviews": 782,
+      "qid": "Q112309161",
+      "imageBytes": 933302,
+      "imageCredit": {
+        "author": "Nikolaos Doxaras",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Nikolaos_Doxaras_Assumption_of_Mary.png"
+      }
+    },
+    {
+      "slug": "kimisis-tis-theotokou-doxaras-q135687053",
+      "title": "Kimisis Tis Theotokou (Doxaras)",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Doxaras%2C_Panagiotis_-_Dormition_of_the_Virgin_Mary_%28Ko%C3%ADmisi_tis_Theotokou%29%2C_c._1753-1754.jpg",
+      "imageWidth": 1535,
+      "imageHeight": 2000,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 34,
+      "heightCm": 45,
+      "pageviews": null,
+      "qid": "Q135687053",
+      "imageBytes": 584790,
+      "imageCredit": {
+        "author": "Nikolaos Doxaras",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Doxaras,_Panagiotis_-_Dormition_of_the_Virgin_Mary_(Ko%C3%ADmisi_tis_Theotokou),_c._1753-1754.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

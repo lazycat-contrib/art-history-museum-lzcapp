@@ -1,0 +1,101 @@
+{
+  "slug": "qi-baishi",
+  "periodSlug": "chinese-painting",
+  "name": "Qi Baishi",
+  "wikiTitle": "Qi Baishi",
+  "qid": "Q369608",
+  "birthYear": 1864,
+  "deathYear": 1957,
+  "tagline": "Chinese painter (1864–1957)",
+  "bio": "Qi Baishi was a Chinese painter, noted for the whimsical, often playful style of his works. Born to a peasant family from Xiangtan, Hunan, Qi taught himself to paint, sparked by the Manual of the Mustard Seed Garden. After he turned 40, he traveled, visiting various scenic spots in China. After 1917 he settled in Beijing. Qi was the master of Hu Jieqing, the wife of Lao She.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Qi_Baishi_%281956%29%2C_by_Zheng_Jingkang.jpg",
+  "portraitWidth": 3136,
+  "portraitHeight": 4614,
+  "portraitCredit": {
+    "author": "Zheng Jingkang",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Qi_Baishi_(1956),_by_Zheng_Jingkang.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Qi_Baishi",
+  "paintings": [
+    {
+      "slug": "twelve-landscape-screens",
+      "title": "Twelve Landscape Screens",
+      "year": 1925,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Twelve_Landscape_Screens_by_Qi_Baishi.jpg",
+      "imageWidth": 900,
+      "imageHeight": 1101,
+      "story": "Twelve Landscape Screens is a set of ink wash panels painted by Qi Baishi in 1925, depicting rural Chinese villages alongside mountains and trees across the four seasons in a year. The panels were sold at auction for US$140.8 million in 2017, making them the most expensive non-Western paintings ever sold.",
+      "facts": [
+        "Scenery in the paintings was inspired by Qi Baishi's travels throughout rural China, while the depictions of houses were inspired by Qi's own village in Hunan.",
+        "The panels were originally scheduled to be sold in 2015 by Poly Auction, with a price guide of US$115–217 million, but the sale was called off for undisclosed reasons.",
+        "It also made Qi the first Chinese artist whose work has been sold for more than US$100 million at auction.",
+        "A representative for the auction house revealed that almost all of the bidders were from Mainland China, including the buyer, but declined to share further information about their identity."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Twelve_Landscape_Screens",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 5278,
+      "qid": "Q138135336",
+      "imageBytes": 204202,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Qi Baishi",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Twelve_Landscape_Screens_by_Qi_Baishi.jpg"
+      }
+    },
+    {
+      "slug": "painting-q116459029",
+      "title": "齐璜画藤轴",
+      "year": 1922,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/%E9%BD%90%E7%92%9C%E7%94%BB%E8%97%A4%E8%BD%B4.png",
+      "imageWidth": 7042,
+      "imageHeight": 13914,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 63.3,
+      "heightCm": 131.4,
+      "pageviews": null,
+      "qid": "Q116459029",
+      "imageBytes": 110129600,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Qi Baishi",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%E9%BD%90%E7%92%9C%E7%94%BB%E8%97%A4%E8%BD%B4.png"
+      }
+    },
+    {
+      "slug": "daiyu-buries-flowers-qi-huang-q132691569",
+      "title": "Daiyu Buries Flowers, Qi Huang",
+      "year": 1950,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Daiyu_Buries_Flowers%2C_Qi_Huang.jpg",
+      "imageWidth": 1461,
+      "imageHeight": 4000,
+      "story": "The subject of this portrait is Lin Daiyu, a character from the 18th-century novel Dream of the Red Chamber. In the painting, Daiyu takes a hoe to dig a pit for the bag of flowers she holds.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q132691569",
+      "imageBytes": 2624131,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Qi Baishi",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Daiyu_Buries_Flowers,_Qi_Huang.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

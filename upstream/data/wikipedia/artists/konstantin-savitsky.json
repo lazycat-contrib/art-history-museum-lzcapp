@@ -1,0 +1,153 @@
+{
+  "slug": "konstantin-savitsky",
+  "periodSlug": "academic-art",
+  "name": "Konstantin Savitsky",
+  "wikiTitle": "Konstantin Savitsky",
+  "qid": "Q958052",
+  "birthYear": 1844,
+  "deathYear": 1905,
+  "tagline": "Russian painter (1844–1905)",
+  "bio": "Konstantin Apollonovich Savitsky was a Russian painter in the Realist style, active during Tsars Alexander II through Nicholas II's reigns, primarily known for his genre pictures.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/%D0%A1%D0%B0%D0%B2%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%90%D0%BF%D0%BE%D0%BB%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.jpg",
+  "portraitWidth": 599,
+  "portraitHeight": 900,
+  "portraitCredit": {
+    "author": "Nikolai Karlovich Grandkovsky",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%B2%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%90%D0%BF%D0%BE%D0%BB%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Konstantin_Savitsky",
+  "paintings": [
+    {
+      "slug": "morning-in-a-pine-forest",
+      "title": "Morning in a Pine Forest",
+      "year": 1889,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Utro_v_sosnovom_lesu.jpg",
+      "imageWidth": 5668,
+      "imageHeight": 3840,
+      "story": "Morning in a Pine Forest, formerly The Bear Family in the Forest, is a painting by Russian artists Ivan Shishkin and Konstantin Savitsky.",
+      "facts": [
+        "Initially, the painting, which measures 139×213 cm, did not include bears.",
+        "However, the artist Konstantin Savitsky, who knew Shishkin well, proposed to supplement the painting with figures of living creatures – bears."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Morning_in_a_Pine_Forest",
+      "sitelinks": 30,
+      "widthCm": 213,
+      "heightCm": 139,
+      "pageviews": 34624,
+      "qid": "Q2666439",
+      "imageBytes": 16280366,
+      "imageCredit": {
+        "author": "Ivan Shishkin / Konstantin Savitsky",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Utro_v_sosnovom_lesu.jpg"
+      }
+    },
+    {
+      "slug": "to-war-painting",
+      "title": "To War (painting)",
+      "year": 1888,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Savitsky_na_voinu.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 605,
+      "story": "To War is a painting by the Russian artist Konstantin Savitsky (1844–1905), completed in 1888. It belongs to the State Russian Museum in St. Petersburg. The dimensions of the canvas are 207.5 × 303.5 cm. Alternative titles are also used, including Sending Recruits Off to War and Seeing Off to War. The narrative revolves around the scene of soldiers going off to war, parting with their loved ones. It takes place during the Russo-Turkish War of 1877-1878.",
+      "facts": [
+        "In the opinion of art historian Dmitri Sarabianov, the paintings Dark People (1882, Russian Museum), Horse Thief (1883) and Krutchnik (1884) are the most appropriate examples of such works.",
+        "Nevertheless, the final version of the painting was commissioned by Alexander III.",
+        "By opting to portray the last minutes before the separation, the artist was able to \"show the actors at a time when all the feelings and thoughts, usually hidden from view, are more vividly manifested\".",
+        "\" The soldier's features have become more strong-willed, his father is less decrepit and his mother's face, which was hidden in the first version of the painting, is now visible."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/To_War_(painting)",
+      "sitelinks": 5,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 2131,
+      "qid": "Q47542592",
+      "imageBytes": 277632,
+      "imageCredit": {
+        "author": "Konstantin Savitsky",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Savitsky_na_voinu.jpg"
+      }
+    },
+    {
+      "slug": "repair-work-on-the-railway",
+      "title": "Repair Work on the Railway",
+      "year": 1874,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Savitsky_Repair_work_on_the_railway_gtg_h.jpg",
+      "imageWidth": 4368,
+      "imageHeight": 2451,
+      "story": "Repair Work on the Railway is a painting by Russian artist Konstantin Savitsky (1844–1905), completed in 1874. It is held in the State Tretyakov Gallery in Moscow. The dimensions of the painting are 103 × 180.8 cm. The titles Railway Repair, Railway Workers and Repair on the Railway are also used.",
+      "facts": [
+        "The same monograph presented a rationale for why the inscription of the date '1875' on the study was erroneous and proposed that its creation should be attributed to 1873.",
+        "In 1862–1873 (with interruptions), Konstantin Savitsky studied at the Academy of Arts in the class of historical painting, where his mentors were Fyodor Bruni, Alexey Markov and Pavel Chistyakov."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Repair_Work_on_the_Railway",
+      "sitelinks": 4,
+      "widthCm": 175,
+      "heightCm": 100,
+      "pageviews": 1039,
+      "qid": "Q16691862",
+      "imageBytes": 3865230,
+      "imageCredit": {
+        "author": "Konstantin Savitsky",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Savitsky_Repair_work_on_the_railway_gtg_h.jpg"
+      }
+    },
+    {
+      "slug": "welcoming-the-icon",
+      "title": "Welcoming the Icon",
+      "year": 1878,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/%D0%A1%D0%B0%D0%B2%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9A._%D0%90._%281878%29_%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0_%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B.jpg",
+      "imageWidth": 2048,
+      "imageHeight": 1264,
+      "story": "Welcoming the Icon is a painting by Russian artist Konstantin Savitsky (1844–1905), which was completed in 1878. It is stored in the State Tretyakov Gallery in Moscow. The size of the painting is 141 × 228 cm. This painting is a multi-figure genre canvas that represents an episode of peasant life and was painted during the Russo-Turkish War of 1877–1878. Savitsky worked on it in Daugavpils.",
+      "facts": [
+        "In a letter to the artist Ivan Kramskoi dated May 9, 1878, Pavel Tretyakov described the situation as follows: \"There are different opinions about Savitsky, but people mostly like the Icon, except for the priest, who is unanimously attacked\".",
+        "From 1862 to 1873 (with interruptions), Konstantin Savitsky studied at the Imperial Academy of Arts in the class of history painting, where his mentors were Fyodor Bruni, Alexei Markov, and Pavel Chistyakov."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Welcoming_the_Icon",
+      "sitelinks": 4,
+      "widthCm": 230,
+      "heightCm": 144,
+      "pageviews": 1224,
+      "qid": "Q61754887",
+      "imageBytes": 923309,
+      "imageCredit": {
+        "author": "Konstantin Savitsky",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%B2%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9A._%D0%90._(1878)_%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0_%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B.jpg"
+      }
+    },
+    {
+      "slug": "sea-in-normandy-q124051466",
+      "title": "Sea in Normandy",
+      "year": 1875,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/A_tenger_Normandi%C3%A1ban.jpg",
+      "imageWidth": 1280,
+      "imageHeight": 763,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 92,
+      "heightCm": 61,
+      "pageviews": null,
+      "qid": "Q124051466",
+      "imageBytes": 65500,
+      "imageCredit": {
+        "author": "Konstantin Savitsky",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:A_tenger_Normandi%C3%A1ban.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

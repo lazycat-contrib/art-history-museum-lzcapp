@@ -1,0 +1,142 @@
+{
+  "slug": "konstantinos-tzanes",
+  "periodSlug": "cretan-school",
+  "name": "Konstantinos Tzanes",
+  "wikiTitle": "Konstantinos Tzanes",
+  "qid": "Q107308387",
+  "birthYear": 1633,
+  "deathYear": 1685,
+  "tagline": "Greek painter",
+  "bio": "Konstantinos Tzanes was a Greek Renaissance painter. He was a painter in Crete and Venice. His brother Emmanuel Tzanes was the parish priest of the church of San Giorgio dei Greci. Emmanuel Tzanes was also a famous painter and author. Konstantinos followed the Venetian style and in some instances completely broke from the maniera greca. His other brother Marinos Tzanes was a famous poet. Konstantinos's work influenced both Greek and Italian Painters. His most popular work is the painting by Mary Magdalene which is at the Greek Institute in Venice.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Mary_Magdalene_by_Constantin_Tzanes_%2817th_c.%29.jpg",
+  "portraitWidth": 2693,
+  "portraitHeight": 3516,
+  "portraitCredit": {
+    "author": "Konstantinos Tzanes",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Mary_Magdalene_by_Constantin_Tzanes_(17th_c.).jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Konstantinos_Tzanes",
+  "paintings": [
+    {
+      "slug": "mary-magdalene-tzanes",
+      "title": "Mary Magdalene (Tzanes)",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Mary_Magdalene_by_Constantin_Tzanes_%2817th_c.%29.jpg",
+      "imageWidth": 2693,
+      "imageHeight": 3516,
+      "story": "Mary Magdalene is a tempera painting by Konstantinos Tzanes. Tzanes was a Greek painter active during the late Cretan Renaissance. Tzanes and his brothers migrated from Crete to Venice. His brother was famous painter Emmanuel Tzanes. They were both active during the 17th century. Twenty-one of his paintings survived. Both brothers uniquely contributed to the maniera greca. They made drastic improvements to the style redefining space and color. Their work is comparable to Michael Damaskinos.",
+      "facts": [
+        "The materials used for the painting are gold leaf and egg tempera.",
+        "Tzanes adopted some of the components in his painting from Sadeler's work namely the ointment jar and the coffin in the foreground."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mary_Magdalene_(Tzanes)",
+      "sitelinks": 3,
+      "widthCm": 26,
+      "heightCm": 32.5,
+      "pageviews": 654,
+      "qid": "Q109719099",
+      "imageBytes": 656594,
+      "imageCredit": {
+        "author": "Konstantinos Tzanes",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Mary_Magdalene_by_Constantin_Tzanes_(17th_c.).jpg"
+      }
+    },
+    {
+      "slug": "virgin-and-child-enthroned-tzanes-q112655347",
+      "title": "Virgin and Child Enthroned (Tzanes)",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Konstantinos_Tzanes_Virgin_and_Child.png",
+      "imageWidth": 693,
+      "imageHeight": 1024,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q112655347",
+      "imageBytes": 1728044,
+      "imageCredit": {
+        "author": "Konstantinos Tzanes",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Konstantinos_Tzanes_Virgin_and_Child.png"
+      }
+    },
+    {
+      "slug": "the-nativity-story-k-tzanes-q113239990",
+      "title": "The Nativity Story (K. Tzanes)",
+      "year": 1655,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Nativity_Story_%28K._Tzanes%29.png",
+      "imageWidth": 750,
+      "imageHeight": 1000,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 33,
+      "heightCm": 44,
+      "pageviews": null,
+      "qid": "Q113239990",
+      "imageBytes": 1647808,
+      "imageCredit": {
+        "author": "Konstantinos Tzanes",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_Nativity_Story_(K._Tzanes).png"
+      }
+    },
+    {
+      "slug": "saint-thomas-k-tzanes-q113240317",
+      "title": "Saint Thomas (K. Tzanes)",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Saint_Thomas_K._Tzanes.png",
+      "imageWidth": 1211,
+      "imageHeight": 1511,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 37,
+      "heightCm": 45,
+      "pageviews": null,
+      "qid": "Q113240317",
+      "imageBytes": 3744166,
+      "imageCredit": {
+        "author": "Konstantinos Tzanes",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Saint_Thomas_K._Tzanes.png"
+      }
+    },
+    {
+      "slug": "the-saints-of-the-22nd-of-january-k-tzanes-q113242068",
+      "title": "The Saints of the 22nd of January (K. Tzanes)",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/The_Saints_of_the_22nd_of_January_%28K._Tzanes%29.png",
+      "imageWidth": 1338,
+      "imageHeight": 1662,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 49,
+      "heightCm": 60,
+      "pageviews": null,
+      "qid": "Q113242068",
+      "imageBytes": 4939578,
+      "imageCredit": {
+        "author": "Konstantinos Tzanes",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_Saints_of_the_22nd_of_January_(K._Tzanes).png"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

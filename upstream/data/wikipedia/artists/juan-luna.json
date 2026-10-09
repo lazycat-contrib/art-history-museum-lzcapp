@@ -1,0 +1,548 @@
+{
+  "slug": "juan-luna",
+  "periodSlug": "academic-art",
+  "name": "Juan Luna",
+  "wikiTitle": "Juan Luna",
+  "qid": "Q28867",
+  "birthYear": 1857,
+  "deathYear": 1899,
+  "tagline": "Filipino painter and sculptor",
+  "bio": "Juan Luna de San Pedro y Novicio was a Filipino painter, sculptor and a political activist of the Philippine Revolution during the late 19th century. He became one of the first recognized Philippine artists.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Luna_1899.png",
+  "portraitWidth": 320,
+  "portraitHeight": 270,
+  "portraitCredit": {
+    "author": "Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Luna_1899.png"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Luna",
+  "paintings": [
+    {
+      "slug": "spoliarium",
+      "title": "Spoliarium",
+      "year": 1884,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Spoliarium.jpg",
+      "imageWidth": 2560,
+      "imageHeight": 1380,
+      "story": "The Spoliarium is a painting by Filipino painter Juan Luna. Luna, working on canvas, spent eight months completing the painting which depicts dying gladiators. The painting was submitted by Luna to the Exposición Nacional de Bellas Artes in 1884 in Madrid, where it garnered the first gold medal. The picture recreates a despoiling scene in a Roman circus where dead gladiators are stripped of weapons and garments. Together with other works of the Spanish Academy, the Spoliarium was on exhibit in Rome in April 1884.",
+      "facts": [
+        "It was transferred to the Museo del Arte Moderno in Barcelona in 1887, where it was in storage until the museum was burned and looted during the Spanish Civil War in 1937.",
+        "Under orders of the Spanish dictator Francisco Franco, the damaged painting was sent to Madrid for restoration, where it stayed for 18 years.",
+        "The calls for the painting's transfer to Manila by Filipinos and sympathetic Spaniards in the 1950s led to Franco's orders to finish the painting's restoration and eventual donation to the Philippines.",
+        "After the restoration work was done in late 1957, the painting was then turned over to Philippine ambassador to Spain Manuel Nieto Sr."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Spoliarium",
+      "sitelinks": 12,
+      "widthCm": 800,
+      "heightCm": 400,
+      "pageviews": 113909,
+      "qid": "Q3348220",
+      "imageBytes": 264916,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Spoliarium.jpg"
+      }
+    },
+    {
+      "slug": "the-death-of-cleopatra-juan-luna",
+      "title": "The Death of Cleopatra (Juan Luna)",
+      "year": 1881,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Cleopatra%2C_por_Juan_Luna_%28Museo_del_Prado%29.jpg",
+      "imageWidth": 1920,
+      "imageHeight": 1398,
+      "story": "The Death of Cleopatra, also known simply as Cleopatra, is an 1881 oil painting on canvas by the Filipino painter Juan Luna, currently on display at the Museo del Prado in Madrid, Spain. Depicting the death of Cleopatra, the last active ruler of ancient Egypt, the painting was painted during Luna's stay in Rome, and later won a silver medal during the 1881 National Exposition of Fine Arts in Madrid, which was also his first art exposition.",
+      "facts": [
+        "As Luna's \"graduation work\", The Death of Cleopatra was acquired by the Spanish government for one thousand duros.",
+        "The Death of Cleopatra depicts Cleopatra moments after her death, with Luna taking inspiration for the painting's composition from Plutarch's account of her life in his Parallel Lives series."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Death_of_Cleopatra_(Juan_Luna)",
+      "sitelinks": 7,
+      "widthCm": null,
+      "heightCm": 250,
+      "pageviews": 6179,
+      "qid": "Q7729422",
+      "imageBytes": 2056301,
+      "imageCredit": {
+        "author": null,
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Cleopatra,_por_Juan_Luna_(Museo_del_Prado).jpg"
+      }
+    },
+    {
+      "slug": "espana-y-filipinas",
+      "title": "España y Filipinas",
+      "year": 1886,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Espana_y_Filpinas_Juan_Luna_y_Novicio_Lopez_Museum_and_Library.jpg",
+      "imageWidth": 1013,
+      "imageHeight": 3291,
+      "story": "España y Filipinas is a series of oil on canvas paintings by Filipino painter, Ilustrado, and revolutionary activist, Juan Luna. It is an allegorical depiction of two women together, one a representation of Spain and the other of the Philippines. The painting, also known as España llevando a la gloria a Filipinas or España Guiando a Filipinas, is regarded as one of the “enduring pieces of legacy” that the Filipinos inherited from Luna.",
+      "facts": [
+        "The work was commissioned by the Filipino politician Pedro Paterno, a known friend and patron of Luna.",
+        "Eventually, the painting later sold in 2012 at the Barcelona-based auction Balclis was eventually sold to a private Philippine art dealer.",
+        "693 million) at a Sotheby's auction sale in Hong Kong, becoming the most expensive work of Philippine art ever sold at auction.",
+        "The second version, the largest of the series, was painted in 1888 and is part of the collection of the Museo del Prado in Madrid, with the piece being loaned on a long-term basis to the City Council of Cádiz."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Espa%C3%B1a_y_Filipinas",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 7397,
+      "qid": "Q16835669",
+      "imageBytes": 3252496,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Espana_y_Filpinas_Juan_Luna_y_Novicio_Lopez_Museum_and_Library.jpg"
+      }
+    },
+    {
+      "slug": "ensuenos-de-amor",
+      "title": "Ensueños de Amor",
+      "year": 1890,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Ensuenos_de_Amor_by_Juan_Luna.jpg",
+      "imageWidth": 500,
+      "imageHeight": 404,
+      "story": "Ensueños de Amor, literally \"Daydreams of Love\", is a \"dreamy\" oil on wood painting by Filipino painter and revolutionary activist Juan Luna. It depicts Luna's wife Paz Pardo de Tavera while sound asleep. It is currently a part of the art collection of the Lopez Museum.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ensue%C3%B1os_de_Amor",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 811,
+      "qid": "Q5380064",
+      "imageBytes": 177725,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Ensuenos_de_Amor_by_Juan_Luna.jpg"
+      }
+    },
+    {
+      "slug": "una-mestiza",
+      "title": "Una Mestiza",
+      "year": 1887,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Una_Mestiza_by_Juan_Luna.jpg",
+      "imageWidth": 240,
+      "imageHeight": 350,
+      "story": "The Una Mestiza, sometimes referred to as La Mestiza, is an 1887 painting by Filipino painter and hero Juan Luna. The masterpiece is also known as La mestiza en su tocador which translates into English as The Mestiza at Her Dressing Table or Mestiza Lady at Her Dresser. Una Mestiza is also alternately called Charing. Coincidentally, this alternate title is the nickname of Luna's sister-in-law Rosario Melgar. Luna donated Una Mestiza to the Biblioteca Museu Victor Balaguer of Vilanova i la Geltrú in the province of Barcelona in Spain. The Una Mestiza painting won an award at the Exposicion General de las Filipinas.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Una_Mestiza",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 957,
+      "qid": "Q7882126",
+      "imageBytes": 18579,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Una_Mestiza_by_Juan_Luna.jpg"
+      }
+    },
+    {
+      "slug": "hymen-oh-hymenee",
+      "title": "Hymen, oh Hyménée!",
+      "year": 1889,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Hymen%2C_oh_Hym%C3%A9n%C3%A9e%21_Juan_Luna_y_Novicio.jpg",
+      "imageWidth": 2918,
+      "imageHeight": 1437,
+      "story": "Hymen, oh Hyménée!, also known as Boda Romana, is a painting by Filipino painter Juan Luna. Luna, working on canvas, started in 1886 and later completed in 1887 during the artist's honeymoon in Venice after his wedding to Paz Pardo de Tavera. The painting was submitted by Luna to the Exposition Universelle in 1889 in Paris, France, where it garnered a bronze medal. The picture recreates a scene of a Roman wedding ritual specifically the bride's entrance into the groom's home.",
+      "facts": [
+        "Its title is inspired by a wedding chant composed by the Roman poet Catullus.",
+        "However, it resurfaced in the 1970s when Philippine collector Eleuterio Pascual rediscovered it.",
+        "In 2014, Jaime Ponce de Leon, the founder of the Philippine-based auction house León Gallery, acquired the painting from the heirs of the said European family."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hymen%2C_oh_Hym%C3%A9n%C3%A9e!",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 9444,
+      "qid": "Q5956406",
+      "imageBytes": 1765988,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Hymen,_oh_Hym%C3%A9n%C3%A9e!_Juan_Luna_y_Novicio.jpg"
+      }
+    },
+    {
+      "slug": "the-battle-of-lepanto-luna-painting",
+      "title": "The Battle of Lepanto (Luna painting)",
+      "year": 1887,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Battle_of_Lepanto_of_1571_full_version_by_Juan_Luna.jpg",
+      "imageWidth": 2526,
+      "imageHeight": 1682,
+      "story": "The Battle of Lepanto is a painting by Filipino painter and revolutionary activist Juan Luna. Along with Félix Resurrección Hidalgo, Luna is one of the first Filipinos to excel and earn recognition in the international field of arts and culture.",
+      "facts": [
+        "Some of the commissioned paintings were The Battle of Lepanto, together with Peuple et Rois and España y Filipinas.",
+        "It was the Spanish Senate, through the influence of King Alfonso XII of Spain, who commissioned Luna to paint The Battle of Lepanto."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Battle_of_Lepanto_(Luna_painting)",
+      "sitelinks": 6,
+      "widthCm": 550,
+      "heightCm": 350,
+      "pageviews": 8803,
+      "qid": "Q10985764",
+      "imageBytes": 1283274,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_Battle_of_Lepanto_of_1571_full_version_by_Juan_Luna.jpg"
+      }
+    },
+    {
+      "slug": "the-parisian-life-painting",
+      "title": "The Parisian Life (painting)",
+      "year": 1892,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/The_Parisian_Life_by_Juan_Luna.jpg",
+      "imageWidth": 1002,
+      "imageHeight": 706,
+      "story": "The Parisian Life, also known as Interior d'un Cafi, is an oil on canvas impressionist painting made by Filipino painter and revolutionary activist Juan Luna in 1892. The painting presently owned by the Government Service Insurance System is currently exhibited at the National Museum of Fine Arts after the state pension fund transferred management of its collection to the National Museum in March 2012.",
+      "facts": [
+        "Before its modern-day exhibition at Christie's auction house in Hong Kong, The Parisian Life was featured on page 147 of Santiago Albano Pilar's book entitled Juan Luna, The Filipino as Painter published in 1980.",
+        "Painted a few months prior to September 1892, a time when Luna would be “caught up in dramatic events” that lead to a “heroic path”, The Parisian Life has a “playful” and “relaxed mood” that does not provide “the slightest hint of the tumultuous happenings to come” in Luna's personal life."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Parisian_Life_(painting)",
+      "sitelinks": 4,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 17535,
+      "qid": "Q7756124",
+      "imageBytes": 230445,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_Parisian_Life_by_Juan_Luna.jpg"
+      }
+    },
+    {
+      "slug": "la-bulaquena",
+      "title": "La Bulaqueña",
+      "year": 1895,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Una_Bulaque%C3%B1a.jpg",
+      "imageWidth": 653,
+      "imageHeight": 1205,
+      "story": "La Bulaqueña, literally \"the woman from Bulacan\" or \"the Bulacan woman\", also sometimes referred to as Una Bulaqueña, is the Spanish title of an 1895 painting by Filipino painter and revolutionary activist Juan Novicio Luna. Bulacan is a province in the Philippines in Luzon island and its residents are called Bulaqueños, also spelled as Bulakenyos in the Filipino language. It is a \"serene portrait\", of a Filipino woman wearing a María Clara gown, a traditional Filipino dress that is composed of four pieces, namely the camisa, the saya, the pañuelo, and the tapis. The name of the dress is an eponym to María Clara, the mestiza heroine of Filipino hero José Rizal's novel Noli Me Tangere . The woman's clothing in the painting is the reason why the masterpiece is alternately referred to as María Clara. It is one of the few canvases done by Luna illustrating Filipino culture. The painting is permanently displayed at the National Museum of Fine Arts, but is currently on loan at the Louvre Abu Dhabi from June 2025 until the following year.",
+      "facts": [
+        "The painting was created by Juan Luna from November 1895 to the first months of 1896.",
+        "It was sold to the National Museum of the Philippines during World War II for 200 Japanese military notes."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Bulaque%C3%B1a",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 7044,
+      "qid": "Q6461392",
+      "imageBytes": 97547,
+      "imageCredit": {
+        "author": "Benigno Toda III",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Una_Bulaque%C3%B1a.jpg"
+      }
+    },
+    {
+      "slug": "las-damas-romanas",
+      "title": "Las Damas Romanas",
+      "year": 1882,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Luna_damas-romanas.jpg",
+      "imageWidth": 3621,
+      "imageHeight": 2135,
+      "story": "Las Damas Romanas, also known as The Roman Maidens, The Roman Women, or The Roman Ladies, is an oil on canvas painted in the style of Neo-Classicism by Juan Luna, one of the most famous Filipino painters of the Spanish period in the Philippines. It was painted by Luna when he was a student of the school of painting in the Real Academia de Bellas Artes de San Fernando in Madrid, Spain in 1877. Alejo Valera, a Spanish painting teacher, took Luna as an apprentice and brought him to Rome where Luna created Las Damas Romanas in 1882. Skilled in the style of the academy, he was the first Filipino painter to win international recognition in Europe and the US.",
+      "facts": [
+        "4 million) when the painting was bought by a French art dealer.",
+        "The work sold for far less than the estimate, however, achieving $609,193, or HK$4,700,000, including buyer's premium."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Las_Damas_Romanas",
+      "sitelinks": 3,
+      "widthCm": 170,
+      "heightCm": 100,
+      "pageviews": 3039,
+      "qid": "Q6492182",
+      "imageBytes": 1870609,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Luna_damas-romanas.jpg"
+      }
+    },
+    {
+      "slug": "tampuhan-painting",
+      "title": "Tampuhan (painting)",
+      "year": 1895,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Tampuhan_by_Juan_Luna.jpg",
+      "imageWidth": 1065,
+      "imageHeight": 920,
+      "story": "Tampuhan, meaning \"sulking\", is an 1895 classic oil on canvas impressionist painting by Filipino painter and revolutionary activist Juan Luna. It depicts a Filipino man and a Filipino woman having a lovers' quarrel.",
+      "facts": [
+        "Luna's Tampuhan is a depiction of two persons staying inside the sala or living room of a Bahay na Bato.",
+        "The two people are Filipino lovers sulking – experiencing \"tampo\" – because of an argument."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tampuhan_(painting)",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 5741,
+      "qid": "Q7681820",
+      "imageBytes": 150296,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Tampuhan_by_Juan_Luna.jpg"
+      }
+    },
+    {
+      "slug": "odalisque-painting",
+      "title": "Odalisque (painting)",
+      "year": 1885,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Odalisque_painting_by_Juan_Luna_1885.jpg",
+      "imageWidth": 1047,
+      "imageHeight": 534,
+      "story": "The Odalisque is a famous 1885 painting by award-winning Filipino painter and revolutionary activist Juan Luna. It is one of Luna's so-called \"Academic Salon portraits\" that followed the standards of proper proportion and perspective, and realistic depictions with \"an air of dignity and allure\". Although less polished than Luna's other works of art, the Odalisque is typical of the well-planned characteristics of the artist's portraits, meaning that the portraits were painted in a personal studio while expertly studying the desired effects, and with finesse. The Odalisque is one of the paintings that made Luna an officially accepted artist at the Salon of Paris because it shows Luna's skill at draftsmanship, his \"talent to draw and to draw well\". The Odalisque was formerly a part of the painting collection of Philippine national hero José Rizal. It is currently a component of the Don Luis Araneta Collection in the Philippines.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Odalisque_(painting)",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1472,
+      "qid": "Q17040708",
+      "imageBytes": 240006,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Odalisque_painting_by_Juan_Luna_1885.jpg"
+      }
+    },
+    {
+      "slug": "la-madrilena-en-el-balcon",
+      "title": "La Madrileña (En el Balcón)",
+      "year": 1880,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/La_Madrilena_%28En_el_Balcon%29_by_Juan_Luna.jpg",
+      "imageWidth": 354,
+      "imageHeight": 500,
+      "story": "La Madrileña , sometimes simply referred to as La Madrileña, is a painting by award-winning Filipino painter and revolutionary activist Juan Luna. It depicts a woman holding an umbrella known as the parasol. La Madrileña  is one of the paintings that illustrate Luna's inclination of making women an artistic theme, showing the artist's talent as an enthusiastic painter and observer of the fairer sex. La Madrileña  is one of the few existing finished paintings that are regarded by art experts as a \"legacy\" from Luna.",
+      "facts": [
+        "The similarity in the theme of the two paintings made them highlights for Sotheby's auction sale in Singapore in April 2006.",
+        "Apart from the thematic similarity, before being auctioned at the Sotheby's auction house, Luna's La Madrileña (En el Balcón) was also one of two rare paintings created by famous Filipino artists that have not been viewed for a century by the public."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Madrile%C3%B1a_(En_el_Balc%C3%B3n)",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 746,
+      "qid": "Q6463593",
+      "imageBytes": 149780,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:La_Madrilena_(En_el_Balcon)_by_Juan_Luna.jpg"
+      }
+    },
+    {
+      "slug": "the-blood-compact",
+      "title": "The Blood Compact",
+      "year": 1886,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/The_Blood_Compact_by_Juan_Luna.jpg",
+      "imageWidth": 794,
+      "imageHeight": 670,
+      "story": "The Blood Compact is an 1886 historical painting by the Filipino painter Juan Luna. It was a gift to the Manila city council.",
+      "facts": [
+        "The Blood Compact portrays the 1565 Sandugo (blood compact ritual) between Datu Sikatuna of Bohol and Miguel López de Legazpi, surrounded by other conquistadors.",
+        "The ritual was performed in the island of Bohol to seal their friendship following tribal tradition."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Blood_Compact",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 11655,
+      "qid": "Q7718659",
+      "imageBytes": 88716,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_Blood_Compact_by_Juan_Luna.jpg"
+      }
+    },
+    {
+      "slug": "chula-series",
+      "title": "Chula series",
+      "year": 1885,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Chula_by_Juan_Luna.jpg",
+      "imageWidth": 1074,
+      "imageHeight": 1487,
+      "story": "The Chula series or Chula studies is a succession of paintings created by Filipino painter and revolutionary activist Juan Luna about the so-called \"chulas\" or working-class women of Madrid, Spain. Luna is well known for illustrating \"striking and commercially lucrative\" depictions of \"women of the streets\" of Madrid. Exemplars of these are Luna's Una Chula I and Una Chula II paintings.",
+      "facts": [
+        "Chulas refer to the barrio-bajo women, meaning \"poor-district\" or lower class Madrileñas of Spain.",
+        "According to José Rizal, the Philippine national hero, chulas are attractive women with black, deep, and passionate eyes wearing mantillas and carrying fans, who are \"always gracious\", full of conflagration, affection, jealousy and \"sometimes\" of revenge."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chula_series",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1000,
+      "qid": "Q5116090",
+      "imageBytes": 244054,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Chula_by_Juan_Luna.jpg"
+      }
+    },
+    {
+      "slug": "juan-luna-novicio-herois-anonims-260-q11925516",
+      "title": "Juan Luna Novicio- Herois anònims- 260",
+      "year": 1890,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Juan_Luna_Novicio-_Herois_an%C3%B2nims-_260.JPG",
+      "imageWidth": 1200,
+      "imageHeight": 649,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q11925516",
+      "imageBytes": 100535,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Juan_Luna_Novicio-_Herois_an%C3%B2nims-_260.JPG"
+      }
+    },
+    {
+      "slug": "minerva-q124211991",
+      "title": "Minerva",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Museo_de_Intramuros_Exhibits_%28Centro_Manila%3B_07-01-2023%29_E911a_38.jpg",
+      "imageWidth": 3888,
+      "imageHeight": 5184,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q124211991",
+      "imageBytes": 4842260,
+      "imageCredit": {
+        "author": "E911a",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Museo_de_Intramuros_Exhibits_(Centro_Manila%3B_07-01-2023)_E911a_38.jpg"
+      }
+    },
+    {
+      "slug": "the-mixed-q19162715",
+      "title": "The Mixed",
+      "year": 1887,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/BMVB_-_Joan_Luna_Novicio_-_La_mestissa_-_3828.tif",
+      "imageWidth": 1981,
+      "imageHeight": 2963,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 75.2,
+      "heightCm": 111.8,
+      "pageviews": null,
+      "qid": "Q19162715",
+      "imageBytes": 17642424,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:BMVB_-_Joan_Luna_Novicio_-_La_mestissa_-_3828.tif"
+      }
+    },
+    {
+      "slug": "spain-taking-glory-to-the-philippines-q59859741",
+      "title": "Spain taking glory to the Philippines",
+      "year": 1888,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Espa%C3%B1a_Guiando_a_Filipinas_%28%22Spain_Insuring_the_Glory_of_the_Philippines%22%29_by_Juan_Luna_Museo_del_Prado.jpg",
+      "imageWidth": 725,
+      "imageHeight": 1920,
+      "story": "España Guiando a Filipinas, a painting by Filipino painter and hero Juan Luna.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 167,
+      "heightCm": 442,
+      "pageviews": null,
+      "qid": "Q59859741",
+      "imageBytes": 1188477,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Espa%C3%B1a_Guiando_a_Filipinas_(%22Spain_Insuring_the_Glory_of_the_Philippines%22)_by_Juan_Luna_Museo_del_Prado.jpg"
+      }
+    },
+    {
+      "slug": "figura-femenina-de-juan-luna-q114398135",
+      "title": "Figura femenina de Juan Luna",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Figura_femenina_de_Juan_Luna.jpg",
+      "imageWidth": 1125,
+      "imageHeight": 1428,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 39.5,
+      "heightCm": 50.5,
+      "pageviews": null,
+      "qid": "Q114398135",
+      "imageBytes": 249950,
+      "imageCredit": {
+        "author": "Juan Luna",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Figura_femenina_de_Juan_Luna.jpg"
+      }
+    },
+    {
+      "slug": "boceto-for-spoliarium-juan-luna-y-novicio-q134177184",
+      "title": "Boceto for Spoliarium Juan Luna y Novicio",
+      "year": 1883,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Boceto_for_Spoliarium_Juan_Luna_y_Novicio.jpg",
+      "imageWidth": 944,
+      "imageHeight": 480,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q134177184",
+      "imageBytes": 147393,
+      "imageCredit": {
+        "author": null,
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Boceto_for_Spoliarium_Juan_Luna_y_Novicio.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

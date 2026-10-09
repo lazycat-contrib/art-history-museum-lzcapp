@@ -1,0 +1,80 @@
+{
+  "slug": "oskar-kokoschka",
+  "periodSlug": "expressionism",
+  "name": "Oskar Kokoschka",
+  "wikiTitle": "Oskar Kokoschka",
+  "qid": "Q154260",
+  "birthYear": 1886,
+  "deathYear": 1980,
+  "tagline": "Austrian dramatic, painter and writer (1886–1980)",
+  "bio": "Oskar Kokoschka was an Austrian artist, poet, playwright and teacher, best known for his intense expressionistic portraits and landscapes, as well as his theories on vision that influenced the Viennese Expressionist movement.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Oskar_Kokoschka_%281963%29_by_Erling_Mandelmann.jpg",
+  "portraitWidth": 223,
+  "portraitHeight": 300,
+  "portraitCredit": {
+    "author": "Erling Mandelmann",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Oskar_Kokoschka_(1963)_by_Erling_Mandelmann.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oskar_Kokoschka",
+  "paintings": [
+    {
+      "slug": "the-bride-of-the-wind",
+      "title": "The Bride of the Wind",
+      "year": 1913,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8c/%27Bride_of_the_Wind%27%2C_oil_on_canvas_painting_by_Oskar_Kokoschka%2C_a_self-portrait_expressing_his_unrequited_love_for_Alma_Mahler_%28widow_of_composer_Gustav_Mahler%29%2C_1913.jpg",
+      "imageWidth": 3499,
+      "imageHeight": 2917,
+      "story": "The Bride of the Wind (Die Windsbraut), also called The Tempest, is an oil on canvas painting by Austrian painter Oskar Kokoschka, from 1913–1914. It is held in the Kunstmuseum Basel.",
+      "facts": [
+        "Kokoschka's best known work, it is an allegorical picture featuring a self-portrait by the artist, lying alongside his lover Alma Mahler.",
+        "In 1912, Kokoschka first met Alma Mahler, the recently widowed wife of composer Gustav Mahler."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Bride_of_the_Wind",
+      "sitelinks": 7,
+      "widthCm": 220.2,
+      "heightCm": 180.4,
+      "pageviews": 20829,
+      "qid": "Q7720035",
+      "imageBytes": 4922758,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Oskar Kokoschka",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:'Bride_of_the_Wind',_oil_on_canvas_painting_by_Oskar_Kokoschka,_a_self-portrait_expressing_his_unrequited_love_for_Alma_Mahler_(widow_of_composer_Gustav_Mahler),_1913.jpg"
+      }
+    },
+    {
+      "slug": "the-duchess-of-montesquiou-fezensac",
+      "title": "The Duchess of Montesquiou-Fezensac",
+      "year": 1910,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4e/Kokoschka_Duchess_of_Montesquiou_1910.png",
+      "imageWidth": 221,
+      "imageHeight": 451,
+      "story": "The Duchess of Montesquiou-Fezensac is a 1910 oil portrait by Oskar Kokoschka. In this expressionist work Kokoschka strove to capture the essence of his sitter, a young noblewoman afflicted with tuberculosis, with somber tones and stylized gestures. Among his early portraits, Kokoschka considered the work his most valuable, and as his first work to be acquired by a museum it played a key role in establishing the young artist's reputation. During the Nazi period it was confiscated from the Museum Folkwang in Essen and pilloried in the Degenerate Art exhibition before being auctioned off. It is currently in the collection of the Cincinnati Art Museum.",
+      "facts": [
+        "She never recovered from her condition and died in 1919 at the age of 30.",
+        "It was Kokoschka's first artwork to be acquired by a museum; an important step in the 24-year-old artist's career.",
+        "In 1937 the painting was confiscated by the Nazi regime as part of a coordinated effort to purge so-called \"degenerate art\" from the Reich.",
+        "It was pilloried in the Munich Degenerate Art exhibition, where it hung on the south wall of room four opposite Kokoschka's The Bride of the Wind, then held in storage at Schönhausen Palace until 1939, when it was sold at the Degenerate Art auction at Galerie Fischer in Lucerne, Switzerland."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Duchess_of_Montesquiou-Fezensac",
+      "sitelinks": 1,
+      "widthCm": 48.9,
+      "heightCm": 94.6,
+      "pageviews": 971,
+      "qid": "Q46925553",
+      "imageBytes": 217847,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Oscar Kokoschka",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Kokoschka_Duchess_of_Montesquiou_1910.png"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

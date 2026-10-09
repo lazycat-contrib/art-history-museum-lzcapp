@@ -1,0 +1,162 @@
+{
+  "slug": "fan-kuan",
+  "periodSlug": "chinese-painting",
+  "name": "Fan Kuan",
+  "wikiTitle": "Fan Kuan",
+  "qid": "Q1278559",
+  "birthYear": 956,
+  "deathYear": 1026,
+  "tagline": "Song dynasty Chinese landscape painter",
+  "bio": "Fan Zhongzheng, courtesy name Zhongli, better known by his pseudonym Fan Kuan, was a Chinese landscape painter of the Song dynasty. He was both a Daoist and a Neo-Confucianist.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg",
+  "portraitWidth": 2809,
+  "portraitHeight": 5633,
+  "portraitCredit": {
+    "author": "Fan Kuan",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fan_Kuan",
+  "paintings": [
+    {
+      "slug": "travelers-among-mountains-and-streams-q15907822",
+      "title": "Travelers Among Mountains and Streams",
+      "year": 1000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%E8%B0%BF%E5%B1%B1%E8%A1%8C%E6%97%85%E5%9B%BE%E8%BD%B4.%E6%BA%AA%E5%B1%B1%E8%A1%8C%E6%97%85%E5%9B%BE.%E5%AE%8B.%E8%8C%83%E5%AE%BD.%E7%BB%A2%E6%9C%AC%E6%B5%85%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg",
+      "imageWidth": 11105,
+      "imageHeight": 24176,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 3,
+      "widthCm": 103.3,
+      "heightCm": 206.3,
+      "pageviews": null,
+      "qid": "Q15907822",
+      "imageBytes": 71898645,
+      "imageCredit": {
+        "author": "Fan Kuan",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%E8%B0%BF%E5%B1%B1%E8%A1%8C%E6%97%85%E5%9B%BE%E8%BD%B4.%E6%BA%AA%E5%B1%B1%E8%A1%8C%E6%97%85%E5%9B%BE.%E5%AE%8B.%E8%8C%83%E5%AE%BD.%E7%BB%A2%E6%9C%AC%E6%B5%85%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg"
+      }
+    },
+    {
+      "slug": "sitting-alone-by-a-stream-q121363390",
+      "title": "Sitting Alone by a Stream",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Fan_Kuan-Sitting_Alone_by_a_Stream.jpg",
+      "imageWidth": 968,
+      "imageHeight": 1417,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 106.3,
+      "heightCm": 156.1,
+      "pageviews": null,
+      "qid": "Q121363390",
+      "imageBytes": 436243,
+      "imageCredit": {
+        "author": "Fan Kuan",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Fan_Kuan-Sitting_Alone_by_a_Stream.jpg"
+      }
+    },
+    {
+      "slug": "xuejinghanlintu-q133155407",
+      "title": "Xuejinghanlintu",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Xuejinghanlintu.jpg",
+      "imageWidth": 1763,
+      "imageHeight": 2121,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q133155407",
+      "imageBytes": 1145296,
+      "imageCredit": {
+        "author": null,
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Xuejinghanlintu.jpg"
+      }
+    },
+    {
+      "slug": "painting-q137921509",
+      "title": "宋范寬谿山行旅圖 軸",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/%E5%AE%8B%E8%8C%83%E5%AF%AC%E8%B0%BF%E5%B1%B1%E8%A1%8C%E6%97%85%E5%9C%96_%E8%BB%B8.jpg",
+      "imageWidth": 830,
+      "imageHeight": 1807,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 103.3,
+      "heightCm": 206.3,
+      "pageviews": null,
+      "qid": "Q137921509",
+      "imageBytes": 222808,
+      "imageCredit": {
+        "author": "國立故宮博物院",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "page": "https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E8%8C%83%E5%AF%AC%E8%B0%BF%E5%B1%B1%E8%A1%8C%E6%97%85%E5%9C%96_%E8%BB%B8.jpg"
+      }
+    },
+    {
+      "slug": "painting-q137936252",
+      "title": "宋范寬臨流獨坐圖 軸",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/%E5%AE%8B%E8%8C%83%E5%AF%AC%E8%87%A8%E6%B5%81%E7%8D%A8%E5%9D%90%E5%9C%96_%E8%BB%B8.jpg",
+      "imageWidth": 1005,
+      "imageHeight": 1493,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 106.3,
+      "heightCm": 156.1,
+      "pageviews": null,
+      "qid": "Q137936252",
+      "imageBytes": 297422,
+      "imageCredit": {
+        "author": "國立故宮博物院",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "page": "https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E8%8C%83%E5%AF%AC%E8%87%A8%E6%B5%81%E7%8D%A8%E5%9D%90%E5%9C%96_%E8%BB%B8.jpg"
+      }
+    },
+    {
+      "slug": "painting-q138047538",
+      "title": "宋范寬秋林飛瀑 軸",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/%E5%AE%8B%E8%8C%83%E5%AF%AC%E7%A7%8B%E6%9E%97%E9%A3%9B%E7%80%91_%E8%BB%B8.jpg",
+      "imageWidth": 919,
+      "imageHeight": 1633,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 99.5,
+      "heightCm": 181,
+      "pageviews": null,
+      "qid": "Q138047538",
+      "imageBytes": 245568,
+      "imageCredit": {
+        "author": "國立故宮博物院",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "page": "https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E8%8C%83%E5%AF%AC%E7%A7%8B%E6%9E%97%E9%A3%9B%E7%80%91_%E8%BB%B8.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

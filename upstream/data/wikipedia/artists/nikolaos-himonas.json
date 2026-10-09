@@ -1,0 +1,70 @@
+{
+  "slug": "nikolaos-himonas",
+  "periodSlug": "academic-art",
+  "name": "Nikolaos Himonas",
+  "wikiTitle": "Nikolaos Himonas",
+  "qid": "Q15061863",
+  "birthYear": 1864,
+  "deathYear": 1929,
+  "tagline": "Russian painter",
+  "bio": "Nikolaos Himonas was a painter and art teacher of Greek ancestry who was born in Russia and spent most of his life there. His name may also be transcribed in English as Heimonas or Cheimonas.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Himonas2.jpg",
+  "portraitWidth": 429,
+  "portraitHeight": 600,
+  "portraitCredit": {
+    "author": "\"V. Marzhuvanov(a)\" (no personal information available)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Himonas2.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikolaos_Himonas",
+  "paintings": [
+    {
+      "slug": "nikolaos-himonas-keramikos-q129716082",
+      "title": "Nikolaos Himonas - Keramikos",
+      "year": 1920,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Keramikos5007.jpg",
+      "imageWidth": 2034,
+      "imageHeight": 1325,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q129716082",
+      "imageBytes": 2379545,
+      "imageCredit": {
+        "author": "Nicolai Himona",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Keramikos5007.jpg"
+      }
+    },
+    {
+      "slug": "byron-s-monument-at-missolonghi-greece-q119200480",
+      "title": "Byron's Monument at Missolonghi, Greece",
+      "year": 1923,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Nicolas_Himona_%281865-1929%29_-_Byron%27s_Monument_at_Missolonghi%2C_Greece_-_NCM_1924-133_-_Nottingham_Museums.jpg",
+      "imageWidth": 1000,
+      "imageHeight": 885,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 33,
+      "heightCm": 29.2,
+      "pageviews": null,
+      "qid": "Q119200480",
+      "imageBytes": 192840,
+      "imageCredit": {
+        "author": "Nicolai Himona",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Himona_(1865-1929)_-_Byron's_Monument_at_Missolonghi,_Greece_-_NCM_1924-133_-_Nottingham_Museums.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

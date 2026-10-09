@@ -1,0 +1,119 @@
+{
+  "slug": "nikolaos-lytras",
+  "periodSlug": "expressionism",
+  "name": "Nikolaos Lytras",
+  "wikiTitle": "Nikolaos Lytras",
+  "qid": "Q1991244",
+  "birthYear": 1883,
+  "deathYear": 1927,
+  "tagline": "Greek painter",
+  "bio": "Nikolaos Lytras was a Greek modernist painter who specialized in portraits, still-lifes and landscapes.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Lytras-selfportrait2.jpg",
+  "portraitWidth": 275,
+  "portraitHeight": 400,
+  "portraitCredit": {
+    "author": "Nikolaos Lytras",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Lytras-selfportrait2.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikolaos_Lytras",
+  "paintings": [
+    {
+      "slug": "the-straw-hat-lytras",
+      "title": "The Straw Hat (Lytras)",
+      "year": 1925,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Lytras_Nikolaos_001.jpeg",
+      "imageWidth": 931,
+      "imageHeight": 1263,
+      "story": "The straw hat is an oil painting by Nikolaos Lytras created in 1925, and is considered one of the most daring and impressive works of early Greek Modernism. It is exhibited at the National Gallery of Greece.",
+      "facts": [
+        "The theme depicts a young girl with a straw hat in a whitened courtyard in an island landscape during a hot summer day.",
+        "It is characteristic of the work of Lystras, who was one of the most notable figures of the Art Group founded in 1917 influenced by expressionism."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Straw_Hat_(Lytras)",
+      "sitelinks": 2,
+      "widthCm": 66,
+      "heightCm": 86,
+      "pageviews": 507,
+      "qid": "Q22671139",
+      "imageBytes": 248396,
+      "imageCredit": {
+        "author": "Nikolaos Lytras",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Lytras_Nikolaos_001.jpeg"
+      }
+    },
+    {
+      "slug": "painting-q26690031",
+      "title": "Νίκος Λύτρας, Το γαϊδουράκι",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%9B%CF%8D%CF%84%CF%81%CE%B1%CF%82%2C_%CE%A4%CE%BF_%CE%B3%CE%B1%CF%8A%CE%B4%CE%BF%CF%85%CF%81%CE%AC%CE%BA%CE%B9.jpg",
+      "imageWidth": 479,
+      "imageHeight": 650,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q26690031",
+      "imageBytes": 68680,
+      "imageCredit": {
+        "author": "Nikolaos Lytras",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%9B%CF%8D%CF%84%CF%81%CE%B1%CF%82,_%CE%A4%CE%BF_%CE%B3%CE%B1%CF%8A%CE%B4%CE%BF%CF%85%CF%81%CE%AC%CE%BA%CE%B9.jpg"
+      }
+    },
+    {
+      "slug": "landscape-with-mountain-by-nikolaos-lytras-q129715076",
+      "title": "Landscape with Mountain by Nikolaos Lytras",
+      "year": 1925,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/LandscapeWithMountains5010.jpg",
+      "imageWidth": 2220,
+      "imageHeight": 1719,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q129715076",
+      "imageBytes": 2854987,
+      "imageCredit": {
+        "author": "Nikolaos Lytras",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:LandscapeWithMountains5010.jpg"
+      }
+    },
+    {
+      "slug": "coastal-landscape-by-nikolaos-lytras-q129719683",
+      "title": "Coastal Landscape by Nikolaos Lytras",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/CoastalLandscape5009.jpg",
+      "imageWidth": 1616,
+      "imageHeight": 1114,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q129719683",
+      "imageBytes": 1363878,
+      "imageCredit": {
+        "author": "Nikolaos Lytras",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:CoastalLandscape5009.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

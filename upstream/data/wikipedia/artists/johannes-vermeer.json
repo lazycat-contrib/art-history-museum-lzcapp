@@ -1,0 +1,1006 @@
+{
+  "slug": "johannes-vermeer",
+  "periodSlug": "dutch-golden-age",
+  "name": "Johannes Vermeer",
+  "wikiTitle": "Johannes Vermeer",
+  "qid": "Q41264",
+  "birthYear": 1632,
+  "deathYear": 1675,
+  "tagline": "Dutch painter (1632–1675)",
+  "bio": "Johannes Vermeer was a Dutch painter who specialized in domestic interior scenes of middle-class life. He is considered one of the greatest painters of the Dutch Golden Age. During his lifetime, he was a moderately successful provincial genre painter, recognized in Delft and The Hague. He produced relatively few paintings, primarily earning his living as an art dealer. He was not wealthy; at his death, his wife was left in debt.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg",
+  "portraitWidth": 1016,
+  "portraitHeight": 1413,
+  "portraitCredit": {
+    "author": "Johannes Vermeer",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Johannes_Vermeer",
+  "paintings": [
+    {
+      "slug": "girl-with-a-pearl-earring",
+      "title": "Girl with a Pearl Earring",
+      "year": 1665,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg",
+      "imageWidth": 12285,
+      "imageHeight": 14550,
+      "story": "Girl with a Pearl Earring is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it acquired its present title towards the end of the 20th century. The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary and cinematic treatments.",
+      "facts": [
+        "The most recent (1994) restoration of the painting brought out hidden subtleties in the colour scheme and deepened the intimacy of the girl's gaze towards the viewer.",
+        "On the advice of Victor de Stuers, who for years tried to prevent Vermeer's rare works from being sold to parties abroad, Arnoldus Andries des Tombe purchased the work at an auction in The Hague in 1881, for only two guilders plus thirty cents buyer's premium (equivalent to roughly €24 in 2015).",
+        "During the Nazi occupation of the Netherlands, the painting was kept hidden in a bombproof bunker located just below the Mauritshuis for two years, before removal to the St.",
+        "The non-invasive research project involved the removal of the work from its frame for study with microscopes, and the use of X-ray and other scanning equipment to better understand the methods and materials used by Vermeer."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+      "sitelinks": 72,
+      "widthCm": 39,
+      "heightCm": 44.5,
+      "pageviews": 549252,
+      "qid": "Q185372",
+      "imageBytes": 71086399,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:1665_Girl_with_a_Pearl_Earring.jpg"
+      }
+    },
+    {
+      "slug": "the-milkmaid-vermeer",
+      "title": "The Milkmaid (Vermeer)",
+      "year": 1660,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.png",
+      "imageWidth": 9839,
+      "imageHeight": 11058,
+      "story": "The Milkmaid, sometimes called The Kitchen Maid, is an oil-on-canvas painting of a \"milkmaid\", in fact, a domestic kitchen maid, by the Dutch artist Johannes Vermeer. It is in the Rijksmuseum in Amsterdam, the Netherlands, which regards it as \"unquestionably one of the museum's finest attractions\".",
+      "facts": [
+        "The coals enclosed inside the foot warmer could symbolize \"either the heat of lust in tavern or brothel scenes, or the hidden but true burning passion of a woman for her husband\", according to Serena Cant, a British art historian and lecturer.",
+        "The blue cuff uses a lighter mixture of ultramarine and lead-white, together with a layer of ochre painted beneath it."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)",
+      "sitelinks": 44,
+      "widthCm": 41,
+      "heightCm": 45.5,
+      "pageviews": 88735,
+      "qid": "Q167605",
+      "imageBytes": 171827521,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.png"
+      }
+    },
+    {
+      "slug": "view-of-delft",
+      "title": "View of Delft",
+      "year": 1660,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vermeer-view-of-delft.jpg",
+      "imageWidth": 3000,
+      "imageHeight": 2491,
+      "story": "View of Delft is an oil painting by Johannes Vermeer, painted c. 1659–1661. The painting of the Dutch artist's hometown is among his best known. It is one of three known paintings of Delft by Vermeer, along with The Little Street and the lost painting House Standing in Delft, and his only cityscape. According to art historian Emma Barker, cityscapes across water, which were popular in the Netherlands at the time, celebrated the city and its trade. Vermeer's View of Delft has been held in the Dutch Royal Cabinet of Paintings at the Mauritshuis in The Hague since its establishment in 1822.",
+      "facts": [
+        "After William II died and the States General assumed power, people who wanted to show support for the House of Orange commissioned artwork of William of Orange's tomb, which was housed in the Nieuwe Kerk.",
+        "Pieter Claeszoon van Ruijven, a lover of architectural paintings, commissioned View of Delft along with The Little Street.",
+        "After his death it passed on to his wife, who in turn after her death in 1820 passed it on to her daughter, Johanna Kops, who finally decided to auction it.",
+        "At the end of May 1921, Proust viewed the painting again while visiting an exhibition of Dutch masters at the Jeu de Paume in Paris accompanied by Vaudoyer, and suffered a seizure in front of the painting, which later inspired him to have Bergotte die in front of it."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/View_of_Delft",
+      "sitelinks": 40,
+      "widthCm": 115.7,
+      "heightCm": 96.5,
+      "pageviews": 41818,
+      "qid": "Q523974",
+      "imageBytes": 1216498,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Vermeer-view-of-delft.jpg"
+      }
+    },
+    {
+      "slug": "the-astronomer",
+      "title": "The Astronomer",
+      "year": 1664,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
+      "imageWidth": 4401,
+      "imageHeight": 5000,
+      "story": "The Astronomer is an oil-on-canvas painting that was completed in 1668 by Johannes Vermeer, a painter of the Dutch Golden Age. Measuring 51 cm × 45 cm, The Astronomer is now in the collection of the Louvre in Paris.",
+      "facts": [
+        "The painting would be seized at Édouard de Rothschild’s home by the Nazi Einsatzstab Reichsleiter Rosenberg (ERR) in 1940 for the occupied territories after the German invasion of France.",
+        "It was considered to be among the works of highest historical and artistic value in the Nazi inventory.",
+        "The painting was returned to the Rothschilds after the war, and was acquired by the French state as giving in payment of inheritance taxes in 1983 and then exhibited at the Louvre since 1983."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Astronomer",
+      "sitelinks": 33,
+      "widthCm": 46.3,
+      "heightCm": 50.8,
+      "pageviews": 44410,
+      "qid": "Q544315",
+      "imageBytes": 4814997,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_Astronomer_-_1668.jpg"
+      }
+    },
+    {
+      "slug": "the-art-of-painting",
+      "title": "The Art of Painting",
+      "year": 1667,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
+      "imageWidth": 6209,
+      "imageHeight": 7377,
+      "story": "The Art of Painting, also known as The Allegory of Painting, or Painter in his Studio, is a 17th-century oil on canvas painting by Dutch painter Johannes Vermeer. It is owned by the Austrian Republic and is on display in the Kunsthistorisches Museum in Vienna.",
+      "facts": [
+        "He is dressed in an elegant black garment with cuts on the sleeves and on the back that offers a glimpse of the shirt underneath.",
+        "On 15 March 1677 most of his paintings were sold in an auction at the Guild in Delft.",
+        "82 million Reichsmark through his agent, Hans Posse on 20 November 1940.",
+        "The Czernin family made several attempts to claim restitution, each time being rejected, although this played a role in securing an official certification of Hitler's death in 1956."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Art_of_Painting",
+      "sitelinks": 32,
+      "widthCm": 100,
+      "heightCm": 120,
+      "pageviews": 51624,
+      "qid": "Q588695",
+      "imageBytes": 7834640,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "the-little-street",
+      "title": "The Little Street",
+      "year": 1658,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_%27Het_straatje%27_-_Google_Art_Project.jpg",
+      "imageWidth": 4000,
+      "imageHeight": 4954,
+      "story": "The Little Street is a painting by the Dutch painter Johannes Vermeer, executed c. 1657–1658. It is exhibited at the Rijksmuseum of Amsterdam, and signed, below the window in the lower left-hand corner, \"I V MEER\".",
+      "facts": [
+        "The painting, showing a quiet street, depicts a typical aspect of the life in a Dutch Golden Age town.",
+        "It is one of only three Vermeer paintings of views of Delft, the others being View of Delft and the now lost House Standing in Delft."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Little_Street",
+      "sitelinks": 31,
+      "widthCm": 44,
+      "heightCm": 54.3,
+      "pageviews": 25990,
+      "qid": "Q586035",
+      "imageBytes": 11855275,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft,_bekend_als_'Het_straatje'_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "girl-reading-a-letter-at-an-open-window",
+      "title": "Girl Reading a Letter at an Open Window",
+      "year": 1657,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_%28ca._1657-59%29.jpg",
+      "imageWidth": 3303,
+      "imageHeight": 4263,
+      "story": "Girl Reading a Letter at an Open Window, also known as Lady reading at an open window, is an oil painting by Dutch Golden Age painter Johannes Vermeer. Completed in approximately 1657–1659, the painting is on display at the Gemäldegalerie in Dresden, which has held it since 1742. For many years, the attribution of the painting—which features a young Dutch woman reading a letter before an open window—was lost, with first Rembrandt and then Pieter de Hooch being credited for the work before it was properly identified in 1880. After World War II, the painting was briefly in possession of the Soviet Union. In 2017, tests revealed that the painting had been altered after the painter's death.",
+      "facts": [
+        "X-ray examination of the painting in the 21st century revealed an image on the wall behind the girl.",
+        "The restoration allows the painting to be viewed in a new light: the depiction of Cupid on the wall suggests that the girl may be reading a love letter.",
+        "The overpainting was reversed by a restoration project conducted by the museum Staatliche Kunstsammlungen Dresden from 2018–2021.",
+        "A major restoration completed in 2021 shows a painting of Cupid on the wall behind the reading girl, as well as brighter colors in the painting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girl_Reading_a_Letter_at_an_Open_Window",
+      "sitelinks": 27,
+      "widthCm": 64.5,
+      "heightCm": 83,
+      "pageviews": 24502,
+      "qid": "Q700251",
+      "imageBytes": 5026951,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_(ca._1657-59).jpg"
+      }
+    },
+    {
+      "slug": "woman-holding-a-balance",
+      "title": "Woman Holding a Balance",
+      "year": 1665,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg",
+      "imageWidth": 7201,
+      "imageHeight": 8143,
+      "story": "Woman Holding a Balance, also called Woman Testing a Balance, is an oil painting by Dutch Golden Age painter Johannes Vermeer, now in the National Gallery of Art in Washington, DC.",
+      "facts": [
+        "A blue cloth rests in the left foreground, beneath a mirror, and a window to the left — unseen save its golden curtain — provides light.",
+        "In the painting, Vermeer has depicted what discreetly appears to be a young pregnant woman holding an empty balance before a table on which stands an open jewelry box, the pearls and gold within spilling over."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_Holding_a_Balance",
+      "sitelinks": 27,
+      "widthCm": 38,
+      "heightCm": 42.5,
+      "pageviews": 18406,
+      "qid": "Q969367",
+      "imageBytes": 13703096,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "the-concert-vermeer",
+      "title": "The Concert (Vermeer)",
+      "year": 1663,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Vermeer_The_concert.JPG",
+      "imageWidth": 1874,
+      "imageHeight": 2100,
+      "story": "The Concert is a painting by the Dutch artist Johannes Vermeer depicting a man and two women performing music. It was stolen on March 18, 1990, from the Isabella Stewart Gardner Museum in Boston and remains missing to the present.",
+      "facts": [
+        "To this day the painting has not resurfaced; it is thought to be the most valuable work currently unrecovered, with a value estimated at US$250 million.",
+        "Even before the actual robbery, the theft of this painting was the subject of a 1964 episode of The Alfred Hitchcock Hour called \"Ten Minutes from Now\".",
+        "Following the real theft, the stolen painting has figured in the novels Death at the Sign of the Rook (2024) by Kate Atkinson; An Object of Beauty (2010) by Steve Martin; The Medusa Plot (2011) by Gordon Korman; and The Collector (2023) by Daniel Silva."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Concert_(Vermeer)",
+      "sitelinks": 25,
+      "widthCm": 64.7,
+      "heightCm": 72.5,
+      "pageviews": 80597,
+      "qid": "Q1169395",
+      "imageBytes": 1318220,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Vermeer_The_concert.JPG"
+      }
+    },
+    {
+      "slug": "woman-reading-a-letter-vermeer",
+      "title": "Woman Reading a Letter (Vermeer)",
+      "year": 1664,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Vermeer%2C_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg",
+      "imageWidth": 4457,
+      "imageHeight": 5341,
+      "story": "Woman Reading a Letter is a painting by the Dutch Golden Age painter Johannes Vermeer, produced around 1663. It has been part of the collection of the City of Amsterdam since the Van der Hoop bequest in 1854, and in the Rijksmuseum in Amsterdam since it opened in 1885, the first Vermeer it acquired.",
+      "facts": [
+        "The central element of the painting is a woman in blue standing in front of a window (not depicted) reading a letter.",
+        "The woman appears to be pregnant, although many have argued that the woman's rounded figure is simply a result of the fashions of the day."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_Reading_a_Letter_(Vermeer)",
+      "sitelinks": 25,
+      "widthCm": 39.1,
+      "heightCm": 46.6,
+      "pageviews": 14255,
+      "qid": "Q166937",
+      "imageBytes": 6448254,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Vermeer,_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg"
+      }
+    },
+    {
+      "slug": "the-music-lesson",
+      "title": "The Music Lesson",
+      "year": 1662,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman%2C_%27The_Music_Lesson%27_-_Google_Art_Project.jpg",
+      "imageWidth": 4356,
+      "imageHeight": 5014,
+      "story": "The Music Lesson, Woman Seated at a Virginal or A Lady at the Virginals with a Gentleman by Johannes Vermeer is a painting of a young female pupil playing a virginal during a music lesson with a male teacher. The man's mouth is slightly agape giving the impression that he is singing along with the music that the young girl is playing. This suggests that there is a relationship between the two figures and the idea of love and music being bridged together. This was a common theme among Dutch art in this time period. Vermeer consistently used the same objects within his paintings such as the draped rug, the white water jug, various instruments, tiled floor and windows that convey light and shadows. This is one of few paintings produced by Vermeer which were kept in his home until his death in 1675 when his family was forced to sell them. It became a part of the Royal Collection, and it is currently on display in the Picture Gallery at Buckingham Palace in London.",
+      "facts": [
+        "It was later acquired by Venetian artist Giovanni Antonio Pellegrini in 1718, with Pellegrini's collection later being bought by Joseph Smith.",
+        "When the painting was acquired it was believed to be a work by Frans van Mieris the elder because of a misinterpretation of the signature.",
+        "It was not correctly attributed to Vermeer until 1866 by Théophile Thoré, though some scholars were skeptical whether it was Vermeer or not."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Music_Lesson",
+      "sitelinks": 25,
+      "widthCm": 64.6,
+      "heightCm": 74.1,
+      "pageviews": 18972,
+      "qid": "Q2336984",
+      "imageBytes": 10681886,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman,_'The_Music_Lesson'_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "the-geographer",
+      "title": "The Geographer",
+      "year": 1668,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Johannes_Vermeer_-_The_Geographer_-_Google_Art_Project.jpg",
+      "imageWidth": 7991,
+      "imageHeight": 8959,
+      "story": "The Geographer is a painting created by Dutch artist Johannes Vermeer in 1668–1669, and is now in the collection of the Städel museum in Frankfurt, Germany. It is closely related to Vermeer's The Astronomer, for instance using the same model in the same dress, and has sometimes been considered a pendant painting to it. A 2017 study indicated that the canvas for the two works came from the same bolt of material.",
+      "facts": [
+        "The paintings were not among the works in the Dissius sale of 1696, a collection apparently originally owned by the artist's supposed patron, Pieter van Ruijven, and the earliest record of the painting is from 1713.",
+        "This is one of only three paintings Vermeer signed and dated (the other two are The Astronomer and The Procuress)."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Geographer",
+      "sitelinks": 25,
+      "widthCm": 45.4,
+      "heightCm": 51.6,
+      "pageviews": 23447,
+      "qid": "Q45130",
+      "imageBytes": 23227474,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_Geographer_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "officer-and-laughing-girl",
+      "title": "Officer and Laughing Girl",
+      "year": 1658,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg",
+      "imageWidth": 4785,
+      "imageHeight": 5213,
+      "story": "Officer and Laughing Girl, also known as Officer and a Laughing Girl, Officer With a Laughing Girl or, in Dutch, De Soldaat en het Lachende Meisje, is an oil painting on canvas executed ca. 1657 by the Dutch artist Johannes Vermeer. Its dimensions are 50.5 by 46 cm. It belongs to the Frick Collection in New York, along with Girl Interrupted at Her Music and Mistress and Maid.",
+      "facts": [
+        "With x-ray photographs, art historians have determined that Vermeer had originally planned to paint the woman with a large white collar, which would have hidden much of her yellow dress.",
+        "Over her dress the woman wears a blue apron, mostly hidden in the shadows of the table."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Officer_and_Laughing_Girl",
+      "sitelinks": 24,
+      "widthCm": 46,
+      "heightCm": 50.5,
+      "pageviews": 14315,
+      "qid": "Q467376",
+      "imageBytes": 12197636,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "the-procuress-vermeer",
+      "title": "The Procuress (Vermeer)",
+      "year": 1656,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Johannes_Vermeer_-_The_Procuress_-_Google_Art_Project.jpg",
+      "imageWidth": 3829,
+      "imageHeight": 4278,
+      "story": "The Procuress is a 1656 oil-on-canvas painting by the then 24-year-old Johannes Vermeer. It can be seen in the Gemäldegalerie Alte Meister in Dresden. It is his first genre painting and shows a scene of contemporary life, an image of mercenary love perhaps in a brothel. It differs from his earlier biblical and mythological scenes. It is one of only three paintings Vermeer signed and dated. In 1696 the painting, being sold at an auction in Amsterdam, was named \"A merry company in a room\".",
+      "facts": [
+        "This painting should not be confused with another painting by the same name, by Dirck van Baburen, nor with a fake version once attributed to Vermeer, of which technical analysis in 2011 revealed that there is Bakelite in the paint, definitively proving that the painting is a modern forgery.",
+        "It was most probably executed by the notorious forger, Han van Meegeren, who was responsible for producing several fake Vermeers and known to use said resin to harden the paint."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Procuress_(Vermeer)",
+      "sitelinks": 24,
+      "widthCm": 130,
+      "heightCm": 143,
+      "pageviews": 30695,
+      "qid": "Q63692",
+      "imageBytes": 2479569,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_Procuress_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "woman-with-a-water-jug",
+      "title": "Woman with a Water Jug",
+      "year": 1660,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Jan_Vermeer_van_Delft_019.jpg",
+      "imageWidth": 3299,
+      "imageHeight": 3722,
+      "story": "Woman with a Water Jug, also known as Young Woman with a Water Pitcher, is a painting finished between 1660–1662 by the Dutch painter Johannes Vermeer in the Baroque style. It is oil on canvas, 45.7cm × 40.6 cm, and is on display at the Metropolitan Museum of Art, New York.",
+      "facts": [
+        "She is opening a window with her right hand, while she holds a water jug with her left hand.",
+        "This is decorated with a predominantly red rug of Asian origin."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_with_a_Water_Jug",
+      "sitelinks": 23,
+      "widthCm": 40.6,
+      "heightCm": 45.7,
+      "pageviews": 12168,
+      "qid": "Q386453",
+      "imageBytes": 8096652,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_019.jpg"
+      }
+    },
+    {
+      "slug": "christ-in-the-house-of-martha-and-mary-vermeer",
+      "title": "Christ in the House of Martha and Mary (Vermeer)",
+      "year": 1655,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg",
+      "imageWidth": 3459,
+      "imageHeight": 4001,
+      "story": "Christ in the House of Martha and Mary is an oil painting finished in 1655 by the Dutch Golden Age painter Johannes Vermeer. It is now in the Scottish National Gallery in Edinburgh. It is the largest painting by Vermeer and one of the very few with an overt religious subject. The story of Christ visiting the household of the two sisters Mary of Bethany and Martha goes back to the New Testament. The work has also been called Christ in the House of Mary and Martha.",
+      "facts": [
+        "The pigment analysis of this painting reveals the use of the pigments of the baroque period such as madder lake, yellow ochre, vermilion and lead white.",
+        "Vermeer did not paint the robe of Christ with his usual blue pigment of choice ultramarine (see for example The Milkmaid) but with a mixture of smalt, indigo and lead white."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christ_in_the_House_of_Martha_and_Mary_(Vermeer)",
+      "sitelinks": 23,
+      "widthCm": 141.5,
+      "heightCm": 158.5,
+      "pageviews": 12343,
+      "qid": "Q927449",
+      "imageBytes": 2336226,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Johannes_(Jan)_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "the-girl-with-the-wine-glass",
+      "title": "The Girl with the Wine Glass",
+      "year": 1659,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Johannes_Vermeer_-_A_Lady_and_Two_Gentlemen_-_WGA24639.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 1421,
+      "story": "The Girl with the Wine Glass is an oil-on-canvas painting of the Dutch Golden Age by Johannes Vermeer, created c. 1659–1660, now in the Herzog Anton Ulrich Museum, in Braunschweig.",
+      "facts": [
+        "The pigment analysis done by Hermann Kühn shows Vermeer's use of the expensive natural ultramarine in the tablecloth, lead-tin-yellow in the oranges on the table and madder lake and vermilion in the skirt of the woman."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Girl_with_the_Wine_Glass",
+      "sitelinks": 22,
+      "widthCm": 67.5,
+      "heightCm": 78,
+      "pageviews": 11075,
+      "qid": "Q1169874",
+      "imageBytes": 206464,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_A_Lady_and_Two_Gentlemen_-_WGA24639.jpg"
+      }
+    },
+    {
+      "slug": "a-girl-asleep",
+      "title": "A Girl Asleep",
+      "year": 1657,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Vermeer_young_women_sleeping.jpg",
+      "imageWidth": 3263,
+      "imageHeight": 3759,
+      "story": "A Girl Asleep, also known as A Woman Asleep, A Woman Asleep at Table, and A Maid Asleep, is a painting by the Dutch master Johannes Vermeer, created c. 1657. It is now in the Metropolitan Museum of Art in New York City and may not be lent elsewhere under the terms of the donor's bequest.",
+      "facts": [
+        "Technical examination of the painting revealed a man in the second room and a dog looking at him.",
+        "\" The man and the dog were replaced with a mirror on a far wall, suggesting how the experience of the senses quickly passes, and a chair left at an angle with a pillow on it, possibly signifying indolence, together with a hint of recent company."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/A_Girl_Asleep",
+      "sitelinks": 21,
+      "widthCm": 76.5,
+      "heightCm": 87.6,
+      "pageviews": 8024,
+      "qid": "Q684935",
+      "imageBytes": 9055350,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Vermeer_young_women_sleeping.jpg"
+      }
+    },
+    {
+      "slug": "the-wine-glass",
+      "title": "The Wine Glass",
+      "year": 1660,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg",
+      "imageWidth": 5333,
+      "imageHeight": 4604,
+      "story": "The Wine Glass is an oil-on-canvas painting by Johannes Vermeer, created c. 1660, now in the Gemäldegalerie, Berlin. It portrays a seated woman and a standing man drinking in an interior setting.",
+      "facts": [
+        "Vermeer was about 27 when he painted The Glass of Wine, and according to the critic Walter Liedtke, \"No analysis of artistic conventions can suggest the sheer beauty and extraordinary refinement of a painting like The Glass of Wine, which may be considered one of Vermeer's first fully mature works\".",
+        "The concept of figures drinking around a table, and a woman drinking from a glass are taken directly from De Hooch's A Dutch Courtyard."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Wine_Glass",
+      "sitelinks": 20,
+      "widthCm": 79.6,
+      "heightCm": 67.7,
+      "pageviews": 8074,
+      "qid": "Q782639",
+      "imageBytes": 14665816,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "woman-with-a-pearl-necklace",
+      "title": "Woman with a Pearl Necklace",
+      "year": 1664,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg",
+      "imageWidth": 4500,
+      "imageHeight": 5236,
+      "story": "Woman with a Pearl Necklace by Johannes Vermeer is a Dutch Golden Age painting of about 1664. Painted in oils on canvas, Johannes Vermeer portrayed a young Dutch woman, most likely of upper-class descent, dressing herself with two yellow ribbons, pearl earrings, and a pearl necklace. As a very popular artist of the 17th century, the Dutch Golden Age, Vermeer depicted many women in similar circumstances within interior, domestic scenes. The same woman also appears in The Love Letter and A Lady Writing a Letter. The painting is part of the collection of the Gemäldegalerie in Berlin.",
+      "facts": [
+        "Johannes Vermeer (1632- 1675) of Delft was one of Netherlands' most prominent Dutch painters.",
+        "Specialising in interior scenes, Vermeer developed a distinct style for his many domestic paintings."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_with_a_Pearl_Necklace",
+      "sitelinks": 19,
+      "widthCm": 45,
+      "heightCm": 55,
+      "pageviews": 20800,
+      "qid": "Q151143",
+      "imageBytes": 10549098,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "lady-standing-at-a-virginal",
+      "title": "Lady Standing at a Virginal",
+      "year": 1670,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Jan_Vermeer_van_Delft_-_Lady_Standing_at_a_Virginal_-_National_Gallery%2C_London.jpg",
+      "imageWidth": 3713,
+      "imageHeight": 4226,
+      "story": "Lady Standing at a Virginal is a genre painting created by the Dutch artist Johannes Vermeer in about 1670–1672, now in the National Gallery, London.",
+      "facts": [
+        "The second painting, showing Cupid holding a card, is attributed to Caesar van Everdingen, Allart's brother.",
+        "The oil painting depicts a richly dressed woman playing a virginal in a home with a tiled floor, paintings on the wall and some of the locally manufactured Delftware blue and white tiles of a type that appear in other Vermeer works."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lady_Standing_at_a_Virginal",
+      "sitelinks": 19,
+      "widthCm": 45.2,
+      "heightCm": 51.7,
+      "pageviews": 5118,
+      "qid": "Q2624258",
+      "imageBytes": 7380174,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_-_Lady_Standing_at_a_Virginal_-_National_Gallery,_London.jpg"
+      }
+    },
+    {
+      "slug": "diana-and-her-companions",
+      "title": "Diana and Her Companions",
+      "year": 1655,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Johannes_Vermeer_-_Diana_and_her_Nymphs_-_406_-_Mauritshuis.jpg",
+      "imageWidth": 6000,
+      "imageHeight": 5571,
+      "story": "Diana and Her Companions is a painting by Dutch artist Johannes Vermeer completed in the early to mid-1650s, now at the Mauritshuis museum in The Hague. Although the exact year is unknown, the work may be the artisit's earliest surviving painting, with some art historians placing it before Christ in the House of Martha and Mary and some after.",
+      "facts": [
+        "In 1999-2000, when the painting underwent restoration work and was cleaned, it was discovered that an area of blue sky in the upper right corner had been added in the 19th century.",
+        "The similarities between Vermeer's painting and Rembrandt's style are close enough that the work was attributed to Rembrandt's student, Nicolaes Maes when auctioned in 1876.",
+        "It has been cleaned and restored on a number of occasions and has depreciated as a result."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diana_and_Her_Companions",
+      "sitelinks": 19,
+      "widthCm": 104.6,
+      "heightCm": 97.8,
+      "pageviews": 5229,
+      "qid": "Q32234",
+      "imageBytes": 12145732,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Diana_and_her_Nymphs_-_406_-_Mauritshuis.jpg"
+      }
+    },
+    {
+      "slug": "the-allegory-of-faith",
+      "title": "The Allegory of Faith",
+      "year": 1670,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Johannes_Vermeer%2C_Allegory_of_the_Catholic_Faith%2C_The_Metropolitan_Museum_of_Art.jpg",
+      "imageWidth": 5629,
+      "imageHeight": 7224,
+      "story": "The Allegory of Faith, also known as The Allegory of the Catholic Faith, is a Dutch Golden Age painting by Johannes Vermeer from about 1670–1672. It has been in the Metropolitan Museum of Art in New York since 1931.",
+      "facts": [
+        "Beneath the book is a long piece of cloth, possibly a priest's stole.",
+        "A chair with a blue cloth on it is immediately beneath and behind the tapestry and to the left of the snake and cornerstone.",
+        "At the end of the century, the painting (at that time mistakenly attributed to Eglon van der Neer) was part of the collection of Ilya Ostroukhov (and later Dmitry Shchukin) in Moscow, making it the fourth Vermeer owned by Russians at that time."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Allegory_of_Faith",
+      "sitelinks": 19,
+      "widthCm": 88.9,
+      "heightCm": 114.3,
+      "pageviews": 14849,
+      "qid": "Q467359",
+      "imageBytes": 9858077,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer,_Allegory_of_the_Catholic_Faith,_The_Metropolitan_Museum_of_Art.jpg"
+      }
+    },
+    {
+      "slug": "girl-with-a-red-hat",
+      "title": "Girl with a Red Hat",
+      "year": 1669,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Vermeer_-_Girl_with_a_Red_Hat.JPG",
+      "imageWidth": 3240,
+      "imageHeight": 4096,
+      "story": "Girl with a Red Hat is a small painting, signed by the Dutch painter Johannes Vermeer. It is seen as one of a number of Vermeer's tronies – depictions of models fancifully dressed that were not intended to be portraits of specific, identifiable subjects. Whether Vermeer chose family members as models or found them elsewhere in Delft is irrelevant to the appreciation of his paintings. Its attribution to Vermeer – as it is on a (recycled) wood panel and not on canvas – has been a matter of controversy with scholars on both sides of the argument. However, in recent study carried out by the curators of National Gallery of Art certainty has been established on the authorship of the painting by Vermeer, a conclusion also supported by Dutch experts.",
+      "facts": [
+        "It is thought to have been sold at an auction in Amsterdam on May 16, 1696 (probably no.",
+        "The portrait depicts a very young woman dressed in blue, wearing a collar that appears to be lace and a red hat."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girl_with_a_Red_Hat",
+      "sitelinks": 19,
+      "widthCm": 18,
+      "heightCm": 22.8,
+      "pageviews": 12069,
+      "qid": "Q614047",
+      "imageBytes": 2795032,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Vermeer_-_Girl_with_a_Red_Hat.JPG"
+      }
+    },
+    {
+      "slug": "lady-writing-a-letter-with-her-maid",
+      "title": "Lady Writing a Letter with her Maid",
+      "year": 1670,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Woman_writing_a_letter%2C_with_her_maid%2C_by_Johannes_Vermeer.jpg",
+      "imageWidth": 2469,
+      "imageHeight": 3000,
+      "story": "Lady Writing a Letter with her Maid is a painting by the Dutch artist Johannes Vermeer, completed in 1670–1671 and held in the National Gallery of Ireland, in Dublin, Ireland. The painting shows a standing woman seemingly acting as a messenger between the seated younger lady and her unseen lover.",
+      "facts": [
+        "It may have been partly inspired by Ter Borch's painting Woman Sealing a Letter.",
+        "Lady Writing was stolen on 27 April 1974, along with a Goya, two Gainsboroughs and three Rubens from Russborough House, the home of Sir Alfred Beit, by armed members of the IRA.",
+        "However, the Vermeer and other works were recovered eight days later at a cottage in County Cork.",
+        "Along with a number of other artworks, Cahill held the painting for a ransom of IR£20 million."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lady_Writing_a_Letter_with_her_Maid",
+      "sitelinks": 19,
+      "widthCm": 58.4,
+      "heightCm": 71.1,
+      "pageviews": 10660,
+      "qid": "Q641666",
+      "imageBytes": 778580,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Woman_writing_a_letter,_with_her_maid,_by_Johannes_Vermeer.jpg"
+      }
+    },
+    {
+      "slug": "the-love-letter-vermeer",
+      "title": "The Love Letter (Vermeer)",
+      "year": 1668,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/The_Love_Letter_-_Johannes_Vermeer.png",
+      "imageWidth": 9271,
+      "imageHeight": 10695,
+      "story": "The Love Letter is a 17th-century genre painting by the Dutch artist Johannes Vermeer. The painting shows a servant maid commenting to her mistress on a letter the woman holds. The painting is in the Rijksmuseum Amsterdam.",
+      "facts": [
+        "On September 23, 1971, the painting was stolen from its display at The Centre for Fine Arts, Brussels, where it was on loan from the Rijksmuseum.",
+        "The thief, 21-year-old Mario Pierre Roymans, had locked himself in an electrical closet until the museum was closed.",
+        "Later he buried it in a forest, but when it started to rain, he recovered it and hid it in his room inside his pillowcase.",
+        "After the encounter, the pictures were published, alongside Roymans' conditions: 200 million Belgian francs to be given to famine-stricken Bengali refugees in East Pakistan."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Love_Letter_(Vermeer)",
+      "sitelinks": 19,
+      "widthCm": 38.5,
+      "heightCm": 44,
+      "pageviews": 11514,
+      "qid": "Q735061",
+      "imageBytes": 203868216,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_Love_Letter_-_Johannes_Vermeer.png"
+      }
+    },
+    {
+      "slug": "lady-seated-at-a-virginal",
+      "title": "Lady Seated at a Virginal",
+      "year": 1670,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Lady_Seated_at_a_Virginal%2C_Vermeer%2C_The_National_Gallery%2C_London.jpg",
+      "imageWidth": 3769,
+      "imageHeight": 4225,
+      "story": "Lady Seated at a Virginal, also known as Young Woman Seated at a Virginal, is a genre painting created by the Dutch Golden Age painter Johannes Vermeer in about 1670–1672 and now in the National Gallery, London.",
+      "facts": [
+        "Another painting, probably also by Johannes Vermeer and known as A Young Woman Seated at the Virginals, also shows a young woman seated at a virginal.",
+        "That painting and the Lady Seated at a Virginal are quite separate works."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lady_Seated_at_a_Virginal",
+      "sitelinks": 18,
+      "widthCm": 45.5,
+      "heightCm": 51.5,
+      "pageviews": 8715,
+      "qid": "Q2267440",
+      "imageBytes": 5847326,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Lady_Seated_at_a_Virginal,_Vermeer,_The_National_Gallery,_London.jpg"
+      }
+    },
+    {
+      "slug": "study-of-a-young-woman",
+      "title": "Study of a Young Woman",
+      "year": 1665,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Vermeer-Portrait_of_a_Young_Woman.jpg",
+      "imageWidth": 4023,
+      "imageHeight": 4489,
+      "story": "Study of a Young Woman is a painting by the Dutch artist Johannes Vermeer, completed between 1665 and 1667, and now in the Metropolitan Museum of Art, New York.",
+      "facts": [
+        "The sitter is depicted as having a homely face—widely spaced and flat—with a small nose and thin lips on a relatively large head.",
+        "The lack of idealised beauty has led to a general belief that this work was painted on commission, although it is possible that the model was Vermeer's daughter."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Study_of_a_Young_Woman",
+      "sitelinks": 18,
+      "widthCm": 40,
+      "heightCm": 44.5,
+      "pageviews": 21210,
+      "qid": "Q958088",
+      "imageBytes": 4081653,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Vermeer-Portrait_of_a_Young_Woman.jpg"
+      }
+    },
+    {
+      "slug": "girl-interrupted-at-her-music",
+      "title": "Girl Interrupted at Her Music",
+      "year": 1660,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Vermeer_Girl_Interrupted_at_Her_Music.jpg",
+      "imageWidth": 3215,
+      "imageHeight": 2850,
+      "story": "Girl Interrupted at Her Music is a painting by the Dutch artist Johannes Vermeer. It was painted in the baroque style, probably between the years 1658 and 1659, using oil on canvas. Since 1901 it has been in the Frick Collection in New York City.",
+      "facts": [
+        "They are some of the few objects in the painting that were not damaged by heavy restoration.",
+        "The painting within a painting was discovered after its restoration in 1907; it had been covered up by a wall and a hanging violin.",
+        "The reason for Vermeer including the miniature Cupid painting may never be revealed due to the painting's damaged condition."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girl_Interrupted_at_Her_Music",
+      "sitelinks": 17,
+      "widthCm": 44.5,
+      "heightCm": 39.4,
+      "pageviews": 18813,
+      "qid": "Q1219698",
+      "imageBytes": 10709083,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Vermeer_Girl_Interrupted_at_Her_Music.jpg"
+      }
+    },
+    {
+      "slug": "mistress-and-maid",
+      "title": "Mistress and Maid",
+      "year": 1666,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Vermeer_Lady_Maidservant_Holding_Letter.jpg",
+      "imageWidth": 2854,
+      "imageHeight": 3260,
+      "story": "Mistress and Maid is an oil-on-canvas painting produced by Johannes Vermeer c. 1667. It portrays two women, a mistress and her maid, as they look over the mistress' letter. The painting displays Vermeer's preference for yellow and blue, female models, and domestic scenes. It is now in the Frick Collection in New York City.",
+      "facts": [
+        "He worked and lived in Delft all his life, although it is possible that he may have done an apprenticeship in another town such as Amsterdam or Utrecht for six years.",
+        "A major stepping point in Vermeer's career was in 1653 when he joined the Guild of Saint Luke as a master and professional painter."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mistress_and_Maid",
+      "sitelinks": 17,
+      "widthCm": 78.7,
+      "heightCm": 90.2,
+      "pageviews": 7234,
+      "qid": "Q3739396",
+      "imageBytes": 12121784,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Vermeer_Lady_Maidservant_Holding_Letter.jpg"
+      }
+    },
+    {
+      "slug": "woman-with-a-lute",
+      "title": "Woman with a Lute",
+      "year": 1662,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Vermeer_-_Woman_with_a_Lute_near_a_window.jpg",
+      "imageWidth": 5934,
+      "imageHeight": 6723,
+      "story": "Woman with a Lute, also known as Woman with a Lute Near a Window, is a painting created about 1662–1663 by Dutch painter Johannes Vermeer and now at the Metropolitan Museum of Art in New York.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_with_a_Lute",
+      "sitelinks": 16,
+      "widthCm": 45.7,
+      "heightCm": 51.4,
+      "pageviews": 5481,
+      "qid": "Q839359",
+      "imageBytes": 5698486,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Vermeer_-_Woman_with_a_Lute_near_a_window.jpg"
+      }
+    },
+    {
+      "slug": "saint-praxedis-painting",
+      "title": "Saint Praxedis (painting)",
+      "year": 1655,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/SaintPraxedisJohannesVermeerPainting.jpg",
+      "imageWidth": 2580,
+      "imageHeight": 3206,
+      "story": "Saint Praxedis is an oil painting by Johannes Vermeer. This attribution has often been questioned. The painting is believed to be a copy of a work by Felice Ficherelli that depicts the early Roman martyr, Saint Praxedis or Praxedes.",
+      "facts": [
+        "The collector Jacob Reder bought it at a minor auction house in New York in 1943.",
+        "It sold to an unknown buyer for £6,242,500 (US$10,687,160), at the lower end of the estimated price range of £6-£8 million.",
+        "From March 2015 it has been on display in the National Museum of Western Art in Tokyo, labelled as \"attributed to Johannes Vermeer\".",
+        "Wheelock identified stylistic similarities with two history paintings that scholars have confidently attributed to Vermeer."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint_Praxedis_(painting)",
+      "sitelinks": 16,
+      "widthCm": 82.6,
+      "heightCm": 101.6,
+      "pageviews": 4072,
+      "qid": "Q94006",
+      "imageBytes": 5006911,
+      "imageCredit": {
+        "author": "Attributed to Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:SaintPraxedisJohannesVermeerPainting.jpg"
+      }
+    },
+    {
+      "slug": "the-guitar-player-vermeer",
+      "title": "The Guitar Player (Vermeer)",
+      "year": 1672,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Jan_Vermeer_van_Delft_013.jpg",
+      "imageWidth": 3691,
+      "imageHeight": 4226,
+      "story": "The Guitar Player is an oil painting by Dutch Golden Age artist Johannes Vermeer (1632–1675), dated c. 1672. This work of art is one of Vermeer's final artistic activities, providing insight into the techniques he mastered and approaches to painting he favoured. The painting has been on display at Kenwood House, London since the 1920s, as part of the Iveagh Bequest collection. After being recovered from a theft in 1974, when the painting was held for ransom, The Guitar Player was returned to Kenwood House.",
+      "facts": [
+        "On 23 February 1974, the painting was stolen from Kenwood House and held for ransom in a proposed deal to deliver and distribute over $1 million (US) dollars in food to the Caribbean island of Grenada.",
+        "It was recovered by Scotland Yard in the cemetery of St Bartholomew-the-Great, in London's financial district, on 7 May 1974."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Guitar_Player_(Vermeer)",
+      "sitelinks": 15,
+      "widthCm": 46.3,
+      "heightCm": 53,
+      "pageviews": 8296,
+      "qid": "Q4358442",
+      "imageBytes": 3624779,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_013.jpg"
+      }
+    },
+    {
+      "slug": "a-lady-writing-a-letter",
+      "title": "A Lady Writing a Letter",
+      "year": 1665,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/A_Lady_Writing_by_Johannes_Vermeer%2C_1665-6.png",
+      "imageWidth": 2469,
+      "imageHeight": 2789,
+      "story": "A Lady Writing a Letter is an oil on canvas painting by the 17th century Dutch painter Johannes Vermeer. It is believed to have been completed by artist during his mature phase, in the mid-to-late 1660s. The work is in the collection of the National Gallery of Art in Washington, D.C.",
+      "facts": [
+        "In 1946 the American art collector Horace Havemeyer (1886–1956) acquired the work.",
+        "The lady in the painting is shown writing a letter while sitting at a table in a room."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/A_Lady_Writing_a_Letter",
+      "sitelinks": 15,
+      "widthCm": 40,
+      "heightCm": 45,
+      "pageviews": 8950,
+      "qid": "Q914984",
+      "imageBytes": 7031049,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:A_Lady_Writing_by_Johannes_Vermeer,_1665-6.png"
+      }
+    },
+    {
+      "slug": "the-lacemaker-vermeer",
+      "title": "The Lacemaker (Vermeer)",
+      "year": 1669,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Johannes_Vermeer_-_The_lacemaker_%28c.1669-1671%29.jpg",
+      "imageWidth": 1596,
+      "imageHeight": 1830,
+      "story": "The Lacemaker is a painting by the Dutch artist Johannes Vermeer (1632–1675), completed around 1669–1670 and held in the Louvre, Paris. The work shows a young woman wearing a yellow bodice, holding up a pair of bobbins in her left hand as she carefully places a pin in the pillow on which she is making her bobbin lace.",
+      "facts": [
+        "It is not open to extension: no universal style is discovered.",
+        "3 in), the work is the smallest of Vermeer's paintings, seen by one author as one of his most abstract and unusual."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Lacemaker_(Vermeer)",
+      "sitelinks": 24,
+      "widthCm": 21,
+      "heightCm": 24.5,
+      "pageviews": 22288,
+      "qid": "Q1216387",
+      "imageBytes": 2299275,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_lacemaker_(c.1669-1671).jpg"
+      }
+    },
+    {
+      "slug": "a-young-woman-seated-at-the-virginals",
+      "title": "A Young Woman Seated at the Virginals",
+      "year": 1670,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Vermeer_-_A_young_Woman_seated_at_the_Virginals.jpg",
+      "imageWidth": 2162,
+      "imageHeight": 2776,
+      "story": "A Young Woman Seated at the Virginals is a painting by Johannes Vermeer, though this was for a long time widely questioned. A series of technical examinations from 1993 onwards confirm the attribution. It is thought to date from c.1670 and is now in part of the Leiden Collection in New York. It should not be confused with Young Woman Seated at a Virginal in the National Gallery, London, also by Vermeer.",
+      "facts": [
+        "Then in the mid-twentieth century, as some \"Vermeers\" were discovered to be forgeries by Han van Meegeren and doubt was cast on others, it fell from favour.",
+        "Rolin's heirs sold the painting through Sotheby's in 2004 to Steve Wynn for $30 million.",
+        "X-ray examination has revealed evidence of a pin-hole at the vanishing point, as habitually used by Vermeer in conjunction with a thread to achieve correct perspective in his paintings.",
+        "The use of lead-tin-yellow suggests that the painting cannot be a nineteenth- or twentieth-century fake or imitation."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/A_Young_Woman_Seated_at_the_Virginals",
+      "sitelinks": 18,
+      "widthCm": 20,
+      "heightCm": 25.2,
+      "pageviews": 6790,
+      "qid": "Q4660880",
+      "imageBytes": 2855607,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Vermeer_-_A_young_Woman_seated_at_the_Virginals.jpg"
+      }
+    },
+    {
+      "slug": "girl-with-a-flute",
+      "title": "Girl with a Flute",
+      "year": 1669,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Jan_Vermeer_van_Delft_020.jpg",
+      "imageWidth": 2482,
+      "imageHeight": 2816,
+      "story": "Girl with a Flute is a small painting by a member of the studio of Johannes Vermeer. It is currently believed to have probably been painted between 1669 and 1675. It is owned by the National Gallery of Art in Washington, D.C. along with three paintings attributed to Vermeer: Woman Holding a Balance, A Lady Writing a Letter, and Girl with a Red Hat.",
+      "facts": [
+        "Girl with a Flute may have been first owned by the family of Vermeer's patron Pieter van Ruijven, and it was possibly sold at the 1696 Dissius auction in Amsterdam, probably catalogue number 39 or 40.",
+        "In 1906 the painting was discovered at the De Grez Collection in Brussels by Abraham Bredius, director of the Mauritshuis, who identified it as a Vermeer.",
+        "The painting's attribution has been questioned since 1942, although prior to 2022 it was generally cautiously attributed to Vermeer.",
+        "Nevertheless, the restoration and related technical examinations have provided a fuller understanding of both the complex compositional alterations and the sequence of paint layers that comprise this image, information essential for any informed judgment of attribution."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girl_with_a_Flute",
+      "sitelinks": 0,
+      "widthCm": 17.8,
+      "heightCm": 20,
+      "pageviews": 7022,
+      "qid": "Q3739200",
+      "imageBytes": 3103102,
+      "imageCredit": {
+        "author": "Johannes Vermeer",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_020.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

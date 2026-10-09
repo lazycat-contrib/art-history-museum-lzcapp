@@ -1,0 +1,480 @@
+{
+  "slug": "giorgio-de-chirico",
+  "periodSlug": "surrealism",
+  "name": "Giorgio de Chirico",
+  "wikiTitle": "Giorgio de Chirico",
+  "qid": "Q156622",
+  "birthYear": 1888,
+  "deathYear": 1978,
+  "tagline": "Italian artist (1888–1978)",
+  "bio": "Giuseppe Maria Alberto Giorgio de Chirico was a Greek-Italian artist and writer born in Volos, Greece. In the years before World War I, he founded the scuola metafisica art movement, which profoundly influenced the surrealists. His best-known works often feature Roman arcades, long shadows, mannequins, trains, and illogical perspective. His imagery reflects his affinity for the philosophy of Arthur Schopenhauer and of Friedrich Nietzsche, and for the mythology of his birthplace.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Giorgio_de_Chirico_%28portrait%29.jpg",
+  "portraitWidth": 290,
+  "portraitHeight": 358,
+  "portraitCredit": {
+    "author": "Carl Van Vechten",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Giorgio_de_Chirico_(portrait).jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Giorgio_de_Chirico",
+  "paintings": [
+    {
+      "slug": "the-song-of-love",
+      "title": "The Song of Love",
+      "year": 1914,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/De_Chirico%27s_Love_Song.jpg",
+      "imageWidth": 1249,
+      "imageHeight": 1535,
+      "story": "The Song of Love is a 1914 painting by Italian metaphysical painter Giorgio de Chirico. It is one of the most famous works by Chirico and an early example of his pre-surrealist style, though it was painted ten years before the movement was \"founded\" by André Breton in 1924.",
+      "facts": [
+        "The metaphysical art movement was created by Chirico and Carlo Carrà, who had previously been a futurist.",
+        "These paintings would depict Italian city squares that are unnaturally devoid of people."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Song_of_Love",
+      "sitelinks": 8,
+      "widthCm": 59.1,
+      "heightCm": 73,
+      "pageviews": 19110,
+      "qid": "Q1154410",
+      "imageBytes": 1337010,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Giorgio de Chirico",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:De_Chirico's_Love_Song.jpg"
+      }
+    },
+    {
+      "slug": "the-nostalgia-of-the-infinite",
+      "title": "The Nostalgia of the Infinite",
+      "year": 1912,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/69/TheNostalgiaoftheInfinite.jpg",
+      "imageWidth": 2200,
+      "imageHeight": 4598,
+      "story": "The Nostalgia of the Infinite is a painting by Italian metaphysical painter Giorgio de Chirico, dated of 1911, but most likely painted in 1912–13.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Nostalgia_of_the_Infinite",
+      "sitelinks": 8,
+      "widthCm": 64.8,
+      "heightCm": 135.2,
+      "pageviews": 17367,
+      "qid": "Q3798257",
+      "imageBytes": 1025531,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Giorgio de Chirico",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:TheNostalgiaoftheInfinite.jpg"
+      }
+    },
+    {
+      "slug": "the-child-s-brain",
+      "title": "The Child's Brain",
+      "year": 1914,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/07/Giorgio_de_Chirico_-_The_Child%27s_Brain.jpg",
+      "imageWidth": 1100,
+      "imageHeight": 1353,
+      "story": "The Child's Brain is an oil-on-canvas painting by the Italian artist Giorgio de Chirico. It was completed in 1914 in Italy and is an example of the metaphysical art style. The painting measures 80 by 65 centimeters and is now housed at Moderna Museet, Stockholm. The subject of The Child's Brain is a nude young man, seen from the waist up, who is standing behind a table with his eyes closed.",
+      "facts": [
+        "The man's right arm is hidden from view by a Greek column, connecting this painting to the art of the ancient Greeks, a common theme among de Chirico's work.",
+        "The painting depicts a nude young man with a mix of both masculine and feminine features (the feminine being especially prominent in the lack of body hair or defined musculature, the long eyelashes and the finely groomed eyebrows) standing behind a table which blocks our view of him below the waist."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Child's_Brain",
+      "sitelinks": 4,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 2697,
+      "qid": "Q16987108",
+      "imageBytes": 192648,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Giorgio de Chirico",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Giorgio_de_Chirico_-_The_Child's_Brain.jpg"
+      }
+    },
+    {
+      "slug": "the-great-tower",
+      "title": "The Great Tower",
+      "year": 1921,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/30/Giorgio_de_Chirico_-_The_Great_Tower.jpg",
+      "imageWidth": 570,
+      "imageHeight": 750,
+      "story": "The Great Tower is an oil on canvas painting by the Italian artist Giorgio de Chirico, from 1921. It is held in the Pushkin Museum, in Moscow. The Russian Ministry of Culture acquired it in 1992 for the National Centre for Contemporary Arts, though the latter then transferred it to the Pushkin Museum in honour of its eightieth anniversary.",
+      "facts": [
+        "This painting is a variant of the larger-format composition The Nostalgia of the Infinite, from c.",
+        "In it, as in many of his works, de Chirico introduces the viewer into a metaphysical world of imagery and symbols."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Great_Tower",
+      "sitelinks": 4,
+      "widthCm": 62,
+      "heightCm": 83.5,
+      "pageviews": 2707,
+      "qid": "Q4091828",
+      "imageBytes": 120967,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Giorgio de Chirico",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Giorgio_de_Chirico_-_The_Great_Tower.jpg"
+      }
+    },
+    {
+      "slug": "the-double-dream-of-spring",
+      "title": "The Double Dream of Spring",
+      "year": 1915,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/The_Double_Dream_of_Spring.jpg",
+      "imageWidth": 312,
+      "imageHeight": 319,
+      "story": "The Double Dream of Spring is a painting by the Italian metaphysical painter Giorgio de Chirico. It is held at the Museum of Modern Art, in New York.",
+      "facts": [
+        "The scene on the left shows a statue of a man in a frock-coat from behind.",
+        "The statue appears to be staring contemplatively into an open sky."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Double_Dream_of_Spring",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 2424,
+      "qid": "Q25449372",
+      "imageBytes": 16850,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Double_Dream_of_Spring.jpg"
+      }
+    },
+    {
+      "slug": "gare-montparnasse-the-melancholy-of-departure",
+      "title": "Gare Montparnasse ( The Melancholy of Departure )",
+      "year": 1914,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/Gare_Montparnasse_%28The_Melancholy_of_Departure%29_by_Giorgio_de_Chirico.jpg",
+      "imageWidth": 366,
+      "imageHeight": 272,
+      "story": "Gare Montparnasse (The Melancholy of Departure) (Italian: La stazione di Montparnasse) is an oil on canvas painting by the Italian metaphysical painter Giorgio de Chirico, from 1914. It is held at the Museum of Modern Art, in New York.",
+      "facts": [
+        "Many of de Chirico's works were inspired by the introspective feelings evoked by travel.",
+        "This work was painted during a period when he lived in Paris."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gare_Montparnasse_(The_Melancholy_of_Departure)",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 3414,
+      "qid": "Q5522671",
+      "imageBytes": 20750,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Gare_Montparnasse_(The_Melancholy_of_Departure)_by_Giorgio_de_Chirico.jpg"
+      }
+    },
+    {
+      "slug": "ariadne-giorgio-de-chirico",
+      "title": "Ariadne (Giorgio de Chirico)",
+      "year": 1913,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Giorgio_de_Chirico_-_Ariadne.jpg",
+      "imageWidth": 600,
+      "imageHeight": 450,
+      "story": "Ariadne is an oil and graphite on canvas 1913 painting by Italian painter Giorgio de Chirico, from 1913. It is held at the Metropolitan Museum of Art, in New York.",
+      "facts": [
+        "The painting depicts the mythical figure Ariadne as she lies sleeping in an empty public square; this is in reference to the myth that birthed the character, in which Ariadne is abandoned on Naxos by her lover Theseus.",
+        "According to sources provided by the Metropolitan Museum of Art, this reflects Chirico's personal feelings of isolation after moving to Paris in 1911."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ariadne_(Giorgio_de_Chirico)",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 2753,
+      "qid": "Q19918956",
+      "imageBytes": 35481,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Giorgio de Chirico",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Giorgio_de_Chirico_-_Ariadne.jpg"
+      }
+    },
+    {
+      "slug": "the-soothsayer-s-recompense",
+      "title": "The Soothsayer's Recompense",
+      "year": 1913,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3c/Giorgio_de_Chirico_-_The_Soothsayer%27s_Recompense.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 888,
+      "story": "The Soothsayer's Recompense is a 1913 painting by Italian painter Giorgio de Chirico. It is now in the Philadelphia Museum of Art as part of the permanent collection. It was accessioned in 1950 as one of the thousand items donated to the institution by Walter and Louise Arensberg. The piece was created in France, through a process of \"squaring-up\" in which Chirico drew a version of the piece divided into nine squares, and subsequently used this draft to quickly create the fleshed-out painting.",
+      "facts": [
+        "It originally hung in the home of the Arensberg family, where it inspired Philip Guston to become a painter.",
+        "The piece depicts an empty city square, a recurring motif in works by Chirico."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Soothsayer's_Recompense",
+      "sitelinks": 2,
+      "widthCm": 180,
+      "heightCm": 135.6,
+      "pageviews": 3905,
+      "qid": "Q20816277",
+      "imageBytes": 118827,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Giorgio de Chirico",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Giorgio_de_Chirico_-_The_Soothsayer's_Recompense.jpg"
+      }
+    },
+    {
+      "slug": "the-prodigal-son-giorgio-de-chirico",
+      "title": "The Prodigal Son (Giorgio de Chirico)",
+      "year": 1922,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "The Prodigal Son is a painting by the Greek-born Italian artist Giorgio de Chirico. It is painted in tempera on canvas and was completed in 1922 as de Chirico was in transition from the Metaphysical style of his earlier works to the neoclassicism he essayed in the 1920s. The biblical subject matter is interpreted by de Chirico as a stone effigy of a father placing his hand on the shoulder of a mannequin representing the son. The dimensions of the painting are 87 by 59 centimeters. It is housed at Museo del Novecento, Milan, Italy.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Prodigal_Son_(Giorgio_de_Chirico)",
+      "sitelinks": 2,
+      "widthCm": 59,
+      "heightCm": 87,
+      "pageviews": 886,
+      "qid": "Q3793980",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "portrait-of-paul-guillaume-de-chirico-grenoble",
+      "title": "Portrait of Paul Guillaume (De Chirico, Grenoble)",
+      "year": 1915,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Portrait of Paul Guillaume is a 1915 oil on canvas painting by Giorgio de Chirico of the art dealer Paul Guillaume, now in the Museum of Grenoble, to which it was given by the artist in 1935, inspired by Guillaume's gift of Les époux to the same museum in 1927.",
+      "facts": [
+        "Tentoonstelling van de Afdeeling Moderne Fransche Kunst iut het Museum van Grenoble, Amsterdam, Stedelijk Museum, 12 October 1935 to 14 November 1935.",
+        "Arte italiano, Desde las primeras vanguardias a la postguerra, Madrid, Centro de Arte Reina Sofia, 1990."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_Paul_Guillaume_(De_Chirico%2C_Grenoble)",
+      "sitelinks": 2,
+      "widthCm": 57.2,
+      "heightCm": 79,
+      "pageviews": 228,
+      "qid": "Q60415241",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "the-melancholy-of-departure",
+      "title": "The Melancholy of Departure",
+      "year": 1916,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c0/The_Melancholy_of_Departure.jpg",
+      "imageWidth": 648,
+      "imageHeight": 944,
+      "story": "The Melancholy of Departure is an oil on canvas painting by the Italian metaphysical painter Giorgio de Chirico, from 1916. This painting was created after Chirico returned to Italy from Paris to join the Italian Army in World War I. It is held at the Tate Modern, in London.",
+      "facts": [
+        "He was now focusing on more abstract combinations of objects and indoor settings, and seeking to paint the hidden meanings behind the surface of things.",
+        "During this time Chirico was moving away from the bright open scenes of his previous work."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Melancholy_of_Departure",
+      "sitelinks": 2,
+      "widthCm": 35.9,
+      "heightCm": 51.8,
+      "pageviews": 2929,
+      "qid": "Q7750928",
+      "imageBytes": 100658,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Giorgio de Chirico (died 1978)",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Melancholy_of_Departure.jpg"
+      }
+    },
+    {
+      "slug": "metaphysical-interior-with-large-factory",
+      "title": "Metaphysical Interior with Large Factory",
+      "year": 1916,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/54/Metaphysical_with_Factory.jpg",
+      "imageWidth": 221,
+      "imageHeight": 300,
+      "story": "Metaphysical Interior with Large Factory is an oil-on-canvas painting by the Italian metaphysical painter Giorgio de Chirico, from 1916. It is part of a series that extended late into de Chirico's career.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Metaphysical_Interior_with_Large_Factory",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1505,
+      "qid": "Q16941559",
+      "imageBytes": 34141,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Metaphysical_with_Factory.jpg"
+      }
+    },
+    {
+      "slug": "the-transformed-dream",
+      "title": "The Transformed Dream",
+      "year": 1913,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/Giorgio_de_Chirico_-_Le_R%C3%AAve_Transform%C3%A9.jpg",
+      "imageWidth": 1600,
+      "imageHeight": 666,
+      "story": "The Transformed Dream is an oil on canvas painting by the Italian metaphysical painter Giorgio de Chirico, from 1913. It is held at the Saint Louis Art Museum, in St. Louis.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Transformed_Dream",
+      "sitelinks": 1,
+      "widthCm": 151.8,
+      "heightCm": 63.5,
+      "pageviews": 1352,
+      "qid": "Q6507642",
+      "imageBytes": 407416,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Giorgio de Chirico",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Giorgio_de_Chirico_-_Le_R%C3%AAve_Transform%C3%A9.jpg"
+      }
+    },
+    {
+      "slug": "metaphysical-interior-with-biscuits",
+      "title": "Metaphysical Interior with Biscuits",
+      "year": 1916,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f8/Giorgio_de_Chirico_-_Metaphysical_Interior_with_Biscuits.jpg",
+      "imageWidth": 635,
+      "imageHeight": 800,
+      "story": "Metaphysical Interior with Biscuits is a 1916 painting by Italian metaphysical painter Giorgio de Chirico. It is one of the earliest editions in a series of works that extended late into Chirico's career.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Metaphysical_Interior_with_Biscuits",
+      "sitelinks": 1,
+      "widthCm": 65.1,
+      "heightCm": 81.3,
+      "pageviews": 1430,
+      "qid": "Q6823130",
+      "imageBytes": 337184,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Giorgio de Chirico",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Giorgio_de_Chirico_-_Metaphysical_Interior_with_Biscuits.jpg"
+      }
+    },
+    {
+      "slug": "mystery-and-melancholy-of-a-street",
+      "title": "Mystery and Melancholy of a Street",
+      "year": 1914,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5b/Giorgio_de_Chirico_-_Mystery_and_Melancholy_of_a_Street_%281914%29.jpg",
+      "imageWidth": 755,
+      "imageHeight": 927,
+      "story": "Mystery and Melancholy of a Street is a 1914 oil-on-canvas painting by the Italian artist Giorgio de Chirico. It is held in a private collection.",
+      "facts": [
+        "The painting depicts a street which is framed by two long, white buildings with arcades.",
+        "The shadows shown are sharp, as if lit by the Mediterranean sun, and they divide the painting into two parts: on the left, the façade of the building is completely lit; on the right, the building is plunged into shadow and it extends over the lower part of the painting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mystery_and_Melancholy_of_a_Street",
+      "sitelinks": 5,
+      "widthCm": 71.5,
+      "heightCm": 87.5,
+      "pageviews": 9159,
+      "qid": "Q4289293",
+      "imageBytes": 142453,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Giorgio de Chirico",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Giorgio_de_Chirico_-_Mystery_and_Melancholy_of_a_Street_(1914).jpg"
+      }
+    },
+    {
+      "slug": "the-disquieting-muses",
+      "title": "The Disquieting Muses",
+      "year": 1916,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/df/The_Disquieting_Muses.jpg",
+      "imageWidth": 500,
+      "imageHeight": 736,
+      "story": "The Disquieting Muses is a painting by the Italian metaphysical painter Giorgio de Chirico. There are two versions of this painting, the original is in the Gianni Mattioli private collection, in Milan, and the other is at the Pinakothek der Moderne, in Munich.",
+      "facts": [
+        "The Disquieting Muses was painted during World War I, when De Chirico was in Ferrara.",
+        "The Castello Estense, near which de Chirico lived, is in the background, rust-red and among industrial buildings."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Disquieting_Muses",
+      "sitelinks": 5,
+      "widthCm": 67,
+      "heightCm": 97,
+      "pageviews": 7819,
+      "qid": "Q7730357",
+      "imageBytes": 61255,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Giorgio de Chirico",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Disquieting_Muses.jpg"
+      }
+    },
+    {
+      "slug": "the-enigma-of-the-hour",
+      "title": "The Enigma of the Hour",
+      "year": 1911,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/The_Enigma_of_the_Hour.jpg",
+      "imageWidth": 1000,
+      "imageHeight": 777,
+      "story": "The Enigma of the Hour is an oil on canvas painting by the Italian metaphysical painter Giorgio de Chirico. He created the work during his early period, in Florence, when he focused on metaphysical depictions of town squares and other urban environments. It is not clear whether it was created in 1910 or 1911.",
+      "facts": [
+        "The Enigma depicts an urban scene with the classical architecture and angular lighting that are Chirico's hallmarks.",
+        "Several figures around the scene have vague features, to give the sense that they are absent."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Enigma_of_the_Hour",
+      "sitelinks": 4,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 5798,
+      "qid": "Q7732268",
+      "imageBytes": 91850,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Giorgio de Chirico",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Enigma_of_the_Hour.jpg"
+      }
+    },
+    {
+      "slug": "venice-bridge-of-rialto-giorgio-de-chirico",
+      "title": "Venice, Bridge of Rialto (Giorgio de Chirico)",
+      "year": 1950,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Venice, Bridge of Rialto is an oil on canvas painting by Giorgio of Chirico, from 1950. It is held at the Museo Soumaya, in Mexico City. The style of this work moves away from his early period of the metaphysical painting, characterized by the inclusion of architecture, sculptures and big empty spaces.",
+      "facts": [
+        "The strong impression that the Italian squares and sights caused on de Chirico is evident in this painting.",
+        "It widens towards the front and some of the sumptuous Venetian edifications line its banks."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Venice%2C_Bridge_of_Rialto_(Giorgio_de_Chirico)",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1659,
+      "qid": "Q24569627",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    }
+  ],
+  "ingestVersion": 5
+}

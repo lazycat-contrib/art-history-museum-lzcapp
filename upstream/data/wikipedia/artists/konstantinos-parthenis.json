@@ -1,0 +1,47 @@
+{
+  "slug": "konstantinos-parthenis",
+  "periodSlug": "symbolism",
+  "name": "Konstantinos Parthenis",
+  "wikiTitle": "Konstantinos Parthenis",
+  "qid": "Q2337096",
+  "birthYear": 1878,
+  "deathYear": 1967,
+  "tagline": "Greek painter (1878–1967)",
+  "bio": "Konstantinos Parthenis was a Greek painter. Born in Alexandria, part of the Greek community in Egypt, Parthenis broke with the Greek academic tradition of the 19th century and introduced modern elements together with traditional themes, like the figure of Christ, in his art.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Kost-parthenis-rubens-circa1900.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "portraitWidth": 622,
+  "portraitHeight": 884,
+  "portraitCredit": {
+    "author": "Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Kost-parthenis-rubens-circa1900.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Konstantinos_Parthenis",
+  "paintings": [
+    {
+      "slug": "the-apotheosis-of-athanasios-diakos",
+      "title": "The Apotheosis of Athanasios Diakos",
+      "year": 1933,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/The_Apotheosis_of_Athanasios_Diakos.jpg",
+      "imageWidth": 260,
+      "imageHeight": 260,
+      "story": "The Apotheosis of Athanasios Diakos is an oil painting by Konstantinos Parthenis created in 1933. The oil painting is exhibited at the National Gallery of Greece.",
+      "facts": [
+        "Athanasios Diakos was a freedom fighter for Greek independence, who was executed in 1821 by the Ottoman Empire by impalement following the Battle of Alamana.",
+        "The painting shows a secular subject in a religious composition, with a cubist style."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Apotheosis_of_Athanasios_Diakos",
+      "sitelinks": 2,
+      "qid": "Q22671144",
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Konstantinos Parthenis / National Gallery of Greece, Athens",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Apotheosis_of_Athanasios_Diakos.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "jasper-johns",
+  "periodSlug": "pop-art",
+  "name": "Jasper Johns",
+  "wikiTitle": "Jasper Johns",
+  "qid": "Q155057",
+  "birthYear": 1930,
+  "deathYear": null,
+  "tagline": "American painter (born 1930)",
+  "bio": "Jasper Johns is an American painter, sculptor, draftsman, and printmaker. Considered a central figure in the development of American postwar art, he has been variously associated with abstract expressionism, Neo-Dada, and pop art movements.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Jasper_Johns%2C_Medal_of_Freedom%2C_2011.jpg",
+  "portraitWidth": 197,
+  "portraitHeight": 306,
+  "portraitCredit": {
+    "author": "White House videographer for The Obama White House",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Jasper_Johns,_Medal_of_Freedom,_2011.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jasper_Johns",
+  "paintings": [
+    {
+      "slug": "three-flags",
+      "title": "Three Flags",
+      "year": 1958,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d7/Three_Flags.jpg",
+      "imageWidth": 367,
+      "imageHeight": 271,
+      "story": "Three Flags is a 1958 painting by American artist Jasper Johns. Held in the permanent collection of the Whitney Museum of American Art in New York since 1980, Three Flags has been described as a \"landmark of 20th-century art\".",
+      "facts": [
+        "The painting was acquired by the Whitney Museum of American Art in New York City for $1 million in 1980 from art collectors Burton and Emily Hall Tremaine, to celebrate its 50th anniversary.",
+        "The three canvases form a tiered arrangement, with each canvas approximately 25% smaller than the one below, thereby creating a three-dimensional work."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Three_Flags",
+      "sitelinks": 5,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 11528,
+      "qid": "Q3525935",
+      "imageBytes": 30910,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Three_Flags.jpg"
+      }
+    },
+    {
+      "slug": "map-painting",
+      "title": "Map (painting)",
+      "year": 1961,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Jasper_Johns%27s_%27Map%27%2C_1961.jpg",
+      "imageWidth": 397,
+      "imageHeight": 250,
+      "story": "Map is a 1961 oil-on-canvas painting by Jasper Johns. It represents the overall proportions and shapes of the states of the United States and parts of Mexico and Canada, although executed with a more \"energetic application of paint\" than found in cartography. The names of the states and ocean areas are stencilled.",
+      "facts": [
+        "Johns was inspired by a gift from Robert Rauschenberg of some mimeographed outline maps of US states, of the sort that can be colored in by schoolchildren.",
+        "Johns was attracted to an image that is ubiquitous but \"seen and not looked at, not examined\", effectively a found object."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Map_(painting)",
+      "sitelinks": 3,
+      "widthCm": 312.7,
+      "heightCm": 198.1,
+      "pageviews": 9305,
+      "qid": "Q6753733",
+      "imageBytes": 36130,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Jasper_Johns's_'Map',_1961.jpg"
+      }
+    },
+    {
+      "slug": "white-flag-painting",
+      "title": "White Flag (painting)",
+      "year": 1955,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "White Flag is an encaustic painting by the American artist Jasper Johns. Created in 1955, soon after his first flag painting, entitled simply Flag, it was the first painting by Johns to be acquired by the Metropolitan Museum of Art, in New York, bought from the artist in 1998. The price was undisclosed but experts estimated its value at the time as more than $20 million.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/White_Flag_(painting)",
+      "sitelinks": 3,
+      "widthCm": 306.7,
+      "heightCm": 198.9,
+      "pageviews": 12666,
+      "qid": "Q7994688",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "slice-painting",
+      "title": "Slice (painting)",
+      "year": 2020,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "\nSlice is a 2020 oil painting by the American artist Jasper Johns.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Slice_(painting)",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 7679,
+      "qid": "Q108940001",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "racing-thoughts-jasper-johns",
+      "title": "Racing Thoughts (Jasper Johns)",
+      "year": 1983,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/30/Jasper_Johns_Racing_Thoughts_1983.jpg",
+      "imageWidth": 350,
+      "imageHeight": 233,
+      "story": "Racing Thoughts is a pair of paintings of the same title by the American artist Jasper Johns, made in 1983 and 1984. The first, a brightly colored composition in encaustic, screenprint, and wax crayon on collaged cotton and linen, is in the collection of the Whitney Museum of American Art in New York. The second, painted in oil on canvas in 1984, reprises the same composition in grisaille and is held privately.",
+      "facts": [
+        "Hidden in the door pattern on the left-hand side of each composition is a tracing of the demon from the Temptation of Saint Anthony panel in Matthias Grünewald’s Isenheim Altarpiece (1512–1516), a figure whose diseased skin Johns connects to his broader association of the painted surface with the body.",
+        "Jasper Johns rose to prominence in the late 1950s with encaustic paintings of flags, targets, numbers, and other familiar symbols, work that challenged the gestural individualism of Abstract Expressionism and posed questions about the nature of representation."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Racing_Thoughts_(Jasper_Johns)",
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 808,
+      "qid": "Q140468054",
+      "imageBytes": 62416,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Jasper Johns",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Jasper_Johns_Racing_Thoughts_1983.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

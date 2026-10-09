@@ -1,0 +1,47 @@
+{
+  "slug": "yannis-tsarouchis",
+  "periodSlug": "contemporary",
+  "name": "Yannis Tsarouchis",
+  "wikiTitle": "Yannis Tsarouchis",
+  "qid": "Q1390760",
+  "birthYear": 1910,
+  "deathYear": 1989,
+  "tagline": "Greek painter",
+  "bio": "Yannis Tsarouchis was a Greek modernist painter and set designer who achieved international fame, and was \"known in particular for his homoerotic subjects,\" including soldiers, sailors, and nude males.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%A4%CF%83%CE%B1%CF%81%CE%BF%CF%8D%CF%87%CE%B7%CF%82.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "portraitWidth": 300,
+  "portraitHeight": 303,
+  "portraitCredit": {
+    "author": "Yani papadimos",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%A4%CF%83%CE%B1%CF%81%CE%BF%CF%8D%CF%87%CE%B7%CF%82.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yannis_Tsarouchis",
+  "paintings": [
+    {
+      "slug": "cafe-neon-night",
+      "title": "Cafe Neon (Night)",
+      "year": 1966,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/99/%CE%9A%CE%B1%CF%86%CE%B5%CE%BD%CE%B5%CE%AF%CE%BF%CE%BD_%CF%84%CE%BF_%CE%9D%CE%AD%CE%BF%CE%BD_%28%CE%9D%CF%8D%CF%87%CF%84%CE%B1%29.jpg",
+      "imageWidth": 367,
+      "imageHeight": 260,
+      "story": "Cafe Neon (Night) (Greek: Καφενείον το Νέον (Νύχτα)) is an oil painting by Yannis Tsarouchis created between 1965 and 1966.",
+      "facts": [
+        "It depicts the facade of the eponymous cafe, which exists today in Omonia Square in Athens.",
+        "The theme of \"coffee shops\" has occupied Tsarouhis repeatedly within the overall interest to study the contemporary urban landscape, not only in space but also as a social context and version of an overall lifestyle."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cafe_Neon_(Night)",
+      "sitelinks": 2,
+      "qid": "Q22671279",
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "John Tsarouhis / National Gallery of Greece, Athens",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:%CE%9A%CE%B1%CF%86%CE%B5%CE%BD%CE%B5%CE%AF%CE%BF%CE%BD_%CF%84%CE%BF_%CE%9D%CE%AD%CE%BF%CE%BD_(%CE%9D%CF%8D%CF%87%CF%84%CE%B1).jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

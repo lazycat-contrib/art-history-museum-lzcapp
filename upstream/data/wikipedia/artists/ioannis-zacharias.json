@@ -1,0 +1,47 @@
+{
+  "slug": "ioannis-zacharias",
+  "periodSlug": "academic-art",
+  "name": "Ioannis Zacharias",
+  "wikiTitle": "Ioannis Zacharias",
+  "qid": "Q3154052",
+  "birthYear": 1845,
+  "deathYear": 1873,
+  "tagline": "Greek painter",
+  "bio": "Ioannis Zacharias was a Greek painter.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/TheStudentZacharias.jpg",
+  "portraitWidth": 541,
+  "portraitHeight": 718,
+  "portraitCredit": {
+    "author": "Ioannis Zacharias",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:TheStudentZacharias.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ioannis_Zacharias",
+  "paintings": [
+    {
+      "slug": "the-student-q56682513",
+      "title": "The Student",
+      "year": 1868,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Student_by_Ioannis_Zacharias.jpg",
+      "imageWidth": 541,
+      "imageHeight": 718,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 46,
+      "heightCm": 64,
+      "pageviews": null,
+      "qid": "Q56682513",
+      "imageBytes": 78244,
+      "imageCredit": {
+        "author": "Ioannis Zacharias",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Student_by_Ioannis_Zacharias.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

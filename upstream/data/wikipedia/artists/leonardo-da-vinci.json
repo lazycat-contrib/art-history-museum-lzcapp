@@ -1,0 +1,1127 @@
+{
+  "slug": "leonardo-da-vinci",
+  "periodSlug": "high-renaissance",
+  "name": "Leonardo da Vinci",
+  "wikiTitle": "Leonardo da Vinci",
+  "qid": "Q762",
+  "birthYear": 1452,
+  "deathYear": 1519,
+  "tagline": "Italian polymath (1452–1519)",
+  "bio": "Leonardo di ser Piero da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect. While his fame initially rested on his achievements as a painter, he has also become known for his notebooks, in which he made drawings and notes on a variety of subjects, including anatomy, astronomy, botany, cartography, painting, and palaeontology. Leonardo is widely regarded as a genius who epitomised the Renaissance humanist ideal, and his collective works contributed to the development of European art to an extent rivalled only by that of his younger contemporary Michelangelo.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png",
+  "portraitWidth": 1286,
+  "portraitHeight": 1842,
+  "portraitCredit": {
+    "author": "Attributed to Francesco Melzi",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Francesco_Melzi_-_Portrait_of_Leonardo_(colour_correction).png"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+  "paintings": [
+    {
+      "slug": "salvator-mundi-painting",
+      "title": "Salvator Mundi (painting)",
+      "year": 1500,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg",
+      "imageWidth": 3300,
+      "imageHeight": 4856,
+      "story": "Salvator Mundi is a painting attributed in whole or part to the Italian High Renaissance artist Leonardo da Vinci, dated c. 1499–1510. Long thought to be a copy of a lost original veiled with overpainting, it was rediscovered, restored, and included in an exhibition of Leonardo's work at the National Gallery, London, in 2011–2012. Christie's, which sold the work in 2017, stated that most leading scholars consider it an original work by Leonardo, but this attribution has been disputed by some leading specialists who propose that he only contributed certain elements; others believe that the extensive restoration prevents a definitive attribution.",
+      "facts": [
+        "Christie's stated that the painting was probably commissioned around 1500, shortly after King Louis XII of France conquered the Duchy of Milan and took control of Genoa in the Second Italian War; Leonardo himself moved from Milan to Florence in 1500.",
+        "Because of the specificity of the subject, Leonardo's Salvator Mundi was most likely commissioned by a specific patron rather than produced on speculation.",
+        "Another fifteenth-century example can be seen in the Palazzo Ducale in Urbino in the very damaged painting by Melozzo da Forlì.",
+        "The painting was sold to a creditor in 1651, returned to Charles II after the English Restoration in 1660, and included in an inventory of Charles's possessions at the Palace of Whitehall in 1666."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salvator_Mundi_(painting)",
+      "sitelinks": 50,
+      "widthCm": 45.4,
+      "heightCm": 65.7,
+      "pageviews": 533390,
+      "qid": "Q1892745",
+      "imageBytes": 9783038,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci,_Salvator_Mundi,_c.1500,_oil_on_walnut,_45.4_%C3%97_65.6_cm.jpg"
+      }
+    },
+    {
+      "slug": "lady-with-an-ermine",
+      "title": "Lady with an Ermine",
+      "year": 1490,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg",
+      "imageWidth": 2048,
+      "imageHeight": 2754,
+      "story": "The Lady with an Ermine is a portrait painting by the Italian Renaissance artist Leonardo da Vinci. Dated to c. 1489–1491, the work is painted in oils on a panel of walnut wood. Its subject is Cecilia Gallerani, a mistress of Ludovico Sforza, Duke of Milan; Leonardo was painter to the Sforza court in Milan at the time of its execution. It is the second of only four surviving portraits of women painted by Leonardo, the others being Ginevra de' Benci, La Belle Ferronnière and the Mona Lisa.",
+      "facts": [
+        "Such an evaluation is relatively recent, however, as the work was previously considered to be considerably damaged and repainted.",
+        "Specifically, the background was likely originally a bluish-grey, overpainted with black during the mid-18th century.",
+        "It was proposed by Kazimierz Kwiatkowski, who led 1955 X-ray testing at Warsaw Laboratories, and explained certain spots in the right background as being remnants of a window.",
+        "A recent study brings to the forefront and supports another so far little-followed hypothesis: the heroic character of Caterina Sforza, the lioness of Romagna, is proposed as being the model of this allegorical representation in which the mental strength and beauty that were attributed to Amazons in mythology."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lady_with_an_Ermine",
+      "sitelinks": 50,
+      "widthCm": 39,
+      "heightCm": 54,
+      "pageviews": 331658,
+      "qid": "Q474338",
+      "imageBytes": 2788149,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Lady_with_an_Ermine_-_Leonardo_da_Vinci_(adjusted_levels).jpg"
+      }
+    },
+    {
+      "slug": "ginevra-de-benci",
+      "title": "Ginevra de' Benci",
+      "year": 1474,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg",
+      "imageWidth": 10483,
+      "imageHeight": 11110,
+      "story": "Ginevra de' Benci is a portrait painting by Leonardo da Vinci of the 15th-century Florentine aristocrat Ginevra de' Benci. It was acquired by the National Gallery of Art in Washington, D.C. US from Franz Joseph II, Prince of Liechtenstein in February 1967 for a record price for a painting of between $5 and $6 million. It is the only painting by Leonardo on public view in the Americas.",
+      "facts": [
+        "Commonly, contemporary portraits of women were commissioned for either of two occasions: betrothal or marriage.",
+        "Ginevra de' Benci, a well-known young Florentine woman, is universally considered to be the portrait's sitter."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ginevra_de'_Benci",
+      "sitelinks": 40,
+      "widthCm": 36.7,
+      "heightCm": 38.8,
+      "pageviews": 66382,
+      "qid": "Q1267893",
+      "imageBytes": 70363344,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Ginevra_de'_Benci_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "benois-madonna",
+      "title": "Benois Madonna",
+      "year": 1478,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Leonardo%2C_Madonna_Benois.JPG",
+      "imageWidth": 2864,
+      "imageHeight": 4588,
+      "story": "The Benois Madonna, otherwise known as the Madonna and Child with Flowers, is a painting by the Italian Renaissance master Leonardo da Vinci in the Hermitage Museum, Saint Petersburg. One of two Madonnas begun by Leonardo in October 1478, it was completed c. 1478–1480; the other was the Madonna of the Carnation, now in the Alte Pinakothek, Munich.",
+      "facts": [
+        "Two of Leonardo's preliminary sketches for this work are in the British Museum, although the painting was probably overpainted by other hands.",
+        "It had in fact been acquired in Italy by the Russian artillery general and art connoisseur Aleksei Ivanovich Korsakov (1751–1821) in the 1790s.",
+        "Despite these wrangles about attribution, however, the Benois Madonna was eventually sold to the Imperial Hermitage Museum in 1914 for a record amount."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benois_Madonna",
+      "sitelinks": 38,
+      "widthCm": 33,
+      "heightCm": 49.5,
+      "pageviews": 17325,
+      "qid": "Q1142058",
+      "imageBytes": 6679408,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo,_Madonna_Benois.JPG"
+      }
+    },
+    {
+      "slug": "saint-john-the-baptist-leonardo",
+      "title": "Saint John the Baptist (Leonardo)",
+      "year": 1513,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
+      "imageWidth": 10446,
+      "imageHeight": 13522,
+      "story": "Saint John the Baptist is a High Renaissance oil painting on walnut wood by Leonardo da Vinci. Likely to have been completed between 1513 and 1516, it is believed to be his final painting. Its original size was 69 by 57 centimetres.",
+      "facts": [
+        "Leonardo's innovative depiction proved influential upon Raphael's workshop; several portraits of Saint John painted around 1517–1518 attributed to Raphael and Giulio Romano show a similarly youthful saint in isolation, with a strong contrast between the dark background and the illumination of the figure.",
+        "The work depicts the figure of John the Baptist in isolation through the use of chiaroscuro, with the figure appearing to emerge from the shadowy background."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint_John_the_Baptist_(Leonardo)",
+      "sitelinks": 35,
+      "widthCm": 57,
+      "heightCm": 69,
+      "pageviews": 69416,
+      "qid": "Q783215",
+      "imageBytes": 94507636,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg"
+      }
+    },
+    {
+      "slug": "adoration-of-the-magi-leonardo",
+      "title": "Adoration of the Magi (Leonardo)",
+      "year": 1482,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Adoration_of_the_Magi_%28Leonardo%29.jpg",
+      "imageWidth": 5256,
+      "imageHeight": 5196,
+      "story": "The Adoration of the Magi is an unfinished early painting by the Italian Renaissance artist Leonardo da Vinci. Leonardo was given the commission by the Augustinian monks of San Donato in Scopeto in Florence in 1481, but he departed for Milan the following year, leaving merely more than the preparatory underdrawing in charcoal, ink and watercolor. It has been in the Uffizi Gallery in Florence since 1670.",
+      "facts": [
+        "Owing to the painting's unfinished status in 1481, the commission was handed over to Filippino Lippi, who painted another Adoration of the Magi, completed in 1496, in substitution of the one commissioned to Leonardo.",
+        "In 2002 Maurizio Seracini, an art diagnostician alumnus of the University of California, San Diego, and a native Florentine, was commissioned by the Uffizi to undertake a study of the paint surface to determine whether the painting could be restored without damaging it.",
+        "Seracini, who heads Editech, a Florence-based company he founded in 1977 focused on the \"diagnostics of cultural heritage\", used high-resolution digital scans as well as thermographic, ultrasound, ultraviolet and infrared diagnostic techniques to study the painting in ultra-fine detail.",
+        "He concluded that the painting could not be restored without damaging it and that only the underdrawing is by Leonardo."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Leonardo)",
+      "sitelinks": 34,
+      "widthCm": 246,
+      "heightCm": 243,
+      "pageviews": 52334,
+      "qid": "Q1638622",
+      "imageBytes": 29110005,
+      "imageCredit": {
+        "author": "Justin Benttinen",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Adoration_of_the_Magi_(Leonardo).jpg"
+      }
+    },
+    {
+      "slug": "annunciation-leonardo",
+      "title": "Annunciation (Leonardo)",
+      "year": 1472,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Annunciation_%28Leonardo_c._1472%E2%80%931476%29.jpg",
+      "imageWidth": 7776,
+      "imageHeight": 3569,
+      "story": "The Annunciation is a painting by the Italian Renaissance artist Leonardo da Vinci, dated to c. 1472–1476. Leonardo's earliest extant major work, it was completed in Florence while he was an apprentice in the studio of Andrea del Verrocchio. The painting was made using oil and tempera on a large poplar panel and depicts the Annunciation, a popular biblical subject in 15th-century Florence. Since 1867 it has been housed in the Uffizi in Florence, the city where it was created. Though the work has been criticized for inaccuracies in its composition, it is among the best-known portrayals of the Annunciation in Christian art.",
+      "facts": [
+        "Since the painting was brought to the Uffizi from the Olivetan monastery San Bartolomeo, scholars have suggested that it might have been the monastery's monks who commissioned the artwork for their sacristy after the church's renovation in 1472.",
+        "Although this is the earliest known commissioned painting by Leonardo, it has been pointed out that the painting already bears characteristics that are described as demonstrating the signature innovations he introduced in his paintings: sfumato and atmospheric perspective.",
+        "Initially, it was attributed to Domenico Ghirlandaio, who, like Leonardo, studied in the workshop of Andrea del Verrocchio."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Annunciation_(Leonardo)",
+      "sitelinks": 31,
+      "widthCm": 222,
+      "heightCm": 90,
+      "pageviews": 64779,
+      "qid": "Q1217213",
+      "imageBytes": 27472586,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Annunciation_(Leonardo_c._1472%E2%80%931476).jpg"
+      }
+    },
+    {
+      "slug": "the-baptism-of-christ-verrocchio-and-leonardo",
+      "title": "The Baptism of Christ (Verrocchio and Leonardo)",
+      "year": 1475,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Baptism_of_Christ_%28Verrocchio_and_Leonardo%29.jpg",
+      "imageWidth": 5200,
+      "imageHeight": 6210,
+      "story": "The Baptism of Christ is an oil-on-panel painting finished around 1475 in the studio of the Italian Renaissance painter Andrea del Verrocchio and generally ascribed to him and his pupil Leonardo da Vinci. Some art historians discern the hands of other members of Verrocchio's workshop in the painting as well.",
+      "facts": [
+        "Verrocchio was not himself a prolific painter and very few pictures are attributed to his hand, his fame lying chiefly in his sculptured works.",
+        "According to Antonio Billi (1515), the painting was commissioned by Verrocchio's brother Don Simone, the head of the monastic Church of San Salvi around 1468."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Baptism_of_Christ_(Verrocchio_and_Leonardo)",
+      "sitelinks": 30,
+      "widthCm": 151,
+      "heightCm": 177,
+      "pageviews": 59537,
+      "qid": "Q1059211",
+      "imageBytes": 27910802,
+      "imageCredit": {
+        "author": "Andrea del Verrocchio / Leonardo da Vinci",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Baptism_of_Christ_(Verrocchio_and_Leonardo).jpg"
+      }
+    },
+    {
+      "slug": "madonna-litta",
+      "title": "Madonna Litta",
+      "year": 1490,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Leonardo_da_Vinci_attributed_-_Madonna_Litta.jpg",
+      "imageWidth": 6346,
+      "imageHeight": 8096,
+      "story": "The Madonna Litta is a late 15th-century painting, by Leonardo da Vinci, in the Hermitage Museum, Saint Petersburg. It depicts the Virgin Mary breastfeeding the Christ child, a devotional subject known as the Madonna lactans. The figures are set in a dark interior with two arched openings, as in Leonardo's earlier Madonna of the Carnation, and a mountainous landscape in aerial perspective can be seen beyond. In his left hand Christ holds a goldfinch, which is symbolic of his future Passion.",
+      "facts": [
+        "One, which is universally attributed to Leonardo, is a metalpoint drawing of a young woman's face in near profile, part of the Codex Vallardi in the Louvre.",
+        "Two other drawings, in metalpoint with white lead highlights on blue prepared paper, are attributed to a follower of Leonardo, usually considered to be Giovanni Antonio Boltraffio.",
+        "These have been attributed to Boltraffio on the basis of the Berlin drawing's similarity to other drapery studies by the artist.",
+        "A further related drawing in the Metropolitan Museum of Art, attributed to Boltraffio, is of the Virgin's face in strict profile and does not resemble the finished painting in the Hermitage."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Madonna_Litta",
+      "sitelinks": 30,
+      "widthCm": 33,
+      "heightCm": 42,
+      "pageviews": 16918,
+      "qid": "Q1327676",
+      "imageBytes": 62292852,
+      "imageCredit": {
+        "author": "Attributed to Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_attributed_-_Madonna_Litta.jpg"
+      }
+    },
+    {
+      "slug": "madonna-of-the-carnation",
+      "title": "Madonna of the Carnation",
+      "year": 1475,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/LEONARDO-DA-VINCI_-_MADONNA-MIT-DER-NELKE-7779_917154_BSTGS.jpg",
+      "imageWidth": 2229,
+      "imageHeight": 3000,
+      "story": "The Madonna of the Carnation, also known as the Madonna with Vase, Madonna with Child or Virgin with Flower, is a Renaissance oil painting by Leonardo da Vinci created around 1478–1480. It is permanently displayed at the Alte Pinakothek gallery in Munich, Germany.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Madonna_of_the_Carnation",
+      "sitelinks": 30,
+      "widthCm": 47.5,
+      "heightCm": 62,
+      "pageviews": 14060,
+      "qid": "Q698015",
+      "imageBytes": 1566030,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:LEONARDO-DA-VINCI_-_MADONNA-MIT-DER-NELKE-7779_917154_BSTGS.jpg"
+      }
+    },
+    {
+      "slug": "portrait-of-a-musician",
+      "title": "Portrait of a Musician",
+      "year": 1485,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
+      "imageWidth": 3851,
+      "imageHeight": 5055,
+      "story": "The Portrait of a Musician is an unfinished painting by the Italian Renaissance artist Leonardo da Vinci, dated to c. 1483–1487. Produced while Leonardo was in Milan, the work is painted in oils, and perhaps tempera, on a small panel of walnut wood. It is his only known male portrait painting, and the identity of its sitter has been closely debated among scholars.",
+      "facts": [
+        "The colors are faded, probably due to minor repainting and poor conservation.",
+        "Its first appearance in a 1672 catalog for the Pinacoteca Ambrosiana listed it as by Leonardo, but a 1686 inventory of the collection attributed it to Bernardino Luini.",
+        "In 1798, the Ambrosiana attributed the portrait to the \"school of Luini\", but it was soon relisted as by Leonardo.",
+        "This was accepted until the 20th century, when scholars believed it to be a pendant to the Portrait of a Lady in the Ambrosiana, now attributed to Giovanni Ambrogio de Predis but at the time thought to be a portrait by Leonardo of Beatrice d'Este, Ludovico's wife."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Musician",
+      "sitelinks": 28,
+      "widthCm": 31,
+      "heightCm": 43,
+      "pageviews": 18814,
+      "qid": "Q2338404",
+      "imageBytes": 12706220,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg"
+      }
+    },
+    {
+      "slug": "the-battle-of-anghiari-leonardo",
+      "title": "The Battle of Anghiari (Leonardo)",
+      "year": 1503,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg",
+      "imageWidth": 1179,
+      "imageHeight": 857,
+      "story": "The Battle of Anghiari is a lost fresco painting by Leonardo da Vinci in the Salone dei Cinquecento in the Palazzo Vecchio, Florence. Its central scene would have depicted four men riding raging war horses engaged in a struggle for possession of a standard at the Battle of Anghiari in 1440.",
+      "facts": [
+        "He was invited back to Rome in 1505 by the newly appointed Pope Julius II and was commissioned to build the Pope's tomb.",
+        "This painting was to be his largest and most substantial work.",
+        "Maurizio Seracini, an Italian expert in high-technology art analysis, believes that Leonardo's Anghiari is hidden behind Vasari's Battle of Marciano in Val di Chiana (1572).",
+        "These enigmatic words are suggested to be a hint from Vasari, who had praised The Battle of Anghiari highly in his writings, incomplete and damaged as it was."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Battle_of_Anghiari_(Leonardo)",
+      "sitelinks": 26,
+      "widthCm": null,
+      "heightCm": 42.8,
+      "pageviews": 44152,
+      "qid": "Q2045726",
+      "imageBytes": 232922,
+      "imageCredit": {
+        "author": "Peter Paul Rubens / After Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Ruben's_copy_of_the_lost_Battle_of_Anghiari.jpg"
+      }
+    },
+    {
+      "slug": "saint-jerome-in-the-wilderness-leonardo",
+      "title": "Saint Jerome in the Wilderness (Leonardo)",
+      "year": 1480,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Leonardo_da_Vinci_%E2%80%94_Jerome.jpg",
+      "imageWidth": 2763,
+      "imageHeight": 3896,
+      "story": "Saint Jerome in the Wilderness is an unfinished painting by the Italian Renaissance artist Leonardo da Vinci, dated c. 1480–1490. A recent study linked to the Lady with an Ermine carried out by Leonardo da Vinci at the same time supports this hypothesis. The composition of the painting has been drafted in monochrome onto the primed wooden panel. At an unknown date after Leonardo's death, the panel was cut into five pieces before eventually being restored into its original form.",
+      "facts": [
+        "Until recently accounts of its discovery were based on different variants of a popular legend, according to which the cardinal would have discovered the part of the panel with the saint's torso serving as a table top or box lid in a shop in Rome.",
+        "The four straight incisions he made in order to accomplish this shocking act of vandalism are still evident in images taken with the use of infrared reflectography.",
+        "He rushed home to his residence at the Palazzo Falconieri, brought the head to the mentioned antiques shop, and to his delight discovered that the two pieces fitted together exactly.",
+        "Having purchased the headless panel, the cardinal had the picture reassembled and restored to cover up the marks left after the incisions."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint_Jerome_in_the_Wilderness_(Leonardo)",
+      "sitelinks": 24,
+      "widthCm": 75,
+      "heightCm": 103,
+      "pageviews": 26030,
+      "qid": "Q972196",
+      "imageBytes": 12141030,
+      "imageCredit": {
+        "author": "Gleb Simonov",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_%E2%80%94_Jerome.jpg"
+      }
+    },
+    {
+      "slug": "leda-and-the-swan-leonardo",
+      "title": "Leda and the Swan (Leonardo)",
+      "year": 1510,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Study_for_the_Kneeling_Leda.jpg",
+      "imageWidth": 1746,
+      "imageHeight": 2000,
+      "story": "The story of Leda and the Swan was the subject of two compositions by Leonardo da Vinci from perhaps 1503–1510. Neither survive as paintings by Leonardo, but there are a number of drawings for both by him, and copies in oils, especially of the second composition, where Leda stands.",
+      "facts": [
+        "A completed copy of Kneeling Leda with her Children by Giampietrino is kept at the Museumslandschaft Hessen Kassel, Gemäldegalerie Alte Meister, Kassel (c.",
+        "Unfortunately the picture is in a bad state because it is done on three long panels which have split apart and broken off a certain amount of paint."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leda_and_the_Swan_(Leonardo)",
+      "sitelinks": 19,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 24975,
+      "qid": "Q2308934",
+      "imageBytes": 1988296,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Study_for_the_Kneeling_Leda.jpg"
+      }
+    },
+    {
+      "slug": "la-scapigliata",
+      "title": "La Scapigliata",
+      "year": 1506,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Leonardo_da_vinci_-_La_scapigliata.jpg",
+      "imageWidth": 2432,
+      "imageHeight": 3648,
+      "story": "La Scapigliata is an unfinished painting generally attributed to the Italian High Renaissance artist Leonardo da Vinci, and dated c. 1506–1508. Painted in oil, umber, and white lead pigments on a small poplar wood panel, its attribution remains controversial, with several experts attributing the work to a pupil of Leonardo. The painting has been admired for its captivating beauty, mysterious demeanor, and mastery of sfumato.",
+      "facts": [
+        "In 1896 Corrado Ricci, director of the Galleria Nazionale, claimed that it had been forged by its former owner, Gaetano Callani, which caused it to be re-attributed as \"by the school of Leonardo\".",
+        "1500–1505, since she believes that Leonardo was commissioned by Agostino Vespucci at this time.",
+        "A more widely accepted theory is that the work was commissioned by a known patron of Leonardo and a member of the Gonzaga family of Mantua, Isabella d'Este.",
+        "Another inventory from 1627 likely refers to La Scapigliata and is likely to be the origin of the nickname for the painting since the record describes it as follows: \"A painting depicts the head of a dishevelled woman..."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Scapigliata",
+      "sitelinks": 16,
+      "widthCm": 21,
+      "heightCm": 24.6,
+      "pageviews": 31340,
+      "qid": "Q797902",
+      "imageBytes": 1880083,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci_-_La_scapigliata.jpg"
+      }
+    },
+    {
+      "slug": "sala-delle-asse",
+      "title": "Sala delle Asse",
+      "year": 1498,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/6.2_2012.01-02_Haltadefinizione_Volta_50x50_-_300_ppi.jpg",
+      "imageWidth": 5906,
+      "imageHeight": 5913,
+      "story": "The Sala delle Asse, is a large room in the Castello Sforzesco in Milan, the location of a painting in tempera on plaster by Leonardo da Vinci, dating from about 1498. Its walls and vaulted ceiling are decorated with \"intertwining plants with fruits and monochromes of roots and rocks\" and a canopy created by sixteen trees.",
+      "facts": [
+        "Within the restoration, in 1893, some traces of the original paint were detected below the white surface covering the room.",
+        "Beltrami found the proper financing (mostly from private sources) and selected Ernesto Rusca for a restoration of Sala delle Asse.",
+        "In 1902, visitors could see the result of this restoration: a wonderful depiction of trunks on the walls and a canopy of branches and leaves on the ceiling.",
+        "In addition, the lack of photographic documentation of the room's situation during the restoration raised suspicions."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sala_delle_Asse",
+      "sitelinks": 10,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 32420,
+      "qid": "Q3800774",
+      "imageBytes": 45544898,
+      "imageCredit": {
+        "author": "Hoclab",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:6.2_2012.01-02_Haltadefinizione_Volta_50x50_-_300_ppi.jpg"
+      }
+    },
+    {
+      "slug": "leda-and-the-swan-uffizi",
+      "title": "Leda and the Swan (Uffizi)",
+      "year": 1505,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Leda_Melzi_Uffizi.jpg",
+      "imageWidth": 1500,
+      "imageHeight": 2519,
+      "story": "Leda and the Swan is a c.1505-1507 oil and resin on panel painting by a painter in the circle of Leonardo da Vinci. It may have originated in the Gualtieri Collection in L'Aquila and passed through various others before being acquired from the Spiridon Collection in 1989 by its present owner, the Uffizi.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leda_and_the_Swan_(Uffizi)",
+      "sitelinks": 9,
+      "widthCm": 77.5,
+      "heightCm": 130,
+      "pageviews": 5871,
+      "qid": "Q3829345",
+      "imageBytes": 819162,
+      "imageCredit": {
+        "author": "Francesco Melzi",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leda_Melzi_Uffizi.jpg"
+      }
+    },
+    {
+      "slug": "lucan-portrait-of-leonardo-da-vinci",
+      "title": "Lucan portrait of Leonardo da Vinci",
+      "year": 1505,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Leonardo_da_Vinci_LUCAN_Hohenstatt_1_portrait.jpg",
+      "imageWidth": 500,
+      "imageHeight": 709,
+      "story": "The Lucan portrait of Leonardo da Vinci is a late 15th- or early 16th-century portrait of a man. The picture was discovered in 2008 in a cupboard of a private house in Italy.",
+      "facts": [
+        "The image on the panel is painted using a mixture of egg and oil as a medium over a ground of white gesso, which is visible in damaged areas and on parts of the back of the panel.",
+        "Altissimo executed numerous portraits of famous men for Cosimo I de' Medici, Grand Duke of Tuscany, some of them after the Giovio Series, including a profile of Leonardo based on the red chalk profile drawing in the Royal Collection attributed to Leonardo's companion Francesco Melzi.",
+        "Terrasi, researched the physical properties of the painting, including the ground, medium, and pigments, and identifying restored areas.",
+        "It is attributed to Leonardo by art historian Peter Hohenstatt (University of Parma)."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucan_portrait_of_Leonardo_da_Vinci",
+      "sitelinks": 9,
+      "widthCm": 44,
+      "heightCm": 60,
+      "pageviews": 9619,
+      "qid": "Q6696013",
+      "imageBytes": 170633,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_LUCAN_Hohenstatt_1_portrait.jpg"
+      }
+    },
+    {
+      "slug": "tavola-doria",
+      "title": "Tavola Doria",
+      "year": 1503,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/La_Battaglia_di_Anghiari_di_Leonardo.jpg",
+      "imageWidth": 946,
+      "imageHeight": 701,
+      "story": "\nLa Tavola Doria is a painting depicting the central part of the famous mural painting of the Battle of Anghiari by Leonardo Da Vinci, created between 1503 and 1505.",
+      "facts": [
+        "In 1939, it was put up for auction by the Doria family, who had owned it since 1621.",
+        "It reappeared in Munich in the 1960s, a town known for having served as a hiding place for works looted by the Nazis from Jewish families."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tavola_Doria",
+      "sitelinks": 6,
+      "widthCm": 115,
+      "heightCm": 86,
+      "pageviews": 571,
+      "qid": "Q2397593",
+      "imageBytes": 323661,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:La_Battaglia_di_Anghiari_di_Leonardo.jpg"
+      }
+    },
+    {
+      "slug": "head-of-christ-leonardo",
+      "title": "Head of Christ (Leonardo)",
+      "year": 1494,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Leonardo%2C_testa_di_cristo%2C_1494_circa%2C_pinacoteca_di_brera.jpg",
+      "imageWidth": 1631,
+      "imageHeight": 2064,
+      "story": "Head of Christ is a c.1494 chalk and pastel study by Leonardo da Vinci for his The Last Supper. It measures 40 by 32 cm and is now in the Pinacoteca di Brera.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Head_of_Christ_(Leonardo)",
+      "sitelinks": 4,
+      "widthCm": 32,
+      "heightCm": 40,
+      "pageviews": 1950,
+      "qid": "Q3985169",
+      "imageBytes": 2771148,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo,_testa_di_cristo,_1494_circa,_pinacoteca_di_brera.jpg"
+      }
+    },
+    {
+      "slug": "mona-lisa",
+      "title": "Mona Lisa",
+      "year": 1503,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg",
+      "imageWidth": 2835,
+      "imageHeight": 4289,
+      "story": "The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it has been described as \"the best known, the most visited, the most written about, the most sung about, [and] the most parodied work of art in the world\". The painting's novel qualities include the subject's enigmatic expression, the monumentality of the composition, the subtle modelling of forms, and the atmospheric illusionism.",
+      "facts": [
+        "The painting is thought to have been commissioned for their new home, and to celebrate the birth of their second son, Andrea.",
+        "That Leonardo painted such a work, and its date, were confirmed in 2005 when a scholar at Heidelberg University discovered a marginal note in a 1477 printing of a volume by ancient Roman philosopher Cicero.",
+        "Cotte discovered that the painting had been reworked several times, with changes made to the size of the face and the direction of gaze.",
+        "He also found that in one layer the subject was depicted wearing numerous hairpins and a headdress adorned with pearls which was later scrubbed out and overpainted."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mona_Lisa",
+      "sitelinks": 146,
+      "widthCm": 53.4,
+      "heightCm": 79.4,
+      "pageviews": 1936861,
+      "qid": "Q12418",
+      "imageBytes": 3506068,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Mona_Lisa.jpg"
+      }
+    },
+    {
+      "slug": "the-last-supper-leonardo",
+      "title": "The Last Supper (Leonardo)",
+      "year": 1495,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg",
+      "imageWidth": 9600,
+      "imageHeight": 4800,
+      "story": "The Last Supper is a mural painting by the Italian High Renaissance artist Leonardo da Vinci, dated to c. 1495–1498, housed in the refectory of the Convent of Santa Maria delle Grazie in Milan, Italy. The painting represents the scene of the Last Supper of Jesus with the Twelve Apostles, as it is told in the Gospel of John – specifically the moment after Jesus announces that one of his apostles will betray him. Its handling of space, mastery of perspective, treatment of motion and complex display of human emotion has made it one of the Western world's most recognizable paintings and among Leonardo's most celebrated works. Some commentators consider it pivotal in inaugurating the transition into what is now termed the High Renaissance.",
+      "facts": [
+        "The painting was commissioned by Sforza to decorate the wall of the mausoleum.",
+        "A first restoration was attempted in 1726 by Michelangelo Bellotti, who filled in missing sections with oil paint then varnished the whole mural.",
+        "This repair did not last well and another restoration was attempted in 1770 by an otherwise unknown artist named Giuseppe Mazza.",
+        "Later, the refectory was used as a prison; although it is not known if any of the prisoners may have damaged the painting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)",
+      "sitelinks": 88,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1002159,
+      "qid": "Q128910",
+      "imageBytes": 42764118,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg"
+      }
+    },
+    {
+      "slug": "the-virgin-and-child-with-saint-anne-leonardo",
+      "title": "The Virgin and Child with Saint Anne (Leonardo)",
+      "year": 1501,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sainte_Anne_Leonard.jpg",
+      "imageWidth": 5565,
+      "imageHeight": 7359,
+      "story": "The Virgin and Child with Saint Anne is an unfinished oil painting by High Renaissance artist Leonardo da Vinci, dated to c. 1501–1519. It depicts Saint Anne, her daughter the Virgin Mary and the infant Jesus. Christ is shown grasping a sacrificial lamb symbolizing his Passion. The painting was commissioned as the high altarpiece for the Church of Santissima Annunziata in Florence and its theme had long preoccupied Leonardo.",
+      "facts": [
+        "It is likely that the painting was commissioned by King Louis XII of France following the birth of his daughter in 1499, but never delivered to him.",
+        "In 2008, a curator at the Louvre discovered several faint sketches believed to have been made by Leonardo on the back of the painting.",
+        "Infrared reflectography was used to reveal a \"7–by–4 inch drawing of a horse's head\", which had a resemblance to sketches of horses that Leonardo had made previously before drawing The Battle of Anghiari.",
+        "The drawings will be further studied by a group of experts as the painting undergoes restoration."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Virgin_and_Child_with_Saint_Anne_(Leonardo)",
+      "sitelinks": 39,
+      "widthCm": 130,
+      "heightCm": 168,
+      "pageviews": 52298,
+      "qid": "Q563727",
+      "imageBytes": 8207390,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Sainte_Anne_Leonard.jpg"
+      }
+    },
+    {
+      "slug": "la-belle-ferronniere",
+      "title": "La Belle Ferronnière",
+      "year": 1495,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg",
+      "imageWidth": 2758,
+      "imageHeight": 4000,
+      "story": "La Belle Ferronnière is a portrait painting of a lady, by Leonardo da Vinci, in the Louvre. It is also known as Portrait of an Unknown Woman. The painting's title, applied as early as the seventeenth century, identifying the sitter as the wife or daughter of an ironmonger, was said to be discreetly alluding to a reputed mistress of Francis I of France, married to a certain Le Ferron. Later she was tentatively identified as Lucretia Crivelli, a married lady-in-waiting to Duchess Beatrice of Milan, who became another of the Duke's mistresses.",
+      "facts": [
+        "Bernard Berenson attributed this portrait to Bernardino de' Conti.",
+        "Although the model of the painting La Belle Ferronnière is still shrouded in mystery, the landmark exhibition \"Leonardo Da Vinci: Painter at the Court of Milan\" (National Gallery, London, 9 Nov."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Belle_Ferronni%C3%A8re",
+      "sitelinks": 35,
+      "widthCm": 45,
+      "heightCm": 63,
+      "pageviews": 43727,
+      "qid": "Q656434",
+      "imageBytes": 1753111,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg"
+      }
+    },
+    {
+      "slug": "la-bella-principessa",
+      "title": "La Bella Principessa",
+      "year": 1495,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Profile_of_a_Young_Fiancee_-_da_Vinci.jpg",
+      "imageWidth": 3057,
+      "imageHeight": 4134,
+      "story": "La Bella Principessa, also known as Portrait of Bianca Sforza, Young Girl in Profile in Renaissance Dress and Portrait of a Young Fiancée, is a portrait in coloured chalks and ink, on vellum, of a young lady in fashionable costume and hairstyle of a Milanese of the 1490s. Some scholars have attributed it to Leonardo da Vinci but the attribution and the work's authenticity have been disputed. Supporters of the theory that it was by Leonardo have proposed that Bianca Giovanna Sforza, illegitimate daughter of Ludovico Sforza is the woman depicted in the drawing.",
+      "facts": [
+        "There are signs of restoration with thin paint applied with a brush.",
+        "It was sold for $21,850 (including buyer's premium) to a New York art dealer who sold it on for a similar amount in 2007.",
+        "Peter Silverman believed that the portrait was possibly from an older period, potentially dating back to the Renaissance period, and sought the opinions of experts who have since attributed it to Leonardo da Vinci.",
+        "The drawing was shown as a Leonardo in a 2010 exhibition called And there was Light in Eriksberg, Gothenburg, in Sweden, and was estimated by various newspaper reports to be worth more than $160 million."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Bella_Principessa",
+      "sitelinks": 19,
+      "widthCm": 24,
+      "heightCm": 33,
+      "pageviews": 12557,
+      "qid": "Q2072801",
+      "imageBytes": 13627292,
+      "imageCredit": {
+        "author": "Attributed to Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Profile_of_a_Young_Fiancee_-_da_Vinci.jpg"
+      }
+    },
+    {
+      "slug": "isleworth-mona-lisa",
+      "title": "Isleworth Mona Lisa",
+      "year": 1502,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Isleworthml.JPG",
+      "imageWidth": 4193,
+      "imageHeight": 5480,
+      "story": "The Isleworth Mona Lisa is an early 16th-century oil on canvas painting depicting the same subject as Leonardo da Vinci's Mona Lisa, though with the subject depicted as being a younger age. The painting is thought to have been brought from Italy to England in the 1780s, and came into public view in 1913 when the English connoisseur Hugh Blaker acquired it shortly after it had been sold from Montacute House, where it was thought to have been hanging for over a century. The painting would eventually adopt its unofficial name of Isleworth Mona Lisa from Blaker's studio being in Isleworth, West London. Since the 1910s, experts in various fields, as well as the collectors who have acquired ownership of the painting, have asserted that the major elements of the painting are the work of Leonardo himself, as an earlier version of the Mona Lisa.",
+      "facts": [
+        "The Louvre picture, whether from cleaning or some other cause, shows a bulge over the left eye which is anatomically impossible—a blemish which is absent in the newly discovered version, while the line of the jaw is not cut in so suddenly against the chin.",
+        "The record of an October 1517 visit by Luigi d'Aragon states that the Mona Lisa was executed for Giuliano de' Medici, Leonardo's patron at the Belvedere Palace between 1513 and 1516—though this has been suspected an error.",
+        "In view of this, Vincent Delieuvin, curator of 16th-century Italian painting at the Louvre, states that the sketch and these other copies must have been inspired by another version, while Zöllner states that the sketch may be after another Leonardo portrait of the same subject.",
+        "The hypothetical first portrait, displaying prominent columns, would have been commissioned by Giocondo circa 1503, and left unfinished in Leonardo's pupil and assistant Salaì's possession until his death in 1524."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isleworth_Mona_Lisa",
+      "sitelinks": 12,
+      "widthCm": null,
+      "heightCm": 86,
+      "pageviews": 49563,
+      "qid": "Q4390923",
+      "imageBytes": 5454055,
+      "imageCredit": {
+        "author": "Attributed to Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Isleworthml.JPG"
+      }
+    },
+    {
+      "slug": "the-holy-infants-embracing",
+      "title": "The Holy Infants Embracing",
+      "year": 1486,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Leonardo_da_Vinci_%28attrib%29_-_The_Holy_Infants.jpg",
+      "imageWidth": 780,
+      "imageHeight": 651,
+      "story": "The Holy Infants Embracing is a painting by Leonardo da Vinci. It represents the infant Christ embracing his cousin John the Baptist. The subject matter relates to the two paintings of the Virgin of the Rocks by Leonardo and numerous other Renaissance works by Raphael and others of the meeting of the two children on the road to Egypt while escaping the Massacre of the Innocents.",
+      "facts": [
+        "Other copies by artist are held also at Naples and Vienna, sold at various auction houses recently.",
+        "The subject of two Infants kissing was an inspirational source of quite a few (about thirty) copies of pupils and followers of Leonardo da Vinci."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Holy_Infants_Embracing",
+      "sitelinks": 5,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 2375,
+      "qid": "Q5237905",
+      "imageBytes": 254460,
+      "imageCredit": {
+        "author": "After Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_(attrib)_-_The_Holy_Infants.jpg"
+      }
+    },
+    {
+      "slug": "virgin-of-the-rocks-q11935346",
+      "title": "Virgin of the Rocks",
+      "year": 1482,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Leonardo_Da_Vinci_-_Vergine_delle_Rocce_%28Louvre%29.jpg",
+      "imageWidth": 3460,
+      "imageHeight": 5487,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 7,
+      "widthCm": 122,
+      "heightCm": 199,
+      "pageviews": null,
+      "qid": "Q11935346",
+      "imageBytes": 7057896,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_Da_Vinci_-_Vergine_delle_Rocce_(Louvre).jpg"
+      }
+    },
+    {
+      "slug": "madonna-of-the-yarnwinder-q27970282",
+      "title": "Madonna of the Yarnwinder",
+      "year": 1501,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Leonardo_da_Vinci%2C_Madonna_of_the_Yarnwinder%2C_Buccleuch_version.jpg",
+      "imageWidth": 903,
+      "imageHeight": 1157,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 36.9,
+      "heightCm": 48.3,
+      "pageviews": null,
+      "qid": "Q27970282",
+      "imageBytes": 119148,
+      "imageCredit": {
+        "author": "School of Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci,_Madonna_of_the_Yarnwinder,_Buccleuch_version.jpg"
+      }
+    },
+    {
+      "slug": "medusa-leonardo",
+      "title": "Medusa (Leonardo)",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Medusa_uffizi.jpg",
+      "imageWidth": 1280,
+      "imageHeight": 809,
+      "story": "\nMedusa is either of two paintings described in Giorgio Vasari's Life of Leonardo da Vinci as being among Leonardo's earliest works. Neither painting survived.",
+      "facts": [
+        "Thereupon, having had it taken to Florence, without saying a word to Leonardo as to whose it was, he asked him to paint something upon it.",
+        "Leonardo, having one day taken this buckler in his hands, and seeing it twisted, badly made, and clumsy, straightened it by the fire, and, having given it to a turner, from the rude and clumsy thing that it was, caused it to be made smooth and even."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Medusa_(Leonardo)",
+      "sitelinks": 10,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 11788,
+      "qid": "Q3492887",
+      "imageBytes": 175486,
+      "imageCredit": {
+        "author": "anonymous",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Medusa_uffizi.jpg"
+      }
+    },
+    {
+      "slug": "madonna-and-child-with-the-infant-saint-john-the-baptist-leonardo",
+      "title": "Madonna and Child with the Infant Saint John the Baptist (Leonardo)",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Leonardo_da_Vinci_The_Madonna_and_Child_with_the_Infant_Saint_John_the_Baptist.jpg",
+      "imageWidth": 821,
+      "imageHeight": 1179,
+      "story": "The Madonna and Child with the Infant Saint John the Baptist is a lost composition by Leonardo da Vinci. The composition is known through a handful of paintings attributed to artists in Leonardo's circle. An original underdrawing by Leonardo may be preserved in a version in a private collection in Moscow, Russia.",
+      "facts": [
+        "In 1930, Tancred Borenius attributed the Ashmolean version to Leonardo.",
+        "The painting depicts the Virgin Mary with arms outstretched and the infant Christ embracing a lamb."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Madonna_and_Child_with_the_Infant_Saint_John_the_Baptist_(Leonardo)",
+      "sitelinks": 0,
+      "widthCm": 50.5,
+      "heightCm": 71.8,
+      "pageviews": 3830,
+      "qid": "Q20087448",
+      "imageBytes": 1110545,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_The_Madonna_and_Child_with_the_Infant_Saint_John_the_Baptist.jpg"
+      }
+    },
+    {
+      "slug": "altarpiece-in-the-chapel-of-the-immaculate-conception",
+      "title": "Altarpiece in the Chapel of the Immaculate Conception",
+      "year": 1480,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sch%C3%A9ma_retable_Immacul%C3%A9e_Conception.png",
+      "imageWidth": 708,
+      "imageHeight": 684,
+      "story": "The altarpiece in the Chapel of the Immaculate Conception in the Church of San Francesco Grande, Milan, was an altarpiece built between 1480 and 1482, decorated between 1483 and 1508, and dismantled in the early 19th century.",
+      "facts": [
+        "On April 8, 1480, the wooden structure was commissioned from the sculptor Giacomo del Maino.",
+        "However, after the painting was rejected by the brotherhood, Leonardo da Vinci and Ambrogio de Predis sold it to a third party - perhaps Ludovico Sforza (Ludovico el Moro) - around 1493, with the commissioner's agreement.",
+        "Nevertheless, Leonardo's proposal was deemed heterodox by the brotherhood, who rejected it and asked for a second one."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Altarpiece_in_the_Chapel_of_the_Immaculate_Conception",
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 5332,
+      "qid": "Q60400364",
+      "imageBytes": 285121,
+      "imageCredit": {
+        "author": "Crijam",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Sch%C3%A9ma_retable_Immacul%C3%A9e_Conception.png"
+      }
+    },
+    {
+      "slug": "annunciation-q3618186",
+      "title": "Annunciation",
+      "year": 1475,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/L%27Annonciation%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+      "imageWidth": 18917,
+      "imageHeight": 4388,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 8,
+      "widthCm": 60,
+      "heightCm": 16,
+      "pageviews": null,
+      "qid": "Q3618186",
+      "imageBytes": 64391154,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:L'Annonciation,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg"
+      }
+    },
+    {
+      "slug": "virgin-of-the-rocks-q4009972",
+      "title": "Virgin of the Rocks",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Leonardo_da_Vinci_Virgin_of_the_Rocks_%28National_Gallery_London%29.jpg",
+      "imageWidth": 2692,
+      "imageHeight": 4150,
+      "story": "The Virgin with the Infant Saint John the Baptist adoring the Christ Child accompanied by an Angel. In this second version Mary and Jesus are depicted with a halo and John the Baptist with the cross",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 3,
+      "widthCm": 120,
+      "heightCm": 189.5,
+      "pageviews": null,
+      "qid": "Q4009972",
+      "imageBytes": 1492882,
+      "imageCredit": {
+        "author": "Leonardo da Vinci and workshop",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_Virgin_of_the_Rocks_(National_Gallery_London).jpg"
+      }
+    },
+    {
+      "slug": "madonna-and-child-with-saint-anne-in-a-landscape-q123838188",
+      "title": "Madonna and Child with Saint Anne in a Landscape",
+      "year": 1508,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Madonna_and_Child_with_Saint_Anne_in_a_Landscape%2C_Worshop_of_Leonardo_da_Vinci%2C_Possibly_by_Gian_Giacomo_Caprotti_%28Getty_Center%29_-_no_frame.jpg",
+      "imageWidth": 2234,
+      "imageHeight": 3521,
+      "story": "Madonna and Child with Saint Anne in a Landscape, Worshop of Leonardo da Vinci, Possibly by Gian Giacomo Caprotti (Getty Center).",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q123838188",
+      "imageBytes": 2055671,
+      "imageCredit": {
+        "author": "Alexis Doine",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "page": "https://commons.wikimedia.org/wiki/File:Madonna_and_Child_with_Saint_Anne_in_a_Landscape,_Worshop_of_Leonardo_da_Vinci,_Possibly_by_Gian_Giacomo_Caprotti_(Getty_Center)_-_no_frame.jpg"
+      }
+    },
+    {
+      "slug": "madonna-of-the-yarnwinder-q56280397",
+      "title": "Madonna of the Yarnwinder",
+      "year": 1510,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Madonna_of_the_Yarnwinder.jpg",
+      "imageWidth": 2112,
+      "imageHeight": 2749,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 36.4,
+      "heightCm": 50.2,
+      "pageviews": null,
+      "qid": "Q56280397",
+      "imageBytes": 2582238,
+      "imageCredit": {
+        "author": "Leonardo da Vinci and workshop",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Madonna_of_the_Yarnwinder.jpg"
+      }
+    },
+    {
+      "slug": "saint-john-the-baptist-q119499276",
+      "title": "Saint John the Baptist",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Leonardo_da_Vinci_%281452-1519%29_%28studio_of%29_-_St_John_the_Baptist_-_WA1937.102_-_Ashmolean_Museum.jpg",
+      "imageWidth": 665,
+      "imageHeight": 944,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 53.4,
+      "heightCm": 75,
+      "pageviews": null,
+      "qid": "Q119499276",
+      "imageBytes": 56015,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_(1452-1519)_(studio_of)_-_St_John_the_Baptist_-_WA1937.102_-_Ashmolean_Museum.jpg"
+      }
+    },
+    {
+      "slug": "a-miracle-of-saint-donatus-of-arezzo-q79052262",
+      "title": "A Miracle of Saint Donatus of Arezzo",
+      "year": 1475,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Attributed_to_Leonardo_da_Vinci_and_Lorenzo_di_Credi_A_Miracle_of_Saint_Donatus_of_Arezzo_1475-1479.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 507,
+      "story": "These panels once formed part of a predella, or lower portion of an altarpiece, made for the cathedral of Pistoia in central Italy. The subject of the present panel is Saint Donato, who proved the innocence of a tax collector falsely accused of theft. The saint is shown assisting the man in locating the money that his deceased wife had hidden for safekeeping. Saint Donato appears also in the main panel of the Pistoia altarpiece, which was commissioned in memory of Bishop Donato de'Medici.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q79052262",
+      "imageBytes": 543313,
+      "imageCredit": {
+        "author": "Attributed to Leonardo da Vinci and Lorenzo di Credi",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Attributed_to_Leonardo_da_Vinci_and_Lorenzo_di_Credi_A_Miracle_of_Saint_Donatus_of_Arezzo_1475-1479.jpg"
+      }
+    },
+    {
+      "slug": "christ-carrying-the-cross-q12730109",
+      "title": "Christ Carrying the Cross",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Leonardo_da_Vinci_%28attrib%29_-_Christ_carrying_the_Cross.jpg",
+      "imageWidth": 1359,
+      "imageHeight": 1597,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q12730109",
+      "imageBytes": 2020503,
+      "imageCredit": {
+        "author": "Attributed to Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_(attrib)_-_Christ_carrying_the_Cross.jpg"
+      }
+    },
+    {
+      "slug": "codex-atlanticus-f0033-q131414918",
+      "title": "Codex Atlanticus (F0033)",
+      "year": 1485,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Leonardo_da_Vinci_-_Ambrosiana-Codice-Atlantico-Codex-Atlanticus-f-33-recto.jpg",
+      "imageWidth": 2000,
+      "imageHeight": 1117,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q131414918",
+      "imageBytes": 98509,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Ambrosiana-Codice-Atlantico-Codex-Atlanticus-f-33-recto.jpg"
+      }
+    },
+    {
+      "slug": "three-lunettes-above-the-last-supper-q105338178",
+      "title": "Three lunettes above the Last Supper",
+      "year": 1519,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Three_lunettes_above_the_Last_Supper.jpg",
+      "imageWidth": 1643,
+      "imageHeight": 355,
+      "story": "Leonardo da Vinci, Three lunettes above the Last Supper. Tempera and oil on plaster, width at base 335 cm (central lunette) and 225 cm left- and right-hand lunettes). Milan, Santa Maria delle Grazie, north wall of the refectory. (Zöllner, Frank (2011), Leonardo da Vinci, 1452–1519: Volume I—The Complete Paintings, Taschen, p. 232)",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q105338178",
+      "imageBytes": 498283,
+      "imageCredit": {
+        "author": "see filename or category",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Three_lunettes_above_the_Last_Supper.jpg"
+      }
+    },
+    {
+      "slug": "the-virgin-with-the-child-with-cherries-and-a-cherry-tree-in-the-background-q119840740",
+      "title": "The Virgin with the Child, with Cherries and a Cherry Tree in the Background",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Leonardo_da_Vinci_%281452-1519%29_%28school_of%29_-_The_Virgin_with_the_Child%2C_with_Cherries_and_a_Cherry_Tree_in_the_Background_-_JBS_54_-_Christ_Church.jpg",
+      "imageWidth": 620,
+      "imageHeight": 800,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 65.9,
+      "heightCm": 86,
+      "pageviews": null,
+      "qid": "Q119840740",
+      "imageBytes": 61995,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_(1452-1519)_(school_of)_-_The_Virgin_with_the_Child,_with_Cherries_and_a_Cherry_Tree_in_the_Background_-_JBS_54_-_Christ_Church.jpg"
+      }
+    },
+    {
+      "slug": "the-last-supper-q119891464",
+      "title": "The Last Supper",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Leonardo_da_Vinci_%281452-1519%29_%28copy_after%29_-_The_Last_Supper_-_PCF31_-_Harris_Manchester_College.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 632,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 138.5,
+      "heightCm": 61,
+      "pageviews": null,
+      "qid": "Q119891464",
+      "imageBytes": 91229,
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_(1452-1519)_(copy_after)_-_The_Last_Supper_-_PCF31_-_Harris_Manchester_College.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

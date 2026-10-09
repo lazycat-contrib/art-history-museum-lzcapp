@@ -1,0 +1,162 @@
+{
+  "slug": "ustad-mansur",
+  "periodSlug": "indian-painting",
+  "name": "Ustad Mansur",
+  "wikiTitle": "Ustad Mansur",
+  "qid": "Q2502664",
+  "birthYear": 1501,
+  "deathYear": 1625,
+  "tagline": "Mughal painter and court artist (died 1624)",
+  "bio": "Ustad Mansur was a seventeenth-century Indian painter and naturalist who served as a Mughal court artist. During this period, he excelled at depicting plants and animals, was the earliest artist to depict the dodo in colour, and was the first to illustrate the Siberian crane. Towards the end of Akbar's reign, he gained the title of ustad (master) and during the reign of Mughal Emperor Jahangir his masterpieces earned him the title of Nãdir-al-’Asr. Although he was largely known for his natural history illustrations, he also portrayed people in various manuscript illustrations.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ustad_Mansur_Chameleon.jpg",
+  "portraitWidth": 1500,
+  "portraitHeight": 1193,
+  "portraitCredit": {
+    "author": "Ustad Mansur",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Ustad_Mansur_Chameleon.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ustad_Mansur",
+  "paintings": [
+    {
+      "slug": "a-chameleon-q114962840",
+      "title": "A Chameleon",
+      "year": 1612,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ustad_Mansur_Chameleon.jpg",
+      "imageWidth": 1500,
+      "imageHeight": 1193,
+      "story": "A work by the 17th century Mughal natural artist Ustad Mansur. From the British Royal Collection. Assumed to be a Flap-necked Chameleon or possibly Indian chameleon on account of the highly detailed view showing a the feet of the animal where each foot exhibits fused digits in opposed groups, a lighter band by the edge of the mouth, and a line of white scales on the underside of the belly. [ 1 ]",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 13.8,
+      "heightCm": 11,
+      "pageviews": null,
+      "qid": "Q114962840",
+      "imageBytes": 572792,
+      "imageCredit": {
+        "author": "Ustad Mansur",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Ustad_Mansur_Chameleon.jpg"
+      }
+    },
+    {
+      "slug": "jurra-q115207206",
+      "title": "Jurra",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Peregrine_Falcon_on_Perch_%28CSMVS_15.302%29.jpg",
+      "imageWidth": 2751,
+      "imageHeight": 3966,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 22.6,
+      "heightCm": 32.9,
+      "pageviews": null,
+      "qid": "Q115207206",
+      "imageBytes": 5863198,
+      "imageCredit": {
+        "author": "Ustad Mansur",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Peregrine_Falcon_on_Perch_(CSMVS_15.302).jpg"
+      }
+    },
+    {
+      "slug": "busterd-q120661768",
+      "title": "Busterd",
+      "year": 1610,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Busterd.jpg",
+      "imageWidth": 3184,
+      "imageHeight": 4880,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 25.2,
+      "heightCm": 38,
+      "pageviews": null,
+      "qid": "Q120661768",
+      "imageBytes": 9309146,
+      "imageCredit": {
+        "author": "Sneharshidasgupta",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Busterd.jpg"
+      }
+    },
+    {
+      "slug": "siberian-crane-q120662143",
+      "title": "Siberian Crane",
+      "year": 1610,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Siberian_Crane_Mughal_Painting.jpg",
+      "imageWidth": 3104,
+      "imageHeight": 4464,
+      "story": "Artist: Mansur. Gouache on paper, Mughal painting, 1610 CE, in the Indian Museum, Kolkata",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q120662143",
+      "imageBytes": 7643764,
+      "imageCredit": {
+        "author": "Sneharshidasgupta",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Siberian_Crane_Mughal_Painting.jpg"
+      }
+    },
+    {
+      "slug": "kichik-beg-wounded-during-babur-s-attack-on-qalat-page-from-a-copy-of-the-baburnama-book-of-babur-q20268172",
+      "title": "Kichik Beg Wounded during Babur's Attack on Qalat, page from a copy of the Baburnama (Book of Babur)",
+      "year": 1590,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mughal_-_Kichik_Beg_Wounded_during_Babur%27s_Attack_on_Qalat%2C_page_from_a_copy_of_the_Baburnama_%28Book_of_Babur%29_-_1995.242_-_Art_Institute_of_Chicago.jpg",
+      "imageWidth": 2052,
+      "imageHeight": 3000,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q20268172",
+      "imageBytes": 2579348,
+      "imageCredit": {
+        "author": "Ustad Mansur / Kanha",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Mughal_-_Kichik_Beg_Wounded_during_Babur's_Attack_on_Qalat,_page_from_a_copy_of_the_Baburnama_(Book_of_Babur)_-_1995.242_-_Art_Institute_of_Chicago.jpg"
+      }
+    },
+    {
+      "slug": "pigeons-around-a-dovecote-q28035929",
+      "title": "Pigeons Around a Dovecote",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Pigeons_around_a_dovecote.jpg",
+      "imageWidth": 1594,
+      "imageHeight": 2400,
+      "story": "Pigeons around a dovecote by Mansur. Ink, opaque watercolor, and gold on paper. 44.8 × 29.8 cm (sheet). Mughal India, first quarter of the 17th-century. The Museum of Fine Arts, Houston 2014.230.A",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 29.8,
+      "heightCm": 44.8,
+      "pageviews": null,
+      "qid": "Q28035929",
+      "imageBytes": 1226781,
+      "imageCredit": {
+        "author": "Ustad Mansur",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pigeons_around_a_dovecote.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

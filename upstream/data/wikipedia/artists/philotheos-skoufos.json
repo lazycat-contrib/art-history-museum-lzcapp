@@ -1,0 +1,119 @@
+{
+  "slug": "philotheos-skoufos",
+  "periodSlug": "cretan-school",
+  "name": "Philotheos Skoufos",
+  "wikiTitle": "Philotheos Skoufos",
+  "qid": "Q12885789",
+  "birthYear": 1620,
+  "deathYear": 1685,
+  "tagline": "Greek painter and clergyman",
+  "bio": "Philotheos Skoufos was a Greek painter, educator and clergyman during the 17th century. He collaborated with Emmanuel Tzanes on several pieces while he was in Corfu. Philotheos was a member of the Cretan School and Heptanese School. His work was influenced by the Venetian school. He was briefly affiliated with the famous Greek church in Venice San Giorgio dei Greci. Emmanuel Tzanes and Konstantinos Tzanes were also in Venice around the same period and affiliated with San Giorgio dei Greci. He was the priest who presided over famous painter Ioannis Moskos's wedding. Philotheos was active on the Ionian Island while Theodore Poulakis and Elias Moskos also had active workshops. Skoufos most popular works were the Stoning of St Stephen and the Virgin in the Temple.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ph.Skoufos_40_Martyrs.Cretan_c.1665.jpg",
+  "portraitWidth": 2201,
+  "portraitHeight": 2739,
+  "portraitCredit": {
+    "author": "Icon painters",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Ph.Skoufos_40_Martyrs.Cretan_c.1665.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Philotheos_Skoufos",
+  "paintings": [
+    {
+      "slug": "the-stoning-of-stephen-skoufos",
+      "title": "The Stoning of Stephen (Skoufos)",
+      "year": 1645,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Philotheos_Skoufos_Stoning_of_Saint_Stephen.png",
+      "imageWidth": 1500,
+      "imageHeight": 2000,
+      "story": "The Stoning of Stephen is a painting in tempera and gold leaf by Philotheos Skoufos. Skoufos was active on the island of Crete. He traveled to Venice and eventually settled on the island Zakynthos. He was briefly a priest at the famous Greek church in Venice San Giorgio dei Greci. Nineteen of his works have survived. Skoufos created notable copies of Damaskinos's paintings namely The Stoning of Stephen and The Beheading of John the Baptist.",
+      "facts": [
+        "The work of art is in very good condition and reconstructs Damaskinos's slightly damaged painting.",
+        "The artwork is made of traditional egg tempera paint and gold leaf on a wood panel."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Stoning_of_Stephen_(Skoufos)",
+      "sitelinks": 2,
+      "widthCm": 39,
+      "heightCm": 59,
+      "pageviews": 536,
+      "qid": "Q110226148",
+      "imageBytes": 5455074,
+      "imageCredit": {
+        "author": "Philotheos Skoufos",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Philotheos_Skoufos_Stoning_of_Saint_Stephen.png"
+      }
+    },
+    {
+      "slug": "catherine-of-alexandria-skoufos-q112797410",
+      "title": "Catherine of Alexandria (Skoufos)",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Catherine_of_Alexandria_Philotheos_Skoufos.png",
+      "imageWidth": 1555,
+      "imageHeight": 1920,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 35.2,
+      "heightCm": 45.2,
+      "pageviews": null,
+      "qid": "Q112797410",
+      "imageBytes": 5903926,
+      "imageCredit": {
+        "author": "Philotheos Skoufos",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Catherine_of_Alexandria_Philotheos_Skoufos.png"
+      }
+    },
+    {
+      "slug": "stoning-of-saint-stephen-q130532250",
+      "title": "Stoning of Saint Stephen",
+      "year": 1675,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Stoning_of_Saint_Stephen%2C_Filotheos_Skoufos%2C_Antivouniotissa_Museum_01.png",
+      "imageWidth": 765,
+      "imageHeight": 900,
+      "story": "Stoning of Saint Stephen, painting of the third quarter of the 17th century by Filotheos Skoufos, at the Antivouniotissa Museum",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q130532250",
+      "imageBytes": 1351551,
+      "imageCredit": {
+        "author": "GualdimG",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Stoning_of_Saint_Stephen,_Filotheos_Skoufos,_Antivouniotissa_Museum_01.png"
+      }
+    },
+    {
+      "slug": "the-dormition-of-sabbas-the-sanctified-q133830690",
+      "title": "The Dormition of Sabbas the Sanctified",
+      "year": 1656,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/The_Dormition_of_Sabbas_the_Sanctified.png",
+      "imageWidth": 2530,
+      "imageHeight": 2234,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 41,
+      "heightCm": 37,
+      "pageviews": null,
+      "qid": "Q133830690",
+      "imageBytes": 9985425,
+      "imageCredit": {
+        "author": "Philotheos Skoufos",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_Dormition_of_Sabbas_the_Sanctified.png"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

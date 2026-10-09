@@ -1,0 +1,139 @@
+{
+  "slug": "li-cheng-painter",
+  "periodSlug": "chinese-painting",
+  "name": "Li Cheng",
+  "wikiTitle": "Li Cheng (painter)",
+  "qid": "Q716242",
+  "birthYear": 919,
+  "deathYear": 967,
+  "tagline": "Chinese painter",
+  "bio": "Li Cheng, courtesy name Xiánxī (咸熙), was a Chinese painter of the Song dynasty. He was influenced by Jing Hao and Juran. Li Cheng, Fan Kuan, and Guan Tong became known as the \"three great rival artists\".",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%E6%9D%8E%E6%88%90_%E9%9D%92%E5%B7%9E%E6%9D%8E%E6%88%90%E7%B4%80%E5%BF%B5%E9%A4%A8%E5%85%A7.jpg",
+  "portraitWidth": 3048,
+  "portraitHeight": 4064,
+  "portraitCredit": {
+    "author": "Vitsuha",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:%E6%9D%8E%E6%88%90_%E9%9D%92%E5%B7%9E%E6%9D%8E%E6%88%90%E7%B4%80%E5%BF%B5%E9%A4%A8%E5%85%A7.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Li_Cheng_(painter)",
+  "paintings": [
+    {
+      "slug": "a-solitary-temple-amid-clearing-peaks-q28808948",
+      "title": "A Solitary Temple Amid Clearing Peaks",
+      "year": 960,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Li_Cheng_-_A_Solitary_Temple_Amid_Clearing_Peaks_-_Google_Art_Project.jpg",
+      "imageWidth": 2010,
+      "imageHeight": 4001,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 55.9,
+      "heightCm": 111.8,
+      "pageviews": null,
+      "qid": "Q28808948",
+      "imageBytes": 3336658,
+      "imageCredit": {
+        "author": "Li Cheng (919 - 967 C.E.) Details on Google Art Project",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Li_Cheng_-_A_Solitary_Temple_Amid_Clearing_Peaks_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "slug": "li-cheng-luxuriant-forest-among-distant-peaks-q60991989",
+      "title": "Li Cheng, Luxuriant Forest among Distant Peaks",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Li_Cheng%2C_Luxuriant_Forest_among_Distant_Peaks.jpg",
+      "imageWidth": 2500,
+      "imageHeight": 772,
+      "story": "Luxuriant Forest among Distant Peaks, by Li Cheng, 10th century. Dimensions are 46.0 x 298.0cm. Collection of the Liaoning Provincial Museum.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 143.2,
+      "heightCm": 45.2,
+      "pageviews": null,
+      "qid": "Q60991989",
+      "imageBytes": 362948,
+      "imageCredit": {
+        "author": "Li Cheng (c. 917–967)",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Li_Cheng,_Luxuriant_Forest_among_Distant_Peaks.jpg"
+      }
+    },
+    {
+      "slug": "painting-q116559249",
+      "title": "徐枋仿李成山水轴",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/%E5%BE%90%E6%9E%8B%E4%BB%BF%E6%9D%8E%E6%88%90%E5%B1%B1%E6%B0%B4%E8%BD%B4.png",
+      "imageWidth": 1874,
+      "imageHeight": 4800,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q116559249",
+      "imageBytes": 14757781,
+      "imageCredit": {
+        "author": "Li Cheng",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%E5%BE%90%E6%9E%8B%E4%BB%BF%E6%9D%8E%E6%88%90%E5%B1%B1%E6%B0%B4%E8%BD%B4.png"
+      }
+    },
+    {
+      "slug": "fishing-boat-on-a-wintry-river-q121339470",
+      "title": "Fishing Boat on a Wintry River",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/%E5%AF%92%E6%B1%9F%E9%92%93%E8%89%87%E5%9B%BE%E8%BD%B4.%E5%AE%8B.%E6%9D%8E%E6%88%90%E7%BB%98.%E7%BB%A2%E6%9C%AC%E6%B0%B4%E5%A2%A8.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg",
+      "imageWidth": 6169,
+      "imageHeight": 10399,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 101.9,
+      "heightCm": 170,
+      "pageviews": null,
+      "qid": "Q121339470",
+      "imageBytes": 21337997,
+      "imageCredit": {
+        "author": "Li Cheng",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%E5%AF%92%E6%B1%9F%E9%92%93%E8%89%87%E5%9B%BE%E8%BD%B4.%E5%AE%8B.%E6%9D%8E%E6%88%90%E7%BB%98.%E7%BB%A2%E6%9C%AC%E6%B0%B4%E5%A2%A8.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg"
+      }
+    },
+    {
+      "slug": "wintry-forests-q121409802",
+      "title": "Wintry Forests",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Vieux_pins_dans_une_for%C3%AAt_en_hiver%2C_attribu%C3%A9_au_peintre_chinois_Li_Cheng_Xe_si%C3%A8cle2011-07-11_181755.jpg",
+      "imageWidth": 538,
+      "imageHeight": 965,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 104,
+      "heightCm": 180,
+      "pageviews": null,
+      "qid": "Q121409802",
+      "imageBytes": 273203,
+      "imageCredit": {
+        "author": "Li Cheng",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Vieux_pins_dans_une_for%C3%AAt_en_hiver,_attribu%C3%A9_au_peintre_chinois_Li_Cheng_Xe_si%C3%A8cle2011-07-11_181755.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

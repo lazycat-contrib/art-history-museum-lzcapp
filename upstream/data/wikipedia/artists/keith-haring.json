@@ -1,0 +1,309 @@
+{
+  "slug": "keith-haring",
+  "periodSlug": "contemporary",
+  "name": "Keith Haring",
+  "wikiTitle": "Keith Haring",
+  "qid": "Q485635",
+  "birthYear": 1958,
+  "deathYear": 1990,
+  "tagline": "American artist and social activist (1958–1990)",
+  "bio": "Keith Allen Haring was an American artist and activist. His bold, graphic imagery has \"become a widely recognized visual language\". Emerging from New York City's downtown art and graffiti scenes in the early 1980s, he transformed subway chalk drawings into an internationally celebrated career that bridged street art and Pop art.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Haringpalladium_%28cropped%29.jpg",
+  "portraitWidth": 1912,
+  "portraitHeight": 2549,
+  "portraitCredit": {
+    "author": "Bernard Gotfryd",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Haringpalladium_(cropped).jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Keith_Haring",
+  "paintings": [
+    {
+      "slug": "todos-juntos-podemos-parar-el-sida",
+      "title": "Todos Juntos Podemos Parar el SIDA",
+      "year": 1989,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Reproducci%C3%B3_mural_Keith_Haring_Barcelona_03.jpg",
+      "imageWidth": 2560,
+      "imageHeight": 1920,
+      "story": "Todos Juntos Podemos Parar el SIDA is a mural created by American artist and social activist Keith Haring in 1989. The mural was painted to raise awareness of the AIDS epidemic. It is located next to the Museu d'Art Contemporani de Barcelona museum in the El Raval neighbourhood of Barcelona.",
+      "facts": [
+        "In September 1992, a restoration team hired by the Ajuntament de Barcelona began the process of transferring the mural.",
+        "Raised in Kutztown, Pennsylvania, Haring moved to New York City to attend the School of Visual Arts in 1978."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Todos_Juntos_Podemos_Parar_el_SIDA",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": 235,
+      "pageviews": 20231,
+      "qid": "Q20106539",
+      "imageBytes": 2198554,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Keith Haring",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Reproducci%C3%B3_mural_Keith_Haring_Barcelona_03.jpg"
+      }
+    },
+    {
+      "slug": "a-pile-of-crowns-for-jean-michel-basquiat",
+      "title": "A Pile of Crowns for Jean-Michel Basquiat",
+      "year": 1988,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/Haring-pile-of-crowns-1988.jpg",
+      "imageWidth": 300,
+      "imageHeight": 262,
+      "story": "A Pile of Crowns for Jean-Michel Basquiat is a 1988 painting created by American artist Keith Haring. The artwork was made to memorialize his friend, artist Jean-Michel Basquiat. It depicts a towering pile of Basquiat's trademark crowns.",
+      "facts": [
+        "\" Haring was inspired, and he also took to the streets, where he became popular for his New York City Subway drawings.",
+        "Haring moved to New York City from Kutztown in 1978 to study painting at the School of Visual Arts."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/A_Pile_of_Crowns_for_Jean-Michel_Basquiat",
+      "sitelinks": 2,
+      "widthCm": 300,
+      "heightCm": 270,
+      "pageviews": 24626,
+      "qid": "Q97667447",
+      "imageBytes": 41241,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Keith Haring",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Haring-pile-of-crowns-1988.jpg"
+      }
+    },
+    {
+      "slug": "construction-fence-keith-haring",
+      "title": "Construction Fence (Keith Haring)",
+      "year": 1983,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Construction Fence or Milwaukee Mural is 1983 mural by American artist Keith Haring. The mural was commissioned in 1983 in celebration of the groundbreaking of the Haggerty Museum of Art in Milwaukee, Wisconsin. It originally decorated a fence surrounding the construction site of the museum and is currently in the museum's permanent collection. It is among the earliest large-scale, site-specific public art projects by Haring.",
+      "facts": [
+        "The iconography of the front of the fence consists of pictograms typical of Haring's imagery with a themes inspired by breakdancing.",
+        "This was likely inspired by his experiences in the Paradise Garage and various Lower East Side dance clubs Haring frequented with his friends."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Construction_Fence_(Keith_Haring)",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1322,
+      "qid": "Q55639472",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "tuttomondo",
+      "title": "Tuttomondo",
+      "year": 1989,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tuttomondo_-_Keith_Haring_1.jpg",
+      "imageWidth": 4298,
+      "imageHeight": 5372,
+      "story": "Tuttomondo is a mural created by American artist Keith Haring in 1989. Located on the rear wall of the Sant'Antonio Abate church in Pisa, it is one of the last public murals executed before his death from AIDS-related complications in 1990. It is also one of the few outdoor public works created by Haring for permanent display.",
+      "facts": [
+        "In 2012, the mural was restored by the Department of Public Works of the Municipality of Pisa.",
+        "Italian university student Piergiorgio Castellani met artist Keith Haring on the streets of the East Village, Manhattan during his winter-break in 1988."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tuttomondo",
+      "sitelinks": 5,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 28136,
+      "qid": "Q4000955",
+      "imageBytes": 12681534,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Guglielmo Giambartolomei",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Tuttomondo_-_Keith_Haring_1.jpg"
+      }
+    },
+    {
+      "slug": "tower-keith-haring",
+      "title": "Tower (Keith Haring)",
+      "year": 1987,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Tower is a mural by American artist Keith Haring executed in 1987. The mural covers the exterior of a preserved stairwell from the now demolished building of the Necker-Enfants Malades Hospital in Paris, France. It is one of two public murals in France by the artist.",
+      "facts": [
+        "Planning for a restoration of the mural began in 2011 as the stairwell and paint surface had become so derelict as to be condemned by the hospital's officials.",
+        "Gallerist Jérôme de Noirmont led restoration efforts in collaboration with the Keith Haring Foundation.",
+        "Funding was primarily provided by the Daniel and Nina Carasso Foundation and through a charity auction organized by Sotheby's.",
+        "Restoration was undertaken by conservators Antonio Rava and William Shank, who had also restored Haring's 1989 mural Tuttomondo in Pisa, Italy."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tower_(Keith_Haring)",
+      "sitelinks": 2,
+      "widthCm": 1300,
+      "heightCm": 2700,
+      "pageviews": 15162,
+      "qid": "Q39890438",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "we-the-youth-keith-haring",
+      "title": "We the Youth (Keith Haring)",
+      "year": 1987,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a2/We_the_Youth_by_Keith_Haring%2C_1987.png",
+      "imageWidth": 421,
+      "imageHeight": 237,
+      "story": "We the Youth is a 1987 mural by Keith Haring covering the west face of a private rowhouse in the Point Breeze neighborhood of Philadelphia, Pennsylvania. It was painted during a three-day workshop on 1, 2 and 3 September 1987. It is the only of Haring's collaborative public murals to remain in its original location. The mural was intended as a temporary placeholder until new row houses would eventually cover the wall of the mural.",
+      "facts": [
+        "A full restoration was conducted in 2013, in partnership with the Mural Arts Restoration Program, after the property was purchased by a new owner.",
+        "Of the US$40,000 needed for the restoration, US$30,000 was given by the Keith Haring Foundation.",
+        "Mural Arts Philadelphia hired Kim Alsbrooks and a small team of artists and conservators to conduct the restoration.",
+        "Restoration involved cleaning the mural surface, filling in losses of paint, brightening the colors, replacing the flashing and repairing structural damage."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/We_the_Youth_(Keith_Haring)",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 5962,
+      "qid": "Q55637492",
+      "imageBytes": 224308,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Keith Haring",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:We_the_Youth_by_Keith_Haring,_1987.png"
+      }
+    },
+    {
+      "slug": "crack-is-wack",
+      "title": "Crack Is Wack",
+      "year": 1986,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/09/Keith_Harring_Crack_is_Wack_Mural.jpg",
+      "imageWidth": 375,
+      "imageHeight": 266,
+      "story": "Crack Is Wack is a mural created in 1986 by American artist and social activist Keith Haring. Located near the Harlem River Drive in the East Harlem neighborhood of Manhattan in New York City, the mural serves as a warning against crack cocaine use, which was rampant in major cities across the United States during the mid to late 1980s.",
+      "facts": [
+        "Without having been commissioned—or even given legal permission at all—Haring set out to create Crack Is Wack on the wall of an abandoned handball court in a park at 2nd Avenue and East 128th Street on June 27, 1986.",
+        "In 2007, the Keith Haring estate financed the first restoration of Crack Is Wack.",
+        "A group of artists titled Gotham Scenic who specialize in set design and mural restoration carried out the extensive repainting of the mural.",
+        "Following the first restoration, natural deterioration elicited further repainting efforts in 2012."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Crack_Is_Wack",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 39798,
+      "qid": "Q85754452",
+      "imageBytes": 118887,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Keith_Harring_Crack_is_Wack_Mural.jpg"
+      }
+    },
+    {
+      "slug": "unfinished-painting",
+      "title": "Unfinished Painting",
+      "year": 1989,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/67/Keith_Haring_-_Unfinished_%281989%29.jpg",
+      "imageWidth": 321,
+      "imageHeight": 321,
+      "story": "Unfinished Painting is a 1989 painting by American artist Keith Haring. It is a 100 cm by 100 cm acrylic painting on canvas piece, recognizable by the large swath of canvas left exposed. It is known as one of Haring's final paintings before his 1990 death from AIDS-related complications at the age of 31. From April 27 to September 8, 2024, the piece was on tour with the \"Keith Haring: Art Is for Everybody\" exhibit at the Walker Art Center.",
+      "facts": [
+        "This painting is a largely blank canvas, except for the upper left corner which is painted in purple with black and white lines.",
+        "The figures and designs in this corner follow Haring's distinctive art style."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Unfinished_Painting",
+      "sitelinks": 1,
+      "widthCm": 100,
+      "heightCm": 100,
+      "pageviews": 59290,
+      "qid": "Q20655689",
+      "imageBytes": 37954,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Original work: Keith Haring",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Keith_Haring_-_Unfinished_(1989).jpg"
+      }
+    },
+    {
+      "slug": "keith-haring-mural",
+      "title": "Keith Haring Mural",
+      "year": 1984,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "The Keith Haring Mural is a mural created in 1984 by American artist Keith Haring. Located in Collingwood, Melbourne, the mural was added to the Victorian Heritage Register in 2004 for its historical, aesthetic and social significance to the State of Victoria.",
+      "facts": [
+        "In 2013, Arts Victoria commissioned Italian conservator Antonio Rava to restore the mural.",
+        "In 1978, Keith Haring moved to New York from Kutztown, Pennsylvania to attend the School of Visual Arts."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Keith_Haring_Mural",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 20200,
+      "qid": "Q27477444",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "andy-mouse",
+      "title": "Andy Mouse",
+      "year": 1985,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9d/Keith-haring-andy-mouse.jpg",
+      "imageWidth": 300,
+      "imageHeight": 293,
+      "story": "Andy Mouse is a series of silkscreen prints created by American artist Keith Haring in 1985 and 1986. The character Andy Mouse is a fusion between Disney's Mickey Mouse and Andy Warhol. The series consists of four silkscreen prints on wove paper, released in an edition of 30 per colorway, all signed and dated in pencil by Haring and Warhol.",
+      "facts": [
+        "\" A complete set of four Andy Mouse (1986) screenprints sold for $56,400 at Christie's in December 2001.",
+        "Another set of four Andy Mouse (1986) screenprints sold for $629,000 at Christie's in April 2015."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Mouse",
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 8743,
+      "qid": "Q106238788",
+      "imageBytes": 70409,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Keith Haring",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Keith-haring-andy-mouse.jpg"
+      }
+    },
+    {
+      "slug": "mural-of-keith-haring-q55372120",
+      "title": "mural of Keith Haring",
+      "year": 1986,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Keith_Haring_op_de_Centrale_Markthallen_te_Amsterdam_%281%29.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 795,
+      "story": "Keith Haring artwork in the Centrale Markthallen (Central Market Hall) in Amsterdam, the Netherlands.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q55372120",
+      "imageBytes": 405554,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Eriksw",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Keith_Haring_op_de_Centrale_Markthallen_te_Amsterdam_(1).jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

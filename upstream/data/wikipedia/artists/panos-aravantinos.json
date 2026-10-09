@@ -1,0 +1,70 @@
+{
+  "slug": "panos-aravantinos",
+  "periodSlug": "symbolism",
+  "name": "Panos Aravantinos",
+  "wikiTitle": "Panos Aravantinos",
+  "qid": "Q3557434",
+  "birthYear": 1884,
+  "deathYear": 1930,
+  "tagline": "Scenic and custom designer (1886–1930)",
+  "bio": "Panos Aravantinos was a Greek painter, opera and theatre scenery and costume designer and decorator.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Aspiotis_200.jpg",
+  "portraitWidth": 2444,
+  "portraitHeight": 3574,
+  "portraitCredit": {
+    "author": "The postcard was published by Aspiotis in 1910 c.",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Aspiotis_200.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Panos_Aravantinos",
+  "paintings": [
+    {
+      "slug": "children-in-courtyard-q133854195",
+      "title": "Children in Courtyard",
+      "year": 1910,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/1910_Aravantinos_Children_in_Courtyard_National_Gallery_-_Corfu_Annex_anagoria.jpg",
+      "imageWidth": 12000,
+      "imageHeight": 10541,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q133854195",
+      "imageBytes": 45236378,
+      "imageCredit": {
+        "author": "Panos Aravantinos",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:1910_Aravantinos_Children_in_Courtyard_National_Gallery_-_Corfu_Annex_anagoria.jpg"
+      }
+    },
+    {
+      "slug": "stage-set-q140457674",
+      "title": "Stage Set",
+      "year": 1928,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Detail_from_%22Stage_Set%22_%281928%29_-_Panos_Aravantinos.jpg",
+      "imageWidth": 4000,
+      "imageHeight": 2949,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q140457674",
+      "imageBytes": 9129539,
+      "imageCredit": {
+        "author": "Panos Aravantinos",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Detail_from_%22Stage_Set%22_(1928)_-_Panos_Aravantinos.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

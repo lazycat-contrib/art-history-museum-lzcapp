@@ -1,0 +1,281 @@
+{
+  "slug": "pisanello",
+  "periodSlug": "medieval-gothic",
+  "name": "Pisanello",
+  "wikiTitle": "Pisanello",
+  "qid": "Q311082",
+  "birthYear": 1395,
+  "deathYear": 1455,
+  "tagline": "15th-century Italian artist",
+  "bio": "Pisanello, born Antonio di Puccio Pisano or Antonio di Puccio da Cereto, also erroneously called Vittore Pisano by Giorgio Vasari, was one of the most distinguished painters of the early Italian Renaissance and Quattrocento. He was acclaimed by poets such as Guarino da Verona and praised by humanists of his time, who compared him to such illustrious names as Cimabue, Phidias and Praxiteles.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Antonio_Marescotti%2C_Medaglia_con_Pisanello.jpg",
+  "portraitWidth": 1338,
+  "portraitHeight": 1302,
+  "portraitCredit": {
+    "author": "Attributed to Antonio Marescotti",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Antonio_Marescotti,_Medaglia_con_Pisanello.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pisanello",
+  "paintings": [
+    {
+      "slug": "the-vision-of-saint-eustace",
+      "title": "The Vision of Saint Eustace",
+      "year": 1438,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Pisanello_018.jpg",
+      "imageWidth": 5137,
+      "imageHeight": 4226,
+      "story": "The Vision of Saint Eustace is a painting by the early Italian Renaissance master Pisanello, now in the National Gallery in London. The date of the work is unknown and has been assigned by various scholars to different points in Pisanello's career, but the National Gallery's website currently dates it to \"about 1438-1442\".\nThe work depicts Saint Eustace before a stag, between the antlers of which is a crucifix, as described in the Golden Legend. Although a similar story is told of Saint Hubert, the identification of the figure as Saint Eustace is based on the fact that Pisanello painted Saint Eustace in Sant'Anastasia. Saint Hubert's depiction in Italian art during this period is also unlikely.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Vision_of_Saint_Eustace",
+      "sitelinks": 12,
+      "widthCm": 65.5,
+      "heightCm": 54.8,
+      "pageviews": 4208,
+      "qid": "Q669872",
+      "imageBytes": 8843049,
+      "imageCredit": {
+        "author": "Pisanello",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pisanello_018.jpg"
+      }
+    },
+    {
+      "slug": "madonna-of-the-quail",
+      "title": "Madonna of the Quail",
+      "year": 1420,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/08-09-2006_Pisanello_1395c_1455_Madonna_della_quaglia_-_Photo_Paolo_Villa_-_Castelvecchio_Verona_-_Pentax_K10D_SMC_-_Pentax-FA_35mm_F2_-_08-09-2006.jpg",
+      "imageWidth": 2459,
+      "imageHeight": 3806,
+      "story": "The Madonna of the Quail is an International Gothic painting generally attributed to Pisanello. Dating to c. 1420, it was housed in the Castelvecchio Museum of Verona, northern Italy until stolen in 2015. It was recovered in 2016.",
+      "facts": [
+        "The painting depicts the Madonna with Child crowned by two flying angels, sitting inside a rose garden in typical late Gothic style.",
+        "The painter put a great attention in the representation of vegetables and birds, including the quail in the foreground, which gives its name to the painting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Madonna_of_the_Quail",
+      "sitelinks": 9,
+      "widthCm": 43.5,
+      "heightCm": 67,
+      "pageviews": 1867,
+      "qid": "Q3842681",
+      "imageBytes": 5402414,
+      "imageCredit": {
+        "author": "Pisanello",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:08-09-2006_Pisanello_1395c_1455_Madonna_della_quaglia_-_Photo_Paolo_Villa_-_Castelvecchio_Verona_-_Pentax_K10D_SMC_-_Pentax-FA_35mm_F2_-_08-09-2006.jpg"
+      }
+    },
+    {
+      "slug": "portrait-of-leonello-d-este",
+      "title": "Portrait of Leonello d'Este",
+      "year": 1441,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Pisanello_-_Lionello_d%27Este.jpg",
+      "imageWidth": 5890,
+      "imageHeight": 8024,
+      "story": "Portrait of Lionello d'Este is a c.1441 tempera on panel painting by Pisanello, now in the Accademia Carrara in Bergamo. The work was recorded in the Costabili collection in Ferrara in 1841.",
+      "facts": [
+        "Bellini won according to the poet Ulisse degli Aleotti, but Pisanello still proved a success at the Este court, particularly with the six noted medallions commissioned from him by Leonello.",
+        "\" The work's origins may lie in an artistic contest between Pisanello and Jacopo Bellini in the first half of 1441, instigated by Niccolò III d'Este and with Niccolò's son Leonello offering himself as the subject."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_Leonello_d'Este",
+      "sitelinks": 7,
+      "widthCm": 19.6,
+      "heightCm": 29.2,
+      "pageviews": 631,
+      "qid": "Q3937597",
+      "imageBytes": 50854424,
+      "imageCredit": {
+        "author": "Pisanello",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pisanello_-_Lionello_d'Este.jpg"
+      }
+    },
+    {
+      "slug": "madonna-and-child-with-two-saints-pisanello",
+      "title": "Madonna and Child with Two Saints (Pisanello)",
+      "year": 1435,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Pisanello_014.jpg",
+      "imageWidth": 2123,
+      "imageHeight": 3381,
+      "story": "Madonna and Child with Two Saints or Madonna and Child with Saint Anthony Abbot and Saint George is a tempera and gold on panel painting by the Italian artist Pisanello, dating to around 1445. It is in the collection of the National Gallery, London.",
+      "facts": [
+        "It was subsequently acquired in 1862 by the British collector and art historian Sir Charles Eastlake, then Director of the National Gallery.",
+        "The painting depicts the Virgin Mary holding the Christ Child, with Saint Anthony Abbot and Saint George standing on either side."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Madonna_and_Child_with_Two_Saints_(Pisanello)",
+      "sitelinks": 6,
+      "widthCm": 29,
+      "heightCm": 46.5,
+      "pageviews": 889,
+      "qid": "Q3842769",
+      "imageBytes": 3906071,
+      "imageCredit": {
+        "author": "Pisanello",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pisanello_014.jpg"
+      }
+    },
+    {
+      "slug": "portrait-of-a-princess-pisanello",
+      "title": "Portrait of a Princess (Pisanello)",
+      "year": 1435,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Portrait_d%27une_princesse_de_la_Maison_d%27Este_-_Pisanello_-_Mus%C3%A9e_du_Louvre_Peintures_RF_766.jpg",
+      "imageWidth": 5420,
+      "imageHeight": 7792,
+      "story": "Portrait of Princess is a tempera painting on panel attributed to the Italian Late-Gothic master Pisanello. It was probably executed between 1435 and 1445 and is also known as Portrait of a Princess of the House of Este. It is firmly attributed to Pisanello on stylistic grounds and because he stayed in Ferrara in the period, where he also finished a portrait and a celebrative medal of Marquis Leonello d'Este.",
+      "facts": [
+        "In 1893 the Louvre acquired it from Charles Picard for 30000 francs.",
+        "She was the unfortunate niece and wife of the redoubtable Sigismondo Pandolfo Malatesta, who subjected Romagna to fire and arms, and whose shameless affaire with Isotta degli Atti was the scandal of the age.",
+        "It was Malatesta who commissioned polymath Leon Battista Alberti to build the Tempio Malatestiano at Rimini."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Princess_(Pisanello)",
+      "sitelinks": 14,
+      "widthCm": 30,
+      "heightCm": 43,
+      "pageviews": 4639,
+      "qid": "Q2478403",
+      "imageBytes": 14293394,
+      "imageCredit": {
+        "author": "Pisanello",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Portrait_d'une_princesse_de_la_Maison_d'Este_-_Pisanello_-_Mus%C3%A9e_du_Louvre_Peintures_RF_766.jpg"
+      }
+    },
+    {
+      "slug": "saint-george-and-the-princess",
+      "title": "Saint George and the Princess",
+      "year": 1433,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Saint_George_and_the_princess_by_Pisanello_-_Pellegrini_Chapel_-_Sant%27Anastasia_-_Verona_2016_and_corrections_%28perspective%2C_lights%2C_definition_by_Paolo_Villa_2019%29.jpg",
+      "imageWidth": 16307,
+      "imageHeight": 13892,
+      "story": "Saint George and the Princess, also Saint George and the Princess of Trebizond, is a fresco by the Italian master Pisanello, located in the Pellegrini Chapel of the Church of Sant'Anastasia, Verona, northern Italy. It is one of the most notable works of International Gothic painting.",
+      "facts": [
+        "The work was commissioned by the Pellegrini family, as testified by Andrea Pellegrini's testament of 1429.",
+        "The fresco was long exposed to water seepage from the ceiling of the church and was severely damaged, especially in the left part which contains the dragon.",
+        "Among them are two grotesque faces, perhaps inspired by the descriptions of Ottoman Turks who were besieging Constantinople, or perhaps by the older accounts of the Golden Horde.",
+        "The latter were perhaps inspired by the daily experience of the author at the Piazza delle Forche in Florence (\"Gallows Square\")."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint_George_and_the_Princess",
+      "sitelinks": 6,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 5282,
+      "qid": "Q733017",
+      "imageBytes": 20171022,
+      "imageCredit": {
+        "author": "José Luiz",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Saint_George_and_the_princess_by_Pisanello_-_Pellegrini_Chapel_-_Sant'Anastasia_-_Verona_2016_and_corrections_(perspective,_lights,_definition_by_Paolo_Villa_2019).jpg"
+      }
+    },
+    {
+      "slug": "medal-of-john-viii-palaeologus",
+      "title": "Medal of John VIII Palaeologus",
+      "year": 1438,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Pisanello%2C_medaglia_di_giovanni_paleologo%2C_I_esemplare_del_bargello.JPG",
+      "imageWidth": 1736,
+      "imageHeight": 1748,
+      "story": "The medal of John VIII Palaeologus is a portrait medal by the Italian Renaissance artist Pisanello. It is generally considered to be the first portrait medal of the Renaissance. On the obverse of the medal is a profile portrait of the penultimate Byzantine emperor, John VIII Palaeologus; the reverse contains an image of the emperor on horseback before a wayside cross. Although the date of the work is not clear it was likely to have been some time during 1438 and 1439, the years John was in Italy attending the Council of Ferrara. It is not known whether the emperor himself or his Italian hosts commissioned Pisanello to make the medal, but Leonello d’Este, the heir apparent to the marquisate of Ferrara, has been suggested as the most likely candidate. Several drawings by Pisanello are closely associated with the medal and these include sketches now held in Paris and Chicago.",
+      "facts": [
+        "When John and his delegation returned to Constantinople, however, it was strongly rejected by the clergy and lay population there, and never took effect.",
+        "The figure on the horse in the recto of the Paris leaf (Louvre MI 1062) is undoubtedly the emperor because of the Italian inscription above the figure, part of which reads: \"The hat of the Emperor should be white on top and red underneath, the profile black all around.",
+        "It is believed that Jean, duke of Berry commissioned the medals to be copied from originals, now lost, during the period 1402–1413.",
+        "The Heraclius medal was likely to have been acquired at the same time."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Medal_of_John_VIII_Palaeologus",
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 3942,
+      "qid": "Q632581",
+      "imageBytes": 2516066,
+      "imageCredit": {
+        "author": "Sailko",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Pisanello,_medaglia_di_giovanni_paleologo,_I_esemplare_del_bargello.JPG"
+      }
+    },
+    {
+      "slug": "portrait-of-sigismund-of-luxemburg",
+      "title": "Portrait of Sigismund of Luxemburg",
+      "year": 1432,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Pisanello_024b.jpg",
+      "imageWidth": 695,
+      "imageHeight": 1000,
+      "story": "The Portrait of Sigismund of Luxembourg is a tempera on panel painting attributed to the Italian Late-Gothic master Pisanello and probably executed between 1432 and 1433. It is on display at the Kunsthistorisches Museum in Vienna, Austria.",
+      "facts": [
+        "In 1451 Piero della Francesca was inspired by it for the features of Sigismund of Burgundy of his fresco Sigismondo Pandolfo Malatesta Praying in Front of St.",
+        "The portrait was part of the imperial collection and housed in the residence of Archduke Ferdinand II of Austria at Ambras Castle near Innsbruck, before being acquired by the Kunsthistorisches Museum.",
+        "It was previously attributed to the Salzburg painter Conrad Laib or to a Bohemian artist."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_Sigismund_of_Luxemburg",
+      "sitelinks": 0,
+      "widthCm": 42,
+      "heightCm": 58.5,
+      "pageviews": 3235,
+      "qid": "Q3937663",
+      "imageBytes": 210731,
+      "imageCredit": {
+        "author": "Formerly attributed to Pisanello",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pisanello_024b.jpg"
+      }
+    },
+    {
+      "slug": "trophy-scene-q3994163",
+      "title": "Trophy scene",
+      "year": 1436,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Pisanello%2C_storie_del_ciclo_bretone_di_lancillotto%2C_1436-42_circa%2C_02.jpg",
+      "imageWidth": 5178,
+      "imageHeight": 3648,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q3994163",
+      "imageBytes": 9622000,
+      "imageCredit": {
+        "author": "Sailko",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Pisanello,_storie_del_ciclo_bretone_di_lancillotto,_1436-42_circa,_02.jpg"
+      }
+    },
+    {
+      "slug": "monument-to-nicholas-brenzoni-q3862624",
+      "title": "Monument to Nicholas Brenzoni",
+      "year": 1426,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Pisanello%2C_monumento_a_Niccol%C3%B2_Brenzoni%2C_00.jpg",
+      "imageWidth": 1873,
+      "imageHeight": 3002,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q3862624",
+      "imageBytes": 5103723,
+      "imageCredit": {
+        "author": null,
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Pisanello,_monumento_a_Niccol%C3%B2_Brenzoni,_00.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "rufino-tamayo",
+  "periodSlug": "mexican-muralism",
+  "name": "Rufino Tamayo",
+  "wikiTitle": "Rufino Tamayo",
+  "qid": "Q690790",
+  "birthYear": 1899,
+  "deathYear": 1990,
+  "tagline": "Mexican painter, printmaker, and sculptor (1899–1991)",
+  "bio": "Rufino del Carmen Arellanes Tamayo was a Mexican painter of Zapotec heritage, born in Oaxaca de Juárez, Mexico. Tamayo was active in the mid-20th century in Mexico and New York, painting figurative abstraction with surrealist influences.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Rufino_Tamayo.jpg",
+  "portraitWidth": 2453,
+  "portraitHeight": 3856,
+  "portraitCredit": {
+    "author": "User Steve Eifert on en.wikipedia",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Rufino_Tamayo.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rufino_Tamayo",
+  "paintings": [
+    {
+      "slug": "day-and-night-painting",
+      "title": "Day and Night (painting)",
+      "year": 1954,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Day and Night is a mural by Rufino Tamayo, painted using Vinylite resin on canvas and mounted on particleboard. As well as Still Life, it was originally created for the perfumes and pharmacy section of the Sanborns store on Lafragua Street in Mexico City. Since 2011 it has been displayed in the lobby of the Museo Soumaya.",
+      "facts": [
+        "It was restored to its original brilliance and moved to the Museo Soumaya at Plaza Loreto in 1994 and then to Plaza Carso in 2011.",
+        "Tamayo executed the work in 1954, employing the same technique used for the other murals in the Palacio de Bellas Artes (Palace of Fine Arts), The Birth of Our Nationality and Mexico of Today."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Day_and_Night_(painting)",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 969,
+      "qid": "Q17266572",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "still-life-rufino-tamayo",
+      "title": "Still Life (Rufino Tamayo)",
+      "year": 1954,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Still Life is a mural executed by Rufino Tamayo in 1954. It is on permanent display at the Museo Soumaya.Fundación Carlos Slim in Plaza Carso, Mexico City, Mexico.",
+      "facts": [
+        "Tamayo painted two mural for Sanborns to decorate the building acquired by the company in 1954, located on the Calle José María Lafragua at the corner of Paseo de la Reforma in central Mexico City.",
+        "It exemplifies the handling of color that is characteristic of his work."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Still_Life_(Rufino_Tamayo)",
+      "sitelinks": 2,
+      "widthCm": 854.5,
+      "heightCm": 198,
+      "pageviews": 594,
+      "qid": "Q17374408",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "aviation-painting",
+      "title": "Aviation (painting)",
+      "year": 1934,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/14/Aviation_1934_Rufino_Tamayo.webp",
+      "imageWidth": 393,
+      "imageHeight": 254,
+      "story": "Aviation is a 1934 painting by Rufino Tamayo. The work consists of gouache on paper. The piece now resides in the collection of Latin American Artists of Museo Soumaya, in Mexico City.",
+      "facts": [
+        "Of his work, Tamayo said: “I am interested in Men, Man is my subject, Man who is creator of all scientific and technological wonders.",
+        "To me that is the most important thing in existence” Aviation was a reoccurring theme of Tamayo's work."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aviation_(painting)",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 893,
+      "qid": "Q136644774",
+      "imageBytes": 60568,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Rufino Tamayo",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Aviation_1934_Rufino_Tamayo.webp"
+      }
+    },
+    {
+      "slug": "three-characters",
+      "title": "Three Characters",
+      "year": 1970,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "\nThree Characters is a painting by Mexican artist Rufino Tamayo, from 1970.",
+      "facts": [
+        "Tres Personajes was bought by a Houston man as a gift for his wife in 1977, then stolen from their storage locker in 1987 during a move.",
+        "After seeing the Missing Masterpieces segment about Tres Personajes, Gibson contacted the former owner, who arranged to sell the painting at a Sotheby's auction.",
+        "In November 2007 Gibson received a $15,000 reward plus a portion of the $1,049,000 auction sale price."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Three_Characters",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1410,
+      "qid": "Q17103303",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "two-bathers-rufino-tamayo",
+      "title": "Two Bathers (Rufino Tamayo)",
+      "year": 1934,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "\nTwo Bathers was realized with the technique of tempera on paper and executed by Mexican painter Rufino Tamayo in 1934. It is on display in Museo Soumaya, in Mexico City.",
+      "facts": [
+        "Both figures wear a bun that his wife used to wear frequently.",
+        "The artist created a new narrative of Mexico and the femininity."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Two_Bathers_(Rufino_Tamayo)",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 581,
+      "qid": "Q28004348",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "dualidad-1964-by-rufino-tamayo-1899-1991-36161059194-cropped-q54673524",
+      "title": "“dualidad” (1964), by rufino tamayo (1899-1991) (36161059194) (cropped)",
+      "year": 1964,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/%E2%80%9Cdualidad%E2%80%9D_%281964%29%2C_by_rufino_tamayo_%281899-1991%29_%2836161059194%29_%28cropped%29.jpg",
+      "imageWidth": 3296,
+      "imageHeight": 1694,
+      "story": "famous mural depicting the náhuatl cosmology of the complementary forces (similar to yin/yang in eastern tradition); the mural is at the hall of the Museum of Anthropology, Mexico City",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q54673524",
+      "imageBytes": 1708972,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Nicolás Boullosa from Fontainebleau, France",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:%E2%80%9Cdualidad%E2%80%9D_(1964),_by_rufino_tamayo_(1899-1991)_(36161059194)_(cropped).jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

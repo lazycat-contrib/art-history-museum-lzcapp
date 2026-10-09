@@ -1,0 +1,139 @@
+{
+  "slug": "tensho-shubun",
+  "periodSlug": "japanese-painting",
+  "name": "Tenshō Shūbun",
+  "wikiTitle": "Tenshō Shūbun",
+  "qid": "Q2706164",
+  "birthYear": 1414,
+  "deathYear": 1463,
+  "tagline": "Japanese monk and painter",
+  "bio": "Tenshō Shūbun  was a Japanese Zen Buddhist monk and painter of the Muromachi period.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Shubun_-_Reading_in_a_Bamboo_Grove_detail.jpg",
+  "portraitWidth": 3815,
+  "portraitHeight": 4893,
+  "portraitCredit": {
+    "author": "Tenshō Shūbun",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Shubun_-_Reading_in_a_Bamboo_Grove_detail.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tensh%C5%8D_Sh%C5%ABbun",
+  "paintings": [
+    {
+      "slug": "reading-in-a-bamboo-grove-q107045359",
+      "title": "Reading in a Bamboo Grove",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Shubun_-_Reading_in_a_Bamboo_Grove_detail.jpg",
+      "imageWidth": 3815,
+      "imageHeight": 4893,
+      "story": "Painting detail of \"Reading in a Bamboo Grove\", (Full scroll: 134.8x33.3 cm). The painting has been designated as National Treasure in the category paintings.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q107045359",
+      "imageBytes": 12933123,
+      "imageCredit": {
+        "author": "Tenshō Shūbun",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Shubun_-_Reading_in_a_Bamboo_Grove_detail.jpg"
+      }
+    },
+    {
+      "slug": "hue-of-the-water-light-on-the-peaks-q107045908",
+      "title": "Hue of the Water, Light on the Peaks",
+      "year": 1445,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Landscape_Tensh%C5%8D_Sh%C5%ABbun_painting_part.jpg",
+      "imageWidth": 1338,
+      "imageHeight": 1831,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q107045908",
+      "imageBytes": 2702510,
+      "imageCredit": {
+        "author": "Tenshō Shūbun",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Landscape_Tensh%C5%8D_Sh%C5%ABbun_painting_part.jpg"
+      }
+    },
+    {
+      "slug": "winter-and-spring-landscape-q60465158",
+      "title": "Winter and Spring Landscape",
+      "year": 1423,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tensho_Shubun_-_Winter_and_Spring_Landscape_-_1958.476_-_Cleveland_Museum_of_Art.tif",
+      "imageWidth": 16548,
+      "imageHeight": 5859,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q60465158",
+      "imageBytes": 290879240,
+      "imageCredit": {
+        "author": "Tensho Shubun",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "page": "https://commons.wikimedia.org/wiki/File:Tensho_Shubun_-_Winter_and_Spring_Landscape_-_1958.476_-_Cleveland_Museum_of_Art.tif"
+      }
+    },
+    {
+      "slug": "landscape-q78845230",
+      "title": "Landscape",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Shubun_-_Landscape_-_53.123.1_-_Metropolitan_Museum_of_Art.jpg",
+      "imageWidth": 810,
+      "imageHeight": 2000,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 36.7,
+      "heightCm": 94.3,
+      "pageviews": null,
+      "qid": "Q78845230",
+      "imageBytes": 254771,
+      "imageCredit": {
+        "author": "Tenshō Shūbun",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Shubun_-_Landscape_-_53.123.1_-_Metropolitan_Museum_of_Art.jpg"
+      }
+    },
+    {
+      "slug": "elegant-conversation-in-mountains-q78845322",
+      "title": "Elegant Conversation in Mountains",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Shubun_-_Elegant_Conversation_in_Mountains_-_36.100.68_-_Metropolitan_Museum_of_Art.jpg",
+      "imageWidth": 981,
+      "imageHeight": 2000,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 30.8,
+      "heightCm": 65.4,
+      "pageviews": null,
+      "qid": "Q78845322",
+      "imageBytes": 347109,
+      "imageCredit": {
+        "author": "Tenshō Shūbun",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Shubun_-_Elegant_Conversation_in_Mountains_-_36.100.68_-_Metropolitan_Museum_of_Art.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

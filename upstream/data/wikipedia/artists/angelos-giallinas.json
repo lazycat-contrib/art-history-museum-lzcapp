@@ -1,0 +1,47 @@
+{
+  "slug": "angelos-giallinas",
+  "periodSlug": "realism",
+  "name": "Angelos Giallinas",
+  "wikiTitle": "Angelos Giallinas",
+  "qid": "Q536988",
+  "birthYear": 1857,
+  "deathYear": 1939,
+  "tagline": "Greek painter",
+  "bio": "Angelos Giallinas or Yallinas was a Greek landscape painter, known primarily for his watercolors. He was one of the last representatives of the Heptanese School of art.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Aggelos_Giallinas.JPG",
+  "portraitWidth": 516,
+  "portraitHeight": 640,
+  "portraitCredit": {
+    "author": "Diomedes, Paulos",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Aggelos_Giallinas.JPG"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angelos_Giallinas",
+  "paintings": [
+    {
+      "slug": "thiseio-and-the-acropolis-q19901208",
+      "title": "Thiseio and the Acropolis",
+      "year": 1895,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/%CE%93%CE%B9%CE%B1%CE%BB%CE%BB%CE%B9%CE%BD%CE%AC%CF%82%2C_%CE%86%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82_-_%CE%A4%CE%BF_%CE%98%CE%B7%CF%83%CE%B5%CE%AF%CE%BF_%CE%BA%CE%B1%CE%B9_%CE%B7_%CE%91%CE%BA%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7%2C_%CF%80._1895.jpg",
+      "imageWidth": 1920,
+      "imageHeight": 1058,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q19901208",
+      "imageBytes": 302551,
+      "imageCredit": {
+        "author": "Angelos Giallinas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:%CE%93%CE%B9%CE%B1%CE%BB%CE%BB%CE%B9%CE%BD%CE%AC%CF%82,_%CE%86%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82_-_%CE%A4%CE%BF_%CE%98%CE%B7%CF%83%CE%B5%CE%AF%CE%BF_%CE%BA%CE%B1%CE%B9_%CE%B7_%CE%91%CE%BA%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7,_%CF%80._1895.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

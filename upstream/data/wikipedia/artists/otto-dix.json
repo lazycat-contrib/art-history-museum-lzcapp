@@ -1,0 +1,316 @@
+{
+  "slug": "otto-dix",
+  "periodSlug": "expressionism",
+  "name": "Otto Dix",
+  "wikiTitle": "Otto Dix",
+  "qid": "Q153104",
+  "birthYear": 1891,
+  "deathYear": 1969,
+  "tagline": "German painter and printmaker (1891–1969)",
+  "bio": "Wilhelm Heinrich Otto Dix was a German painter and printmaker, noted for his ruthless and harshly realistic depictions of German society during the Weimar Republic and the brutality of war. Along with George Grosz and Max Beckmann, he is widely considered one of the most important artists of the Neue Sachlichkeit.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Otto_Dix%2C_May_1955%2C_by_Hans-Joachim_Koch_%282%29.jpg",
+  "portraitWidth": 1197,
+  "portraitHeight": 1600,
+  "portraitCredit": {
+    "author": "Hans-Joachim Koch",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Otto_Dix,_May_1955,_by_Hans-Joachim_Koch_(2).jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Otto_Dix",
+  "paintings": [
+    {
+      "slug": "portrait-of-the-journalist-sylvia-von-harden",
+      "title": "Portrait of the Journalist Sylvia von Harden",
+      "year": 1926,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/59/Otto_Dix_Sy_von_Harden.jpg",
+      "imageWidth": 2849,
+      "imageHeight": 3948,
+      "story": "The Portrait of the Journalist Sylvia von Harden is a painting by German painter Otto Dix, from 1926. It is made from a wood panel and a mixed technique of oil and tempera. The portrait was acquired from the artist by the Musée National d'Art Moderne in Paris in 1961.",
+      "facts": [
+        "The portrait is set on a red and pink background, without decoration, door or window, which suggests the corner of a cafe.",
+        "The androgynous looking woman sits cross-legged at a round table."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_the_Journalist_Sylvia_von_Harden",
+      "sitelinks": 6,
+      "widthCm": 89,
+      "heightCm": 121,
+      "pageviews": 13846,
+      "qid": "Q3399478",
+      "imageBytes": 2799936,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Otto Dix",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Otto_Dix_Sy_von_Harden.jpg"
+      }
+    },
+    {
+      "slug": "metropolis-dix",
+      "title": "Metropolis (Dix)",
+      "year": 1927,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4d/Otto_Dix_-_Metropolis_%281927-28%29.jpg",
+      "imageWidth": 4370,
+      "imageHeight": 1955,
+      "story": "Metropolis is a triptych painting by the German artist Otto Dix, executed between 1927 and 1928. The painting depicts three nighttime city scenes from the Weimar Republic. The painting belongs to the Kunstmuseum Stuttgart since it was bought from the artist's estate in 1972.",
+      "facts": [
+        "On the very outside you can see an almost hidden woman looking out of a gate.",
+        "\" The painter was inspired by several Medieval and Renaissance works of art for this painting, including the Herrenberg Altarpiece by Jerg Ratgeb, and works of Hans von Köln and Hans Pleydenwurff."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Metropolis_(Dix)",
+      "sitelinks": 5,
+      "widthCm": 402,
+      "heightCm": 181,
+      "pageviews": 13231,
+      "qid": "Q1549584",
+      "imageBytes": 4010868,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Otto Dix",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Otto_Dix_-_Metropolis_(1927-28).jpg"
+      }
+    },
+    {
+      "slug": "the-war-dix-triptych",
+      "title": "The War (Dix triptych)",
+      "year": 1929,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "The War, sometimes known as the Dresden War Triptych, is a large oil and tempera painting by the German artist Otto Dix on four wooden panels, a triptych with predella. The format of the work and its composition are based on religious triptychs of the Renaissance, like those by Matthias Grünewald. It was begun in 1929 and completed in 1932, and has been held by the Galerie Neue Meister in Dresden since 1968. It is one of several anti-war works done by Dix in the 1920s, inspired by his experience of trench warfare in the First World War.",
+      "facts": [
+        "The anti-war art that Dix created after 1920 was inspired by his horrific experiences in the trenches.",
+        "Many of Dix's works were condemned as degenerate art by the Nazi Party, but the triptych was hidden by Dix and survived."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_War_(Dix_triptych)",
+      "sitelinks": 5,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 16628,
+      "qid": "Q662329",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "the-skat-players",
+      "title": "The Skat Players",
+      "year": 1920,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/76/Otto_Dix_-_The_Skat_Players_%28Die_Skatspieler%29_1920.jpg",
+      "imageWidth": 5609,
+      "imageHeight": 7206,
+      "story": "The Skat Players, later titled Card-Playing War Cripples, is an oil-and-collage-on-canvas painting executed by Otto Dix in 1920. It depicts disabled veterans of the First World War playing a card game. It is held at the Neue Nationalgalerie in Berlin. He also had the later title of Kartenspielende Kriegskrüppel. It was one of the first works of the artist in the style of New Objectivity.",
+      "facts": [
+        "It is part of a series of four paintings inspired by the post-World War I atmosphere executed in 1920: The Street in Prague, The Match Seller, The Skat Players and The Barricade.",
+        "The painting would have been considered degenerate art by the Nazi regimen, so it was hidden by a friend."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Skat_Players",
+      "sitelinks": 4,
+      "widthCm": 87,
+      "heightCm": 110,
+      "pageviews": 7542,
+      "qid": "Q3233437",
+      "imageBytes": 15939890,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Otto Dix",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Otto_Dix_-_The_Skat_Players_(Die_Skatspieler)_1920.jpg"
+      }
+    },
+    {
+      "slug": "portrait-of-the-dancer-anita-berber",
+      "title": "Portrait of the Dancer Anita Berber",
+      "year": 1925,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/77/Otto_Dix_-_Portrait_of_the_Dancer_Anita_Berber_%281925%29.jpg",
+      "imageWidth": 2688,
+      "imageHeight": 5000,
+      "story": "The Portrait of the Dancer Anita Berber is a 1925 painting in oil and tempera on plywood by the German artist Otto Dix. It represents the dancer Anita Berber, a celebrity of the Weimar Republic, known for her scandalous performances and licentious lifestyle. It belongs to the collection of the Sammlung Landesbank Baden-Württemberg, and is on loan to the Kunstmuseum Stuttgart, Germany.",
+      "facts": [
+        "Dix knew Anita Berber personally, having attended several of her live performances.",
+        "Although Berber posed for this portrait in the nude, the artist decided to depict her wearing a long red dress, on a red background."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_the_Dancer_Anita_Berber",
+      "sitelinks": 2,
+      "widthCm": 65,
+      "heightCm": 120,
+      "pageviews": 7688,
+      "qid": "Q100308317",
+      "imageBytes": 4243873,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Otto Dix",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Otto_Dix_-_Portrait_of_the_Dancer_Anita_Berber_(1925).jpg"
+      }
+    },
+    {
+      "slug": "the-match-seller",
+      "title": "The Match Seller",
+      "year": 1920,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/bd/Otto_Dix_-_The_Match_Seller_%28Streichholzh%C3%A4ndler%29_1920.jpg",
+      "imageWidth": 6096,
+      "imageHeight": 4831,
+      "story": "The Match Seller is a 1920 oil painting with collage elements by the German Dada and Neue Sachlichkeit artist Otto Dix. Completed one year after the end of World War I, the composition depicts a crippled and homeless veteran match seller who is ostensibly ignored by bourgeois passersby on a street in Germany.",
+      "facts": [
+        "Otto Dix was a veteran himself, having served in a machine gun unit on the Western Front of World War I as a non-commissioned officer, and the experience of the war and its brutality deeply affected the artist.",
+        "Along with many other works by Dix, The Match Seller was included on the list of works of degenerate art in Nazi Germany and confiscated between 1937 and 1938."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Match_Seller",
+      "sitelinks": 2,
+      "widthCm": 166,
+      "heightCm": 141.5,
+      "pageviews": 5279,
+      "qid": "Q111939895",
+      "imageBytes": 19721647,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Otto Dix",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Otto_Dix_-_The_Match_Seller_(Streichholzh%C3%A4ndler)_1920.jpg"
+      }
+    },
+    {
+      "slug": "to-beauty",
+      "title": "To Beauty",
+      "year": 1922,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/45/Otto_Dix_-_To_Beauty_%281922%29.jpg",
+      "imageWidth": 3073,
+      "imageHeight": 3544,
+      "story": "To Beauty is an oil-and-collage-on-canvas painting executed in 1922 by German painter Otto Dix. It is signed and dated at the lower right. It is held at the Von der Heydt Museum, in Wuppertal.",
+      "facts": [
+        "This painting is part of the work that Dix created inspired by the reality of the Weimar Republic, in the period after World War I.",
+        "His black features are exaggerated, bordering in caricature, and his portrait was most likely inspired by a photograph.",
+        "The title of the painting is meant to be ironic, in contrast with the reality it depicts, and it might have been inspired by a Max Klinger cycle of engravings, called Vom Tode II (1898), which included the print An die Schöneit, in English, To Beauty."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/To_Beauty",
+      "sitelinks": 2,
+      "widthCm": 120.5,
+      "heightCm": 139.5,
+      "pageviews": 1284,
+      "qid": "Q116549334",
+      "imageBytes": 3922563,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Otto Dix",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Otto_Dix_-_To_Beauty_(1922).jpg"
+      }
+    },
+    {
+      "slug": "hugo-erfurth-with-dog",
+      "title": "Hugo Erfurth with Dog",
+      "year": 1926,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f4/Otto_Dix_-_Hugo_Erfurth_with_Dog_%281926%29.jpg",
+      "imageWidth": 3000,
+      "imageHeight": 2426,
+      "story": "Hugo Erfurth with Dog is a painting in tempera and oil on panel executed by the German painter Otto Dix in 1926. It depicts his personal friend, the photographer Hugo Erfurth, who also would take several pictures of the artist. The portrait is part of the collection of the Thyssen-Bornemisza Museum, in Madrid.",
+      "facts": [
+        "This painting shows the influence of German Renaissance masters such as Lucas Cranach the Elder and Hans Baldung Grien, as Dix had adopted the painstaking technique of tempera and oil on panel, rather than on canvas.",
+        "He had a particular interest by portraiture, since it had a major tradition in German painting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugo_Erfurth_with_Dog",
+      "sitelinks": 2,
+      "widthCm": 100,
+      "heightCm": 80,
+      "pageviews": 870,
+      "qid": "Q21711722",
+      "imageBytes": 1243052,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Otto Dix",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Otto_Dix_-_Hugo_Erfurth_with_Dog_(1926).jpg"
+      }
+    },
+    {
+      "slug": "prague-street",
+      "title": "Prague Street",
+      "year": 1920,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/07/Otto_Dix_-_Prague_Street_%28Pragerstra%C3%9Fe%29_1920.jpg",
+      "imageWidth": 828,
+      "imageHeight": 1024,
+      "story": "Prague Street is an oil-and-collage-on-canvas painting by the German painter Otto Dix, executed in 1920, which depicts the Prager Straße in Dresden, shortly after the First World War. It is held at the Kunstmuseum Stuttgart, formerly known as Galerie der Stadt.",
+      "facts": [
+        "The painting was executed in July 1920, after Dix had participated in the First World War.",
+        "In the foreground, the character seems to be from the middle or upper class, but has no legs and moves with the help of a skateboard and canes."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prague_Street",
+      "sitelinks": 2,
+      "widthCm": 80,
+      "heightCm": 100,
+      "pageviews": 3563,
+      "qid": "Q3401216",
+      "imageBytes": 201097,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Otto Dix",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Otto_Dix_-_Prague_Street_(Pragerstra%C3%9Fe)_1920.jpg"
+      }
+    },
+    {
+      "slug": "the-trench-dix",
+      "title": "The Trench (Dix)",
+      "year": 1920,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5d/Otto_Dix_-_The_Trench_%28Der_Sch%C3%BCtzengraben%29_1923.jpg",
+      "imageWidth": 2198,
+      "imageHeight": 2031,
+      "story": "The Trench, but earlier known as The War Picture or simply Der Krieg, was an oil painting by the German artist Otto Dix. The large painting was made from 1920 to 1923, and was one of the several anti-war works by Dix in the 1920s, inspired by his experience of trench warfare in the First World War.",
+      "facts": [
+        "His horrific experiences in the trenches inspired the anti-war art he created after 1920, including The Trench.",
+        "\" Soon after it was completed, The Trench was acquired in October 1923 by the Wallraf–Richartz Museum in Cologne, the city then under Allied occupation, at the instigation of the museum's director Hans Friedrich Secker.",
+        "It was described as \"Wehrsabotage\" (\"war sabotage\") and became known as the \"Skandalbild\" (\"scandal image\").",
+        "The city of Cologne and its museum director will be attacked and praised for this acquisition [."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Trench_(Dix)",
+      "sitelinks": 2,
+      "widthCm": 250,
+      "heightCm": 227,
+      "pageviews": 17829,
+      "qid": "Q50181554",
+      "imageBytes": 1807056,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Otto Dix",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Otto_Dix_-_The_Trench_(Der_Sch%C3%BCtzengraben)_1923.jpg"
+      }
+    },
+    {
+      "slug": "the-art-dealer-alfred-flechtheim",
+      "title": "The Art Dealer Alfred Flechtheim",
+      "year": 1926,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6e/Otto_Dix_-_The_Art_Dealer_Alfred_Flechtheim_%281926%29.jpg",
+      "imageWidth": 1351,
+      "imageHeight": 2041,
+      "story": "The Art Dealer Alfred Flechtheim is a 1926 oil painting by the German artist Otto Dix. It portrays the German Jewish art dealer and collector Alfred Flechtheim. It was obtained by Berlin's National Gallery in 1961 and is held at the Neue Nationalgalerie.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Art_Dealer_Alfred_Flechtheim",
+      "sitelinks": 1,
+      "widthCm": 80,
+      "heightCm": 120,
+      "pageviews": 922,
+      "qid": "Q107450660",
+      "imageBytes": 1128944,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Otto Dix",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Otto_Dix_-_The_Art_Dealer_Alfred_Flechtheim_(1926).jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "georgios-roilos",
+  "periodSlug": "academic-art",
+  "name": "Georgios Roilos",
+  "wikiTitle": "Georgios Roilos",
+  "qid": "Q330960",
+  "birthYear": 1867,
+  "deathYear": 1928,
+  "tagline": "Greek painter",
+  "bio": "Georgios Roilos was one of the most important and influential Greek painters of the late 19th-early 20th century. He belonged to the so-called \"Munich School\". His major works include historical topics, portraits, and scenes of everyday life. One of his most famous paintings is “The Poets”, which depicts some of the most important representatives of the New Athenian school of poetry, also known as the Generation of 1880.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Self-portrait%2C_Geogios_Roilos.jpg",
+  "portraitWidth": 536,
+  "portraitHeight": 630,
+  "portraitCredit": {
+    "author": "Georgios Roilos",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Self-portrait,_Geogios_Roilos.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georgios_Roilos",
+  "paintings": [
+    {
+      "slug": "sir-william-goscombe-john-1860-1952-q119152433",
+      "title": "Sir William Goscombe John (1860–1952)",
+      "year": 1902,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/George_Roilos_%281867-1928%29_-_Sir_William_Goscombe_John_%281860%E2%80%931952%29_-_NMW_A_588_-_National_Museum_Cardiff.jpg",
+      "imageWidth": 881,
+      "imageHeight": 1200,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 57.2,
+      "heightCm": 76.2,
+      "pageviews": null,
+      "qid": "Q119152433",
+      "imageBytes": 129392,
+      "imageCredit": {
+        "author": "Georgios Roilos",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:George_Roilos_(1867-1928)_-_Sir_William_Goscombe_John_(1860%E2%80%931952)_-_NMW_A_588_-_National_Museum_Cardiff.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

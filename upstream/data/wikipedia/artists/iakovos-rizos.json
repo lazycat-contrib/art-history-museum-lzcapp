@@ -1,0 +1,47 @@
+{
+  "slug": "iakovos-rizos",
+  "periodSlug": "academic-art",
+  "name": "Iakovos Rizos",
+  "wikiTitle": "Iakovos Rizos",
+  "qid": "Q16744732",
+  "birthYear": 1849,
+  "deathYear": 1926,
+  "tagline": "Greek painter",
+  "bio": "Iakovos Rizos or Iacovos Rizos, also known as Jacques Rizo, was a Greek painter who worked primarily in Paris.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/%22Sur_la_terrasse%22_de_I._Rizos_%28mus%C3%A9e_du_Louvre%2C_Paris%29_%2851578149835%29.jpg",
+  "portraitWidth": 6378,
+  "portraitHeight": 4073,
+  "portraitCredit": {
+    "author": "Jean-Pierre Dalbéra",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%22Sur_la_terrasse%22_de_I._Rizos_(mus%C3%A9e_du_Louvre,_Paris)_(51578149835).jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Iakovos_Rizos",
+  "paintings": [
+    {
+      "slug": "on-the-terrace-q114598154",
+      "title": "On the terrace",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/%22Sur_la_terrasse%22_de_I._Rizos_%28mus%C3%A9e_du_Louvre%2C_Paris%29_%2851578149835%29.jpg",
+      "imageWidth": 6378,
+      "imageHeight": 4073,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q114598154",
+      "imageBytes": 30048697,
+      "imageCredit": {
+        "author": "Jean-Pierre Dalbéra",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:%22Sur_la_terrasse%22_de_I._Rizos_(mus%C3%A9e_du_Louvre,_Paris)_(51578149835).jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

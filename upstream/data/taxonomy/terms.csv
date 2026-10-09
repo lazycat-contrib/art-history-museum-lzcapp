@@ -1,0 +1,364 @@
+term_id,kind,name,parent_id,start_year,end_year,place,qid,description
+era:antiquity,era,Antiquity,,-3000,500,,,"Egypt, Greece and Rome, to the end of the Western Roman Empire; Fayum portraits and Greek vase painting"
+era:medieval,era,Medieval,,500,1400,,Q3624153,"Art of the European Middle Ages, from late Antiquity to the first stirrings of the Renaissance."
+era:renaissance,era,Renaissance,,1400,1600,,Q4692,The revival of classical learning and naturalistic painting that began in Italy and spread north.
+era:baroque,era,Baroque,,1600,1720,,,"The age of dramatic light, movement and grandeur in seventeenth-century European painting."
+era:eighteenth-century,era,Eighteenth century,,1720,1800,,,From the playful elegance of the Rococo to the sober ideals of Neoclassicism.
+era:nineteenth-century,era,Nineteenth century,,1800,1900,,,"A century of Romantics, academies, realists and the Impressionist break with tradition."
+era:modern,era,Modern,,1900,1945,,Q38166,"The early twentieth-century avant-gardes, from Fauvism and Cubism to Surrealism."
+era:post-war,era,Post-war and contemporary,,1945,2026,,,"Art since the Second World War, from Abstract Expressionism to the present day."
+tradition:byzantine,tradition,Byzantine and post-Byzantine painting,,330,1830,,,Icon and wall painting of the Eastern Roman world and its Orthodox successors.
+tradition:east-asian,tradition,East Asian painting,,600,2026,,,"Ink, colour and woodblock traditions of China, Japan and Korea."
+tradition:south-asian,tradition,South Asian painting,,1000,1950,,,"Manuscript, miniature and court painting of the Indian subcontinent."
+tradition:islamic,tradition,Islamic and Persian painting,,1200,1900,,,"Book illustration and miniature painting of the Persian, Ottoman and wider Islamic courts."
+tradition:latin-american-colonial,tradition,Colonial Latin American painting,,1530,1820,,,Religious and portrait painting made in the Spanish and Portuguese viceroyalties of the Americas.
+period:chinese-painting,period,Chinese Painting,tradition:east-asian,950,1950,China,Q919348,"Brush-and-ink painting of landscapes, birds and flowers across China's dynasties."
+period:medieval-gothic,period,Medieval & Gothic,era:medieval,1200,1400,,,"Gothic altarpieces, panels and illuminations of late medieval Europe."
+period:persian-miniature,period,Persian Miniature,tradition:islamic,1300,1700,Iran,Q678664,Jewel-like manuscript painting of the Persian court workshops.
+period:early-renaissance,period,Early Renaissance,era:renaissance,1400,1495,Italy,,"Fifteenth-century Italian painting rediscovering perspective, anatomy and antiquity."
+period:japanese-painting,period,Japanese Painting,tradition:east-asian,1400,1900,Japan,Q1683295,"Japanese screen, scroll and ink painting from the Muromachi to the Meiji era."
+period:northern-renaissance,period,Northern Renaissance,era:renaissance,1420,1580,Northern Europe,,"Renaissance painting north of the Alps, prized for oil technique and minute detail."
+period:cretan-school,period,Cretan & Ionian Schools,tradition:byzantine,1450,1830,Greece,Q1378978,"Icon painting of Venetian Crete and the Ionian Islands, blending Byzantine and Italian manners."
+period:high-renaissance,period,High Renaissance,era:renaissance,1495,1530,Italy,,"The brief classical summit of Leonardo, Raphael and Michelangelo."
+period:mannerism,period,Mannerism,era:renaissance,1520,1600,Italy,,"Late Renaissance style of elongated figures, artifice and unusual colour."
+period:cusco-school,period,Colonial Latin American Painting,tradition:latin-american-colonial,1550,1800,Latin America,Q3108623,"Devotional painting of the Andean and Mexican viceroyalties, rich in gold and local detail."
+period:indian-painting,period,Indian Painting,tradition:south-asian,1550,1950,India,Q2744438,"Mughal, Rajput, Deccani and Company painting of the Indian subcontinent."
+period:dutch-golden-age,period,Dutch Golden Age,era:baroque,1588,1720,Netherlands,Q2352880,"Seventeenth-century Dutch painting of everyday life, landscapes and still lifes."
+period:baroque,period,Baroque,era:baroque,1600,1725,,,Theatrical seventeenth-century painting of strong contrasts and movement.
+period:ukiyo-e,period,Ukiyo-e,tradition:east-asian,1670,1900,Japan,Q185905,Japanese woodblock prints and paintings of the 'floating world'.
+period:rococo,period,Rococo,era:eighteenth-century,1700,1780,,,"Light, ornamental and pastel-toned painting of eighteenth-century courts."
+period:neoclassicism,period,Neoclassicism,era:eighteenth-century,1760,1830,,,"A return to classical clarity, order and moral seriousness."
+period:romanticism,period,Romanticism,era:nineteenth-century,1780,1850,,,"Painting of emotion, the sublime, nature and national feeling."
+period:hudson-river-school,period,Hudson River School,era:nineteenth-century,1825,1880,United States,Q943853,Grand American landscape painting celebrating the wilderness.
+period:academic-art,period,Academic Art,era:nineteenth-century,1830,1900,,,Polished painting shaped by the European academies and official salons.
+period:realism,period,Realism,era:nineteenth-century,1840,1880,,,Unidealised depictions of ordinary people and contemporary life.
+period:pre-raphaelites,period,Pre-Raphaelites,era:nineteenth-century,1848,1900,United Kingdom,Q184814,British painters reviving the detail and colour of art before Raphael.
+period:impressionism,period,Impressionism,era:nineteenth-century,1860,1895,,,"Painting of light, atmosphere and the fleeting moment, often outdoors."
+period:symbolism,period,Symbolism & Art Nouveau,era:nineteenth-century,1880,1915,,,"Dream, myth and decoration at the turn of the twentieth century."
+period:post-impressionism,period,Post-Impressionism,era:nineteenth-century,1885,1910,,,"Painters who pushed past Impressionism toward structure, colour and expression."
+period:fauvism,period,Fauvism,era:modern,1904,1910,,Q166593,"Short-lived explosion of pure, unnatural colour around Matisse."
+period:expressionism,period,Expressionism,era:modern,1905,1935,,,Distorted form and intense colour used to convey inner feeling.
+period:cubism,period,Cubism,era:modern,1907,1925,,,The fragmentation of objects into multiple viewpoints and planes.
+period:abstract-art,period,Abstract Art,era:modern,1910,1945,,,The pioneering move away from depicting recognisable subjects.
+period:american-modernism,period,American Modernism,era:modern,1913,1960,United States,Q4745501,American painters absorbing and adapting European modernism.
+period:group-of-seven,period,Group of Seven,era:modern,1913,1935,Canada,Q1547741,Canadian landscape painters forging a national style from the northern wilderness.
+period:mexican-muralism,period,Mexican Muralism,era:modern,1920,1970,Mexico,Q938864,Monumental public murals telling Mexico's history and social struggle.
+period:surrealism,period,Surrealism,era:modern,1924,1955,,,"Art of dreams, chance and the unconscious mind."
+period:abstract-expressionism,period,Abstract Expressionism,era:post-war,1943,1965,United States,,"Large, gestural or colour-field abstraction centred on New York."
+period:contemporary,period,Contemporary,era:post-war,1945,2026,,,Art from the post-war decades to the present.
+period:pop-art,period,Pop Art,era:post-war,1955,1975,,,"Art borrowing from advertising, comics and mass-produced imagery."
+movement:byzantine-art,movement,Byzantine art,tradition:byzantine,330,1453,,Q211884,"Icons, mosaics and frescoes of the Eastern Roman Empire."
+movement:ink-and-wash-painting,movement,Ink and Wash Painting,tradition:east-asian,700,,China; Japan; Korea,Q756712,East Asian brush painting in black ink diluted to many tones.
+movement:romanesque-art,movement,Romanesque art,era:medieval,1000,1200,,Q46805,"Bold, stylised church art of eleventh- and twelfth-century Europe."
+movement:gothic-art,movement,Gothic art,period:medieval-gothic,1150,1450,,Q46825,"Late medieval art of slender figures, gold grounds and rich colour."
+movement:proto-renaissance,movement,Proto-Renaissance,period:medieval-gothic,1250,1400,Italy,Q979160,Italian painting of Giotto's age that foreshadowed the Renaissance.
+movement:international-gothic,movement,International Gothic,movement:gothic-art,1375,1450,,Q867769,"Courtly late Gothic style of elegant line, rich colour and fine detail shared across Europe."
+movement:early-renaissance,movement,Early Renaissance,period:early-renaissance,1400,1495,Italy,Q1472236,Fifteenth-century Italian painting of perspective and naturalism.
+movement:northern-renaissance,movement,Northern Renaissance,period:northern-renaissance,1420,1580,Northern Europe,Q610877,Detailed oil painting of the Low Countries and Germany.
+movement:high-renaissance,movement,High Renaissance,period:high-renaissance,1495,1530,Italy,Q1474884,"Harmonious, idealised classicism of the early sixteenth century."
+movement:mannerism-late-renaissance,movement,Mannerism,period:mannerism,1520,1600,Italy,Q131808,"Late Renaissance style of elegance, artifice and elongated figures."
+movement:baroque,movement,Baroque,period:baroque,1600,1725,,Q37853,"Dramatic light, movement and emotion in seventeenth-century painting."
+movement:tenebrism,movement,Tenebrism,movement:baroque,1600,1660,,Q1464842,Dramatic Caravaggesque lighting with figures emerging from deep darkness.
+movement:zenga,movement,Zenga,movement:ink-and-wash-painting,1600,,Japan,Q8069073,Spontaneous ink painting and calligraphy by Japanese Zen monks.
+movement:rococo,movement,Rococo,period:rococo,1720,1780,France,Q122960,"Graceful, decorative painting of leisure and love in pastel tones."
+movement:neoclassicism,movement,Neoclassicism,period:neoclassicism,1760,1830,,Q14378,"Classical subjects and clear, restrained form inspired by antiquity."
+movement:romanticism,movement,Romanticism,period:romanticism,1780,1850,,Q37068,"Emotion, imagination and the sublime power of nature."
+movement:orientalism,movement,Orientalism,era:nineteenth-century,1800,1920,,Q42865,"Western paintings of North African, Middle Eastern and Asian scenes, often romanticised."
+movement:biedermeier,movement,Biedermeier,era:nineteenth-century,1815,1848,Austria; Germany,Q154432,"Modest, intimate middle-class portraiture and genre painting of Central Europe."
+movement:academic-art,movement,Academic art,period:academic-art,1830,1900,,Q189458,Highly finished painting taught and rewarded by the academies and salons.
+movement:costumbrismo,movement,Costumbrismo,era:nineteenth-century,1830,1900,Spain,Q1136545,"Paintings of local customs, dress and everyday life in Spain and the Spanish-speaking world."
+movement:realism,movement,Realism,period:realism,1840,1880,France,Q10857409,Truthful painting of everyday people and places without idealisation.
+movement:luminism,movement,Luminism,period:hudson-river-school,1850,1875,United States,Q3272569,"American landscape style of calm, glowing light and hidden brushwork."
+movement:aestheticism,movement,Aestheticism,era:nineteenth-century,1860,1900,United Kingdom,Q256922,Art for art's sake: beauty valued above moral or narrative purpose.
+movement:arts-and-crafts,movement,Arts and Crafts,era:nineteenth-century,1860,1920,United Kingdom,Q330369,Revival of handcraft and decorative arts against industrial production.
+movement:impressionism,movement,Impressionism,period:impressionism,1860,1895,France,Q40415,Loose brushwork capturing light and passing moments of modern life.
+movement:japonism,movement,Japonism,era:nineteenth-century,1860,1910,,Q751880,"Western art borrowing motifs, flat colour and composition from Japanese prints."
+movement:naturalism,movement,Naturalism,period:realism,1870,1900,,Q55995,"Faithful, detailed rendering of nature and rural life."
+movement:neo-romanticism,movement,Neo-Romanticism,era:modern,1880,1955,,Q397469,Revival of Romantic mood and landscape feeling in modern painting.
+movement:symbolism,movement,Symbolism,period:symbolism,1880,1910,,Q164800,Mystical and allegorical imagery suggesting ideas beyond the visible.
+movement:tonalism,movement,Tonalism,era:nineteenth-century,1880,1915,United States,Q1786363,"Soft, atmospheric American landscapes in muted tones."
+movement:naive-art-primitivism,movement,Naïve art,era:modern,1885,2026,,Q281108,"Direct, untrained-looking art with simple forms and bright colour."
+movement:pictorialism,movement,Pictorialism,era:nineteenth-century,1885,1915,,Q851869,Photography styled to look like painting or printmaking.
+movement:divisionism,movement,Divisionism,movement:neo-impressionism,1886,1915,,Q2487023,Painting with colours separated into distinct strokes or patches that interact optically.
+movement:neo-impressionism,movement,Neo-Impressionism,movement:post-impressionism,1886,1910,France,Q150091,Colour-theory approach building images from separated strokes of pure colour.
+movement:pointillism,movement,Pointillism,movement:neo-impressionism,1886,1910,France,Q200034,Technique of small dots of pure colour that blend optically at a distance.
+movement:post-impressionism,movement,Post-Impressionism,period:post-impressionism,1886,1910,France,Q166713,Diverse painters who gave Impressionism new structure and expression.
+movement:cloisonnism,movement,Cloisonnism,movement:post-impressionism,1888,1895,France,Q889525,"Flat areas of bold colour enclosed by dark contours, like cloisonne enamel."
+movement:art-nouveau,movement,Art Nouveau,period:symbolism,1890,1914,,Q34636,Decorative style of flowing organic lines in art and design.
+movement:modernismo,movement,Modernismo,era:modern,1890,1940,,,Modernist currents of the Spanish- and Portuguese-speaking world.
+movement:secession,movement,Secession,period:symbolism,1892,1914,Central Europe,Q1210725,"Breakaway artist groups of Munich, Vienna and Berlin."
+movement:new-realism-american-realism,movement,American realism,period:american-modernism,1900,1950,United States,Q4745527,Realist views of everyday American city and small-town life.
+movement:sosaku-hanga,movement,Sōsaku hanga,tradition:east-asian,1904,1970,Japan,Q1518145,"Creative prints designed, carved and printed by the artist alone."
+movement:expressionism,movement,Expressionism,period:expressionism,1905,1935,Germany,Q80113,Bold distortion and colour expressing emotional experience.
+movement:cubism,movement,Cubism,period:cubism,1907,1925,Paris,Q42934,Objects broken into facets and seen from several viewpoints at once.
+movement:analytical-cubism,movement,Analytical Cubism,movement:cubism,1909,1912,France,Q3006706,Early Cubism that breaks objects into faceted planes in a muted palette.
+movement:futurism,movement,Futurism,era:modern,1909,1944,Italy,Q131221,"Celebration of speed, machines and the dynamism of modern life."
+movement:art-deco,movement,Art Deco,era:modern,1910,1940,France,Q173782,"Streamlined, geometric and luxurious modern design style."
+movement:metaphysical-art,movement,Metaphysical art,era:modern,1911,1920,Italy,Q753683,"Eerie, silent city squares and still lifes of de Chirico's circle."
+movement:cubo-futurism,movement,Cubo-Futurism,movement:cubism,1912,1915,Russia,Q1400843,Russian fusion of Cubist form and Futurist dynamism.
+movement:orphism-simultanism,movement,Orphism,movement:cubism,1912,1914,Paris,Q519443,Lyrical Cubist abstraction built on contrasting colour.
+movement:synthetic-cubism,movement,Synthetic Cubism,movement:cubism,1912,1919,France,Q3006708,"Later Cubism of simpler, flatter shapes, brighter colour and collage."
+movement:constructivism,movement,Constructivism,period:abstract-art,1913,1940,Russia,Q207103,"Abstract, industrial-minded art serving social purpose."
+movement:vorticism,movement,Vorticism,era:modern,1914,1918,London,Q915841,"British avant-garde of angular, dynamic machine-age forms."
+movement:new-culture-movement-1915-1926,movement,New Culture Movement,period:chinese-painting,1915,1926,China,Q852377,Chinese reform movement that reshaped art and letters.
+movement:precisionism,movement,Precisionism,period:american-modernism,1915,1945,United States,Q1578378,"Crisp, geometric images of American industry and architecture."
+movement:shin-hanga,movement,Shin-hanga,period:ukiyo-e,1915,1960,Japan,Q842183,Revival of ukiyo-e woodblock printing with Western light and atmosphere.
+movement:suprematism,movement,Suprematism,period:abstract-art,1915,1935,Russia,Q191970,Malevich's abstraction of pure geometric forms.
+movement:dada,movement,Dada,era:modern,1916,1924,Zurich,Q6034,Anti-art provocation and nonsense born in reaction to the First World War.
+movement:de-stijl-neoplasticism,movement,De Stijl,period:abstract-art,1917,1931,Netherlands,Q207445,Dutch abstraction of primary colours and right angles.
+movement:harlem-renaissance-new-negro-movement,movement,Harlem Renaissance,period:american-modernism,1918,1937,New York,Q829895,Flowering of African American art and culture centred on Harlem.
+movement:purism,movement,Purism,period:cubism,1918,1925,Paris,Q478774,"Ordered, machine-age still lifes reacting against decorative Cubism."
+movement:new-objectivity-neue-sachlichkeit,movement,New Objectivity,era:modern,1919,1933,Germany,Q160218,"Cool, sharp-edged realism of Weimar Germany."
+movement:muralism,movement,Muralism,period:mexican-muralism,1920,1970,Mexico,,Large public wall paintings with social and historical themes.
+movement:poster-art-realism,movement,Poster art realism,era:modern,1920,2000,,,"Glossy, illustrative realism in the style of posters and pin-ups."
+movement:social-realism,movement,Social realism,era:modern,1920,1950,,Q837024,Realist art drawing attention to social and political hardship.
+movement:surrealism,movement,Surrealism,period:surrealism,1924,1966,Paris,Q39427,Dream imagery and automatism unlocking the unconscious.
+movement:magic-realism,movement,Magic realism,era:modern,1925,1970,,Q147516,Precise realism charged with an uncanny or dreamlike atmosphere.
+movement:regionalism,movement,Regionalism,period:american-modernism,1928,1945,United States,Q15838173,"Realist scenes of rural American life, especially the Midwest."
+movement:concrete-art-concretism,movement,Concrete art,period:abstract-art,1930,1970,,Q10822316,"Geometric abstraction built from pure, rational elements."
+movement:socialist-realism,movement,Socialist realism,era:modern,1932,1991,Soviet Union,Q180902,Officially sanctioned art glorifying Communist ideals and workers.
+movement:abstract-expressionism,movement,Abstract Expressionism,period:abstract-expressionism,1943,1965,New York,Q177725,Gestural and colour-field abstraction of the New York School.
+movement:art-informel,movement,Art Informel,era:post-war,1945,1965,Paris,Q1054254,"European post-war abstraction of spontaneous, unstructured gesture and matter."
+movement:existential-art,movement,Existential art,era:post-war,1945,1965,,,"Post-war art of anxiety, isolation and the human condition."
+movement:lettrism,movement,Lettrism,era:post-war,1945,1970,Paris,Q768100,Art built from letters and signs rather than words.
+movement:lyrical-abstraction,movement,Lyrical Abstraction,movement:abstract-art,1945,1980,,Q1147263,"Loose, expressive, colour-led abstraction that followed Abstract Expressionism and Art Informel."
+movement:haute-pate-matter-painting,movement,Matter painting,movement:art-informel,1945,1965,,Q3299172,"Thick, textured paint and materials built up like relief."
+movement:outsider-art-art-brut,movement,Outsider art,era:post-war,1945,2026,,Q594150,Art made by self-taught creators outside the art world.
+movement:tachisme,movement,Tachisme,movement:art-informel,1945,1960,Paris,Q372600,French abstraction of spontaneous blots and marks of paint.
+movement:fantastic-realism,movement,Fantastic Realism,movement:surrealism,1946,,,Q1745141,"Visionary, meticulously detailed imagery in the line of the Vienna School of Fantastic Realism."
+movement:indian-space-painting,movement,Indian Space painting,period:american-modernism,1946,1952,New York,,American abstraction drawing on Native American design.
+movement:action-painting,movement,Action Painting,movement:abstract-expressionism,1947,1960,United States,Q217213,"Gestural Abstract Expressionism in which paint is dripped, flung or swept across the canvas."
+movement:color-field-painting,movement,Color Field Painting,movement:abstract-expressionism,1947,1970,United States,Q1164982,"Abstraction built from broad, flat fields of saturated colour rather than gesture."
+movement:spatialism,movement,Spatialism,era:post-war,1947,1968,Italy,Q2297997,"Fontana's art of space, light and the pierced canvas."
+movement:junk-art,movement,Junk art,era:post-war,1950,2026,,,"Art assembled from scrap, waste and discarded materials."
+movement:kinetic-art,movement,Kinetic art,era:post-war,1950,1975,,Q466521,Art that moves or appears to move.
+movement:neo-dada,movement,Neo-Dada,era:post-war,1953,1966,,Q935292,Everyday objects and absurdity reviving the Dada spirit.
+movement:soviet-nonconformist-art,movement,Soviet nonconformist art,era:post-war,1953,1986,Soviet Union,Q1134449,Unofficial art made outside the constraints of Socialist Realism.
+movement:pop-art,movement,Pop art,period:pop-art,1955,1975,,Q134147,"Imagery from consumer culture, comics and advertising."
+movement:korean-informel,movement,Korean Informel,movement:art-informel,1957,1970,South Korea,,Korean post-war gestural abstraction inspired by Art Informel.
+movement:hard-edge-painting,movement,Hard-edge Painting,movement:post-painterly-abstraction,1958,1975,United States,Q369418,"Abstraction made of crisp, clean-edged areas of flat colour."
+movement:neo-concretism,movement,Neo-Concretism,movement:concrete-art-concretism,1959,1961,Brazil,Q10336205,Brazilian break with rigid Concrete art toward participation and the senses.
+movement:contemporary-realism,movement,Contemporary realism,era:post-war,1960,2026,,Q5165033,"Recent painters committed to observed, representational imagery."
+movement:cyberart,movement,Cyberart,era:post-war,1960,2026,,Q5197753,"Art made with computers, electronics and digital media."
+movement:fiber-art,movement,Fiber art,era:post-war,1960,2026,,Q5446356,"Art made from textiles, yarn and woven materials."
+movement:light-and-space,movement,Light and Space,era:post-war,1960,2026,Los Angeles,Q6546135,"Perceptual art of light, transparency and space."
+movement:mail-art,movement,Mail art,era:post-war,1960,2026,,Q843393,Art sent through the postal system as a network practice.
+movement:minimalism,movement,Minimalism,era:post-war,1960,1975,United States,Q173436,Pared-down geometric forms and industrial materials.
+movement:neo-figurative-art,movement,Neo-figurative art,era:post-war,1960,1980,,Q2268037,Expressive return to the human figure after abstraction.
+movement:new-generation-sculpture,movement,New Generation sculpture,era:post-war,1960,1970,United Kingdom,,British abstract sculpture in coloured industrial materials.
+movement:nouveau-realisme,movement,Nouveau réalisme,era:post-war,1960,1970,Paris,Q276308,French art appropriating real objects and urban debris.
+movement:op-art,movement,Op art,era:post-war,1960,1975,,Q182331,Abstract patterns that create optical illusions of movement.
+movement:performance-art,movement,Performance art,era:post-war,1960,2026,,Q213156,Live actions by the artist as the work itself.
+movement:post-painterly-abstraction,movement,Post-painterly abstraction,era:post-war,1960,1975,United States,Q1962478,"Open, flat colour abstraction following Abstract Expressionism."
+movement:abstract-illusionism,movement,Abstract illusionism,era:post-war,1965,1985,United States,Q4669924,Abstract painting using shadows and depth cues to fool the eye.
+movement:conceptual-art,movement,Conceptual art,era:post-war,1965,2026,,Q203209,Art in which the idea matters more than the finished object.
+movement:feminist-art,movement,Feminist art,era:post-war,1965,2026,,Q1246516,Art questioning gender roles and centring women's experience.
+movement:post-minimalism,movement,Post-minimalism,era:post-war,1966,1980,United States,Q2394116,"Process, materials and the body after the strictness of Minimalism."
+movement:arte-povera,movement,Arte Povera,era:post-war,1967,1972,Italy,Q576913,"Italian art made from humble, everyday materials."
+movement:environmental-art-land-art,movement,Land art,era:post-war,1967,1980,United States,Q326478,Works made in and from the landscape itself.
+movement:photorealism-super-realism-hyper-realism,movement,Photorealism,era:post-war,1968,2026,United States,Q939559,Paintings reproducing photographs with meticulous precision.
+movement:lowbrow-art,movement,Lowbrow art,era:post-war,1970,2026,Los Angeles,Q1784728,"Pop-surreal art rooted in comics, hot-rod and underground culture."
+movement:street-art,movement,Street art,era:post-war,1970,2026,,Q17516,"Art made in public urban space, from graffiti to murals."
+movement:neo-expressionism,movement,Neo-Expressionism,era:post-war,1975,1990,,Q589655,"Return to raw, figurative and emotional painting in the late 1970s and 1980s."
+movement:neo-orthodoxism,movement,Neo-Orthodoxism,era:post-war,1975,2026,Romania,,Romanian painting reinterpreting Orthodox spirituality in modern form.
+movement:p-d-pattern-and-decoration,movement,Pattern and Decoration,era:post-war,1975,1985,United States,Q7148372,"Celebration of ornament, textiles and pattern in painting."
+movement:new-image-painting,movement,New Image painting,era:post-war,1978,1990,United States,,"American painting of bold, simplified images after Minimalism."
+movement:transavantgarde,movement,Transavantgarde,movement:neo-expressionism,1979,1990,Italy,Q224885,"Italian return to figurative, mythic painting around 1980."
+movement:classical-realism,movement,Classical realism,era:post-war,1980,2026,,,Atelier-trained painting reviving academic drawing and technique.
+movement:neo-minimalism-neo-geo,movement,Neo-Geo,era:post-war,1980,1995,New York,Q432026,Cool geometric abstraction of the 1980s critiquing commodity culture.
+movement:neo-pop-art,movement,Neo-pop,movement:pop-art,1980,2026,,Q3347103,Revival of Pop imagery and strategies from the 1980s onward.
+movement:maximalism,movement,Maximalism,era:post-war,1985,2026,China,Q2246318,Chinese abstraction of dense repetition and process.
+movement:relational-art,movement,Relational art,era:post-war,1990,2026,,Q2566149,Art built around social encounters and shared situations.
+movement:stuckism,movement,Stuckism,era:post-war,1999,2026,London,Q1351977,Anti-conceptual movement championing figurative painting.
+movement:provisional-painting-new-casualism,movement,Provisional painting,era:post-war,2000,2026,,,"Deliberately casual, unfinished-looking abstract painting."
+movement:modernism,umbrella,Modernism,era:modern,1860,1970,,Q878985,Umbrella for the many movements that broke with tradition in modern art.
+movement:avant-garde,umbrella,Avant-garde,era:modern,1900,1940,,Q102932,Radical experimental art pushing against established norms.
+movement:kitsch,umbrella,Kitsch,era:post-war,1900,2026,,Q131711,Sentimental or popular imagery valued for appeal over innovation.
+movement:abstract-art,umbrella,Abstract art,period:abstract-art,1910,2026,,Q128115,"Non-representational art of shape, colour and line, across many movements."
+movement:contemporary,umbrella,Contemporary art,period:contemporary,1945,2026,,Q186030,Broad label for art of recent decades not tied to one movement.
+movement:native-art,umbrella,Indigenous art,era:post-war,1945,2026,,,"Art by Indigenous artists of Australia, the Americas and elsewhere."
+movement:new-european-painting,umbrella,New European Painting,period:contemporary,1980,2026,,,Recent European painting renewing the medium after conceptualism.
+movement:tang-dynasty-618907,historical-period,Tang dynasty,tradition:east-asian,618,907,China,Q9683,Chinese art of the cosmopolitan Tang era.
+movement:northern-song-dynasty-9601126,historical-period,Northern Song dynasty,period:chinese-painting,960,1127,China,,Chinese monumental landscape painting of the Northern Song.
+movement:yuan-dynasty-12711368,historical-period,Yuan dynasty,period:chinese-painting,1271,1368,China,Q7313,Chinese scholar painting under Mongol rule.
+movement:muromachi-period-13921573,historical-period,Muromachi period,period:japanese-painting,1336,1573,Japan,Q334845,Japanese ink painting of the Ashikaga shogunate.
+movement:ming-dynasty-13681644,historical-period,Ming dynasty,period:chinese-painting,1368,1644,China,Q9903,Chinese painting under the Ming emperors.
+movement:safavid-period-before-1600,historical-period,Safavid period,period:persian-miniature,1501,1600,Iran,Q2366921,Persian court painting of the early Safavid shahs.
+movement:ottoman-period-after-1600,historical-period,Ottoman period,tradition:islamic,1600,1922,Turkey,Q268639,Ottoman miniature and court painting after 1600.
+movement:edo-period-16031867,historical-period,Edo period,period:japanese-painting,1603,1867,Japan,Q184963,Japanese art under the Tokugawa shogunate.
+movement:qing-dynasty-16441912,historical-period,Qing dynasty,period:chinese-painting,1644,1912,China,Q8733,Chinese painting under the Qing emperors.
+movement:meiji-period-18681912,historical-period,Meiji period,period:japanese-painting,1868,1912,Japan,Q3125096,Japanese art during the rapid modernisation of the Meiji era.
+movement:republic-of-china-19121949,historical-period,Republic of China (1912–1949),period:chinese-painting,1912,1949,China,Q13426199,"Chinese art of the Republican era, between tradition and Westernisation."
+movement:taisho-period-19121926,historical-period,Taishō period,tradition:east-asian,1912,1926,Japan,Q329174,Japanese art made during the reign of Emperor Taishō.
+movement:showa-period-19261989,historical-period,Shōwa period,tradition:east-asian,1926,1989,Japan,Q327567,Japanese art made during the reign of Emperor Shōwa.
+school:sienese-school,school,Sienese School,period:medieval-gothic,1260,1550,"Siena, Italy",Q1332178,"Painters of Siena, from Duccio and Simone Martini, known for gold grounds and elegant line."
+school:florentine-school,school,Florentine School,era:renaissance,1300,1600,"Florence, Italy",Q3357314,"Painters of Florence from Giotto's heirs through the Renaissance, prizing drawing and naturalism."
+school:lombard-school,school,Lombard School,era:renaissance,1400,1600,"Milan and Lombardy, Italy",Q3578035,"Painters of Milan and Lombardy, including the Leonardeschi."
+school:flemish-school,school,Flemish School,movement:northern-renaissance,1420,1700,Flanders (Belgium),Q3307709,Painters of the southern Netherlands from the early Netherlandish masters to the Flemish Baroque.
+school:bruges-school,school,Bruges School,movement:northern-renaissance,1430,1530,"Bruges, Belgium",Q1862938,Painters active in Bruges from Jan van Eyck to Memling and Gerard David.
+school:venetian-school,school,Venetian School,era:renaissance,1440,1600,"Venice, Italy",Q610687,"Renaissance painters of Venice, celebrated for colour, light and oil glazing."
+school:ferrara-school,school,Ferrara School,period:early-renaissance,1450,1550,"Ferrara, Italy",Q1407578,"Painters of the Este court at Ferrara, from Tura and Cossa to Dosso Dossi."
+school:german-school,school,German School,movement:northern-renaissance,1450,1600,Germany,,"Umbrella term for German painters, chiefly of the Renaissance era of Dürer and Grünewald."
+school:umbrian-school,school,Umbrian School,era:renaissance,1450,1530,"Perugia, Umbria, Italy",Q2478178,"Renaissance painters of Umbria, led by Perugino and including the young Raphael."
+school:antwerp-school,school,Antwerp School,movement:northern-renaissance,1500,1700,"Antwerp, Belgium",Q2107376,Painters active in Antwerp from the 16th-century Mannerists to the Baroque workshops.
+school:seville-school,school,Seville School,movement:baroque,1550,1700,"Seville, Spain",,"Painters of Seville's Golden Age, from Pacheco and Herrera to Velázquez and Murillo."
+school:bolognese-school,school,Bolognese School,movement:baroque,1580,1700,"Bologna, Italy",Q891532,"Painters of Bologna in the wake of the Carracci academy, from Reni to Guercino."
+school:dutch-school,school,Dutch School,period:dutch-golden-age,1580,1720,Netherlands,Q3111286,"Umbrella term for painters of the northern Netherlands, above all of the 17th-century Golden Age."
+school:caravaggisti,school,Caravaggisti,movement:baroque,1600,1650,"Rome, Italy and across Europe",Q62506,Followers of Caravaggio who adopted his dramatic chiaroscuro and naturalism.
+school:haarlem-school,school,Haarlem School,period:dutch-golden-age,1600,1700,"Haarlem, Netherlands",Q2315766,"Painters of 17th-century Haarlem, from Frans Hals to the landscape and genre specialists."
+school:utrecht-school,school,Utrecht Caravaggisti,movement:baroque,1610,1640,"Utrecht, Netherlands",Q1628039,Utrecht painters who brought Caravaggio's style home from Rome.
+school:delft-school,school,Delft School,period:dutch-golden-age,1650,1680,"Delft, Netherlands",Q252645,"Delft painters of the 1650s and 60s known for quiet interiors and light, such as Vermeer and de Hooch."
+school:english-school,school,English School,era:eighteenth-century,1700,1850,"England, UK",,"Umbrella term for English painters of the Georgian era, from Hogarth to Constable."
+school:utagawa-school,school,Utagawa School,period:ukiyo-e,1770,1900,"Edo (Tokyo), Japan",Q2297646,"The largest school of ukiyo-e print designers, founded by Utagawa Toyoharu."
+school:birmingham-school,school,Birmingham School,era:nineteenth-century,1800,1900,"Birmingham, England, UK",,Landscape and watercolour painters active in or trained in 19th-century Birmingham.
+school:norwich-school,school,Norwich School of Painters,movement:romanticism,1803,1833,"Norwich, England, UK",Q2141991,"Provincial landscape school around Crome and Cotman, the first of its kind in Britain."
+school:dusseldorf-school-of-painting,school,Düsseldorf School of Painting,movement:romanticism,1819,1918,"Düsseldorf, Germany",Q680559,"Painters trained at the Düsseldorf Academy, known for detailed, romantic landscapes and genre scenes."
+school:hudson-river-school,school,Hudson River School,period:hudson-river-school,1825,1880,"Hudson River Valley, New York, USA",,American landscape painters who depicted the wilderness of the Hudson Valley and the West.
+school:barbizon-school,school,Barbizon School,movement:realism,1830,1870,"Barbizon, France",Q143357,French landscape painters who worked from nature in and around the Forest of Fontainebleau.
+school:munich-school,school,Munich School,movement:academic-art,1850,1914,"Munich, Germany and Greece",Q319973,"Realist academic painting taught at the Munich Academy, central to 19th-century Greek art."
+school:american-barbizon-school,school,American Barbizon School,movement:realism,1855,1900,USA,Q133910,American landscape painters inspired by the French Barbizon painters.
+school:hague-school,school,Hague School,movement:realism,1860,1890,"The Hague, Netherlands",Q1232633,"Dutch painters of grey-toned landscapes and fishing life, inspired by Barbizon."
+school:skagen-painters,school,Skagen Painters,movement:naturalism,1870,1910,"Skagen, Denmark",Q726483,Scandinavian artists' colony painting fishermen and luminous seascapes at Denmark's northern tip.
+school:newlyn-school,school,Newlyn School,movement:naturalism,1880,1940,"Newlyn, Cornwall, UK",Q557532,Artists' colony in Cornwall that painted fishing life outdoors in a naturalist style.
+school:heidelberg-school,school,Heidelberg School,movement:impressionism,1886,1900,"Melbourne, Australia",Q3032335,"Australian plein-air painters who captured local light and bush life, often called Australian Impressionism."
+school:pont-aven-school,school,Pont-Aven School,movement:post-impressionism,1886,1896,"Pont-Aven, Brittany, France",Q382056,"Artists around Gauguin in Brittany who developed flat, synthetic colour and cloisonné outlines."
+school:cos-cob-art-colony,school,Cos Cob Art Colony,movement:impressionism,1890,1920,"Cos Cob, Connecticut, USA",Q5173827,"Connecticut colony where Twachtman, Hassam and others practised American Impressionism."
+school:glasgow-school,school,Glasgow School,movement:art-nouveau,1890,1910,"Glasgow, Scotland, UK",Q1255562,"Glasgow's version of Art Nouveau, shaped by Mackintosh and the Macdonald sisters."
+school:brandywine-school,school,Brandywine School,era:modern,1898,1940,"Brandywine Valley, Pennsylvania and Delaware, USA",Q4957289,Illustrators taught by Howard Pyle in the Brandywine Valley.
+school:ashcan-school,school,Ashcan School,movement:new-realism-american-realism,1900,1920,"New York, USA",Q724976,Realists who painted the everyday life of New York's streets and poorer neighbourhoods.
+school:ecole-de-paris,school,École de Paris (School of Paris),era:modern,1900,1960,"Paris, France",Q273506,Loose community of French and émigré artists working in Paris in the first half of the 20th century.
+school:bengal-school,school,Bengal School,period:indian-painting,1905,1940,"Kolkata, India",Q948504,"Nationalist Indian painting revival led by Abanindranath Tagore, drawing on Mughal and Asian traditions."
+school:balchik-school,school,Balchik School,era:modern,1920,1940,"Balchik (Balcic), Romania (now Bulgaria)",,Romanian modernists who painted the light and Tatar quarters of the Black Sea town of Balcic between the wars.
+school:mexican-mural-renaissance,school,Mexican Mural Renaissance,period:mexican-muralism,1920,1970,Mexico,,State-sponsored public mural painting that told Mexico's history after the Revolution.
+school:scuola-romana,school,Scuola Romana,era:modern,1928,1945,"Rome, Italy",Q3578343,"Roman painters of the interwar years with an expressive, often melancholy figuration."
+school:generation-of-the-thirties,school,Generation of the Thirties,era:modern,1930,1950,Greece,Q174988,Greek artists and writers of the 1930s who sought a modern art rooted in Greek tradition.
+school:northwest-school,school,Northwest School,period:american-modernism,1936,1960,"Seattle, USA",Q7060194,"Pacific Northwest painters such as Tobey and Graves, drawn to mysticism and Asian art."
+school:san-francisco-school,school,San Francisco School of Abstract Expressionism,movement:abstract-expressionism,1945,1960,"San Francisco, USA",,Abstract Expressionist painters active around the California School of Fine Arts.
+school:bay-area-figurative-school,school,Bay Area Figurative Movement,movement:abstract-expressionism,1950,1965,"San Francisco Bay Area, USA",Q3577822,Californian painters who returned to the figure while keeping Abstract Expressionist brushwork.
+school:washington-color-school,school,Washington Color School,movement:post-painterly-abstraction,1958,1970,"Washington, D.C., USA",Q7971736,Washington painters who stained and banded large canvases with pure colour.
+school:new-leipzig-school,school,New Leipzig School,movement:contemporary,1990,,"Leipzig, Germany",Q878864,Figurative painters trained at Leipzig's art academy after reunification.
+school:nazarenes,group,Nazarenes,movement:romanticism,1809,1830,Vienna and Rome,Q422681,German Romantic painters who revived religious art in the manner of the early Renaissance.
+school:pre-raphaelite-brotherhood,group,Pre-Raphaelite Brotherhood,period:pre-raphaelites,1848,1853,"London, England, UK",,Secret brotherhood of young English painters who looked to art before Raphael for truth to nature.
+school:macchiaioli,group,Macchiaioli,movement:realism,1855,1880,"Florence, Italy",Q574985,"Tuscan painters who built pictures from patches of light and shade, painting outdoors."
+school:peredvizhniki-society-for-traveling-art-exhibitions,group,Peredvizhniki (The Wanderers),movement:realism,1870,1923,Russia,Q109260,Russian realist painters who broke with the Academy and sent touring exhibitions across the provinces.
+school:society-of-american-artists,group,Society of American Artists,era:nineteenth-century,1877,1906,"New York, USA",Q570182,New York exhibiting society of European-trained artists opposed to the National Academy.
+school:tile-club,group,Tile Club,era:nineteenth-century,1877,1887,"New York, USA",Q99303202,Informal New York club of artists and writers who met to paint tiles and travel together.
+school:les-xx,group,Les XX,movement:post-impressionism,1883,1893,"Brussels, Belgium",Q463283,"Brussels exhibiting society of twenty avant-garde artists that showed Seurat, Van Gogh and Gauguin."
+school:societe-des-artistes-independants-society-of-independent-artists,group,Société des Artistes Indépendants,movement:post-impressionism,1884,,"Paris, France",Q1420385,"Paris society that runs the jury-free Salon des Indépendants, founded by Seurat, Signac and others."
+school:les-nabis,group,Les Nabis,movement:post-impressionism,1888,1900,"Paris, France",Q503708,Young Paris painters inspired by Gauguin who treated the picture as a flat decorative surface.
+school:munich-secession,group,Munich Secession,movement:secession,1892,1938,"Munich, Germany",Q24312,"First of the German secessions, a Munich association that broke away from the academic establishment."
+school:ten-ten-american-painters,group,Ten American Painters,movement:impressionism,1897,1918,"New York and Boston, USA",Q1971798,American Impressionists who resigned from the Society of American Artists to exhibit as a group.
+school:vienna-secession,group,Vienna Secession,movement:secession,1897,,"Vienna, Austria",Q208208,Austrian artists' association led by Klimt that broke away from the academic Künstlerhaus.
+school:berlin-secession,group,Berlin Secession,movement:secession,1898,1932,"Berlin, Germany",Q700347,Association of Berlin artists led by Liebermann that broke away from the official salon.
+school:mir-iskusstva-world-of-art,group,Mir Iskusstva (World of Art),movement:symbolism,1898,1924,"Saint Petersburg, Russia",Q1425138,"Saint Petersburg society and magazine championing aestheticism, retrospection and the graphic arts."
+school:union-of-russian-artists,group,Union of Russian Artists,movement:impressionism,1903,1923,"Moscow, Russia",Q4430566,Moscow exhibiting society known for Russian landscape painting in an Impressionist manner.
+school:bloomsbury-group,group,Bloomsbury Group,movement:post-impressionism,1905,1940,"London, UK",Q603529,London circle of writers and artists who championed Post-Impressionism in Britain.
+school:die-brucke-the-bridge,group,Die Brücke (The Bridge),movement:expressionism,1905,1913,"Dresden and Berlin, Germany",Q152778,Dresden group of young painters whose raw colour and woodcuts founded German Expressionism.
+school:les-fauves,group,Les Fauves,period:fauvism,1905,1908,"Paris, France",,Painters around Matisse and Derain whose violent colour shocked the 1905 Salon d'Automne.
+school:stieglitz-group,group,Stieglitz Circle,period:american-modernism,1905,1946,"New York, USA",,"Artists promoted by Alfred Stieglitz at his New York galleries, pioneers of American modernism."
+school:blue-rose,group,Blue Rose,movement:symbolism,1906,1910,"Moscow, Russia",Q4142290,Moscow Symbolist painters who exhibited together in 1907.
+school:eight,group,The Eight,movement:new-realism-american-realism,1908,1918,"New York, USA",,Eight painters around Robert Henri who exhibited together in 1908 against academic juries.
+school:boychukists,group,Boychukists,era:modern,1910,1937,"Kyiv, Ukraine",Q12128313,Students of Mykhailo Boychuk who revived Byzantine and folk monumental painting in Ukraine.
+school:der-sturm,group,Der Sturm,movement:expressionism,1910,1932,"Berlin, Germany",Q221490,"Herwarth Walden's Berlin magazine and gallery, a hub of Expressionism and the international avant-garde."
+school:jack-of-diamonds,group,Jack of Diamonds,movement:avant-garde,1910,1917,"Moscow, Russia",Q1808635,Moscow exhibiting society of Russian Cézannists and early avant-garde painters.
+school:milan-futurist-group,group,Milan Futurist Group,movement:futurism,1910,1916,"Milan, Italy",,The founding circle of Futurist painters gathered around Marinetti in Milan.
+school:soyuz-molodyozhi-union-of-the-youth,group,Union of the Youth (Soyuz Molodyozhi),movement:avant-garde,1910,1914,"Saint Petersburg, Russia",Q4430523,Saint Petersburg avant-garde society that staged exhibitions and the Futurist opera Victory over the Sun.
+school:camden-town-group,group,Camden Town Group,movement:post-impressionism,1911,1913,"London, UK",Q675329,London painters around Sickert who depicted everyday urban life in a Post-Impressionist manner.
+school:der-blaue-reiter-the-blue-rider,group,Der Blaue Reiter (The Blue Rider),movement:expressionism,1911,1914,"Munich, Germany",Q117035,Munich circle around Kandinsky and Franz Marc seeking spiritual expression through colour.
+school:section-d-or-puteaux-group,group,Section d'Or (Puteaux Group),movement:cubism,1911,1914,"Puteaux, Paris, France",Q1086353,"Cubist circle around the Duchamp brothers at Puteaux, exhibiting as the Section d'Or."
+school:donkey-s-tail-osliniy-khvost,group,Donkey's Tail,movement:avant-garde,1912,1913,"Moscow, Russia",Q1367545,Larionov and Goncharova's breakaway group and exhibition of Russian Neo-Primitivism.
+school:lacerba,group,Lacerba,movement:futurism,1913,1915,"Florence, Italy",Q1799662,Florentine review and circle closely allied with Futurism.
+school:london-group,group,The London Group,era:modern,1913,,"London, UK",Q2412563,London exhibiting society founded in 1913 by modernists of the Camden Town Group and Vorticists.
+school:supremus,group,Supremus,movement:suprematism,1915,1916,"Moscow, Russia",Q3433665,Malevich's circle of Suprematist artists and their planned journal.
+school:art,group,Techni (Art) Group,era:modern,1917,1920,"Athens, Greece",,Greek artists' group that introduced modern trends such as Post-Impressionism into Greek painting.
+school:seven-and-five-society,group,Seven and Five Society,era:modern,1919,1935,"London, UK",Q2977338,London society that moved from figurative painting to abstraction under Ben Nicholson.
+school:group-of-seven,group,Group of Seven,period:group-of-seven,1920,1933,"Toronto, Canada",,Canadian landscape painters who forged a national style from the northern wilderness.
+school:akhrr-association-of-artists-of-revolutionary-russia,group,AKhRR (Association of Artists of Revolutionary Russia),movement:socialist-realism,1922,1932,"Moscow, USSR",Q2470594,Soviet association of realist painters that prepared the ground for Socialist Realism.
+school:grupo-dos-cinco,group,Grupo dos Cinco,movement:modernism,1922,1929,"São Paulo, Brazil",Q10292015,"Five leaders of Brazilian modernism, including Tarsila do Amaral and Anita Malfatti."
+school:novecento-italiano,group,Novecento Italiano,era:modern,1922,1943,"Milan, Italy",Q933661,"Milanese movement of the interwar return to order, reviving classical form in modern painting."
+school:four-arts,group,Four Arts Society,era:modern,1924,1931,"Moscow and Leningrad, USSR",,"Soviet society of painters, graphic artists and architects valuing craft and formal quality."
+school:armu-association-of-revolutionary-masters-of-ukraine,group,ARMU (Association of Revolutionary Art of Ukraine),movement:avant-garde,1925,1932,"Kyiv, Ukraine",Q12079502,Ukrainian association uniting Boychukists and avant-garde artists in the 1920s.
+school:grupul-celor-patru-group-of-four,group,Group of Four (Grupul celor patru),era:modern,1925,1933,"Bucharest, Romania",Q18540617,"Romanian group of Tonitza, Șirato, Dimitrescu and sculptor Oscar Han."
+school:painters-of-the-sacred-heart,group,Painters of the Sacred Heart,movement:naive-art-primitivism,1928,1937,"Paris, France",,"Self-taught painters championed by Wilhelm Uhde, including Rousseau and Séraphine Louis."
+school:cercle-et-carre,group,Cercle et Carré,movement:abstract-art,1929,1931,"Paris, France",Q1054837,Short-lived Paris group and review defending constructive abstraction against Surrealism.
+school:abstraction-creation,group,Abstraction-Création,movement:abstract-art,1931,1936,"Paris, France",Q333316,International association of abstract artists that exhibited and published in Paris in the 1930s.
+school:canadian-group-of-painters,group,Canadian Group of Painters,era:modern,1933,1969,"Toronto, Canada",Q11734722,"Successor to the Group of Seven, opening Canadian modernism beyond landscape."
+school:unit-one,group,Unit One,era:modern,1933,1935,"London, UK",Q17122010,"British modernists led by Paul Nash, uniting abstract and surrealist tendencies."
+school:american-abstract-artists,group,American Abstract Artists,movement:abstract-art,1936,,"New York, USA",Q463258,New York association founded to promote abstract art in the United States; still active.
+school:s,group,Bucharest Surrealist Group,movement:surrealism,1940,1947,"Bucharest, Romania",,"Romanian Surrealists around Gherasim Luca, Dolfi Trost and Paul Păun."
+school:new-york-school,group,New York School,movement:abstract-expressionism,1943,1965,"New York, USA",Q1972942,"Circle of painters, poets and musicians around Abstract Expressionism in post-war New York."
+school:jeune-peinture-belge,group,Jeune Peinture Belge,movement:abstract-art,1945,1948,"Brussels, Belgium",Q1301957,Post-war Belgian association of young painters moving toward abstraction.
+school:les-automatistes,group,Les Automatistes,movement:abstract-art,1946,1954,"Montreal, Canada",Q2872628,Quebec avant-garde around Borduas that used surrealist automatism toward abstraction.
+school:forma-1,group,Forma 1,movement:abstract-art,1947,1951,"Rome, Italy",Q3077307,Roman group of Marxist artists who declared themselves formalists and abstractionists.
+school:cobra,group,CoBrA,movement:art-informel,1948,1951,"Copenhagen, Brussels and Amsterdam",Q212611,"Avant-garde group from Copenhagen, Brussels and Amsterdam favouring spontaneous, childlike expression."
+school:dau-al-set,group,Dau al Set,movement:surrealism,1948,1956,"Barcelona, Spain",Q1172762,Catalan post-war group and magazine rooted in Surrealism and Dada.
+school:armos,group,Armos,era:post-war,1949,1950,"Athens, Greece",,Short-lived group of Greek painters of the Thirties Generation and after.
+school:zen-49,group,ZEN 49,movement:art-informel,1949,1957,"Munich, Germany",Q136042,Munich group that renewed abstract painting in post-war Germany.
+school:gruppo-origine,group,Gruppo Origine,movement:abstract-art,1950,1951,"Rome, Italy",Q16562106,"Italian group seeking an elementary, anti-decorative abstraction."
+school:irascibles,group,The Irascibles,movement:abstract-expressionism,1950,1951,"New York, USA",Q16001464,Abstract artists who protested the Metropolitan Museum's 1950 juried show and were photographed for Life.
+school:gruppo-degli-otto,group,Gruppo degli Otto,movement:abstract-art,1952,1954,Italy,Q1551083,"Eight Italian painters promoted by Lionello Venturi, working between abstraction and nature."
+school:independent-group,group,Independent Group,movement:pop-art,1952,1955,"London, UK",Q1661096,ICA discussion group of artists and critics whose ideas led to British Pop Art.
+school:phases,group,Phases,movement:surrealism,1952,1975,"Paris, France",,"International movement and review founded by Édouard Jaguer, bridging Surrealism and abstraction."
+school:painters-eleven-p11,group,Painters Eleven,movement:abstract-expressionism,1953,1960,"Toronto, Canada",Q3360619,Toronto abstract painters who brought Abstract Expressionism to Canada.
+school:frente,group,Grupo Frente,movement:concrete-art-concretism,1954,1956,"Rio de Janeiro, Brazil",Q10291831,Rio de Janeiro group around Ivan Serpa that preceded Neo-Concretism.
+school:gutai-group,group,Gutai Art Association,era:post-war,1954,1972,"Ashiya and Osaka, Japan",Q1028956,Japanese group that made bold material and performance-based works after the war.
+school:el-paso,group,El Paso,movement:art-informel,1957,1960,"Madrid, Spain",Q779538,Spanish group that led Informalism in Franco-era Madrid.
+school:zero,group,ZERO,movement:kinetic-art,1957,1966,"Düsseldorf, Germany",Q136046,"Düsseldorf-based group and international network exploring light, motion and monochrome surfaces."
+school:nouveaux-plasticiens,group,Les Nouveaux Plasticiens,movement:post-painterly-abstraction,1959,1965,"Montreal, Canada",,Second wave of Montreal Plasticiens painting hard-edge geometric abstraction.
+school:fluxus,group,Fluxus,movement:conceptual-art,1960,1978,"New York, USA and international",Q108908,"International network of artists making events, multiples and intermedia works in an anti-art spirit."
+school:continuita,group,Continuità,movement:abstract-art,1961,1963,"Rome, Italy",,Italian abstract group promoted by Giulio Carlo Argan as a continuation of the modern tradition.
+school:park-place,group,Park Place Group,era:post-war,1963,1967,"New York, USA",,"Cooperative of New York painters and sculptors exploring geometric, spatial abstraction."
+school:bmpt,group,BMPT,movement:conceptual-art,1966,1967,"Paris, France",Q2877183,"Buren, Mosset, Parmentier and Toroni, who reduced painting to repeated neutral marks."
+school:art-language,group,Art & Language,movement:conceptual-art,1968,,"Coventry, UK and New York, USA",Q558276,Collaborative of conceptual artists who made theory and language their medium.
+school:mono-ha,group,Mono-ha,era:post-war,1968,1975,"Tokyo, Japan",Q3321083,Japanese artists who arranged natural and industrial materials in their raw state.
+school:supports-surfaces,group,Supports/Surfaces,movement:post-minimalism,1969,1972,"Nice and Paris, France",Q3504923,"French artists who took painting apart into its material elements: canvas, stretcher, colour."
+school:papunya-tula,group,Papunya Tula Artists,movement:native-art,1972,,"Papunya and Alice Springs, Australia",Q18005,Aboriginal artists' cooperative that launched the Western Desert dot-painting movement.
+school:school-of-london,group,School of London,era:post-war,1976,1990,"London, UK",Q55780244,"Kitaj's name for London figurative painters such as Bacon, Freud, Auerbach and Kossoff."
+school:pictures-generation,group,Pictures Generation,movement:contemporary,1977,1984,"New York, USA",Q133451419,American artists who used appropriation of mass-media images to question representation.
+school:neue-wilde,group,Neue Wilde,movement:neo-expressionism,1978,1990,Germany and Austria,Q650466,German and Austrian painters of the late 1970s and 1980s who revived expressive figuration.
+school:new-british-sculpture,group,New British Sculpture,movement:contemporary,1980,1990,UK,Q4322399,British sculptors of the 1980s who reworked everyday objects and materials.
+school:radical-painting-group,group,Radical Painting Group,movement:minimalism,1982,1984,"New York, USA",,"Painters committed to the material facts of monochrome painting, shown together at Williams College in 1984."
+school:prolog-group,group,Prolog Group,movement:contemporary,1985,,"Bucharest, Romania",Q12729599,"Romanian painters' group pursuing a contemplative, spiritual abstraction."
+school:young-british-artists,group,Young British Artists,movement:contemporary,1988,2000,"London, UK",Q516316,London artists who emerged from the 1988 Freeze show and dominated British art in the 1990s.
+school:kyiv-drawing-school-of-murashko,academy,Kyiv Drawing School (Murashko),movement:realism,1875,1901,"Kyiv, Ukraine",Q12121010,"Private drawing school run by Mykola Murashko, a cradle of Ukrainian painters."
+school:bauhaus,academy,Bauhaus,movement:modernism,1919,1933,"Weimar, Dessau and Berlin, Germany",Q124354,"German school of art, design and architecture that united crafts with the fine arts."
+school:degenerate-art-exhibition-held-by-the-nazis-in-munich-in-1937-named-to-inflame-public-opinion-against-modernism,exhibition,"Degenerate Art exhibition (Munich, 1937)",era:modern,1937,1941,"Munich, Germany",Q329154,"Nazi propaganda show of confiscated modern art, opened in Munich in 1937 and then toured Germany and Austria."
+school:four-abstract-classicists,exhibition,Four Abstract Classicists (1959),movement:post-painterly-abstraction,1959,1960,"Los Angeles and San Francisco, USA",Q20065093,Exhibition of four Californian painters that introduced the term hard-edge painting.
+genre:abstract,genre,Abstract,,,,,Q128115,Form and colour with no subject depicted
+genre:allegorical-painting,genre,Allegory,genre:history-painting,,,,Q2839016,"Figures and scenes standing for ideas: virtues, seasons, the arts"
+genre:animal-painting,genre,Animal painting,,,,,Q16875712,Animals as the subject
+genre:battle-painting,genre,Battle painting,genre:history-painting,,,,Q3374353,Battles and military life
+genre:bijinga,genre,Bijinga,genre:genre-painting,,,Japan,Q284521,Japanese pictures of beautiful women
+genre:bird-and-flower-painting,genre,Bird-and-flower painting,genre:animal-painting,,,China,Q2566458,"The East Asian genre of birds, flowers and plants"
+genre:capriccio,genre,Capriccio,genre:cityscape,,,,Q2278308,Imaginary architectural views and ruins
+genre:caricature,genre,Caricature,,,,,,Exaggerated likenesses for humour or satire
+genre:cityscape,genre,Cityscape,genre:landscape,,,,Q1935974,Towns and cities
+genre:cloudscape,genre,Cloudscape,genre:landscape,,,,,Clouds and skies
+genre:design,genre,Design,,,,,,"Designs for objects, theatre, costume and decoration"
+genre:figurative,genre,Figurative,,,,,Q1622217,Recognisable figures and things without a traditional genre
+genre:flower-painting,genre,Flower painting,genre:still-life,,,,Q12303833,Flowers as the subject
+genre:genre-painting,genre,Genre painting,,,,,Q1047337,Scenes of everyday life
+genre:history-painting,genre,History painting,,,,,Q742333,"Narrative scenes from history, scripture, myth and literature; the highest genre of the academies"
+genre:icon,genre,Icon,genre:religious-painting,,,,Q132137,Devotional images of the Orthodox and Eastern churches
+genre:illustration,genre,Illustration,,,,,,"Pictures made for books, magazines and print"
+genre:interior,genre,Interior,genre:genre-painting,,,,Q1666094,Rooms and the life inside them
+genre:landscape,genre,Landscape,,,,,Q191163,"Land, sky and nature as the subject"
+genre:literary-painting,genre,Literary painting,genre:history-painting,,,,Q131199326,"Scenes from poems, plays and novels"
+genre:marina,genre,Marine painting,genre:landscape,,,,Q158607,"The sea, ships and coasts"
+genre:miniature,genre,Miniature,,,,,Q282129,"Small, detailed paintings, often in manuscripts"
+genre:mural,genre,Mural,,,,,Q219423,Paintings on walls and ceilings
+genre:mythological-painting,genre,Mythological painting,genre:history-painting,,,,Q3374376,"Gods, heroes and stories from classical and other mythologies"
+genre:nude,genre,Nude,,,,,Q40446,The unclothed human figure
+genre:panorama,genre,Panorama,genre:landscape,,,,,"Wide, all-round views"
+genre:pastorale,genre,Pastoral,genre:landscape,,,,,Idealised country life with shepherds and flocks
+genre:portrait,genre,Portrait,,,,,Q134307,Likenesses of people
+genre:poster,genre,Poster,,,,,,Posters and printed announcements
+genre:religious-painting,genre,Religious painting,genre:history-painting,,,,Q2864737,"Scenes and figures from scripture, the lives of saints and devotion"
+genre:self-portrait,genre,Self-portrait,genre:portrait,,,,Q192110,The artist's likeness by the artist
+genre:shan-shui,genre,Shan shui,genre:landscape,,,China,Q516583,Chinese mountain-and-water landscape painting
+genre:sketch-and-study,genre,Sketch and study,,,,,,Preparatory sketches and studies
+genre:still-life,genre,Still life,,,,,Q170571,"Arranged objects: flowers, fruit, food, vessels"
+genre:symbolic-painting,genre,Symbolic painting,,,,,,Images built from symbols and visions
+genre:vanitas,genre,Vanitas,genre:still-life,,,,Q733095,Still lifes on the brevity of life
+genre:veduta,genre,Veduta,genre:cityscape,,,,Q166030,"Detailed views of a city, as in eighteenth-century Venice and Rome"
+genre:wildlife-painting,genre,Wildlife painting,genre:animal-painting,,,,Q8001341,Wild animals in nature

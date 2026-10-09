@@ -1,0 +1,125 @@
+{
+  "slug": "ieremias-palladas",
+  "periodSlug": "cretan-school",
+  "name": "Ieremias Palladas",
+  "wikiTitle": "Ieremias Palladas",
+  "qid": "Q108419496",
+  "birthYear": 1580,
+  "deathYear": 1659,
+  "tagline": "Greek painter",
+  "bio": "Ieremias Palladas, also known as Pouladas, or Ieremia Pallada, was a Greek Renaissance painter. He was a clergyman, painter, and educator. He was affiliated with Saint Catherine's Monastery in Mount Sinai, Egypt. He is one of the most notable Greek painters of the 17th century. His family consisted of clergy and painters. His nephew was Patriarch of Alexandria Gerasimos Palladas. His work was influenced by Nikolaos Tzafouris and Angelos Akotantos. Georgios Klontzas and Emmanuel Lambardos\nwere active in Crete around the same period. Palladas influenced the works of Theocharis Silvestros, Iakovos Moskos, Ioannis Kornaros and Philotheos Skoufos. According to the Institute of Neohellenic Research, twenty-four of his works survived. His specialty was painting crosses for the iconostasis or templo. Most of his works are in Egypt.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Ieremias_Palladas_Saint_George.png",
+  "portraitWidth": 673,
+  "portraitHeight": 876,
+  "portraitCredit": {
+    "author": "Ieremias Palladas",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ieremias_Palladas_Saint_George.png"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ieremias_Palladas",
+  "paintings": [
+    {
+      "slug": "saint-catherine-of-alexandria-palladas-heraklion",
+      "title": "Saint Catherine of Alexandria (Palladas, Heraklion)",
+      "year": 1608,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ieremias_Palladas_Saint_Catherine_of_Alexandria.png",
+      "imageWidth": 766,
+      "imageHeight": 960,
+      "story": "Saint Catherine is a tempera painting created by Ieremias Palladas. Palladas was a Greek painter from Crete. He was a Sinaitic monk. He was associated with Saint Catherine's sacred monastery in Egypt also known as Mount Sinai. The monastery is at the location where Mosses received his tablets. There was a dependency of the monastery in Heraklion, Crete by the same name. Palladas completed works for the monastery in Egypt. He also created works for the Holy Sepulture in Jerusalem and a church in Bethlehem. His version of the martyr became the framework of Cretan paintings of Saint Catherine. Another Sinaitic monk named Theocharis Silvestros worked with Palladas. He also created notable versions of Saint Catherine around the same period.",
+      "facts": [
+        "The icon is an egg tempera painting on gold leaf and wood panel.",
+        "The painting is in good condition and is over four hundred years old."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint_Catherine_of_Alexandria_(Palladas%2C_Heraklion)",
+      "sitelinks": 2,
+      "widthCm": 84,
+      "heightCm": 99,
+      "pageviews": 477,
+      "qid": "Q109718652",
+      "imageBytes": 1983131,
+      "imageCredit": {
+        "author": "Ieremias Palladas",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ieremias_Palladas_Saint_Catherine_of_Alexandria.png"
+      }
+    },
+    {
+      "slug": "christ-pantocrator-palladas",
+      "title": "Christ Pantocrator (Palladas)",
+      "year": 1600,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ieremias_Palladas_Christ_Pantokrator.png",
+      "imageWidth": 360,
+      "imageHeight": 491,
+      "story": "Christ Pantocrator is a tempera painting created by Ieremias Palladas. Ieremias was associated with Saint Catherine's sacred monastery in Egypt also known as Mount Sinai. He was a Sinaitic monk, painter, and teacher. His nephew Gerasimos Palladas became the Patriarch of Alexandria. There was a dependency of Saint Catherine's Monastery which was in Mount Sinai, Egypt on the island of Crete which was called Saint Catherine's Monastery of Heraklion. The site in Egypt was believed by Christians to be the site where Moses saw the burning bush. The Patriarch of Jerusalem Nectarius wrote about the painter in his archives because Ieremias was one of the most influential figures of his time.",
+      "facts": [
+        "It follows the traditional Greek Italian Byzantine Proto-Renaissance style.",
+        "The painting was completed using gold leaf, wood panel, and egg tempera paint."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christ_Pantocrator_(Palladas)",
+      "sitelinks": 2,
+      "widthCm": 79,
+      "heightCm": 107,
+      "pageviews": 4416,
+      "qid": "Q119821894",
+      "imageBytes": 480774,
+      "imageCredit": {
+        "author": "Ieremias Palladas",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Ieremias_Palladas_Christ_Pantokrator.png"
+      }
+    },
+    {
+      "slug": "saint-catherine-of-alexandria-palladas-sinai",
+      "title": "Saint Catherine of Alexandria (Palladas, Sinai)",
+      "year": 1612,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ieremias_Palladas_Catherine_of_Alexandria.png",
+      "imageWidth": 667,
+      "imageHeight": 969,
+      "story": "Catherine of Alexandria is a tempera painting created by Ieremias Palladas. Palladas was a monk associated with Saint Catherine's sacred monastery in Egypt also known as Mount Sinai. He was a painter and teacher. His nephew became the Patriarch of Alexandria. His name was Gerasimos Palladas. Ieremias was a Sinaitic monk because of his association with Saint Catherine's monastery on Mount Sinai. The monastery encloses the site where it is assumed by Christians that Moses saw the burning bush. Ieremias was one of the most influential figures of his time. The Patriarch of Jerusalem Nectarius wrote about the painter in his archives.",
+      "facts": [
+        "The materials used were egg tempera on gold leaf and wood panel.",
+        "It was part of a large group of paintings completed for the iconostasis of Saint Catherine's Monastery in Mount Sinai, Egypt."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint_Catherine_of_Alexandria_(Palladas%2C_Sinai)",
+      "sitelinks": 2,
+      "widthCm": 118,
+      "heightCm": 159,
+      "pageviews": 1306,
+      "qid": "Q109718365",
+      "imageBytes": 1310682,
+      "imageCredit": {
+        "author": "Ieremias Palladas",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ieremias_Palladas_Catherine_of_Alexandria.png"
+      }
+    },
+    {
+      "slug": "saint-jean-l-ermite-jeremiah-palladas-corfu-02-q130536217",
+      "title": "Saint Jean l'Ermite, Jeremiah Palladas, Corfu, 02",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Jean_l%27Ermite%2C_Jeremiah_Palladas%2C_Corfu%2C_02.jpg",
+      "imageWidth": 771,
+      "imageHeight": 1028,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q130536217",
+      "imageBytes": 508399,
+      "imageCredit": {
+        "author": "GualdimG",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Saint_Jean_l'Ermite,_Jeremiah_Palladas,_Corfu,_02.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

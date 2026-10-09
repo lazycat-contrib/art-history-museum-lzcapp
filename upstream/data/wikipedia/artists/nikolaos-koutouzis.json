@@ -1,0 +1,76 @@
+{
+  "slug": "nikolaos-koutouzis",
+  "periodSlug": "cretan-school",
+  "name": "Nikolaos Koutouzis",
+  "wikiTitle": "Nikolaos Koutouzis",
+  "qid": "Q15895598",
+  "birthYear": 1741,
+  "deathYear": 1813,
+  "tagline": "Greek painter, poet and priest",
+  "bio": "Nikolaos Koutouzis, or Koutousis was a Greek painter, poet and priest. He was part of the Heptanese School, but also a member of the Modern Greek Enlightenment in art. His teacher was the painter Nikolaos Doxaras. Koutouzis has 136 paintings attributed to him, including fifteen portraits. He was one of the last Greek painters to incorporate the Venetian style during its decline, due to the Fall of the Republic of Venice. He was the teacher of Nikolaos Kantounis, who was heavily influenced by his style.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Koutouzis-selfportrait.jpg",
+  "portraitWidth": 294,
+  "portraitHeight": 456,
+  "portraitCredit": {
+    "author": "Nikolaos Koutouzis (1741-1813)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Koutouzis-selfportrait.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikolaos_Koutouzis",
+  "paintings": [
+    {
+      "slug": "saint-spyridon-john-the-baptist-saint-peter-and-saint-george-koutouzis",
+      "title": "Saint Spyridon, John the Baptist, Saint Peter, and Saint George (Koutouzis)",
+      "year": 1750,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Nikolaos_Koutouzis_Saint_Spyridon.png",
+      "imageWidth": 700,
+      "imageHeight": 910,
+      "story": "Saint Spyridon, John the Baptist, Saint Peter and Saint George is an oil painting created by Greek painter Nikolaos Koutouzis. He was a prominent member of the Heptanese School of painting. He was from the island of Zakynthos. He studied with Nikolaos Doxaras and Giovanni Tiepolo. He was an active painter for over fifty years. One hundred and thirty-six paintings are attributed to the artist. He was active from 1750 to 1813.",
+      "facts": [
+        "He holds a sacred book in his left hand and with his right-hand does the sign of the cross.",
+        "John the Baptist's legs feature muscularity exhibiting contours and grooves."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint_Spyridon%2C_John_the_Baptist%2C_Saint_Peter%2C_and_Saint_George_(Koutouzis)",
+      "sitelinks": 2,
+      "widthCm": 43,
+      "heightCm": 56,
+      "pageviews": 214,
+      "qid": "Q112684895",
+      "imageBytes": 1402750,
+      "imageCredit": {
+        "author": "Nikolaos Koutouzis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Nikolaos_Koutouzis_Saint_Spyridon.png"
+      }
+    },
+    {
+      "slug": "self-portrait-with-psalter",
+      "title": "Self-portrait with Psalter",
+      "year": 1761,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Self-portrait_with_Choir_Book.jpg",
+      "imageWidth": 1229,
+      "imageHeight": 1500,
+      "story": "Self-portrait with Psalter is an oil painting created by Nikolaos Koutouzis. The work was completed between 1761 and 1813. Koutouzis was a member of the Heptanese School of painting. He was also a priest and poet. There are over 136 paintings attributed to him, of which fifteen were portraits. At some point in his life, Koutouzis was involved in a brawl, and his face was permanently scarred. Koutouzis' teachers included Nikolaos Doxaras and Giovanni Battista Tiepolo. Both artists completed some portraits throughout their artistic careers. Koutouzis lived in Venice from 1760-1765, studying at the workshop of Tiepolo. Koutouzis later became a teacher and taught Nikolaos Kantounis, who also completed portraits.",
+      "facts": [
+        "The painting's somber and somewhat mysterious mood is attributed to the artist's use of dark colors.",
+        "The work was completed sometime between 1761 and 1813 during the Romantic period."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Self-portrait_with_Psalter",
+      "sitelinks": 2,
+      "widthCm": 77,
+      "heightCm": 94,
+      "pageviews": 163,
+      "qid": "Q135419422",
+      "imageBytes": 522674,
+      "imageCredit": {
+        "author": "Nikolaos Koutouzis",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Self-portrait_with_Choir_Book.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

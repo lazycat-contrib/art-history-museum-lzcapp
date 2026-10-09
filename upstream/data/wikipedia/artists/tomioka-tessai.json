@@ -1,0 +1,162 @@
+{
+  "slug": "tomioka-tessai",
+  "periodSlug": "japanese-painting",
+  "name": "Tomioka Tessai",
+  "wikiTitle": "Tomioka Tessai",
+  "qid": "Q1377454",
+  "birthYear": 1837,
+  "deathYear": 1924,
+  "tagline": "Japanese artist",
+  "bio": "Tomioka Tessai  was the pseudonym for a painter and calligrapher in imperial Japan. He is regarded as the last major artist in the Bunjinga tradition and one of the first major artists of the Nihonga style. His real name was Yusuke, which he later changed to Hyakuren.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tomioka_Tessai.jpg",
+  "portraitWidth": 442,
+  "portraitHeight": 579,
+  "portraitCredit": {
+    "author": "Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Tomioka_Tessai.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tomioka_Tessai",
+  "paintings": [
+    {
+      "slug": "landscape-q112196414",
+      "title": "Landscape",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Tomioka_Tessai_-_Landscape_-_2013.29.1263_-_Minneapolis_Institute_of_Art.jpg",
+      "imageWidth": 1091,
+      "imageHeight": 2796,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q112196414",
+      "imageBytes": 528022,
+      "imageCredit": {
+        "author": "Tomioka Tessai",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Tomioka_Tessai_-_Landscape_-_2013.29.1263_-_Minneapolis_Institute_of_Art.jpg"
+      }
+    },
+    {
+      "slug": "monkey-trying-to-catch-a-catfish-with-a-gourd-q112199230",
+      "title": "Monkey trying to catch a catfish with a gourd",
+      "year": 1912,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tomioka_Tessai_-_Monkey_trying_to_catch_a_catfish_with_a_gourd_-_2017.146.2_-_Minneapolis_Institute_of_Art.jpg",
+      "imageWidth": 1097,
+      "imageHeight": 5779,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q112199230",
+      "imageBytes": 1549851,
+      "imageCredit": {
+        "author": "Tomioka Tessai",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Tomioka_Tessai_-_Monkey_trying_to_catch_a_catfish_with_a_gourd_-_2017.146.2_-_Minneapolis_Institute_of_Art.jpg"
+      }
+    },
+    {
+      "slug": "crane-and-pine-q112199309",
+      "title": "Crane and Pine",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tomioka_Tessai_-_Crane_and_Pine_-_2017.146.1_-_Minneapolis_Institute_of_Art.jpg",
+      "imageWidth": 1072,
+      "imageHeight": 5777,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q112199309",
+      "imageBytes": 1362716,
+      "imageCredit": {
+        "author": "Tomioka Tessai",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Tomioka_Tessai_-_Crane_and_Pine_-_2017.146.1_-_Minneapolis_Institute_of_Art.jpg"
+      }
+    },
+    {
+      "slug": "scene-inspired-by-the-scrolls-of-frolicking-animals-and-humans-q126119557",
+      "title": "Scene Inspired by the Scrolls of Frolicking Animals and Humans",
+      "year": 1890,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Scene_Inspired_by_the_Scrolls_of_Frolicking_Animals_and_Humans_MET_DP-19489-002.jpg",
+      "imageWidth": 3002,
+      "imageHeight": 4000,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q126119557",
+      "imageBytes": 4347259,
+      "imageCredit": {
+        "author": "Creator:Tomioka Tessai 富岡鉄斎",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "page": "https://commons.wikimedia.org/wiki/File:Scene_Inspired_by_the_Scrolls_of_Frolicking_Animals_and_Humans_MET_DP-19489-002.jpg"
+      }
+    },
+    {
+      "slug": "releasing-the-oar-in-the-plum-valley-q20786451",
+      "title": "Releasing the Oar in the Plum Valley",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Tomioka_Tessai_-_Releasing_the_Oar_in_the_Plum_Valley_-_66.490_-_Museum_of_Fine_Arts.jpg",
+      "imageWidth": 512,
+      "imageHeight": 1600,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q20786451",
+      "imageBytes": 143914,
+      "imageCredit": {
+        "author": "Tomioka Tessai",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Tomioka_Tessai_-_Releasing_the_Oar_in_the_Plum_Valley_-_66.490_-_Museum_of_Fine_Arts.jpg"
+      }
+    },
+    {
+      "slug": "sake-party-with-no-light-q60474901",
+      "title": "Sake Party with No Light",
+      "year": 1856,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Tomioka_Tessai_-_Sake_Party_with_No_Light_-_1982.156_-_Cleveland_Museum_of_Art.tif",
+      "imageWidth": 7853,
+      "imageHeight": 5492,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q60474901",
+      "imageBytes": 129408342,
+      "imageCredit": {
+        "author": "Tomioka Tessai",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "page": "https://commons.wikimedia.org/wiki/File:Tomioka_Tessai_-_Sake_Party_with_No_Light_-_1982.156_-_Cleveland_Museum_of_Art.tif"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

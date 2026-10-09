@@ -1,0 +1,2302 @@
+{
+  "slug": "pablo-picasso",
+  "periodSlug": "cubism",
+  "name": "Pablo Picasso",
+  "wikiTitle": "Pablo Picasso",
+  "qid": "Q5593",
+  "birthYear": 1881,
+  "deathYear": 1973,
+  "tagline": "Spanish painter and sculptor (1881–1973)",
+  "bio": "Pablo Ruiz Picasso was a Spanish painter and sculptor who spent most of his adult life in France. One of the most influential artists of the 20th century, he is known for co-founding the Cubist movement, the invention of constructed sculpture, the co-invention of collage, and for the wide variety of styles that he helped develop and explore. Among his most famous works are the proto-Cubist Les Demoiselles d'Avignon (1907) and the anti-war painting Guernica (1937), a dramatic portrayal of the bombing of Guernica by German and Italian air forces during the Spanish Civil War. His career spanned more than 76 years, from his late teens to his death in 1973.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Pablo_picasso_1.jpg",
+  "portraitWidth": 1079,
+  "portraitHeight": 1261,
+  "portraitCredit": {
+    "author": "Argentina . Revista Vea y Lea",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Pablo_picasso_1.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pablo_Picasso",
+  "paintings": [
+    {
+      "slug": "guernica-picasso",
+      "title": "Guernica (Picasso)",
+      "year": 1937,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/PicassoGuernica.jpg",
+      "imageWidth": 464,
+      "imageHeight": 211,
+      "story": "Guernica is a large 1937 oil painting by Spanish artist Pablo Picasso. It is one of his best-known works, regarded by many art critics as the most moving and powerful anti-war painting in history. It is exhibited in the Museo Reina Sofía in Madrid.",
+      "facts": [
+        "In January 1937, while Pablo Picasso was living in Paris on Rue des Grands Augustins, he was commissioned by the Spanish Republican government to create a large artwork for the Spanish pavilion at the Exposition Internationale des Arts et Techniques dans la Vie Moderne, a 1937 Paris International Exposition.",
+        "On Monday, 26 April 1937, Nazi Germany's warplanes, commanded by Colonel Wolfram von Richthofen, bombed Guernica for about two hours.",
+        "A \"hidden\" image formed by the horse appears in Guernica: the horse's nostrils and upper teeth can be seen as a human skull facing left and slightly downward.",
+        "Another hidden image is of a bull that appears to gore the horse from underneath."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Guernica_(Picasso)",
+      "sitelinks": 71,
+      "widthCm": 776,
+      "heightCm": 349,
+      "pageviews": 908608,
+      "qid": "Q175036",
+      "imageBytes": 40651,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:PicassoGuernica.jpg"
+      }
+    },
+    {
+      "slug": "les-demoiselles-d-avignon",
+      "title": "Les Demoiselles d'Avignon",
+      "year": 1907,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Les_Demoiselles_d%27Avignon.jpg",
+      "imageWidth": 4500,
+      "imageHeight": 4661,
+      "story": "Les Demoiselles d'Avignon is a large oil painting created in 1907 by the Spanish artist Pablo Picasso. Part of the permanent collection of the Museum of Modern Art in New York, it portrays five nude female prostitutes in a brothel on Carrer d'Avinyó, a street in Barcelona, Spain. The figures are confrontational and not conventionally feminine, being rendered with angular and disjointed body shapes, some to a menacing degree. The far left figure exhibits facial features and dress of Egyptian or southern Asian style. The two adjacent figures are in an Iberian style of Picasso's Spain, while the two on the right have African mask-like features. Picasso said the ethnic primitivism evoked in these masks moved him to \"liberate an utterly original artistic style of compelling, even savage force\" leading him to add a shamanistic aspect to his project.",
+      "facts": [
+        "Picasso's friend Ignacio Zuloaga (1870–1945) acquired El Greco's masterpiece, the Opening of the Fifth Seal, in 1897 for 1000 pesetas.",
+        "El Greco's painting, which Picasso studied repeatedly in Zuloaga's house, inspired not only the size, format, and composition of Les Demoiselles d'Avignon, but also its apocalyptic power.",
+        "Cézanne's explorations of geometric simplification and optical phenomena inspired Picasso, Braque, Metzinger, Gleizes, Robert Delaunay, Le Fauconnier, Gris and others to experiment with ever more complex multiple views of the same subject, and, eventually to the fracturing of form.",
+        "Artists such as Paul Gauguin, Henri Matisse and Picasso were intrigued and inspired by the stark power and simplicity of styles of those cultures."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Les_Demoiselles_d'Avignon",
+      "sitelinks": 37,
+      "widthCm": 233.7,
+      "heightCm": 243.9,
+      "pageviews": 209523,
+      "qid": "Q910199",
+      "imageBytes": 2905099,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Les_Demoiselles_d'Avignon.jpg"
+      }
+    },
+    {
+      "slug": "the-weeping-woman",
+      "title": "The Weeping Woman",
+      "year": 1937,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/14/Picasso_The_Weeping_Woman_Tate_identifier_T05010_10.jpg",
+      "imageWidth": 286,
+      "imageHeight": 348,
+      "story": "The Weeping Woman is a series of oil on canvas paintings by Pablo Picasso, the last of which was created in late 1937. The paintings depict Dora Maar, Picasso's mistress and muse. The Weeping Woman paintings were produced by Picasso in response to the bombing of Guernica in the Spanish Civil War and are closely associated with the iconography in his painting Guernica.",
+      "facts": [
+        "On 7 April 1969, The Weeping Woman, alongside 25 other paintings, was stolen from the Penrose home at Hornton Street, London.",
+        "The theft received a great deal of publicity and was discussed by Roland Penrose on BBC's 24 Hours programme on 8 April 1969.",
+        "\" He informed Picasso of the theft on 9 April by writing, describing the theft as an \"appalling disaster\".",
+        "The paintings were eventually recovered by labourers at a house that was due to be demolished in Ealing, west London, in July."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Weeping_Woman",
+      "sitelinks": 18,
+      "widthCm": 50,
+      "heightCm": 60.8,
+      "pageviews": 139934,
+      "qid": "Q3267954",
+      "imageBytes": 31605,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso_The_Weeping_Woman_Tate_identifier_T05010_10.jpg"
+      }
+    },
+    {
+      "slug": "nude-green-leaves-and-bust",
+      "title": "Nude, Green Leaves and Bust",
+      "year": 1932,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2b/Nude_Green_Leaves_and_Bust_by_Picasso.jpg",
+      "imageWidth": 282,
+      "imageHeight": 352,
+      "story": "Nude, Green Leaves and Bust is a 1932 oil on canvas painting by Pablo Picasso, featuring his mistress Marie-Thérèse Walter.",
+      "facts": [
+        "After the 1940 Nazi invasion of France, on reaching New York via Lisbon in September 1940, Rosenberg opened a new branch of his noted gallery on East 57th street and put the painting back on display.",
+        "On May 4, 2010, the painting was sold at Christie's in New York City, which won the rights to auction the collection against London-based Sotheby's.",
+        "The collection as a whole was valued at over $150 million, while the work was originally expected to earn $80 million at auction.",
+        "Eight bidders were at the auction house, while the winning bid was taken via telephone for $95 million."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nude%2C_Green_Leaves_and_Bust",
+      "sitelinks": 16,
+      "widthCm": 130,
+      "heightCm": 162,
+      "pageviews": 18249,
+      "qid": "Q152849",
+      "imageBytes": 22045,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "painting by Pablo Picasso, photo unknown",
+        "license": "Fair use (Old-50)",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Nude_Green_Leaves_and_Bust_by_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "the-old-guitarist",
+      "title": "The Old Guitarist",
+      "year": 1903,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc/Old_guitarist_chicago.jpg",
+      "imageWidth": 5363,
+      "imageHeight": 7989,
+      "story": "The Old Guitarist is an oil painting by Pablo Picasso, which he created in late 1903 and early 1904. It depicts an elderly musician, a haggard man with threadbare clothing, who is hunched over his guitar while playing in the streets of Barcelona, Spain. It is on display at the Art Institute of Chicago as part of the Helen Birch Bartlett Memorial Collection.",
+      "facts": [
+        "Despite unclear imagery in crucial areas of the canvas, experts determined that at least two different paintings are found beneath The Old Guitarist.",
+        "In 1998, researchers used an infrared camera to penetrate the uppermost layer of paint (the composition of The Old Guitarist) and clearly saw the second-most composition.",
+        "In 2019, researchers at University College London used a neural network to recreate the painting found by infrared camera."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Old_Guitarist",
+      "sitelinks": 16,
+      "widthCm": 92,
+      "heightCm": 121,
+      "pageviews": 122810,
+      "qid": "Q3228112",
+      "imageBytes": 16158283,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Old_guitarist_chicago.jpg"
+      }
+    },
+    {
+      "slug": "massacre-in-korea",
+      "title": "Massacre in Korea",
+      "year": 1951,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/63/Picasso_Massacre_in_Korea.jpg",
+      "imageWidth": 427,
+      "imageHeight": 233,
+      "story": "Massacre in Korea is an oil painting completed on 18 January 1951 by Pablo Picasso. Picasso's third anti-war painting after Guernica and The Charnel House, Massacre depicts a scene of a massacre of a group of naked women and children by a firing squad. It has been considered to be a condemnation of American intervention in the Korean War. The painting is housed at the Musée Picasso in Paris.",
+      "facts": [
+        "The art historian Kirsten Hoving Keen writes that it was \"inspired by reports of American atrocities\" in Korea, and Utley argues that the soldiers' machine-like character would have marked them as American to anyone familiar with communist propaganda.",
+        "Massacre in Korea is the third in a series of anti-war paintings created by Picasso."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Massacre_in_Korea",
+      "sitelinks": 14,
+      "widthCm": 209.5,
+      "heightCm": 109.5,
+      "pageviews": 34294,
+      "qid": "Q495447",
+      "imageBytes": 36676,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso_Massacre_in_Korea.jpg"
+      }
+    },
+    {
+      "slug": "le-pigeon-aux-petits-pois",
+      "title": "Le pigeon aux petits pois",
+      "year": 1911,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/63/Picasso_-_Le_pigeon_aux_petits_pois_1911.jpg",
+      "imageWidth": 649,
+      "imageHeight": 800,
+      "story": "Le pigeon aux petit pois, sometimes referred to as Dove with green peas, is a 1911 oil on canvas painting by Pablo Picasso. It is an example of Picasso's Cubist works and has an estimated value of €23 million. The painting was one of five artworks stolen from the Musée d'Art Moderne de la Ville de Paris on 20 May 2010, which together are valued at €100 million. It has so far not been recovered and its whereabouts remain unknown.",
+      "facts": [
+        "Police traced the perpetrator from an insider's tip and the burglar was identified as 49-year-old Vjéran Tomic, who had an existing criminal record.",
+        "He was sentenced to eight years in prison and he and his two accomplices were ordered to pay a fine of €104 million.",
+        "One of Tomic's accomplices, Yonathan Birn, who confessed to receiving the stolen goods, claimed that he threw the stolen artworks in the trash, but the police doubt this assertion.",
+        "In total, five artworks were stolen, including Le pigeon aux petit pois and works by Henri Matisse, Georges Braque, Fernand Léger and Amedeo Modigliani."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_pigeon_aux_petits_pois",
+      "sitelinks": 13,
+      "widthCm": 54,
+      "heightCm": 65,
+      "pageviews": 8770,
+      "qid": "Q1571678",
+      "imageBytes": 82971,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso_-_Le_pigeon_aux_petits_pois_1911.jpg"
+      }
+    },
+    {
+      "slug": "la-vie-painting",
+      "title": "La Vie (painting)",
+      "year": 1903,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/11/La_Vie_by_Pablo_Picasso.jpg",
+      "imageWidth": 5102,
+      "imageHeight": 7834,
+      "story": "La Vie is a 1903 oil painting by Pablo Picasso. It is widely regarded as the pinnacle of Picasso's Blue Period.",
+      "facts": [
+        "X-ray photographs show that Picasso first executed a self-portrait that he later replaced by the portrait of his friend.",
+        "\" But to get an independent personality, and to fulfill his mission as a modern artist, for Picasso the detachment of both the mother and the incomprehending part of his audience that rejected his turn to modern art is needed."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Vie_(painting)",
+      "sitelinks": 13,
+      "widthCm": 129.2,
+      "heightCm": 196.5,
+      "pageviews": 62168,
+      "qid": "Q1799228",
+      "imageBytes": 10613320,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso (Life time: 1973)",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:La_Vie_by_Pablo_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "portrait-of-suzanne-bloch",
+      "title": "Portrait of Suzanne Bloch",
+      "year": 1904,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4f/Picasso-suzanne_bloch.jpg",
+      "imageWidth": 815,
+      "imageHeight": 1000,
+      "story": "Portrait of Suzanne Bloch is an oil on canvas painting executed by the Spanish artist Pablo Picasso in Paris in 1904, towards the end of his Blue Period. The subject, Suzanne Bloch, was a singer known for her Wagner interpretations, and the sister of the violinist Henri Bloch. The painting is housed in the São Paulo Museum of Art.",
+      "facts": [
+        "1916 to Sally Falk, Mannheim, but his collection was already dispersed in 1919, under the supervision of the Paul Cassirer Gallery, Berlin, and Picasso's Lady without hat, blue portrait was acquired by Mechthild Princess Lichnowsky, who kept it at her private collection in London.",
+        "In the following year, it was acquired by the São Paulo Museum of Art (MASP), with financial resources donated by Walter Moreira Salles, founder of Unibanco.",
+        "On 20 December 2007, the painting was stolen from the São Paulo Museum of Art.",
+        "The estimated value of both artworks combined was US$55 million, with the portrait alone valued at US$50 million."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_Suzanne_Bloch",
+      "sitelinks": 10,
+      "widthCm": 54,
+      "heightCm": 65,
+      "pageviews": 12067,
+      "qid": "Q7232312",
+      "imageBytes": 997482,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso-suzanne_bloch.jpg"
+      }
+    },
+    {
+      "slug": "science-and-charity",
+      "title": "Science and Charity",
+      "year": 1897,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/Science_and_Charity_by_Picasso.jpg",
+      "imageWidth": 950,
+      "imageHeight": 755,
+      "story": "Science and Charity is an oil on canvas painting by Pablo Picasso, which he painted in Barcelona in 1897. It is an example of one of Picasso's earliest works, as he painted it when he was only 15 years old. The painting depicts a formal composition of a sick patient in bed, attended by a doctor and a nun holding a child. It was the culmination of Picasso's academic training and displays his talent as an artist before he moved away from this style to pursue his own artistic career. The painting is housed in the collection of the Museu Picasso, Barcelona.",
+      "facts": [
+        "Unfortunately, a newly discovered antitoxin for diphtheria was only available to wealthy Spanish families and therefore Conchita could not be saved.",
+        "It is believed that the work was inspired by Enrique Paternina, Mother's Visit and A Hospital Room during the visit of the Head Doctor by the Sevillian painter Luis Jiménez Aranda."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Science_and_Charity",
+      "sitelinks": 9,
+      "widthCm": 250,
+      "heightCm": 197.5,
+      "pageviews": 14449,
+      "qid": "Q11913985",
+      "imageBytes": 619094,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso (Life time: 1973)",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Science_and_Charity_by_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "the-actor-painting",
+      "title": "The Actor (painting)",
+      "year": 1904,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a3/Picasso_The_Actor_1904.JPG",
+      "imageWidth": 640,
+      "imageHeight": 1110,
+      "story": "The Actor is an oil-on-canvas painting by Spanish painter Pablo Picasso, created from 1904 to 1905. The painting dates from the artist's Rose Period. It is housed in the collection of the Metropolitan Museum of Art in New York City.",
+      "facts": [
+        "The Actor was produced at a transitional point in Picasso's artwork, when he became inspired by the lives of harlequins and saltimbanques.",
+        "Although the attenuated figure and extraordinary play of hands recall the El Greco-inspired mannerism of the Blue Period, The Actor can be seen as the prologue to the series of works that culminates in the enormous canvas Family of Saltimbanques.",
+        "In 2010, experts estimated that the painting, which is one of the largest from Picasso's Rose Period, is worth more than US$100 million."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Actor_(painting)",
+      "sitelinks": 8,
+      "widthCm": 115,
+      "heightCm": 196,
+      "pageviews": 4378,
+      "qid": "Q3041737",
+      "imageBytes": 254379,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso_The_Actor_1904.JPG"
+      }
+    },
+    {
+      "slug": "girl-on-a-ball",
+      "title": "Girl on a Ball",
+      "year": 1905,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/Pablo_Picasso%2C_1905%2C_Acrobate_%C3%A0_la_Boule_%28Acrobat_on_a_Ball%29%2C_oil_on_canvas%2C_147_x_95_cm%2C_The_Pushkin_Museum%2C_Moscow.jpg",
+      "imageWidth": 624,
+      "imageHeight": 982,
+      "story": "Girl on a Ball or Young Acrobat on a Ball is a 1905 oil on canvas painting by Pablo Picasso, which he produced during his Rose Period. It depicts a group of travelling circus performers during a rehearsal, with a primary focus on two contrasting figures. It has been housed in the collection of the Pushkin Museum in Moscow since 1948.",
+      "facts": [
+        "Ivan Morozov acquired the painting from the gallery of Daniel-Henry Kahnweiler in Paris in 1913.",
+        "Picasso created Girl on a Ball in 1905 during his Rose Period, at a time when he was living at the dilapidated Bateau-Lavoir in the Montmartre area of Paris."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girl_on_a_Ball",
+      "sitelinks": 8,
+      "widthCm": 95,
+      "heightCm": 147,
+      "pageviews": 9503,
+      "qid": "Q3604760",
+      "imageBytes": 479540,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1905,_Acrobate_%C3%A0_la_Boule_(Acrobat_on_a_Ball),_oil_on_canvas,_147_x_95_cm,_The_Pushkin_Museum,_Moscow.jpg"
+      }
+    },
+    {
+      "slug": "portrait-of-gertrude-stein",
+      "title": "Portrait of Gertrude Stein",
+      "year": 1905,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/GertrudeStein.JPG",
+      "imageWidth": 1497,
+      "imageHeight": 1851,
+      "story": "Portrait of Gertrude Stein is an oil-on-canvas painting of the American writer and art collector Gertrude Stein by Pablo Picasso, which was begun in 1905 and finished the following year. The painting is housed in the Metropolitan Museum of Art in New York. It is considered one of the important works of Picasso's Rose Period. The portrait has historical significance, due to the subject's role in Picasso's early life as a struggling artist and eventual commercial success. It also represents a significant transitional step in the artist's move towards Cubism.",
+      "facts": [
+        "The siblings acquired three Rose Period artworks from the artist at a point in his life when Picasso was still a struggling artist, thus playing an important role in his financial circumstances and eventual commercial success.",
+        "The portrait's primitive style is inspired perhaps by Picasso's interest in African and Iberian art."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_Gertrude_Stein",
+      "sitelinks": 8,
+      "widthCm": 81.3,
+      "heightCm": 99.6,
+      "pageviews": 15378,
+      "qid": "Q860930",
+      "imageBytes": 759898,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:GertrudeStein.JPG"
+      }
+    },
+    {
+      "slug": "girl-before-a-mirror",
+      "title": "Girl before a Mirror",
+      "year": 1932,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/60/GirlBeforeAMirror.jpg",
+      "imageWidth": 282,
+      "imageHeight": 352,
+      "story": "Girl before a Mirror (French: Jeune fille devant un miroir) is an oil on canvas painting by Pablo Picasso, which he created in 1932. The painting is a portrait of Picasso's mistress and muse, Marie-Thérèse Walter, who is depicted standing in front of a mirror looking at her reflection. It has been in the permanent collection of the Museum of Modern Art in New York City since 1938.",
+      "facts": [
+        "Françoise Gilot, Picasso's partner from 1944 to 1953, commented, \"I could see that she was certainly the woman who had inspired Pablo plastically more than any other.",
+        "This painting was produced in 1932, a significant year in Picasso's artistic career."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girl_before_a_Mirror",
+      "sitelinks": 7,
+      "widthCm": 130.2,
+      "heightCm": 162.3,
+      "pageviews": 68639,
+      "qid": "Q19589746",
+      "imageBytes": 28203,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "painting by Pablo Picasso, photo unknown",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:GirlBeforeAMirror.jpg"
+      }
+    },
+    {
+      "slug": "the-three-dancers",
+      "title": "The Three Dancers",
+      "year": 1925,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b9/Three_Dancers_Picasso.jpg",
+      "imageWidth": 1024,
+      "imageHeight": 1536,
+      "story": "The Three Dancers is a painting by Spanish artist Pablo Picasso, painted in June 1925. It is an oil on canvas and measures 84.8 in x 56 in .",
+      "facts": [
+        "The painting shows three dancers, the one on the right being barely visible.",
+        "A macabre dance takes place, with the dancer on the left having her head bent at a near-impossible angle."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Three_Dancers",
+      "sitelinks": 7,
+      "widthCm": 142.2,
+      "heightCm": 215.3,
+      "pageviews": 11497,
+      "qid": "Q3235867",
+      "imageBytes": 215468,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso (Life time: d. 1973)",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Three_Dancers_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "woman-in-hat-and-fur-collar",
+      "title": "Woman in Hat and Fur Collar",
+      "year": 1937,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/dc/Woman_in_Hat_and_Fur_Collar.jpg",
+      "imageWidth": 286,
+      "imageHeight": 347,
+      "story": "The Woman in Hat and Fur Collar  is a painting by Pablo Picasso executed in 1937 and exhibited at the National Art Museum of Catalonia in Barcelona, Spain.",
+      "facts": [
+        "It was painted in Paris in 1937, and is one of the numerous portraits Picasso did of Marie-Thérèse Walter, his lover between 1927 and 1935, approximately, and the mother of his daughter Maya.",
+        "In these portraits, Picasso carries out an exhaustive analytic exercise in which the youth and personality of Marie-Thérèse are subjected to a thousand metamorphic transfigurations."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_in_Hat_and_Fur_Collar",
+      "sitelinks": 7,
+      "widthCm": 55,
+      "heightCm": 61,
+      "pageviews": 6006,
+      "qid": "Q3816243",
+      "imageBytes": 21985,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Picasso Administration http://www.picasso.fr/us/picasso_page_index.php",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Woman_in_Hat_and_Fur_Collar.jpg"
+      }
+    },
+    {
+      "slug": "boy-leading-a-horse",
+      "title": "Boy Leading a Horse",
+      "year": 1906,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Boy_Leading_a_Horse.jpg",
+      "imageWidth": 851,
+      "imageHeight": 1440,
+      "story": "Jeune garçon au cheval is an oil on canvas painting by Pablo Picasso. The painting is housed in the Museum of Modern Art in New York. It was painted in Picasso's Rose Period from 1905 to 1906, when he was still a struggling artist living in Paris. The painting is a study for a much larger composition that Picasso never completed.",
+      "facts": [
+        "The large composition, titled The Watering Place, had been inspired by the work of the French Neoclassical artist Ingres, whose works had been displayed at the Salon d'Automne in 1905.",
+        "In his early years as an artist, Picasso was greatly inspired by the work of El Greco, particularly in terms of the colours that he used and the depiction of his figures.",
+        "It was then acquired by the art collectors Gertrude Stein and Leo Stein, around 1907 to 1913.",
+        "Rakoff ruled that Paul von Mendelssohn-Bartholdy had been forced to sell the painting by the Nazi Party."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boy_Leading_a_Horse",
+      "sitelinks": 7,
+      "widthCm": 130.6,
+      "heightCm": 220.3,
+      "pageviews": 10739,
+      "qid": "Q3929376",
+      "imageBytes": 254422,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Boy_Leading_a_Horse.jpg"
+      }
+    },
+    {
+      "slug": "family-of-saltimbanques",
+      "title": "Family of Saltimbanques",
+      "year": 1905,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Family_of_Saltimbanques.JPG",
+      "imageWidth": 6311,
+      "imageHeight": 5887,
+      "story": "Family of Saltimbanques is a 1905 oil on canvas painting by Pablo Picasso. The work depicts six saltimbanques, a kind of itinerant circus performer, in a desolate landscape. It is considered the masterpiece of Picasso's Rose Period, sometimes called his circus period. The painting is housed in the collection of the National Gallery of Art in Washington, D.C.",
+      "facts": [
+        "During this period, Picasso frequently attended the Cirque Médrano in Montmartre and was inspired by a group of performers there.",
+        "Carmean and Ann Hoenigswald made the discovery whilst carrying out an x-ray examination of the painting.",
+        "The examination revealed that there were two earlier paintings beneath the surface, the first of which depicted a circus family and the second depicted a pair of acrobats.",
+        "Six years later, it was sold at Hôtel Drouot and acquired by the Thannhauser Galleries in Munich."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Family_of_Saltimbanques",
+      "sitelinks": 7,
+      "widthCm": 229.6,
+      "heightCm": 212.8,
+      "pageviews": 46236,
+      "qid": "Q5433371",
+      "imageBytes": 16271870,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Family_of_Saltimbanques.JPG"
+      }
+    },
+    {
+      "slug": "au-lapin-agile",
+      "title": "Au Lapin Agile",
+      "year": 1905,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8d/Pablo_Picasso%2C_1905%2C_Au_Lapin_Agile_%28At_the_Lapin_Agile%29%2C_oil_on_canvas%2C_99.1_x_100.3_cm%2C_Metropolitan_Museum_of_Art.jpg",
+      "imageWidth": 1500,
+      "imageHeight": 1500,
+      "story": "Au Lapin Agile is a 1905 oil on canvas painting by Pablo Picasso. It depicts the interior of the Lapin Agile, a famous cabaret club in the Montmartre area of Paris. The composition was produced during Picasso's Rose Period and includes a self-portrait of the artist who frequented the club in his youth. The painting is listed as one of the most expensive paintings after achieving a price of $40.7 million at Sotheby's auction on 27 November 1989. It is housed in the collection of the Metropolitan Museum of Art in New York City.",
+      "facts": [
+        "Frédéric Gérard commissioned the painting and exhibited it at the Lapin Agile from 1905 to 1912, when it was sold to a German collector.",
+        "This painting was produced in 1905, just a few years after the young Picasso and his friend Carles Casagemas settled in Paris in 1900."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Au_Lapin_Agile",
+      "sitelinks": 6,
+      "widthCm": 100.3,
+      "heightCm": 99.1,
+      "pageviews": 7102,
+      "qid": "Q19920648",
+      "imageBytes": 567572,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1905,_Au_Lapin_Agile_(At_the_Lapin_Agile),_oil_on_canvas,_99.1_x_100.3_cm,_Metropolitan_Museum_of_Art.jpg"
+      }
+    },
+    {
+      "slug": "the-pipes-of-pan-painting",
+      "title": "The Pipes of Pan (painting)",
+      "year": 1923,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3d/Picasso%3B_Pipes_of_Pan%2C_1923.jpg",
+      "imageWidth": 1324,
+      "imageHeight": 1600,
+      "story": "The Pipes of Pan is an oil-on-canvas by Spanish artist Pablo Picasso. Painted in 1923 during Picasso's classical period, the painting depicts two statuesque men of mythological origins. Frequently acknowledged to be his cornerstone work during this era, the painting makes use of a large canvas and a classical color palette that are acutely reminiscent of the ancient world. The subjects which Picasso chooses to explore within this work– male Greek youth, musical pipes, as well as the Mediterranean setting– all hark back to classical ancient art.",
+      "facts": [
+        "Infrared photographs of The Pipes of Pan taken in the 90s revealed an initial composition that included four total figures.",
+        "However, a possible reason why this initial idea was scrapped was because Picasso's infatuation came to a head– perhaps Sara rejected him, and so he erased her from the painting composition."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Pipes_of_Pan_(painting)",
+      "sitelinks": 6,
+      "widthCm": 174,
+      "heightCm": 205,
+      "pageviews": 2752,
+      "qid": "Q3794006",
+      "imageBytes": 505791,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso (d. 1973)",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso%3B_Pipes_of_Pan,_1923.jpg"
+      }
+    },
+    {
+      "slug": "the-tragedy-picasso",
+      "title": "The Tragedy (Picasso)",
+      "year": 1903,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/39/The_Tragedy.JPG",
+      "imageWidth": 950,
+      "imageHeight": 1445,
+      "story": "The Tragedy, also known as Poor People by the Sea, is an oil on panel painting made in 1903 by Pablo Picasso. It is currently in Washington, DC, in the National Gallery of Art.",
+      "facts": [
+        "A painting from Picasso's Blue Period (1901-1904), the painting depicts a family of poor people by the sea.",
+        "The three figures are rendered in an almost monochrome palette in different shades of blue."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Tragedy_(Picasso)",
+      "sitelinks": 6,
+      "widthCm": 69,
+      "heightCm": 105.3,
+      "pageviews": 4764,
+      "qid": "Q3909614",
+      "imageBytes": 245528,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Tragedy.JPG"
+      }
+    },
+    {
+      "slug": "reading-the-letter",
+      "title": "Reading the Letter",
+      "year": 1921,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/31/Reading_The_Letter_Picasso_1921_small.jpg",
+      "imageWidth": 260,
+      "imageHeight": 384,
+      "story": "La Lecture de la Lettre is an oil on canvas painting by Pablo Picasso, which he painted c. 1921, during his transition from Cubism to Neoclassicism, very close to the time of the birth of his son, Paulo. The painting depicts two well-dressed boys reading a letter. The boys have downcast expressions as they read. One boy has an oversized hand on the other's shoulder.",
+      "facts": [
+        "According to the Picasso Museum in Paris, the painting was discovered during the inventory of his studios after his death.",
+        "172) that Picasso was enjoying phenomenal financial success at this time, estimating his own earnings at one and a half million francs per year."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Reading_the_Letter",
+      "sitelinks": 6,
+      "widthCm": 105,
+      "heightCm": 184,
+      "pageviews": 1383,
+      "qid": "Q7300609",
+      "imageBytes": 21836,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso (d. 1973)",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Reading_The_Letter_Picasso_1921_small.jpg"
+      }
+    },
+    {
+      "slug": "ma-jolie-picasso-new-york",
+      "title": "Ma Jolie (Picasso, New York)",
+      "year": 1911,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "\nMa Jolie is a 1911–1912 Cubist painting by Pablo Picasso. It relies on abstract meanings and concepts such as signified and signifier. It is now in the Museum of Modern Art in New York City. It is not to be confused with the 1914 Picasso of the same name, now in the Indianapolis Museum of Art.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ma_Jolie_(Picasso%2C_New_York)",
+      "sitelinks": 5,
+      "widthCm": 64.5,
+      "heightCm": 100,
+      "pageviews": 7029,
+      "qid": "Q129433",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "old-jewish-man-with-a-boy",
+      "title": "Old Jewish Man with a Boy",
+      "year": 1903,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/19/Old_Jewish_Man_with_a_Boy%2C_Picasso_1903.jpg",
+      "imageWidth": 5965,
+      "imageHeight": 8192,
+      "story": "Old Jewish Man with a Boy or Blind Beggar with a Boy is an oil on canvas painting by Pablo Picasso, from 1903. It was made in Barcelona, Spain, and characteristic of his Blue Period. Picasso later moved to Paris, where he sold the work to Sergei Shchukin, whose collection was seized by the Soviet state after the October Revolution, which assigned it to its present home in the Pushkin Museum, in Moscow.",
+      "facts": [
+        "On a dark blue background, two beggars are depicted, an old man and a boy, who embody the two most helpless, unprotected ages - childhood and old age.",
+        "The boy clinging to him also seems to be blind, his eyes are also motionless and dead."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Old_Jewish_Man_with_a_Boy",
+      "sitelinks": 5,
+      "widthCm": 92,
+      "heightCm": 125,
+      "pageviews": 2348,
+      "qid": "Q16701912",
+      "imageBytes": 10186240,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso (Life time: 8 April 1973)",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Old_Jewish_Man_with_a_Boy,_Picasso_1903.jpg"
+      }
+    },
+    {
+      "slug": "the-blue-room-picasso",
+      "title": "The Blue Room (Picasso)",
+      "year": 1901,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/75/Picasso%27s_Blue_Room_1901.jpg",
+      "imageWidth": 2812,
+      "imageHeight": 2300,
+      "story": "The Blue Room is a 1901 oil on canvas painting by Pablo Picasso, which he painted during his Blue Period. It depicts a scene of a nude woman bending over in a bath tub. A hidden painting was revealed beneath the surface by x-ray images and infra-red scans, showing a portrait of a bearded man. The painting has been housed in The Phillips Collection, in Washington D.C. since 1927.",
+      "facts": [
+        "Since the 1950s, there had been speculation that the painting had something hidden beneath its surface after a conservator at The Philips Collection noticed inconsistencies in the brushwork.",
+        "A hidden painting was later confirmed in 1997 by x-ray images.",
+        "When infra-red scans were carried out on the painting in 2008, a portrait of a bearded man wearing a bow tie was revealed beneath the surface.",
+        "The study used multiple methods, including the microanalysis of paint samples, reflectance imaging spectroscopy and synchrotron radiation x-ray fluorescence mapping to analyse the materials used and the structure of the paint layers."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Blue_Room_(Picasso)",
+      "sitelinks": 5,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 8875,
+      "qid": "Q17278728",
+      "imageBytes": 2599907,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso's_Blue_Room_1901.jpg"
+      }
+    },
+    {
+      "slug": "la-coiffeuse",
+      "title": "La Coiffeuse",
+      "year": 1911,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Picasso_-_La_Coiffeuse_%281910-11%29_Centre_Pompidou.jpg",
+      "imageWidth": 2927,
+      "imageHeight": 2045,
+      "story": "La Coiffeuse is an oil on canvas painting by Pablo Picasso that he created in 1911. It was painted in the early Cubist style, known as Analytical Cubism, which Picasso pioneered. The painting has been valued at $15m (£10m). It was reported as stolen from Paris' Centre Georges Pompidou in 2001, but then recovered in a shipment from Belgium to Newark, New Jersey, in December 2014. It was returned to Centre Pompidou in 2015.",
+      "facts": [
+        "In 2001, La Coiffeuse, which had been bequeathed to the French government, was stolen from a storeroom of the Centre Georges Pompidou in Paris.",
+        "In 2015, it was discovered wrapped in parcel paper in a shipment upon arrival in Newark, New Jersey.",
+        "It was returned to Centre Georges Pompidou but required five months of restoration due to poor storage conditions.",
+        "The painting was originally acquired by the art dealer Ambroise Vollard in the 1940s."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Coiffeuse",
+      "sitelinks": 5,
+      "widthCm": 46,
+      "heightCm": 33,
+      "pageviews": 1209,
+      "qid": "Q19370839",
+      "imageBytes": 3263751,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso_-_La_Coiffeuse_(1910-11)_Centre_Pompidou.jpg"
+      }
+    },
+    {
+      "slug": "acrobat-and-young-harlequin",
+      "title": "Acrobat and Young Harlequin",
+      "year": 1905,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/be/Pablo_Picasso%2C_1905%2C_Acrobate_et_jeune_Arlequin_%28Acrobat_and_Young_Harlequin%29%2C_oil_on_canvas%2C_191.1_x_108.6_cm%2C_The_Barnes_Foundation%2C_Philadelphia.jpg",
+      "imageWidth": 684,
+      "imageHeight": 1230,
+      "story": "Acrobat and Young Harlequin is a 1905 oil on canvas painting by Pablo Picasso. Painted toward the end of Picasso's Blue Period and the outset of his Rose Period, the work displays characteristics of both, with its melancholic subject and its blue and rose palette. Picasso created the painting while at the Le Bateau-Lavoir, his home and studio in Montmartre, Paris.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Acrobat_and_Young_Harlequin",
+      "sitelinks": 5,
+      "widthCm": 108.6,
+      "heightCm": 191.1,
+      "pageviews": 4740,
+      "qid": "Q28128884",
+      "imageBytes": 410288,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1905,_Acrobate_et_jeune_Arlequin_(Acrobat_and_Young_Harlequin),_oil_on_canvas,_191.1_x_108.6_cm,_The_Barnes_Foundation,_Philadelphia.jpg"
+      }
+    },
+    {
+      "slug": "brick-factory-at-tortosa",
+      "title": "Brick Factory at Tortosa",
+      "year": 1909,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b/Pablo_Picasso%2C_1909%2C_Brick_Factory_at_Tortosa%2C_oil_on_canvas%2C_50.7_x_60.2_cm%2C_The_State_Hermitage_Museum%2C_Saint_Petersburg.jpg",
+      "imageWidth": 2000,
+      "imageHeight": 1670,
+      "story": "Brick Factory at Tortosa is a 1909 oil on canvas painting by Pablo Picasso, which he created during a visit to Horta de Sant Joan in Catalonia. It depicts a landscape of a factory and palm trees, which are presented in a simplified, geometric style. The work belongs to Picasso's African Period and is considered a Proto-Cubist work. It is held in the collection of The State Hermitage Museum in Saint Petersburg.",
+      "facts": [
+        "This visit inspired Picasso to produce paintings dominated by landscapes depicted in a geometric style.",
+        "It was a period in which he rediscovered himself as an artist and developed an experimental new style that would eventually lead to Cubism.",
+        "It was acquired by the State Museum of New Western Art in Moscow and then transferred to The State Hermitage Museum in 1948."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brick_Factory_at_Tortosa",
+      "sitelinks": 5,
+      "widthCm": 60.2,
+      "heightCm": 50.7,
+      "pageviews": 4247,
+      "qid": "Q3737505",
+      "imageBytes": 2483782,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1909,_Brick_Factory_at_Tortosa,_oil_on_canvas,_50.7_x_60.2_cm,_The_State_Hermitage_Museum,_Saint_Petersburg.jpg"
+      }
+    },
+    {
+      "slug": "nude-in-a-black-armchair",
+      "title": "Nude in a Black Armchair",
+      "year": 1932,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ee/Picasso_Nude_in_a_blackArmchair.jpg",
+      "imageWidth": 281,
+      "imageHeight": 355,
+      "story": "Nude in a Black Armchair is an oil on canvas painting by Pablo Picasso. Painted on 9 March 1932, a time at which Picasso lived in Boisgeloup outside Paris, it is the first and largest of a series of paintings Picasso completed that year of his mistress Marie-Thérèse Walter. The painting was purchased by Les Wexner at Christie's auction in 1999 for the value of $45.1 million.",
+      "facts": [
+        "Picasso met Walter in 1927, while he was married to the Russian ballerina Olga Khokhlova.",
+        "Their first meeting occurred outside the Galeries Lafayette in Paris, when Picasso stopped Walter in the street and asked to paint her portrait."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nude_in_a_Black_Armchair",
+      "sitelinks": 5,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 4166,
+      "qid": "Q7068347",
+      "imageBytes": 21114,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso_Nude_in_a_blackArmchair.jpg"
+      }
+    },
+    {
+      "slug": "daniel-henry-kahnweiler-picasso",
+      "title": "Daniel-Henry Kahnweiler (Picasso)",
+      "year": 1910,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/Picasso_Portrait_of_Daniel-Henry_Kahnweiler_1910.jpg",
+      "imageWidth": 551,
+      "imageHeight": 768,
+      "story": "Portrait of Daniel-Henry Kahnweiler is an oil on canvas painting by Pablo Picasso in the Analytical Cubism style. It was completed in the autumn of 1910 and depicts the prominent art dealer Daniel-Henry Kahnweiler, who played an important role in supporting Cubism. The painting is housed in the collection of the Art Institute of Chicago.",
+      "facts": [
+        "Daniel-Henry Kahnweiler was a German Jew who was born in Mannheim.",
+        "His family wanted him to pursue a career in banking or the stock market, but instead he decided to become an art dealer."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel-Henry_Kahnweiler_(Picasso)",
+      "sitelinks": 5,
+      "widthCm": 72.4,
+      "heightCm": 100.4,
+      "pageviews": 39115,
+      "qid": "Q7232244",
+      "imageBytes": 167388,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso_Portrait_of_Daniel-Henry_Kahnweiler_1910.jpg"
+      }
+    },
+    {
+      "slug": "the-accordionist",
+      "title": "The Accordionist",
+      "year": 1911,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c0/The_Accordionist_by_Picasso.jpg",
+      "imageWidth": 233,
+      "imageHeight": 345,
+      "story": "The Accordionist is a 1911 oil on canvas painting by Pablo Picasso. The painting portrays a seated man playing an accordion. The division of three-dimensional forms into a two-dimensional plane indicates that the painting is in the style of Analytical Cubism, which was developed by Picasso and Georges Braque between 1907 and 1914. The painting is now in the Solomon R. Guggenheim Museum in New York City.",
+      "facts": [
+        "This painting was produced during a period in Picasso's art known as Analytical Cubism.",
+        "Cubism was developed between 1907 and 1914 by Picasso and Georges Braque after they met in 1907."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Accordionist",
+      "sitelinks": 5,
+      "widthCm": 89.5,
+      "heightCm": 130.2,
+      "pageviews": 3052,
+      "qid": "Q7712224",
+      "imageBytes": 105609,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Accordionist_by_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "violon-et-raisins",
+      "title": "Violon et Raisins",
+      "year": 1912,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a5/Pablo_Picasso%2C_1912%2C_Violin_and_Grapes%2C_oil_on_canvas%2C_61_x_50.8_cm%2C_Museum_of_Modern_Art.jpg",
+      "imageWidth": 2619,
+      "imageHeight": 3120,
+      "story": "Violon et Raisins is a 1912 oil on canvas painting by Pablo Picasso. This painting was one of five works exhibited by the artist at Galerie Goltz, Munich, along with Tête de femme. It is now in the Museum of Modern Art in New York City.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Violon_et_Raisins",
+      "sitelinks": 5,
+      "widthCm": 50.8,
+      "heightCm": 61,
+      "pageviews": 1587,
+      "qid": "Q7933396",
+      "imageBytes": 4434275,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1912,_Violin_and_Grapes,_oil_on_canvas,_61_x_50.8_cm,_Museum_of_Modern_Art.jpg"
+      }
+    },
+    {
+      "slug": "child-with-a-dove",
+      "title": "Child with a Dove",
+      "year": 1901,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Child_With_a_Dove_by_Pablo_Picasso.jpg",
+      "imageWidth": 2168,
+      "imageHeight": 3100,
+      "story": "Child with a Dove, also described as Child Holding a Dove, Child with a Pigeon is an oil-on-canvas painting by the Spanish artist Pablo Picasso, which he created in 1901 at the start of his Blue Period. The painting is a depiction of a young girl in a white dress holding a white dove, and represents an important transitional moment in the artist’s career. It was on public display at the National Gallery in London, England for nearly four decades before its private sale in 2012, when it achieved a price of £50 million.",
+      "facts": [
+        "The painting was acquired by French art dealer Paul Rosenberg.",
+        "In 2012, the painting was sold in a private sale brokered by auction house Christie's on behalf of the Aberconway family."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Child_with_a_Dove",
+      "sitelinks": 4,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 13339,
+      "qid": "Q13582428",
+      "imageBytes": 4600781,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso (d. 1973)",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Child_With_a_Dove_by_Pablo_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "maya-with-doll",
+      "title": "Maya with Doll",
+      "year": 1938,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "\nMaya with Doll is an oil painting by Pablo Picasso. Created in 1938, the New York Times described it as \"a colorful Cubist portrait of Picasso’s daughter as a child clutching a doll.\"",
+      "facts": [
+        "On February 28, 2007, the painting was one of two stolen from the home of Picasso's granddaughter Diana Widmaier-Picasso.",
+        "On August 7, 2007, French officials announced that the painting had been recovered, along with the other stolen painting, Jacqueline.",
+        "The paintings were found in Paris and the thieves, who were known to the police for previous cases of art theft, were arrested."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maya_with_Doll",
+      "sitelinks": 4,
+      "widthCm": 60,
+      "heightCm": 73.5,
+      "pageviews": 6672,
+      "qid": "Q3302921",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "portrait-of-ambroise-vollard-picasso",
+      "title": "Portrait of Ambroise Vollard (Picasso)",
+      "year": 1910,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Portrait_of_Ambroise_Vollard_by_Picasso.jpg",
+      "imageWidth": 234,
+      "imageHeight": 345,
+      "story": "Portrait of Ambroise Vollard is an oil-on-canvas painting by Pablo Picasso, which he painted in 1910. It is now housed in the Pushkin Museum in Moscow. The painting is a representation of the influential art dealer Ambroise Vollard, who played an important role in Picasso's early career as an artist. It is painted in the style of Analytical Cubism, which Picasso pioneered.",
+      "facts": [
+        "\" Picasso's artwork continuously changed in style over the course of his lifetime, inspired by personal relationships and the work of other artists.",
+        "The prominent art dealer Ambroise Vollard played an influential role in launching and establishing Picasso's career as an artist."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_Ambroise_Vollard_(Picasso)",
+      "sitelinks": 4,
+      "widthCm": 65.5,
+      "heightCm": 92,
+      "pageviews": 7905,
+      "qid": "Q3937459",
+      "imageBytes": 81395,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Portrait_of_Ambroise_Vollard_by_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "woman-in-a-red-armchair",
+      "title": "Woman in a Red Armchair",
+      "year": 1929,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/00/Femme_dans_une_chaise_rouge%2C_Pablo_Picasso%2C_1929.webp",
+      "imageWidth": 470,
+      "imageHeight": 571,
+      "story": "Woman in a Red Armchair is an oil on canvas painting by artist Pablo Picasso. It was painted in 1929 and is housed at the Menil Collection in Houston, Texas. The painting was influenced by Surrealism and may be a portrait of Picasso's first wife, Olga Khokhlova, whom he married in 1918. It was vandalised while on display in 2012, but quickly restored.",
+      "facts": [
+        "Picasso's dramatic change in style can be attributed to his meeting of 17-year-old Marie-Thérèse Walter, who was to become his mistress for the next nine years.",
+        "Landeros was sentenced to two years in prison for felony graffiti and criminal mischief, and the painting was restored."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_in_a_Red_Armchair",
+      "sitelinks": 4,
+      "widthCm": 54,
+      "heightCm": 65.1,
+      "pageviews": 4667,
+      "qid": "Q8030722",
+      "imageBytes": 39874,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso (Life time: 25 October 1881 - 8 April 1973)",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Femme_dans_une_chaise_rouge,_Pablo_Picasso,_1929.webp"
+      }
+    },
+    {
+      "slug": "le-moulin-de-la-galette-picasso",
+      "title": "Le Moulin de la Galette (Picasso)",
+      "year": 1900,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/33/Picasso_-_Le_Moulin_de_la_Galette_%281900%29.jpg",
+      "imageWidth": 4096,
+      "imageHeight": 3118,
+      "story": "Le Moulin de la Galette is an oil painting on canvas created in 1900 by Pablo Picasso, and currently owned by the Guggenheim Museum in New York.",
+      "facts": [
+        "The court rejected the museum's filing and ruled that the case could proceed to trial.",
+        "In September 1900, 18-year-old Pablo Picasso arrived in Paris with his friend Carlos Casagemas for the Universal Exhibition."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_Moulin_de_la_Galette_(Picasso)",
+      "sitelinks": 3,
+      "widthCm": 116.8,
+      "heightCm": 89.7,
+      "pageviews": 3051,
+      "qid": "Q1121039",
+      "imageBytes": 4857528,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso_-_Le_Moulin_de_la_Galette_(1900).jpg"
+      }
+    },
+    {
+      "slug": "woman-ironing",
+      "title": "Woman Ironing",
+      "year": 1904,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Woman Ironing is a 1904 oil painting by Pablo Picasso that was completed during the artist's Blue Period (1901—1904). This evocative image, painted in neutral tones of blue and gray, depicts an emaciated woman with hollowed eyes, sunken cheeks, and bent form, as she presses down on an iron with all her will. A recurrent subject matter for Picasso during this time is the desolation of social outsiders. This painting, as the rest of his works of the Blue Period, is inspired by his life in Spain but was painted in Paris.",
+      "facts": [
+        "Guggenheim museum to claim the restitution of the painting which they said the Adlers were forced to sell in 1938 due to Nazi persecution.",
+        "The expressive pose in Picasso's 1904's Woman Ironing, was certainly inspired by Degas's Woman Ironing (ca.",
+        "In 1989, a study of Woman Ironing revealed an apparent portrait of a man underneath the surface of the 1904 work of art.",
+        "This is not the only Picasso painting with a hidden image underneath its surface."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_Ironing",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 4008,
+      "qid": "Q19882898",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "woman-with-a-fan-picasso-1908",
+      "title": "Woman with a Fan (Picasso, 1908)",
+      "year": 1907,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "\nWoman with a Fan is a 1907 or 1908 oil on canvas painting by Pablo Picasso, now in the Hermitage Museum, in Saint Petersburg. It shows the strong influence of Paul Cézanne, African art and classical Greek art. It was owned by Sergei Shchukin and later the Antikvariat All-Union Association, entering its present home in 1934.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_with_a_Fan_(Picasso%2C_1908)",
+      "sitelinks": 3,
+      "widthCm": 101,
+      "heightCm": 152,
+      "pageviews": 1389,
+      "qid": "Q2071151",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "still-life-with-chair-caning",
+      "title": "Still Life with Chair Caning",
+      "year": 1912,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "\nStill Life with Chair Caning is an ovular 1912 mixed-media collage work by Pablo Picasso (1881–1973), which is considered to be the first cubist collage as well as, by some, the first assemblage. The work consists of oil and printed oilcloth on canvas edged with rope. It is said that by introducing the facsimile of a newspaper into the work, he was \"inserting a fragment of reality into the fictive realm of painting\".",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Still_Life_with_Chair_Caning",
+      "sitelinks": 3,
+      "widthCm": 35,
+      "heightCm": 27,
+      "pageviews": 12515,
+      "qid": "Q3337122",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "portrait-of-jaume-sabartes",
+      "title": "Portrait of Jaume Sabartés",
+      "year": 1901,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a0/Pablo_Picasso%2C_1901-02%2C_Le_bock_%28Portrait_de_Jaime_Sabartes%29%2C_The_Glass_of_Beer_%28Portrait_of_the_Poet_Sabartes%29%2C_oil_on_canvas%2C_82_x_66_cm%2C_Pushkin_Museum%2C_Moscow.jpg",
+      "imageWidth": 1541,
+      "imageHeight": 1944,
+      "story": "Portrait of Jaume Sabartés or Le bock is a 1901 oil on canvas painting by Pablo Picasso of his friend Jaume Sabartés, now in the Pushkin Museum. He produced it in Paris in autumn 1901 early in his Blue Period, one of eight pencil or paint portraits he made of Sabartés, re-using a canvas previously showing a seated child.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_Jaume_Sabart%C3%A9s",
+      "sitelinks": 3,
+      "widthCm": 66,
+      "heightCm": 82,
+      "pageviews": 2130,
+      "qid": "Q3937575",
+      "imageBytes": 1179059,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1901-02,_Le_bock_(Portrait_de_Jaime_Sabartes),_The_Glass_of_Beer_(Portrait_of_the_Poet_Sabartes),_oil_on_canvas,_82_x_66_cm,_Pushkin_Museum,_Moscow.jpg"
+      }
+    },
+    {
+      "slug": "bottle-glass-fork",
+      "title": "Bottle, Glass, Fork",
+      "year": 1912,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Bottle, Glass, Fork is an oil on canvas painting by Pablo Picasso (1881–1973). It was painted in the spring of 1912, at the height of the development of Analytic Cubism. Bottle, Glass, Fork is one of the best representations of the point in Picasso's career when his Cubist painting reached almost full abstraction. The analytic phase of Cubism was an original art movement developed by Picasso and his contemporary Georges Braque (1882–1963) and lasted from 1908-1912. Like Bottle, Glass, Fork, the paintings of this movement are characterized by the limited use of color, and a complex, elegant composition of small, fragmented, tightly interwoven planes within an all-over composition of broader planes. While the figures in Bottle, Glass, Fork can be difficult to discern, the objects do emerge after careful study of the painting. The painting is displayed in the Cleveland Museum of Art.",
+      "facts": [
+        "The bottle is the largest whole plane on the canvas, placed in the upper-left quadrant of the oval.",
+        "Other significant compositional elements within Bottle, Glass, Fork have nothing to do with the title of the work, but are found in the letters that Picasso included, half-hidden behind the overlapping shapes."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bottle%2C_Glass%2C_Fork",
+      "sitelinks": 3,
+      "widthCm": 52.7,
+      "heightCm": 72,
+      "pageviews": 1057,
+      "qid": "Q4949030",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "ma-jolie-picasso-indianapolis",
+      "title": "Ma Jolie (Picasso, Indianapolis)",
+      "year": 1914,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/98/Ma_Jolie_Pablo_Picasso.jpg",
+      "imageWidth": 1024,
+      "imageHeight": 856,
+      "story": "Ma Jolie is an oil on canvas painting by Spanish artist Pablo Picasso, which is located in the Indianapolis Museum of Art, in Indianapolis, Indiana, US. Completed in 1914, its fractured depiction of everyday objects is an example of Cubism. It is not to be confused with the 1912 Picasso of the same name, which is now in the Museum of Modern Art in New York.",
+      "facts": [
+        "Theodore Schempp of New York City acquired it in 1942, possibly from Karl Nierendorf.",
+        "Picasso used a limited palette to draw attention to the overlapping, fragmented shapes of common objects including musical instruments, sheet music, glasses, a bottle, and a cigarette."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ma_Jolie_(Picasso%2C_Indianapolis)",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1948,
+      "qid": "Q6720747",
+      "imageBytes": 920979,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Ma_Jolie_Pablo_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "the-charnel-house",
+      "title": "The Charnel House",
+      "year": 1944,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6a/The_Charnel_House_by_Picasso.jpg",
+      "imageWidth": 345,
+      "imageHeight": 274,
+      "story": "The Charnel House is an unfinished 1944–1945 oil and charcoal on canvas painting by Spanish artist Pablo Picasso, which is purported to deal with the Nazi genocide of the Holocaust. The black and white 'grisaille' composition centres on a massed pile of corpses and was based primarily upon film and photographs of a slaughtered family during the Spanish Civil War. It is considered to be the second of three major anti-war Picassos, preceded by Guernica in 1937 and succeeded by Massacre in Korea in 1951. The painting is housed in the Museum of Modern Art in New York City.",
+      "facts": [
+        "It was inspired by a documentary about a Spanish Republican family who were killed in their kitchen.",
+        "Over the course of the Nazi occupation, approximately 75,000 people were executed in the region of Paris.",
+        "\" The Charnel House is a sombre painting of a jumble of figures beneath a dining room table.",
+        "It represents a murdered family that appears similar to the piles of bodies discovered in Nazi concentration camps at the point of their liberation."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Charnel_House",
+      "sitelinks": 3,
+      "widthCm": 250.1,
+      "heightCm": 199.8,
+      "pageviews": 17312,
+      "qid": "Q7722212",
+      "imageBytes": 113940,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Charnel_House_by_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "femme-et-pot-de-moutarde",
+      "title": "Femme et pot de moutarde",
+      "year": 1910,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/bb/Pablo_Picasso%2C_1910%2C_Woman_with_Mustard_Pot_%28La_Femme_au_pot_de_moutarde%29%2C_oil_on_canvas%2C_73_x_60_cm%2C_Gemeentemuseum%2C_The_Hague._Exhibited_at_the_Armory_Show%2C_New_York%2C_Chicago%2C_Boston_1913.jpg",
+      "imageWidth": 1948,
+      "imageHeight": 2362,
+      "story": "Femme et pot de moutarde is a 1910 painting by Pablo Picasso. The portrait shows Picasso's lover of the time, Fernande Olivier. The painting formed part of The Armory Show in New York, that introduced North America to Picasso and several other modern painters and sculptors, for a price of US$675.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Femme_et_pot_de_moutarde",
+      "sitelinks": 2,
+      "widthCm": 60,
+      "heightCm": 73,
+      "pageviews": 1041,
+      "qid": "Q24046508",
+      "imageBytes": 753084,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1910,_Woman_with_Mustard_Pot_(La_Femme_au_pot_de_moutarde),_oil_on_canvas,_73_x_60_cm,_Gemeentemuseum,_The_Hague._Exhibited_at_the_Armory_Show,_New_York,_Chicago,_Boston_1913.jpg"
+      }
+    },
+    {
+      "slug": "girl-in-a-chemise",
+      "title": "Girl in a Chemise",
+      "year": 1905,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/90/Girl_in_a_Chemise_by_Picasso.jpg",
+      "imageWidth": 1270,
+      "imageHeight": 1536,
+      "story": "Girl in a Chemise is an oil-on-canvas painting created c. 1905 by Pablo Picasso. It is a portrait of a girl, whom experts believe to be Madeleine, Picasso's girlfriend during this period. Stylistically, the painting belongs to Picasso's Rose Period, although it is predominantly blue in tone. The painting is particularly remarkable for the presence of an earlier portrait of a young boy hidden beneath the surface, which Picasso transformed into the girl by making some subtle changes. The portrait has been housed in the collection of the Tate since 1933.",
+      "facts": [
+        "X-radiography has revealed an earlier painting of a young boy beneath the surface of the existing painting.",
+        "The hidden painting depicts a young boy with a pleated white collar, short cropped hair, who may be wearing a skull cap.",
+        "The x-radiograph also revealed other hidden lines and shapes beneath the surface of the existing painting, which suggest that Picasso had reused the canvas after removing a previous work prior to painting the boy.",
+        "Varying tones can be detected beneath the black surface, including hints of blue, pink and brown."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girl_in_a_Chemise",
+      "sitelinks": 2,
+      "widthCm": 60,
+      "heightCm": 72.7,
+      "pageviews": 2932,
+      "qid": "Q28538208",
+      "imageBytes": 237892,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso (d. 1973)",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Girl_in_a_Chemise_by_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "woman-with-a-fan-picasso-1909",
+      "title": "Woman with a Fan (Picasso, 1909)",
+      "year": 1909,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e2/Pablo_Picasso%2C_1909%2C_Femme_%C3%A0_l%27%C3%A9ventail_%28Woman_with_a_Fan%29%2C_oil_on_canvas%2C_101_x_81_cm%2C_Pushkin_Museum.jpg",
+      "imageWidth": 547,
+      "imageHeight": 680,
+      "story": "Woman with a Fan is a 1909 oil on canvas painting by Pablo Picasso. It has been held in the Pushkin Museum in Moscow since 1948. It was owned by collector Sergei Shchukin until being seized by the Russian state after the October Revolution in 1917 and assigned to the State Museum of Modern Western Art.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_with_a_Fan_(Picasso%2C_1909)",
+      "sitelinks": 2,
+      "widthCm": 81,
+      "heightCm": 101,
+      "pageviews": 1408,
+      "qid": "Q3713924",
+      "imageBytes": 41425,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1909,_Femme_%C3%A0_l'%C3%A9ventail_(Woman_with_a_Fan),_oil_on_canvas,_101_x_81_cm,_Pushkin_Museum.jpg"
+      }
+    },
+    {
+      "slug": "the-appointment-picasso",
+      "title": "The Appointment (Picasso)",
+      "year": 1909,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "\nThe Appointment is a 1900 pastel on paper painting by Pablo Picasso, now in the Pushkin Museum in Moscow.",
+      "facts": [
+        "Little is revealed to the viewer's: the faces of the protagonists are hidden by their embrace.",
+        "In September 1899, the eighteen-year-old Picasso was in Paris, looking for subjects and themes of everyday life that would allow him to experiment with new artistic tendencies."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Appointment_(Picasso)",
+      "sitelinks": 2,
+      "widthCm": 56,
+      "heightCm": 53,
+      "pageviews": 587,
+      "qid": "Q3818682",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "girl-from-majorca",
+      "title": "Girl from Majorca",
+      "year": 1905,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "\nGirl from Majorca is a 1905 gouache on card sketch by Pablo Picasso. It is held now in the Pushkin Museum, in Moscow. It is a study for the slightly later Family of Saltimbanques.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girl_from_Majorca",
+      "sitelinks": 2,
+      "widthCm": 51,
+      "heightCm": 67,
+      "pageviews": 394,
+      "qid": "Q3929312",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "two-girls-reading",
+      "title": "Two Girls Reading",
+      "year": 1934,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Picasso_-_Two_Girls_Reading_%28Deux_enfants_lisant%29_1934.jpg",
+      "imageWidth": 282,
+      "imageHeight": 360,
+      "story": "Two Girls Reading is a 1934 painting by Pablo Picasso. Since 1994, it has been at the University of Michigan Museum of Art.",
+      "facts": [
+        "The figure on the left is thought to be Marie-Thérèse Walter, the twenty-three-year-old woman who gave birth to Picasso's daughter Maïa in 1935.",
+        "The figure on the right is thought to be either Walter's sister, or Picasso's first wife Olga Koklova."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Two_Girls_Reading",
+      "sitelinks": 1,
+      "widthCm": 69.9,
+      "heightCm": 91.4,
+      "pageviews": 5979,
+      "qid": "Q104127143",
+      "imageBytes": 52932,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso_-_Two_Girls_Reading_(Deux_enfants_lisant)_1934.jpg"
+      }
+    },
+    {
+      "slug": "girl-with-a-mandolin",
+      "title": "Girl with a Mandolin",
+      "year": 1910,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/Pablo_Picasso%2C_1910%2C_Girl_with_a_Mandolin_%28Fanny_Tellier%29%2C_oil_on_canvas%2C_100.3_x_73.6_cm%2C_Museum_of_Modern_Art_New_York..jpg",
+      "imageWidth": 1280,
+      "imageHeight": 1770,
+      "story": "Girl with a Mandolin (Fanny Tellier) is a 1910 Cubist painting by Pablo Picasso. The artwork was one of Picasso’s early Analytic Cubist creations, through which he aimed to reduce organic forms to geometric shapes. It shows the model Fanny Tellier in the nude, with her hands on a mandolin. Tellier volunteered to model for Picasso but, according to the latter, eventually refused to continue sitting for him after the painting took longer to complete than she had expected. Picasso accordingly left the portrait unfinished, though later suggested that he could have done nothing further to improve it.",
+      "facts": [
+        "The painting is in the Cubist style, an avant-garde visual idiom developed by Picasso and his friend Georges Braque which rejected a fixed viewpoint in favour of building a sense of the subject by showing multiple views at once, often built up from fragmentary elements.",
+        "The art historian Paul Hayes Tucker has suggested that the painting's use of shape and light may have been inspired by the photographs Picasso took around Horta during the summer of 1909.",
+        "Rubin similarly suggests that Picasso may have been inspired by seeing an exhibition of Corot's work at the Salon d'Automne art show of 1909.",
+        "During the First World War, the painting was confiscated by the French state as \"enemy property\", since France was at war with Uhde's native Germany; it was sold on 30 May 1921 via the Hôtel Drouot auction-house to Christian Tetzen-Lund of Copenhagen."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girl_with_a_Mandolin",
+      "sitelinks": 1,
+      "widthCm": 73.6,
+      "heightCm": 100.3,
+      "pageviews": 33938,
+      "qid": "Q19883569",
+      "imageBytes": 1672747,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1910,_Girl_with_a_Mandolin_(Fanny_Tellier),_oil_on_canvas,_100.3_x_73.6_cm,_Museum_of_Modern_Art_New_York..jpg"
+      }
+    },
+    {
+      "slug": "harlequin-1915",
+      "title": "Harlequin (1915)",
+      "year": 1915,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Harlequin is an oil painting by Spanish artist Pablo Picasso. It was created in December of 1915 in the style of cubism. The painting shows a painter holding an unfinished painting.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Harlequin_(1915)",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 4861,
+      "qid": "Q19883755",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "head-of-a-young-woman",
+      "title": "Head of a Young Woman",
+      "year": 1906,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Head of a Young Woman is a 1906 oil painting by Pablo Picasso. It depicts the portrait of a young woman with long, dark hair. The painting dates from Picasso's Rose Period, during a trip that he made to the Catalan village of Gósol. It was owned by Spanish banker Jaime Botín until it was seized by the Spanish state in 2015. It is now housed at the Museo Nacional Centro de Arte Reina Sofía, in Madrid.",
+      "facts": [
+        "Picasso was particularly inspired by the simplicity of Catalan Romanesque art.",
+        "The oil painting is a portrait of a young woman with long, dark hair and a sideways stare and has an estimated value of €26 million.",
+        "He was sentenced to 18 months in prison and ordered to pay a fine of $58 million.",
+        "The painting had been discovered on board Botín's luxury yacht by French authorities off the island of Corsica in 2015."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Head_of_a_Young_Woman",
+      "sitelinks": 1,
+      "widthCm": 42,
+      "heightCm": 54,
+      "pageviews": 1978,
+      "qid": "Q22329824",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "harlequin-picasso",
+      "title": "Harlequin (Picasso)",
+      "year": 1913,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/45/Picasso_-_Harlequin_1913_%28Kunstmuseum_Den_Haag%29.jpg",
+      "imageWidth": 640,
+      "imageHeight": 1276,
+      "story": "Harlequin is a painting of 1913 by the Spanish artist Pablo Picasso. It can loosely be considered a portrait of a harlequin, but through the lens of Picasso's cubist style, in which \"Picasso paints a figure from several angles at once, dividing it into rectangles and circles\". The painting is considered an example of \"synthetic cubism\", a development from Picasso's earlier \"geometric cubism\". Within \"synthetic cubism\" elements of collages were included and the image appeared slightly closer to reality than the abstractions of geometric cubism.",
+      "facts": [
+        "In the 1990s, the director Rudi Fuchs wished to sell the painting so that funds could be made available for improving the museum's collection in other areas.",
+        "\" Other museum directors in the Netherlands were strongly opposed to the sale, and it never went through."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Harlequin_(Picasso)",
+      "sitelinks": 1,
+      "widthCm": 46.9,
+      "heightCm": 88.5,
+      "pageviews": 2894,
+      "qid": "Q24046506",
+      "imageBytes": 217199,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso_-_Harlequin_1913_(Kunstmuseum_Den_Haag).jpg"
+      }
+    },
+    {
+      "slug": "portrait-of-dora-maar",
+      "title": "Portrait of Dora Maar",
+      "year": 1939,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/Portrait_of_Dora_Maar.jpg",
+      "imageWidth": 267,
+      "imageHeight": 373,
+      "story": "Portrait of Dora Maar is a 1937 oil on canvas painting by Pablo Picasso. It depicts Dora Maar,, the painter's lover, seated on a chair. It is part of the collection of the Musée Picasso, in Paris, where it is considered to be one of Picasso's masterpieces.",
+      "facts": [
+        "The portrait of Dora Maar was painted by Pablo Picasso in 1937, one year after they first met in Paris and started a relationship that would last for almost nine years.",
+        "The couple had briefly met on the set of the French movie The Crime of Monsieur Lange at the end of 1935."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_Dora_Maar",
+      "sitelinks": 1,
+      "widthCm": 45,
+      "heightCm": 60,
+      "pageviews": 39542,
+      "qid": "Q27667407",
+      "imageBytes": 121622,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Portrait_of_Dora_Maar.jpg"
+      }
+    },
+    {
+      "slug": "nature-morte-au-poron",
+      "title": "Nature morte au poron",
+      "year": 1948,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Pablo_Picasso_Nature_Morte_au_Poron.jpg",
+      "imageWidth": 345,
+      "imageHeight": 288,
+      "story": "Nature morte au poron is a 1948 oil-on-canvas painting by Pablo Picasso. It is a still-life painting in a cubist style. Picasso painted three versions of the work on 26 December 1948; one is in the collection of the Welsh National Museum of Art, Cardiff, Wales. The painting measures 50.3 × 61 cm.",
+      "facts": [
+        "435 million in 2009 to celebrate the museum's centenary; £100,000 of which came from the Art Fund, with the remainder from the Derek Williams Trust.",
+        "Still life was a recurring theme for Picasso during the 1940s."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nature_morte_au_poron",
+      "sitelinks": 1,
+      "widthCm": 61,
+      "heightCm": 50.3,
+      "pageviews": 1273,
+      "qid": "Q47543465",
+      "imageBytes": 31660,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Pablo_Picasso_Nature_Morte_au_Poron.jpg"
+      }
+    },
+    {
+      "slug": "bust-of-a-seated-woman-jacqueline-roque",
+      "title": "Bust of a Seated Woman (Jacqueline Roque)",
+      "year": 1960,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8e/Pablo_Picasso%2C_Buste_de_femme_assise_%28Jacqueline_Roque%29.jpg",
+      "imageWidth": 290,
+      "imageHeight": 343,
+      "story": "Bust of a Seated Woman (Jacqueline Roque) is an oil painting by the Spanish artist Pablo Picasso, painted between 2 April and 10 May 1960. It depicts Jacqueline Roque, a woman with whom he had started a relationship in 1954, after his break up with Françoise Gilot, and who he would marry in 1961. The painting belongs to the Unterlinden Museum in Colmar, Alsace, since 1967, when it was bought by the museum following a successful Picasso exhibition there. Its inventory number is 88.RP.400.",
+      "facts": [
+        "The painting depicts Jacqueline (then in her early 30s, as she was born in 1926) sitting in a green armchair.",
+        "Her neck is elongated in almost grotesque fashion, so as to raise the petite woman's head well above her seat."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bust_of_a_Seated_Woman_(Jacqueline_Roque)",
+      "sitelinks": 1,
+      "widthCm": 81,
+      "heightCm": 100,
+      "pageviews": 2142,
+      "qid": "Q99519296",
+      "imageBytes": 125152,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Pablo_Picasso,_Buste_de_femme_assise_(Jacqueline_Roque).jpg"
+      }
+    },
+    {
+      "slug": "garcon-a-la-pipe",
+      "title": "Garçon à la pipe",
+      "year": 1905,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9c/Gar%C3%A7on_%C3%A0_la_pipe.jpg",
+      "imageWidth": 1286,
+      "imageHeight": 1600,
+      "story": "Garçon à la Pipe is an oil on canvas painting by Pablo Picasso. It was painted in 1905 when Picasso was 24 years old, during his Rose Period, soon after he settled in the Montmartre area of Paris. The painting depicts a Parisian adolescent boy who holds a pipe in his left hand and wears a garland of flowers on his head, surrounded by two floral decorations. The subject was a local boy named \"P’tit Louis\" who died at a young age. The painting is listed as one of the most expensive paintings, after being sold at Sotheby's auction for $104 million on 5 May 2004. It is currently the fifth highest selling painting by Picasso.",
+      "facts": [
+        "He was particularly inspired by the work of the French Neoclassical painter Ingres.",
+        "John Richardson suggested that the painting could have been inspired by a poem entitled A Crime of Love by Paul Verlaine.",
+        "John Hay Whitney then acquired the painting on 13 January 1950 for $30,000.",
+        "In 2004, Professor Julius H Schoeps challenged the 1949 sale of Boy with a Pipe due to circumstances related to the Nazi persecution of the Jewish owner and his attempts to shield the painting from seizure via his non-Jewish wife."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gar%C3%A7on_%C3%A0_la_pipe",
+      "sitelinks": 22,
+      "widthCm": 81.3,
+      "heightCm": 100,
+      "pageviews": 25776,
+      "qid": "Q80317",
+      "imageBytes": 254223,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Gar%C3%A7on_%C3%A0_la_pipe.jpg"
+      }
+    },
+    {
+      "slug": "dora-maar-au-chat",
+      "title": "Dora Maar au Chat",
+      "year": 1941,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Dora_Maar_Au_Chat.jpg",
+      "imageWidth": 270,
+      "imageHeight": 368,
+      "story": "Dora Maar au Chat is an oil-on-canvas painting by Pablo Picasso. It was painted in 1941 and depicts Dora Maar, the artist's lover, seated on a chair with a small cat perched on her shoulders. The painting is listed as one of the most expensive paintings, after achieving a price of $95 million at Sotheby's on 3 May 2006. It is currently the sixth-highest-selling painting by Picasso.",
+      "facts": [
+        "Dora Maar au Chat is one of the largest portraits of the subject by Picasso.",
+        "It came up for sale in an auction held at Sotheby's on 3 May 2006 in New York, making it the second-highest price ever paid for a painting at auction at the time.",
+        "An anonymous Russian bidder who was present at the auction won the work with a final bid of $95,216,000, well exceeding the pre-auction estimate of $50 million."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dora_Maar_au_Chat",
+      "sitelinks": 18,
+      "widthCm": 97,
+      "heightCm": 129.5,
+      "pageviews": 18369,
+      "qid": "Q75564",
+      "imageBytes": 25292,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Dora_Maar_Au_Chat.jpg"
+      }
+    },
+    {
+      "slug": "le-reve-picasso",
+      "title": "Le Rêve (Picasso)",
+      "year": 1932,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9d/Le-reve-1932.jpg",
+      "imageWidth": 269,
+      "imageHeight": 370,
+      "story": "Le Rêve is a 1932 oil on canvas painting by Pablo Picasso, then 50 years old, portraying his 22-year-old mistress Marie-Thérèse Walter. It is said to have been painted in one afternoon, on 24 January 1932. It belongs to Picasso's period of distorted depictions, with its oversimplified outlines and contrasted colors resembling early cubism. The erotic content of the painting has been noted repeatedly, with critics pointing out that Picasso painted an erect penis, presumably symbolizing his own, in the upturned face of his model. On 26 March 2013, the painting was sold in a private sale for $155 million, making it one of the most expensive paintings ever sold.",
+      "facts": [
+        "After the Ganzes died (Victor in 1987 and Sally in 1997), their collection, including Le Rêve, was sold at Christie's auction house on November 11, 1997, as a means of settling their inheritance tax bill.",
+        "4 million, at the time the fourth most expensive painting sold (tenth when taking inflation into account).",
+        "The total amount paid by the Ganzes over their lifetime of collecting these pieces was around $2 million.",
+        "In 2001, under financial pressure, he sold Le Rêve to casino magnate Steve Wynn for an undisclosed sum, estimated to be about $60 million."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_R%C3%AAve_(Picasso)",
+      "sitelinks": 16,
+      "widthCm": 97,
+      "heightCm": 130,
+      "pageviews": 74494,
+      "qid": "Q1810165",
+      "imageBytes": 27095,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Le-reve-1932.jpg"
+      }
+    },
+    {
+      "slug": "femme-aux-bras-croises",
+      "title": "Femme aux Bras Croisés",
+      "year": 1901,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/00/Pablo_Picasso%2C_1901-02%2C_Femme_aux_Bras_Crois%C3%A9s%2C_Woman_with_Folded_Arms_%28Madchenbildnis%29%2C_oil_on_canvas%2C_81_%C3%97_58_cm_%2832_%C3%97_23_in%29.jpg",
+      "imageWidth": 418,
+      "imageHeight": 580,
+      "story": "Femme aux Bras Croisés is an oil on canvas painting by Pablo Picasso, which he created in 1901–1902 during his Blue Period. The subject of the painting is unknown, but she is considered to be an inmate of the Saint-Lazare hospital-prison in Paris. The painting is listed as one of the most expensive paintings after it sold for $55 million at Christie's auction on 8 November 2000.",
+      "facts": [
+        "This was confirmed by x-ray, which showed that Picasso had repainted the woman's hair over a previous hood.",
+        "On 8 November 2000 it sold at auction at Christie's, New York, for $55 million."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Femme_aux_Bras_Crois%C3%A9s",
+      "sitelinks": 9,
+      "widthCm": 58.4,
+      "heightCm": 81.3,
+      "pageviews": 5498,
+      "qid": "Q5442919",
+      "imageBytes": 44790,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1901-02,_Femme_aux_Bras_Crois%C3%A9s,_Woman_with_Folded_Arms_(Madchenbildnis),_oil_on_canvas,_81_%C3%97_58_cm_(32_%C3%97_23_in).jpg"
+      }
+    },
+    {
+      "slug": "le-petit-picador-jaune",
+      "title": "Le petit picador jaune",
+      "year": 1890,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Le petit picador jaune is an oil on wood painting by the Spanish artist Pablo Picasso, which he created in 1889 at the age of eight. It is considered to be the earliest known surviving work by the artist. The painting is a colourful representation of a Spanish bullfight, a subject which Picasso repeatedly returned to throughout his career.",
+      "facts": [
+        "By this point, he had already been inspired by the work of other Spanish masters, like Diego Velázquez and Francisco Goya.",
+        "Picasso began to develop his artistic skills from an early age."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_petit_picador_jaune",
+      "sitelinks": 5,
+      "widthCm": 19,
+      "heightCm": 24,
+      "pageviews": 7296,
+      "qid": "Q18644112",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "les-noces-de-pierrette",
+      "title": "Les Noces de Pierrette",
+      "year": 1905,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/34/Lesnoces.JPG",
+      "imageWidth": 1024,
+      "imageHeight": 571,
+      "story": "Les Noces de Pierrette is a 1905 painting by the Spanish artist Pablo Picasso. While belonging chronologically to Picasso's Rose Period, it is artistically characteristic of the Blue Period, when the artist faced poverty and depression following the suicide of his friend Carlos Casagemas in 1901.",
+      "facts": [
+        "The painting was acquired in 1907 by Josef Stránský, an art dealer and a friend of Picasso's.",
+        "The buyer, Tomonori Tsurumaki, a real-estate developer, investment banker and owner of Autopolis racetrack, purchased the painting for the sum of $51,670,000, making it one of the world's most expensive paintings.",
+        "When Lake Credit Company sold its stake in the mainline consumer loan business to GE Capital, Les Noces de Pierrette (along with 500 other paintings worth approximately $200 million) became the property of GE Capital.",
+        "It was offered at $54 million in 1994 with no takers, and again, also with no takers in 1997 at $35 million."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Les_Noces_de_Pierrette",
+      "sitelinks": 5,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 4080,
+      "qid": "Q3234200",
+      "imageBytes": 222861,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Lesnoces.JPG"
+      }
+    },
+    {
+      "slug": "portrait-of-angel-fernandez-de-soto",
+      "title": "Portrait of Angel Fernández de Soto",
+      "year": 1903,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9c/Portrait_of_Angel_Fernandez_de_Soto.jpeg",
+      "imageWidth": 2000,
+      "imageHeight": 2584,
+      "story": "Portrait of Angel Fernández de Soto is a portrait by Spanish artist Pablo Picasso completed in 1903 during his Blue Period. The oil painting depicts Picasso's friend and fellow painter, Angel Fernandez de Soto, in a bar with a glass of absinthe. The painting was previously owned by musical theatre composer Andrew Lloyd Webber. On 23 June 2010, the painting was sold at auction for £34.7 million.",
+      "facts": [
+        "The Andrew Lloyd Webber Art Foundation purchased the painting for £18 million at a Sotheby's auction in New York City in 1995.",
+        "In 2006, Lloyd Webber announced that he would be selling Portrait of Angel Fernandez de Soto at auction for charity.",
+        "However, the painting was withdrawn from auction after a claim that the previous owner was forced to sell it under duress from the Nazi regime in Germany.",
+        "In March 2010, it was announced that Lloyd Webber had made the decision to auction off the painting to benefit his arts, culture and heritage charity foundation."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_Angel_Fern%C3%A1ndez_de_Soto",
+      "sitelinks": 5,
+      "widthCm": 55.3,
+      "heightCm": 70.3,
+      "pageviews": 5109,
+      "qid": "Q7232257",
+      "imageBytes": 2376792,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "painting by Pablo Picasso (d. 1973), photo unknown",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Portrait_of_Angel_Fernandez_de_Soto.jpeg"
+      }
+    },
+    {
+      "slug": "woman-s-head-picasso",
+      "title": "Woman's Head (Picasso)",
+      "year": 1939,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/41/Woman%27s_Head_%28Picasso%29.jpg",
+      "imageWidth": 200,
+      "imageHeight": 256,
+      "story": "Woman's Head is a 1939 oil-on-canvas painting by Pablo Picasso. It is a depiction of Dora Maar, Picasso's companion at the time. Picasso donated the work to the people of Greece in recognition of their resistance against the Axis during the Second World War. Woman's Head was first exhibited in 1949, alongside other donated works, at the Institut Français in Athens. It was not shown again until an exhibition starting in 1980 at the National Gallery and was on continuous show from 2011 until the gallery closed for renovation in 2012. In January 2012 Woman's Head was stolen from the closed gallery, alongside a painting by Piet Mondrian. It was recovered from a gorge near Athens in June 2021 and the alleged thief was arrested.",
+      "facts": [
+        "Woman's Head was one of two paintings stolen during a 9 January 2012 theft from the closed National Gallery, that was referred to as the \"theft of the century\".",
+        "Police allege that a thief entered the gallery via an unlocked balcony door whilst an accomplice kept watch outside (the man later arrested for the theft claimed to have worked alone).",
+        "Police stated that the thief triggered a number of security alarms as a means of distracting the guard before taking Woman's Head and Piet Mondrian’s Stammer Mill With Summer House.",
+        "A third painting, another Mondrian, was dropped by the thief during his escape."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman's_Head_(Picasso)",
+      "sitelinks": 4,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 6262,
+      "qid": "Q109373938",
+      "imageBytes": 24884,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Woman's_Head_(Picasso).jpg"
+      }
+    },
+    {
+      "slug": "yo-picasso",
+      "title": "Yo, Picasso",
+      "year": 1901,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/ff/Yo%2C_Picasso.jpg",
+      "imageWidth": 450,
+      "imageHeight": 550,
+      "story": "Yo, Picasso, is an oil-on-canvas painting by Pablo Picasso, which he painted in 1901. It is a self-portrait of the artist that depicts him in his youth, aged 19. The painting was created at the beginning of Picasso's Blue Period. On 9 May 1989, the painting sold at Sotheby's, achieving a price of $47.85 million, making it one of the most expensive paintings sold up to that date.",
+      "facts": [
+        "This was the second highest price paid up to that date for a work of art sold at auction.",
+        "This self-portrait of Picasso was painted in 1901, when he was a young man aged 19 who had recently arrived in Paris."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yo%2C_Picasso",
+      "sitelinks": 4,
+      "widthCm": 60.5,
+      "heightCm": 73.5,
+      "pageviews": 8295,
+      "qid": "Q23022070",
+      "imageBytes": 110678,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso (d. 1973)",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Yo,_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "the-fall-of-icarus-picasso",
+      "title": "The Fall of Icarus (Picasso)",
+      "year": 1958,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/ba/The_Fall_of_Icarus_by_Picasso.jpg",
+      "imageWidth": 300,
+      "imageHeight": 270,
+      "story": "The Fall of Icarus is a 1958 mural by Pablo Picasso. Made of 40 painted mahogany tiles covering 90m2, it is the artist's largest work. It was commissioned by UNESCO for the organisation's main foyer in Paris and was unveiled on 29 March 1958.",
+      "facts": [
+        "The mural was commissioned by UNESCO in 1957, with the purpose of decorating the Paris headquarters.",
+        "Picasso was one of eleven artists who were chosen to undertake this task."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Fall_of_Icarus_(Picasso)",
+      "sitelinks": 4,
+      "widthCm": 910,
+      "heightCm": 1060,
+      "pageviews": 3793,
+      "qid": "Q28681534",
+      "imageBytes": 71763,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Fall_of_Icarus_by_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "la-lecture",
+      "title": "La Lecture",
+      "year": 1932,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3e/La_lecture.jpg",
+      "imageWidth": 127,
+      "imageHeight": 160,
+      "story": "La Lecture is a painting by Spanish artist Pablo Picasso completed in January 1932. The oil painting depicts Picasso's mistress and muse, Marie-Thérèse Walter, asleep with a book upon her lap. The painting led to the breakup of Picasso's marriage to Olga Khokhlova after she saw it at a retrospective exhibition and realised that the facial features were not her own. The painting went to auction in 1989 and in 1996, where it failed to sell. In January 2011, it was announced that La Lecture would be going to auction on 8 February. The painting, which had not been seen in Europe since the exhibition, was then displayed at Sotheby's in Paris.",
+      "facts": [
+        "Walter later inspired other Picasso works including Le Rêve, which Picasso painted in the same month as La Lecture, and Nude, Green Leaves and Bust.",
+        "In 1996, La Lecture went to auction again at Christie's in New York.",
+        "Ahead of the auction, La Lecture, which had not been seen in Europe since the Picasso retrospective, went on display in Paris."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Lecture",
+      "sitelinks": 4,
+      "widthCm": 51,
+      "heightCm": 65.5,
+      "pageviews": 4003,
+      "qid": "Q3209975",
+      "imageBytes": 6754,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Picasso; anonymous",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:La_lecture.jpg"
+      }
+    },
+    {
+      "slug": "young-girl-with-a-flower-basket",
+      "title": "Young Girl with a Flower Basket",
+      "year": 1905,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/Pablo_Picasso%2C_1905%2C_Fillette_nue_au_panier_de_fleurs_%28Le_panier_fleuri%29%2C_oil_on_canvas%2C_155_x_66_cm%2C_private_collection%2C_New_York.jpg",
+      "imageWidth": 1277,
+      "imageHeight": 3080,
+      "story": "Young Girl with a Flower Basket is a 1905 oil on canvas painting by Pablo Picasso from his Rose Period. The painting depicts a Parisian street girl, named \"Linda\", whose fate is unknown. It was painted at a key phase in Picasso's life, as he made the transition from an impoverished bohemian at the start of 1905 to a successful artist by the end of 1906. The painting is listed as one of the most expensive paintings, after achieving a price of $115 million when it was sold at Christie's to the Nahmad Collection on 8 May 2018. It is currently the fourth highest-selling painting by Picasso.",
+      "facts": [
+        "The Cirque Médrano was situated nearby at the foot of Montmartre, and Picasso was inspired by the harlequins and saltimbanques, clowns, jugglers and other acts, making the transition from his bleak Blue Period to his more optimistic Rose Period.",
+        "Picasso was greatly inspired by the work of the French Neoclassical painter Ingres.",
+        "Forced by his poverty to return to Sagot again some days later, the work was eventually sold for just 75 francs, and put up for sale in Sagot's gallery as La fleur du pavé (\"The flower of the cobblestones\").",
+        "It became the second of three Rose period paintings acquired by the collectors Gertrude Stein and Leo Stein."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Young_Girl_with_a_Flower_Basket",
+      "sitelinks": 4,
+      "widthCm": 66.1,
+      "heightCm": 154.8,
+      "pageviews": 13571,
+      "qid": "Q52986307",
+      "imageBytes": 798407,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1905,_Fillette_nue_au_panier_de_fleurs_(Le_panier_fleuri),_oil_on_canvas,_155_x_66_cm,_private_collection,_New_York.jpg"
+      }
+    },
+    {
+      "slug": "femme-au-beret-et-a-la-robe-quadrillee-marie-therese-walter",
+      "title": "Femme au béret et à la robe quadrillée (Marie-Thérèse Walter)",
+      "year": 1937,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/Femme_au_b%C3%A9ret_et_%C3%A0_la_robe_quadrill%C3%A9e_%28Marie-Th%C3%A9r%C3%A8se_Walter%29.jpg",
+      "imageWidth": 289,
+      "imageHeight": 345,
+      "story": "Femme au béret et à la robe quadrillée  is an oil-on-canvas painting by Pablo Picasso, which he created in 1937. It is a portrait of Marie-Thérèse Walter, Picasso's lover and muse during this period and was created with elements of Cubism. The painting signifies a transition in their relationship by combining Walter's profile with that of Picasso's new lover, the Surrealist photographer Dora Maar, with whom he began a relationship in 1936. This portrait was produced in the same year as Guernica and The Weeping Woman, a significant phase in Picasso's artistic career. On 28 February 2018, it was sold at Sotheby's auction for £49.8 million, making it one of the most expensive paintings ever sold at an auction in Europe.",
+      "facts": [
+        "On 28 February 2018, the painting was sold at Sotheby's auction for £49,827,000 to Harry Smith, the chairman of the art appraisal and advisory firm Gurr Johns.",
+        "It was the most expensive painting ever sold at auction in Europe, and the second most expensive work of art, after Alberto Giacometti's 1861 sculpture The Walking Man."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Femme_au_b%C3%A9ret_et_%C3%A0_la_robe_quadrill%C3%A9e_(Marie-Th%C3%A9r%C3%A8se_Walter)",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 12222,
+      "qid": "Q50222358",
+      "imageBytes": 131401,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Femme_au_b%C3%A9ret_et_%C3%A0_la_robe_quadrill%C3%A9e_(Marie-Th%C3%A9r%C3%A8se_Walter).jpg"
+      }
+    },
+    {
+      "slug": "jeune-fille-endormie",
+      "title": "Jeune Fille Endormie",
+      "year": 1935,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/99/Jeune_fille_endormie.JPEG",
+      "imageWidth": 244,
+      "imageHeight": 183,
+      "story": "Jeune Fille Endormie is a 1935 oil on canvas painting by Spanish painter Pablo Picasso depicting his model and lover, Marie-Thérèse Walter, as she slept. It was sold at Christie's auction house in London in 2011 for nearly £13.5 million after being donated to the University of Sydney by an anonymous American donor.",
+      "facts": [
+        "It was donated to the University of Sydney by an anonymous American donor and was sent to be sold at Christie's auction house in London in June 2011.",
+        "5 million, with the proceeds going toward a A$400m (£260m) research center."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeune_Fille_Endormie",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1791,
+      "qid": "Q6189295",
+      "imageBytes": 23271,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": null,
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Jeune_fille_endormie.JPEG"
+      }
+    },
+    {
+      "slug": "femme-au-chien",
+      "title": "Femme au Chien",
+      "year": 1962,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/98/Femme_au_Chien_by_Picasso.jpg",
+      "imageWidth": 273,
+      "imageHeight": 345,
+      "story": "Femme au Chien is an oil-on-canvas painting by Pablo Picasso, which he painted in 1962. It is a portrait of Picasso's second wife, Jacqueline Roque, and their dog Kaboul, an Afghan Greyhound. The painting is an illustration of the great affection that Picasso displayed for both of the subjects in the portrait and has elements of the cubist style that he pioneered. It was produced in Picasso's later years when the couple was living at Notre-Dame-de-Vie, near Mougins, France. On 14 May 2019, it was sold at Sotheby's auction for almost $55 million and is now housed in the collection of Wynn Fine Art in Florida.",
+      "facts": [
+        "The painting was previously owned by Galerie Louise Leiris, Paris, Galerie Beyeler, Basel, and a private collector in Japan who acquired it on 6 April 1990.",
+        "On 14 May 2019, the painting was sold at Sotheby's auction for $54,936,000 to Wynn Fine Art, the art venture of Steve Wynn."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Femme_au_Chien",
+      "sitelinks": 2,
+      "widthCm": 130,
+      "heightCm": 162,
+      "pageviews": 3163,
+      "qid": "Q105628037",
+      "imageBytes": 113061,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Femme_au_Chien_by_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "femme-a-la-montre",
+      "title": "Femme à la montre",
+      "year": 1932,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b0/Picasso_-_Femme_%C3%A0_la_montre_%281932%29.jpeg",
+      "imageWidth": 261,
+      "imageHeight": 350,
+      "story": "Femme à la montre is a 1932 oil-on-canvas portrait by Pablo Picasso of his muse Marie-Thérèse Walter. Painted during Picasso's annus mirabilis, the work depicts Walter sitting upright in an armchair.",
+      "facts": [
+        "Because of the age disparity – Picasso was 51 years old at the time – and the fact that Picasso was still married, the couple was secretive about the relationship and had kept it hidden even from some of Picasso's closest associates.",
+        "The work was then briefly in the hands of the Pace Gallery in New York when they acquired it in 1968 from the Galerie Beyeler in Basel, Switzerland.",
+        "The painting was one of the first significant works of art that Landau acquired, and she hung it above the mantel in her apartment in Manhattan.",
+        "4 million USD, to an anonymous party that had bid over the phone."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Femme_%C3%A0_la_montre",
+      "sitelinks": 2,
+      "widthCm": 97,
+      "heightCm": 130,
+      "pageviews": 7786,
+      "qid": "Q123561003",
+      "imageBytes": 45285,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso_-_Femme_%C3%A0_la_montre_(1932).jpeg"
+      }
+    },
+    {
+      "slug": "still-life-with-guitar-picasso",
+      "title": "Still Life with Guitar (Picasso)",
+      "year": 1919,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Still Life with Guitar is a 1919 painting by Pablo Picasso. It is worth an estimated €600,000.",
+      "facts": [
+        "The painting went missing on October 6, 2025, while en route to an exhibit put on by CajaGranada Cultural Center in Granada, Spain.",
+        "Police concluded the painting had been mistakenly left behind by transporters."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Still_Life_with_Guitar_(Picasso)",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 2039,
+      "qid": "Q136684070",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "la-gommeuse",
+      "title": "La Gommeuse",
+      "year": 1901,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/97/Pablo_Picasso_-_La_Gommeuse.jpg",
+      "imageWidth": 1307,
+      "imageHeight": 2000,
+      "story": "La Gommeuse is a 1901 oil-on-canvas painting by the Spanish artist Pablo Picasso. It dates from his Blue Period and is noted for its caricature of Picasso's friend Pere Mañach painted on the reverse. Gommeuse was sexually charged slang of the time for café-concert singers and their songs. It was offered for sale ex the William I. Koch collection at a Sotheby's, New York, auction on 5 November 2015. The painting realized $67.5 million at the sale, a record for a Blue Period Picasso, placing the painting among the most expensive ever sold.",
+      "facts": [
+        "It was revealed under the lining of the painting when conservation work took place in 2000.",
+        "In 2015 La Gommeuse was sold at Sotheby's auction in New York.",
+        "The owner, American billionaire Bill Koch had acquired it for $3 million in 1984."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Gommeuse",
+      "sitelinks": 2,
+      "widthCm": 54,
+      "heightCm": 81.3,
+      "pageviews": 3081,
+      "qid": "Q22329825",
+      "imageBytes": 1367292,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso (Life time: 1973)",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Pablo_Picasso_-_La_Gommeuse.jpg"
+      }
+    },
+    {
+      "slug": "girl-with-a-red-beret-and-pompom",
+      "title": "Girl with a Red Beret and Pompom",
+      "year": 1937,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/bb/Girl_with_a_Red_Beret_and_Pompom.jpg",
+      "imageWidth": 258,
+      "imageHeight": 386,
+      "story": "Girl with a Red Beret and Pompom is a 1937 painting by Pablo Picasso. It hangs in the main reception area of the private member's club Annabel's in Berkeley Square in London's Mayfair district.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girl_with_a_Red_Beret_and_Pompom",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 5497,
+      "qid": "Q112050991",
+      "imageBytes": 95387,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Girl_with_a_Red_Beret_and_Pompom.jpg"
+      }
+    },
+    {
+      "slug": "le-repos-picasso",
+      "title": "Le Repos (Picasso)",
+      "year": 1932,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/cd/Le_Repos_by_Picasso.jpg",
+      "imageWidth": 300,
+      "imageHeight": 301,
+      "story": "Le Repos is an oil-on-canvas painting created by Pablo Picasso in 1932. It depicts a portrait of Marie-Thérèse Walter, the artist's lover and muse, in a sleeping pose. The painting was produced in the midst of their relationship and is a demonstration of Picasso's love for his mistress. Le Repos was one of a series of sleeping portraits of Walter that Picasso created in 1932. On 14 May 2018, the painting achieved a value of $36.9 million when it was sold at Sotheby's auction.",
+      "facts": [
+        "She offered him a release into sensuality and inspired the series of reclining, sleeping nudes of the early 1930s.",
+        "Through Marie-Thérèse, Picasso discovered a new amplitude of form; less solemn than the monumental neo-classical nudes of the 1920s and with a promise of abundance and pleasure.",
+        "\"This classic, dreamy example from his critical year of 1932 is immediately recognizable, and captures the key elements of his work inspired by Marie Therese."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_Repos_(Picasso)",
+      "sitelinks": 1,
+      "widthCm": 46,
+      "heightCm": 46,
+      "pageviews": 3982,
+      "qid": "Q134174970",
+      "imageBytes": 90143,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Le_Repos_by_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "jacqueline-painting",
+      "title": "Jacqueline (painting)",
+      "year": 1961,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Jacqueline is an oil painting by Pablo Picasso, created in 1961. The New York Times described it as \"a black, gray and white Cubist oil of Jacqueline Roque, Picasso’s second wife.\"",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacqueline_(painting)",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 2490,
+      "qid": "Q6120039",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "las-meninas-picasso",
+      "title": "Las Meninas (Picasso)",
+      "year": 1957,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Las Meninas is a series of 58 paintings that Pablo Picasso painted in 1957 by performing a comprehensive analysis, reinterpreting and recreating several times Las Meninas by Diego Velazquez. The suite is fully preserved at the Museu Picasso in Barcelona and is the only complete series of the artist that remains together. This is a very extensive survey work, which consists of 45 performances of the original picture, 9 scenes of a dove, 3 landscapes, and a portrait of his second wife Jacqueline.",
+      "facts": [
+        "Exhibition Japan 1964, National Museum of Modern Art, Tokyo, Japan.",
+        "Exhibition Japan 1964, National Museum of Modern Art, Kyoto, Japan."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Las_Meninas_(Picasso)",
+      "sitelinks": 8,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 18777,
+      "qid": "Q283822",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "three-musicians-picasso",
+      "title": "Three Musicians (Picasso)",
+      "year": 1921,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d1/Picasso_three_musicians_moma_2006.jpg",
+      "imageWidth": 2000,
+      "imageHeight": 1800,
+      "story": "Three Musicians, also known as Musicians with Masks or Musicians in Masks, is a large oil painting created by Spanish artist Pablo Picasso. He painted two versions of Three Musicians. Both versions were completed in the summer of 1921 in Fontainebleau near Paris, France, in the garage of a villa that Picasso was using as his studio. They exemplify the Synthetic Cubist style; the flat planes of color and \"intricate puzzle-like composition\" giving the appearance of cutout paper with which the style originated. These paintings each colorfully represent three figures wearing masks. The two figures in the center and left are wearing the costumes of Pierrot and Harlequin from the popular Italian theater Commedia dell'arte, and the figure on the right is dressed as a monk. In one version, there also is a dog underneath the table.",
+      "facts": [
+        "In this version, Picasso also included a dark brown dog underneath the table but it is mostly hidden.",
+        "In 1949, Paul Rosenberg sold his painting to the Museum of Modern Art, and it was acquired through the Mrs."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Three_Musicians_(Picasso)",
+      "sitelinks": 13,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 61201,
+      "qid": "Q30332241",
+      "imageBytes": 562265,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso (1881-1973)",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Picasso_three_musicians_moma_2006.jpg"
+      }
+    },
+    {
+      "slug": "three-women-at-the-spring",
+      "title": "Three Women at the Spring",
+      "year": 1921,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Three Women at the Spring is a series of oil paintings by Pablo Picasso in the Neoclassical style. The paintings were painted in the summer of 1921 in Fontainebleau, France, at the same time he painted Three Musicians. Each painting features three young women posed at a fountain. Picasso uses the three women's hand gestures to establish mood and suggest ritual.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Three_Women_at_the_Spring",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 2427,
+      "qid": "Q128100748",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "picasso-s-regjeringskvartalet-murals",
+      "title": "Picasso's Regjeringskvartalet murals",
+      "year": 1959,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/OB.%C3%9859-0416.jpg",
+      "imageWidth": 3781,
+      "imageHeight": 2977,
+      "story": "Picasso's Regjeringskvartalet murals are a series of murals designed by the Spanish artist Pablo Picasso in the late 1950s and the early 1970s. He designed five murals for the Regjeringskvartalet buildings in central Oslo, Norway. The designs by Picasso were executed in concrete by Norwegian artist Carl Nesjar, and were Picasso's first attempt at monumental concrete murals. The buildings onto which the murals were executed are known as the 'H-Block' or Highrise (1959) and 'Y-Block' (1968); they were designed by the Norwegian architect Erling Viksjø. The largest mural, The Fishermen (1970) is on the façade of Y-Block. Picasso would later create works in a similar vein in Barcelona and Stockholm.",
+      "facts": [
+        "The Regjeringskvartalet complex was badly damaged by a car bomb that exploded on 22 July 2011.",
+        "The Highrise block and the Y-Block had no structural damages after the bombing."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Picasso's_Regjeringskvartalet_murals",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1965,
+      "qid": "Q17085346",
+      "imageBytes": 671228,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Leif Ørnelund",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:OB.%C3%9859-0416.jpg"
+      }
+    },
+    {
+      "slug": "dove-picasso",
+      "title": "Dove (Picasso)",
+      "year": 1949,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d7/Dove_lithograph_by_Picasso.jpg",
+      "imageWidth": 345,
+      "imageHeight": 258,
+      "story": "Dove is a 1949 lithograph on paper created by Pablo Picasso in 1949 in an edition of 50+5. The lithograph displays a white dove on a black background, which is widely considered to be a symbol of peace. The image was used to illustrate a poster at the 1949 Paris Peace Congress and also became an iconographic image of the period, known as \"The dove of peace\". An example is housed in the collection of the Tate Gallery and MOMA. Since then, it has been considered a masterpiece.",
+      "facts": [
+        "For Picasso, Communism offered a different path that rejected the fascism of the Second World War and the Spanish Civil War.",
+        "Until the Spanish Civil War, Picasso had been predominantly apolitical."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dove_(Picasso)",
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 39979,
+      "qid": "Q4142423",
+      "imageBytes": 70001,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Pablo Picasso",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Dove_lithograph_by_Picasso.jpg"
+      }
+    },
+    {
+      "slug": "sylvette",
+      "title": "Sylvette",
+      "year": 1970,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Picasso_Rotterdam_01.JPG",
+      "imageWidth": 2112,
+      "imageHeight": 2816,
+      "story": "Sylvette is a large concrete sculpture created by Pablo Picasso and the Norwegian artist Carl Nesjar, which was erected in the city of Rotterdam in 1970. It is located on the corner of Westersingel next to the Museum Boijmans Van Beuningen. The sculpture portrays a young woman with a ponytail. The model for the sculpture was Sylvette David, whom Picasso met in 1953 when she was 19. The sculpture was produced following the creation of a series of artworks, known as the Sylvette series, that Picasso made of his muse in a variety of artistic styles.",
+      "facts": [
+        "Finding her appearance appealing, Picasso asked her to be his model and subsequently created 60 works inspired by her over the course of two months (between April and June), including drawings, paintings and small metal sculptures.",
+        "Another artwork proposed by Picasso was again rejected in 1967, three years before the current sculpture was erected in 1970."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sylvette",
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 4403,
+      "qid": "Q1767343",
+      "imageBytes": 2391365,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "K. Siereveld",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Picasso_Rotterdam_01.JPG"
+      }
+    },
+    {
+      "slug": "mountains-of-malaga-q5792254",
+      "title": "Mountains of Málaga",
+      "year": 1896,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Montes_de_M%C3%A1laga.jpg",
+      "imageWidth": 1024,
+      "imageHeight": 768,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 2,
+      "widthCm": 82,
+      "heightCm": 60.5,
+      "pageviews": null,
+      "qid": "Q5792254",
+      "imageBytes": 215986,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Por los caminos de Málaga",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Montes_de_M%C3%A1laga.jpg"
+      }
+    },
+    {
+      "slug": "personnage-cueillant-des-fleurs-q112679010",
+      "title": "Personnage cueillant des fleurs",
+      "year": 1958,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Strasbourg_Mus%C3%A9e_d%27art_moderne_et_contemporain_f%C3%A9vrier_2014_07.jpg",
+      "imageWidth": 5760,
+      "imageHeight": 3840,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q112679010",
+      "imageBytes": 12081727,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Photo Claude TRUONG-NGOC",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Strasbourg_Mus%C3%A9e_d'art_moderne_et_contemporain_f%C3%A9vrier_2014_07.jpg"
+      }
+    },
+    {
+      "slug": "women-of-algiers-o-version-q3713986",
+      "title": "Women of Algiers, O version",
+      "year": 1955,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Women_of_Algiers_in_Lagunillas.jpg",
+      "imageWidth": 4000,
+      "imageHeight": 3000,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 146,
+      "heightCm": 114,
+      "pageviews": null,
+      "qid": "Q3713986",
+      "imageBytes": 2472273,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Daniel Capilla",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Women_of_Algiers_in_Lagunillas.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

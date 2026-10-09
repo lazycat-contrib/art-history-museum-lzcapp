@@ -1,0 +1,525 @@
+{
+  "slug": "frida-kahlo",
+  "periodSlug": "surrealism",
+  "name": "Frida Kahlo",
+  "wikiTitle": "Frida Kahlo",
+  "qid": "Q5588",
+  "birthYear": 1907,
+  "deathYear": 1954,
+  "tagline": "Mexican painter (1907–1954)",
+  "bio": "Magdalena Carmen Frida Kahlo y Calderón was a Mexican painter known for her many portraits, self-portraits, and works inspired by the nature and artifacts of Mexico. Inspired by the country's popular culture, she employed a naïve folk art style to explore questions of identity, postcolonialism, gender, class, and race in Mexican society. Her paintings often had strong autobiographical elements and mixed realism with fantasy. In addition to belonging to the post-revolutionary Mexicayotl movement, which sought to define a Mexican identity, Kahlo has been described as a surrealist or magical realist. She is also known for painting about her experience of chronic pain. Her 1940 self-portrait titled The Dream  holds the record for the most expensive work by a female artist ever auctioned, at $54.7 million.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg",
+  "portraitWidth": 1197,
+  "portraitHeight": 1795,
+  "portraitCredit": {
+    "author": "Guillermo Kahlo",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Frida_Kahlo,_by_Guillermo_Kahlo.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frida_Kahlo",
+  "paintings": [
+    {
+      "slug": "the-two-fridas",
+      "title": "The Two Fridas",
+      "year": 1939,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f9/The_Two_Fridas.jpg",
+      "imageWidth": 315,
+      "imageHeight": 317,
+      "story": " The Two Fridas is an oil painting by Mexican artist Frida Kahlo. The painting was the first large-scale work done by Kahlo and is considered one of her most notable paintings. It is a double self-portrait, depicting two versions of Kahlo seated together. One is wearing a white European style Victorian dress, while the other is wearing a traditional Tehuana dress. The painting is housed at the Museo de Arte Moderno in Mexico City.",
+      "facts": [
+        "According to Kahlo's friend, Fernando Gamboa, the painting was inspired by two paintings that Kahlo saw earlier that year at the Louvre: Théodore Chassériau's The Two Sisters and the anonymous Gabrielle d'Estrées and One of Her Sisters.",
+        "The painting remained in Kahlo's possession until it was acquired by the Instituto Nacional de Bellas Artes (INBA) in 1947.",
+        "Another interpretation is that the Tehuana Frida is the one who was adored by her husband Diego Rivera, while the European Frida is the one that was rejected by him.",
+        "For example, the painting The Two Fridas inspired a play called Las Dos Fridas (1998) by Bárbara Córcega, María del Carmen Farías, and Abraham Oceransky."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Two_Fridas",
+      "sitelinks": 23,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 100844,
+      "qid": "Q3232010",
+      "imageBytes": 104061,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Two_Fridas.jpg"
+      }
+    },
+    {
+      "slug": "the-broken-column",
+      "title": "The Broken Column",
+      "year": 1944,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4b/The_Broken_Column.jpg",
+      "imageWidth": 270,
+      "imageHeight": 358,
+      "story": "The Broken Column is an oil on masonite painting by Mexican artist Frida Kahlo, painted in 1944 shortly after she had spinal surgery to correct on-going problems which had resulted from a serious traffic accident when she was 18 years old. The original is housed at the Museo Dolores Olmedo in Xochimilco, Mexico City, Mexico.",
+      "facts": [
+        "Despite being left for dead he survives, only to later perish for his religion by the hands of the Imperial Roman.",
+        "He is often portrayed tied to a tree, body littered with arrows."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Broken_Column",
+      "sitelinks": 16,
+      "widthCm": 30.7,
+      "heightCm": 40,
+      "pageviews": 40040,
+      "qid": "Q21056477",
+      "imageBytes": 43084,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo/Museo Dolores Olmedo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Broken_Column.jpg"
+      }
+    },
+    {
+      "slug": "self-portrait-with-thorn-necklace-and-hummingbird",
+      "title": "Self-Portrait with Thorn Necklace and Hummingbird",
+      "year": 1940,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1e/Frida_Kahlo_%28self_portrait%29.jpg",
+      "imageWidth": 277,
+      "imageHeight": 360,
+      "story": "Self-Portrait with Thorn Necklace and Hummingbird is a 1940 self-portrait by Mexican painter Frida Kahlo which also includes a black cat, a monkey, and two dragonflies. It was painted after Kahlo's divorce from Diego Rivera and the end of her affair with photographer Nickolas Muray.",
+      "facts": [
+        "Later, inspired by Rivera's concept of Mexicanidad, a passionate identification with Mexican pre-Hispanic indigenous roots, she donned the identity of the Tehuana woman.",
+        "Frida Kahlo was a Mexican painter active between 1925 and 1954."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird",
+      "sitelinks": 12,
+      "widthCm": 18.5,
+      "heightCm": null,
+      "pageviews": 94556,
+      "qid": "Q5880026",
+      "imageBytes": 33436,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Frida_Kahlo_(self_portrait).jpg"
+      }
+    },
+    {
+      "slug": "self-portrait-with-monkey",
+      "title": "Self-Portrait with Monkey",
+      "year": 1938,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/fc/Frida_Kahlo_Self-portrait_with_monkey_1938.jpg",
+      "imageWidth": 270,
+      "imageHeight": 368,
+      "story": "Self-Portrait with Monkey is an oil on masonite painting by Mexican artist Frida Kahlo, commissioned in 1938 by A. Conger Goodyear, then president of the Museum of Modern Art in New York City. It is one of the many self-portraits painted by Kahlo for friends and patrons during her career.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Self-Portrait_with_Monkey",
+      "sitelinks": 9,
+      "widthCm": 30.5,
+      "heightCm": 40.6,
+      "pageviews": 11684,
+      "qid": "Q5712848",
+      "imageBytes": 106251,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Frida_Kahlo_Self-portrait_with_monkey_1938.jpg"
+      }
+    },
+    {
+      "slug": "frieda-and-diego-rivera",
+      "title": "Frieda and Diego Rivera",
+      "year": 1931,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/75/Frieda_and_Diego_Rivera.jpg",
+      "imageWidth": 280,
+      "imageHeight": 356,
+      "story": "Frieda and Diego Rivera is a 1931 oil painting by Mexican artist Frida Kahlo. This portrait was created two years after Frida Kahlo and Diego Rivera married, and is widely considered a wedding portrait.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frieda_and_Diego_Rivera",
+      "sitelinks": 8,
+      "widthCm": 78.7,
+      "heightCm": 100,
+      "pageviews": 31593,
+      "qid": "Q43281370",
+      "imageBytes": 12057,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frieda Kahlo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Frieda_and_Diego_Rivera.jpg"
+      }
+    },
+    {
+      "slug": "the-frame-painting",
+      "title": "The Frame (painting)",
+      "year": 1937,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/21/The_Frame_%28Frida_Kahlo_painting%29.jpg",
+      "imageWidth": 272,
+      "imageHeight": 365,
+      "story": "The Frame is a 1938 self-portrait by Frida Kahlo. The painting features Kahlo's self-portrait in oil on a sheet of aluminum framed in glass which she purchased from a market in Oaxaca, Mexico. Although the glass frame is included as part of the painting, the flowers, birds, and other details on the frame were painted prior to being purchased by Kahlo.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Frame_(painting)",
+      "sitelinks": 8,
+      "widthCm": 20.7,
+      "heightCm": 28.5,
+      "pageviews": 35067,
+      "qid": "Q45895679",
+      "imageBytes": 28361,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Louvre Museum",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Frame_(Frida_Kahlo_painting).jpg"
+      }
+    },
+    {
+      "slug": "henry-ford-hospital-painting",
+      "title": "Henry Ford Hospital (painting)",
+      "year": 1932,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/Frida_Kahlo_painting_Henry_Ford_Hospital_1932.jpeg",
+      "imageWidth": 356,
+      "imageHeight": 280,
+      "story": "Henry Ford Hospital is a 1932 oil-on-metal painting by the Mexican artist Frida Kahlo about her experience of delivering a dead male fetus on 4 July at Henry Ford Hospital in Detroit, Michigan, United States, when she was approximately 31⁄2 months pregnant. Depictions of childbirth, abortion, or miscarriage are rare in the canon of Western painting, and Kahlo is \"one of the only major artists to directly communicate her reproductive grief through visual art.\" The \"bloody and terrifying\" painting opened a defining and influential era of Kahlo's career. The painting's first title was The Lost Desire. An alternate title is The Flying Bed.",
+      "facts": [
+        "Diego Rivera and Frida Kahlo had come to Detroit because Edsel Ford had commissioned the Detroit Industry murals for the Detroit Institute of Arts.",
+        "Frida Kahlo had a complicated obstetric/gynecological medical history."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Ford_Hospital_(painting)",
+      "sitelinks": 4,
+      "widthCm": 38,
+      "heightCm": 30.5,
+      "pageviews": 33691,
+      "qid": "Q118190557",
+      "imageBytes": 98270,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Frida_Kahlo_painting_Henry_Ford_Hospital_1932.jpeg"
+      }
+    },
+    {
+      "slug": "self-portrait-dedicated-to-leon-trotsky",
+      "title": "Self-Portrait Dedicated to Leon Trotsky",
+      "year": 1937,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/11/Self-Portrait_Dedicated_to_Leon_Trotsky.jpg",
+      "imageWidth": 251,
+      "imageHeight": 315,
+      "story": "Self-Portrait Dedicated to Leon Trotsky, also known as Between the Curtains, is a 1937 painting by Mexican artist Frida Kahlo, given to Leon Trotsky on his birthday and the 20th anniversary of the October Revolution. Kahlo and her husband, artist Diego Rivera, had convinced government officials to allow Trotsky and his second wife, Natalia Sedova, to live in exile in Mexico. The Russian couple moved into the Blue House (La Casa Azul), where they resided for two years.",
+      "facts": [
+        "Its setting is inspired by retablos, devotional paintings of religious figures.",
+        "Frida Kahlo (1907–1954) was a Mexican painter whose works, including many self-portraits, made her a symbol of Mexican culture, feminism, and LGBT culture."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Self-Portrait_Dedicated_to_Leon_Trotsky",
+      "sitelinks": 4,
+      "widthCm": 61,
+      "heightCm": 76.2,
+      "pageviews": 57363,
+      "qid": "Q97164416",
+      "imageBytes": 47425,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Original work : Frida Kahlo Depiction : APK",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Self-Portrait_Dedicated_to_Leon_Trotsky.jpg"
+      }
+    },
+    {
+      "slug": "the-wounded-deer",
+      "title": "The Wounded Deer",
+      "year": 1946,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/92/The_Wounded_Deer_1946.jpg",
+      "imageWidth": 404,
+      "imageHeight": 312,
+      "story": "The Wounded Deer is an oil painting by Mexican artist Frida Kahlo created in 1946. It is also known as The Little Deer. Through The Wounded Deer, Kahlo shares her enduring physical and emotional suffering with her audience, as she did throughout her creative oeuvre. This painting in particular was created towards the end of Kahlo's life, when her health was in decline. Kahlo combines pre-Columbian, Buddhist, and Christian symbols to express her wide spectrum of influences and beliefs.",
+      "facts": [
+        "In The Wounded Deer, Kahlo paints herself as an animal and human hybrid.",
+        "She has the body of a deer along with antlers extending from her own head."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Wounded_Deer",
+      "sitelinks": 12,
+      "widthCm": 30,
+      "heightCm": 22.4,
+      "pageviews": 66997,
+      "qid": "Q21010270",
+      "imageBytes": 184898,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Wounded_Deer_1946.jpg"
+      }
+    },
+    {
+      "slug": "what-the-water-gave-me-painting",
+      "title": "What the Water Gave Me (painting)",
+      "year": 1938,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e4/What_the_Water_Gave_Me_by_Frida_Kahlo.jpg",
+      "imageWidth": 328,
+      "imageHeight": 420,
+      "story": "What the Water Gave Me is an oil painting by Frida Kahlo that was completed in 1938. It is sometimes referred to as What I Saw in the Water.",
+      "facts": [
+        "What the Water Gave Me: Poems after Frida Kahlo is a collection of poems by Pascale Petit released in 2010 that were inspired by and reference Kahlo's work.",
+        "Kahlo's toes point up from the water in a bathtub and are reflected back into the water."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/What_the_Water_Gave_Me_(painting)",
+      "sitelinks": 8,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 20404,
+      "qid": "Q19898216",
+      "imageBytes": 68355,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:What_the_Water_Gave_Me_by_Frida_Kahlo.jpg"
+      }
+    },
+    {
+      "slug": "the-wounded-table",
+      "title": "The Wounded Table",
+      "year": 1940,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Wounded_Table.jpg",
+      "imageWidth": 500,
+      "imageHeight": 250,
+      "story": "The Wounded Table is an oil painting by Mexican artist Frida Kahlo. Although lost in 1955, three photos of this painting were taken between 1940 and 1944. The painting was first displayed in January 1940 at the International Surrealism Exhibit at Inés Amor's Gallery of Mexican Art in Mexico City, and a replica is currently displayed in the Kunstmuseum Gehrke-Remund, Baden-Baden, Germany. The painting was last exhibited in Warsaw in 1955, after which it disappeared, and is the subject of an ongoing international search.",
+      "facts": [
+        "According to the documents, the painting would have been sent to a buyer in London in exchange for a Mex$20 million house in Acapulco.",
+        "The painting reflects ongoing themes in Kahlo's work, including Mexicanidad, indigeneity, self-portraiture, and grief/loss."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Wounded_Table",
+      "sitelinks": 7,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 17925,
+      "qid": "Q19897995",
+      "imageBytes": 121695,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Wounded_Table.jpg"
+      }
+    },
+    {
+      "slug": "the-love-embrace-of-the-universe-the-earth-mexico-myself-diego-and-senor-xolotl",
+      "title": "The Love Embrace of the Universe, the Earth (Mexico), Myself, Diego, and Señor Xolotl",
+      "year": 1949,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/The_Love_Embrace_of_the_Universe%2C_the_Earth_%28Mexico%29%2C_Myself%2C_Diego%2C_and_Se%C3%B1or_Xolotl.jpg",
+      "imageWidth": 330,
+      "imageHeight": 400,
+      "story": "The Love Embrace of the Universe, the Earth (Mexico), Myself, Diego, and Señor Xolotl is a 1949 painting by Frida Kahlo. Created in Mexico, the 70 cm x 60.5 cm painting was painted with oil on Masonite. It was featured on the reverse of the Series F $500 peso banknote, issued in 2010.",
+      "facts": [
+        "The twofold face of the Universe, the light and dark background of planets and ethereal fog, is holding a murkier Earth (Mexico), whose breasts are lactating.",
+        "The Earth (Mexico), with all her vegetation, is subsequently holding Frida Kahlo."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Love_Embrace_of_the_Universe%2C_the_Earth_(Mexico)%2C_Myself%2C_Diego%2C_and_Se%C3%B1or_Xolotl",
+      "sitelinks": 6,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 48319,
+      "qid": "Q23663690",
+      "imageBytes": 112612,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Love_Embrace_of_the_Universe,_the_Earth_(Mexico),_Myself,_Diego,_and_Se%C3%B1or_Xolotl.jpg"
+      }
+    },
+    {
+      "slug": "memory-the-heart",
+      "title": "Memory, the Heart",
+      "year": 1937,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/85/Frida_Kahlo%2C_1937%2C_Memory%2C_the_Heart%2C_oil_on_metal%2C_40_x_28_cm.jpg",
+      "imageWidth": 250,
+      "imageHeight": 398,
+      "story": "Memory, the Heart, a 1937 painting by the Mexican artist Frida Kahlo, depicts the pain and anguish Kahlo experienced during and after an affair between her husband, artist Diego Rivera, and her sister, Cristina Kahlo.",
+      "facts": [
+        "Kahlo portrays herself standing on a beach by the water's edge, one foot on the sand and one in the sea, looking towards the viewer with an expressionless face covered in tears.",
+        "The rod has an image of Cupid at each end, shown as if riding a seesaw."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Memory%2C_the_Heart",
+      "sitelinks": 6,
+      "widthCm": 28.3,
+      "heightCm": 40,
+      "pageviews": 27731,
+      "qid": "Q5941128",
+      "imageBytes": 19115,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Frida_Kahlo,_1937,_Memory,_the_Heart,_oil_on_metal,_40_x_28_cm.jpg"
+      }
+    },
+    {
+      "slug": "the-dream-the-bed",
+      "title": "The Dream (The Bed)",
+      "year": 1940,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2b/El_sue%C3%B1o_%28La_cama%29.jpg",
+      "imageWidth": 364,
+      "imageHeight": 274,
+      "story": "The Dream (The Bed) (Spanish: El sueño (La cama)) is a 1940 self-portrait by Mexican artist Frida Kahlo.",
+      "facts": [
+        "In 1980 it was sold at Sotheby's in New York for about $51,000, a fraction of its later record price.",
+        "Ahead of the 2025 auction, it was sent on a public preview tour with stops in London, Abu Dhabi, Hong Kong, Paris and New York City, marking its first public display in nearly three decades.",
+        "Sotheby's offered El sueño (La cama) in its 20 November 2025 Exquisite Corpus evening sale of Surrealist art in New York, where it carried a pre-sale estimate of $40–60 million.",
+        "The sale set a new auction benchmark for a woman artist, surpassing Georgia O'Keeffe's Jimson Weed/White Flower No."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Dream_(The_Bed)",
+      "sitelinks": 5,
+      "widthCm": 98,
+      "heightCm": 74,
+      "pageviews": 118636,
+      "qid": "Q136892338",
+      "imageBytes": 93791,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:El_sue%C3%B1o_(La_cama).jpg"
+      }
+    },
+    {
+      "slug": "diego-and-i",
+      "title": "Diego and I",
+      "year": 1949,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/fc/Diego_And_I.jpg",
+      "imageWidth": 270,
+      "imageHeight": 360,
+      "story": "Diego and I is an oil on canvas painting by the Mexican artist Frida Kahlo, from 1949.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diego_and_I",
+      "sitelinks": 4,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 12486,
+      "qid": "Q109620518",
+      "imageBytes": 34921,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Diego_And_I.jpg"
+      }
+    },
+    {
+      "slug": "two-nudes-in-a-forest",
+      "title": "Two Nudes in a Forest",
+      "year": 1939,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2b/Two_Nudes_in_a_Forest%2C_Kahlo_1939.jpg",
+      "imageWidth": 340,
+      "imageHeight": 282,
+      "story": "Two Nudes in a Forest is an oil painting by Mexican painter Frida Kahlo that was completed in 1939. It is also referred to as The Earth, Two Nudes in the Wood, or My Nurse and I. The painting was given to a close woman companion of Kahlo's, who some believe to be actress Dolores del Río. The two women in the painting also appear in Kahlo's 1938 painting What the Water Gave Me, and her spider monkey, which views the couple from the forest, also appears in Kahlo's 1937 Fulang-Chang and I.",
+      "facts": [
+        "The two naked women in the painting, one dark-skinned and one light-skinned, are viewed as representations of Kahlo's ethnic identity as connected to her indigenous roots, but also her European ancestry, something that is also explored in The Two Fridas.",
+        "The painting also brings attention to Kahlo's bisexuality, something she expressed openly in her paintings, as in Self-Portrait with Cropped Hair, and in her sexual affairs."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Two_Nudes_in_a_Forest",
+      "sitelinks": 4,
+      "widthCm": 30.5,
+      "heightCm": 25,
+      "pageviews": 8165,
+      "qid": "Q63341526",
+      "imageBytes": 81612,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Two_Nudes_in_a_Forest,_Kahlo_1939.jpg"
+      }
+    },
+    {
+      "slug": "my-dress-hangs-there",
+      "title": "My Dress Hangs There",
+      "year": 1933,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/40/All%C3%A1_cuelga_mi_vestido_%28Frida_Kahlo%29.jpg",
+      "imageWidth": 333,
+      "imageHeight": 299,
+      "story": "My Dress Hangs There (1933) is an oil painting and collage by Mexican artist Frida Kahlo.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/My_Dress_Hangs_There",
+      "sitelinks": 3,
+      "widthCm": 50.5,
+      "heightCm": 45.5,
+      "pageviews": 17523,
+      "qid": "Q16488383",
+      "imageBytes": 65505,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:All%C3%A1_cuelga_mi_vestido_(Frida_Kahlo).jpg"
+      }
+    },
+    {
+      "slug": "self-portrait-with-loose-hair",
+      "title": "Self-Portrait with Loose Hair",
+      "year": 1947,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4f/Self_portrait_with_loose_hair_Kahlo_Frida.jpg",
+      "imageWidth": 268,
+      "imageHeight": 372,
+      "story": "Self-Portrait with Loose Hair, also known as Self-Portrait with Unbound Hair, is a 1947 oil-on-masonite painting by Mexican artist Frida Kahlo.",
+      "facts": [
+        "5 million endowment for the Iowa Women's Archives in the process.",
+        "\"In this autorretrato (self-portrait), Kahlo paints a bust of herself with her dark hair untied and cascading over her shoulder."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Self-Portrait_with_Loose_Hair",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 5223,
+      "qid": "Q118901053",
+      "imageBytes": 109687,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Self_portrait_with_loose_hair_Kahlo_Frida.jpg"
+      }
+    },
+    {
+      "slug": "self-portrait-in-a-velvet-dress",
+      "title": "Self-Portrait in a Velvet Dress",
+      "year": 1926,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/67/Self_Portrait_in_a_Velvet_Dress.jpg",
+      "imageWidth": 800,
+      "imageHeight": 1078,
+      "story": "Self-Portrait in a Velvet Dress is a 1926 oil-on-canvas painting by Mexican artist Frida Kahlo.",
+      "facts": [
+        "At the age of 18, Kahlo suffered serious injuries (from which she never fully recovered and led to lifelong physical pain) when the bus in which she was travelling collided with a trolley car.",
+        "During her extended period of convalescence, her parents gave her an easel and painting supplies as well as affixing a mirror to the ceiling above her bed so that she could see herself while lying on her back."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Self-Portrait_in_a_Velvet_Dress",
+      "sitelinks": 0,
+      "widthCm": 125,
+      "heightCm": 170,
+      "pageviews": 9447,
+      "qid": "Q123560990",
+      "imageBytes": 105176,
+      "imageCredit": {
+        "author": "Frida Kahlo",
+        "license": "PD",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Self_Portrait_in_a_Velvet_Dress.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

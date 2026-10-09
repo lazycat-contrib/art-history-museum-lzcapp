@@ -1,0 +1,190 @@
+{
+  "slug": "emil-nolde",
+  "periodSlug": "expressionism",
+  "name": "Emil Nolde",
+  "wikiTitle": "Emil Nolde",
+  "qid": "Q152788",
+  "birthYear": 1867,
+  "deathYear": 1956,
+  "tagline": "German painter (1867–1956)",
+  "bio": "Emil Nolde was a German painter and printmaker. He was one of the first Expressionists, a member of Die Brücke, and was one of the first oil painting and watercolor painters of the early 20th century to explore color. He is known for his brushwork and expressive choice of colors. Golden yellows and deep reds appear frequently in his work, giving a luminous quality to otherwise somber tones. His watercolors include vivid, brooding storm-scapes and brilliant florals.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/WP_Emil_Nolde.jpg",
+  "portraitWidth": 1536,
+  "portraitHeight": 2169,
+  "portraitCredit": {
+    "author": "Minya Diez-Dührkoop (* 21. Juni 1873; † 17. November 1929), deutsche Fotografin",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:WP_Emil_Nolde.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Nolde",
+  "paintings": [
+    {
+      "slug": "the-life-of-christ-nolde",
+      "title": "The Life of Christ (Nolde)",
+      "year": 1912,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Emil_Nolde_-_The_Life_of_Christ_%281911-12%29.jpeg",
+      "imageWidth": 2090,
+      "imageHeight": 802,
+      "story": "The Life of Christ is a nine-part polyptych by the German Expressionist painter Emil Nolde, produced in 1911–1912. It is one of the main works of the artist's Christian-inspired religious paintings. It is held at the Nolde Stiftung Seebüll.",
+      "facts": [
+        "The work is an oil-on-canvas polyptych in nine parts, resembling an altarpiece, with four panels on the left in a square, and other four on the right, and a large central composition representing the Crucifixion.",
+        "The flat areas of color are contrasting and strident, similar to the colors used by the Fauve painters."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Life_of_Christ_(Nolde)",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 2880,
+      "qid": "Q28669170",
+      "imageBytes": 1094305,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "w:Emil Nolde",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Emil_Nolde_-_The_Life_of_Christ_(1911-12).jpeg"
+      }
+    },
+    {
+      "slug": "blumengarten-utenwarf",
+      "title": "Blumengarten (Utenwarf)",
+      "year": 1917,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Blumengarten (Utenwarf ) is a flower painting from 1917 by Emil Nolde. It was purchased in 1967 by the Moderna Museet in Stockholm from Ketterer Gallery in Lugano, Switzerland.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Blumengarten_(Utenwarf)",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 994,
+      "qid": "Q10431593",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "stormy-sea-nolde",
+      "title": "Stormy Sea (Nolde)",
+      "year": 1930,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Stormy Sea is a watercolor landscape painting by German painter Emil Nolde, from 1930. The painting is held in the collection of the Sprengel Museum, in Hanover.",
+      "facts": [
+        "Nolde was forbidden to paint even though he was a Nazi supporter.",
+        "During this time many of his works were removed from German museums by the Nazi Party."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stormy_Sea_(Nolde)",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 904,
+      "qid": "Q17143943",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "the-last-supper-nolde",
+      "title": "The Last Supper (Nolde)",
+      "year": 1909,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Nolde_-_The_Last_Supper_%281909%29.jpg",
+      "imageWidth": 3810,
+      "imageHeight": 3049,
+      "story": "The Last Supper is an oil-on-canvas painting by Danish German painter Emil Nolde, created in 1909. It is held in the National Gallery of Denmark, in Copenhagen.",
+      "facts": [
+        "Nolde came from a Protestant family, but it was only after surviving a serious case of poisoning that he became interested in the making of Christian-inspired paintings.",
+        "The painting was acquired by the Halle Museum, in 1912, not without controversy, but it was purged during the Nazi campaign against degenerate art and exhibited in the following exhibition in 1937."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Last_Supper_(Nolde)",
+      "sitelinks": 1,
+      "widthCm": 107,
+      "heightCm": 86,
+      "pageviews": 2457,
+      "qid": "Q20268352",
+      "imageBytes": 6295021,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "w:Emil Nolde",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Nolde_-_The_Last_Supper_(1909).jpg"
+      }
+    },
+    {
+      "slug": "dance-around-the-golden-calf",
+      "title": "Dance Around the Golden Calf",
+      "year": 1910,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Emil_Nolde_-_Dance_Around_the_Golden_Calf_%281910%29.jpg",
+      "imageWidth": 14331,
+      "imageHeight": 11819,
+      "story": "Dance Around the Golden Calf is an oil-on-canvas painting by German-Danish painter Emil Nolde, created in 1910. It is held at the Pinakothek der Moderne, in Munich.",
+      "facts": [
+        "Nolde took an interest for religious inspired works shortly before making this canvas and would create several Biblical themed paintings.",
+        "This work depicts an event from the book of Exodus, when the Israelites believing that Moses might not return from Mount Sinai, created a golden calf to represent the God that had taken them from Egypt and worshipped them."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dance_Around_the_Golden_Calf",
+      "sitelinks": 1,
+      "widthCm": 105,
+      "heightCm": 87.5,
+      "pageviews": 2182,
+      "qid": "Q30076421",
+      "imageBytes": 51794784,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "w:Emil Nolde",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Emil_Nolde_-_Dance_Around_the_Golden_Calf_(1910).jpg"
+      }
+    },
+    {
+      "slug": "sunflowers-nolde",
+      "title": "Sunflowers (Nolde)",
+      "year": 1926,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Sunflowers is an oil-on-canvas painting by the German-Danish painter Emil Nolde, created in 1926. It was the first in a series of works featuring sunflowers, and also the first of more than fifty oil paintings on the same subject. It is now held in the Nolde Stiftung Seebüll.",
+      "facts": [
+        "The painting remained with the NDR and hung in an office at the Hamburg state radio station of the NDR on Rothenbaumchaussee until it was stolen in 1979, together with Nolde's watercolor Landscape with Farmhouse )(Landschaft mit Bauernhaus).",
+        "The owner of the painting stated that she thought that it was a reproduction and when she was searching for the location of the original, she discovered that it had been listed as stolen."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunflowers_(Nolde)",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1175,
+      "qid": "Q60370451",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "unpainted-paintings",
+      "title": "Unpainted Paintings",
+      "year": 1938,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Unpainted Paintings is a series of small-format watercolor-based paintings by German painter Emil Nolde, who gave them this title. He created these 1300 paintings between 1938 and 1945.",
+      "facts": [
+        "Nolde was expelled from the Reich Chamber of Culture in 1941 and banned from working.",
+        "On one hand, since he was banned from working in 1941, he was no longer allowed to exhibit them in public, and on the other hand, because Nolde planned to convert later these sheets into large-format oil paintings, so they had not yet been painted according to his intention."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Unpainted_Paintings",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 1197,
+      "qid": "Q2493483",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    }
+  ],
+  "ingestVersion": 5
+}

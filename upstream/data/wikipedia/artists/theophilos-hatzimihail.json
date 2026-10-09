@@ -1,0 +1,47 @@
+{
+  "slug": "theophilos-hatzimihail",
+  "periodSlug": "post-impressionism",
+  "name": "Theophilos Hatzimihail",
+  "wikiTitle": "Theophilos Hatzimihail",
+  "qid": "Q1371698",
+  "birthYear": 1870,
+  "deathYear": 1934,
+  "tagline": "Greek artist (c.1870–1934)",
+  "bio": " Theophilos Chatzimichail, known simply as Theophilos, was a Greek folk painter and major contributor in modern Greek art. The main subject of his works are Greek characters and the illustration of Greek traditional folklore and history.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Theofilos-photo.jpeg",
+  "portraitWidth": 329,
+  "portraitHeight": 331,
+  "portraitCredit": {
+    "author": "Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Theofilos-photo.jpeg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Theophilos_Hatzimihail",
+  "paintings": [
+    {
+      "slug": "athena-and-artemis-q124212078",
+      "title": "Athena and Artemis",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Theofilos_Athena_and_Artemis.jpg",
+      "imageWidth": 1986,
+      "imageHeight": 2309,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 79,
+      "heightCm": 90,
+      "pageviews": null,
+      "qid": "Q124212078",
+      "imageBytes": 2119600,
+      "imageCredit": {
+        "author": "Theophilos Chatzimichael",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Theofilos_Athena_and_Artemis.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

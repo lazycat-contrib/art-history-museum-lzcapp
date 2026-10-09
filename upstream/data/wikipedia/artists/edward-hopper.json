@@ -1,0 +1,1132 @@
+{
+  "slug": "edward-hopper",
+  "periodSlug": "american-modernism",
+  "name": "Edward Hopper",
+  "wikiTitle": "Edward Hopper",
+  "qid": "Q203401",
+  "birthYear": 1882,
+  "deathYear": 1967,
+  "tagline": "American painter and printmaker (1882–1967)",
+  "bio": "Edward Hopper was an American realist painter and printmaker. He is one of America's most renowned artists, known for his skill in depicting modern American life and landscapes.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Edward_Hopper%2C_New_York_artist_LCCN2016871478_%28cropped%29.jpg",
+  "portraitWidth": 1883,
+  "portraitHeight": 2821,
+  "portraitCredit": {
+    "author": "Harris & Ewing, photographer",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Edward_Hopper,_New_York_artist_LCCN2016871478_(cropped).jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Hopper",
+  "paintings": [
+    {
+      "slug": "nighthawks-hopper",
+      "title": "Nighthawks (Hopper)",
+      "year": 1942,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg",
+      "imageWidth": 6000,
+      "imageHeight": 3274,
+      "story": "Nighthawks is a 1942 oil on canvas painting by the American artist Edward Hopper that portrays four people in a downtown diner late at night, as viewed through the diner's large glass window. The light coming from the diner illuminates a darkened and deserted urban streetscape.",
+      "facts": [
+        "It has been suggested that Hopper was inspired by a short story of Ernest Hemingway's, either \"The Killers\" (1927), which Hopper greatly admired, or the more philosophical \"A Clean, Well-Lighted Place\" (1933).",
+        "The scene was supposedly inspired by a diner (since demolished) in Greenwich Village, Hopper's neighborhood in Manhattan.",
+        "However, according to an article by Jeremiah Moss in The New York Times, that cannot be the location of the diner that inspired the painting because a gas station occupied that lot from the 1930s to the 1970s.",
+        "Tom Waits's album Nighthawks at the Diner (1975) features a title, a cover, and lyrics inspired by Nighthawks."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nighthawks_(Hopper)",
+      "sitelinks": 38,
+      "widthCm": 152.4,
+      "heightCm": 84.1,
+      "pageviews": 493753,
+      "qid": "Q83872",
+      "imageBytes": 8521162,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Nighthawks_by_Edward_Hopper_1942.jpg"
+      }
+    },
+    {
+      "slug": "automat-hopper",
+      "title": "Automat (Hopper)",
+      "year": 1927,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Automat-edward-hopper-1927.jpg",
+      "imageWidth": 2000,
+      "imageHeight": 1554,
+      "story": "Automat is a 1927 oil painting by the American realist painter Edward Hopper. The painting was first displayed on Valentine's Day 1927 at the opening of Hopper's second solo show, at the Rehn Galleries in New York City. By April it had been sold for $1,200. The painting is today owned by the Des Moines Art Center, in Iowa.",
+      "facts": [
+        "The painting portrays a lone woman staring into a cup of coffee in an automat at night.",
+        "The reflection of identical rows of light fixtures stretches out through the night-blackened window."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Automat_(Hopper)",
+      "sitelinks": 17,
+      "widthCm": 88.9,
+      "heightCm": 71.4,
+      "pageviews": 48992,
+      "qid": "Q4808020",
+      "imageBytes": 383279,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Automat-edward-hopper-1927.jpg"
+      }
+    },
+    {
+      "slug": "girl-at-sewing-machine",
+      "title": "Girl at Sewing Machine",
+      "year": 1921,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Girl_at_a_Sewing_Machine_-_1921_-_Hopper.jpg",
+      "imageWidth": 2636,
+      "imageHeight": 2750,
+      "story": "Girl at Sewing Machine is an oil-on-canvas painting by the American artist Edward Hopper, executed in 1921, now in the Thyssen-Bornemisza Museum in Madrid, Spain. It portrays a young woman sitting at a sewing machine facing a window on a beautiful sunny day. The location appears to be New York City as is evident from the yellow bricks in the window. The exterior vantage point, although present, only aids in putting the interior activity in perspective.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girl_at_Sewing_Machine",
+      "sitelinks": 13,
+      "widthCm": 46,
+      "heightCm": 48.3,
+      "pageviews": 6915,
+      "qid": "Q5564463",
+      "imageBytes": 1747848,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Girl_at_a_Sewing_Machine_-_1921_-_Hopper.jpg"
+      }
+    },
+    {
+      "slug": "house-by-the-railroad",
+      "title": "House by the Railroad",
+      "year": 1925,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/The_House_by_the_Railroad_by_Edward_Hopper_1925.jpg",
+      "imageWidth": 3708,
+      "imageHeight": 3070,
+      "story": "House by the Railroad is a 1925 oil-on-canvas painting by the American artist Edward Hopper.",
+      "facts": [
+        "The house that is said to have inspired the painting is a Second Empire style Victorian mansion in Haverstraw, New York, where it still stands today.",
+        "MoMA acquired it in 1930, one of the inaugural pieces to become part of the then new art institution's holdings."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/House_by_the_Railroad",
+      "sitelinks": 12,
+      "widthCm": 73.7,
+      "heightCm": 61,
+      "pageviews": 18960,
+      "qid": "Q15734146",
+      "imageBytes": 11773067,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_House_by_the_Railroad_by_Edward_Hopper_1925.jpg"
+      }
+    },
+    {
+      "slug": "gas-hopper",
+      "title": "Gas (Hopper)",
+      "year": 1940,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Hopper-Gas-1940.png",
+      "imageWidth": 3950,
+      "imageHeight": 2563,
+      "story": "Gas is an oil painting executed in 1940 by the American painter Edward Hopper. It depicts an American gas station. The painting belongs to the Museum of Modern Art, in New York.",
+      "facts": [
+        "Since 1927, the year when he acquired a Dodge and then traveled through the United States, the painter had made several paintings with the road as a recurring subject.",
+        "The subject was a composite of several gas stations Hopper had visited."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gas_(Hopper)",
+      "sitelinks": 12,
+      "widthCm": 102.2,
+      "heightCm": 66.7,
+      "pageviews": 19493,
+      "qid": "Q21655444",
+      "imageBytes": 13233672,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Hopper-Gas-1940.png"
+      }
+    },
+    {
+      "slug": "early-sunday-morning",
+      "title": "Early Sunday Morning",
+      "year": 1930,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Early_Sunday_Morning%2C_by_Edward_Hopper.jpg",
+      "imageWidth": 2048,
+      "imageHeight": 1191,
+      "story": "Early Sunday Morning is a 1930 oil painting by American artist Edward Hopper.",
+      "facts": [
+        "The painting portrays the small businesses and shops of Seventh Avenue in New York City shortly after sunrise.",
+        "A red and blue striped barber pole sits in front of one of the doorways on the right side of the sidewalk, and a green fire hydrant is on the left."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Early_Sunday_Morning",
+      "sitelinks": 12,
+      "widthCm": 153,
+      "heightCm": 89.4,
+      "pageviews": 16647,
+      "qid": "Q3547037",
+      "imageBytes": 702739,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Early_Sunday_Morning,_by_Edward_Hopper.jpg"
+      }
+    },
+    {
+      "slug": "new-york-movie",
+      "title": "New York Movie",
+      "year": 1939,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Newyork-movie-edward-hopper-1939.jpg",
+      "imageWidth": 900,
+      "imageHeight": 725,
+      "story": "New York Movie is a 1939 oil-on-canvas painting by American artist Edward Hopper. Begun in December 1938 and completed in January 1939, the painting depicts a nearly empty movie theater with a few patrons and a contemplative usherette. Known for its sophisticated depiction of multiple light sources, New York Movie is regarded as one of Hopper's most accomplished works.",
+      "facts": [
+        "New York Movie is a composite painting, combining elements from multiple sources.",
+        "Josephine Hopper, Edward's wife and an accomplished painter in her own right before their marriage, served as a model for the usherette, posing under a lamp in the hallway of their apartment."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/New_York_Movie",
+      "sitelinks": 10,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 25316,
+      "qid": "Q19884479",
+      "imageBytes": 136764,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Newyork-movie-edward-hopper-1939.jpg"
+      }
+    },
+    {
+      "slug": "office-in-a-small-city",
+      "title": "Office in a Small City",
+      "year": 1953,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8e/Office_in_a_Small_City.jpg",
+      "imageWidth": 377,
+      "imageHeight": 264,
+      "story": "Office in a Small City is a 1953 oil painting by the American realist painter Edward Hopper. It is held by the Metropolitan Museum of Art, in New York.",
+      "facts": [
+        "The painting depicts a man sitting in a corner office surveying the cityscape outdoors.",
+        "The painting depicts loneliness and beauty in a uniquely stark yet pleasing fashion, a common theme amongst Hopper's works."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Office_in_a_Small_City",
+      "sitelinks": 8,
+      "widthCm": 101.6,
+      "heightCm": 71.1,
+      "pageviews": 26313,
+      "qid": "Q7079178",
+      "imageBytes": 18034,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper / Metropolitan Museum of Art",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Office_in_a_Small_City.jpg"
+      }
+    },
+    {
+      "slug": "second-story-sunlight",
+      "title": "Second Story Sunlight",
+      "year": 1960,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Second-Story-Sunlight-Edward-Hopper-1960.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 961,
+      "story": "Second Story Sunlight is a 1960 oil painting by the American artist Edward Hopper. It depicts two women of different ages on the second-story balcony of a white house. The older woman reads a newspaper while the younger woman sits on the railing. It is in the collections of the Whitney Museum of American Art, in New York.",
+      "facts": [
+        "According to Hopper, the painting was \"an attempt to paint sunlight as white with almost no yellow pigment in the white\", and \"any psychological idea will have to be supplied by the viewer\".",
+        "This was disputed by Hopper's neighbors, Marie Stephens and her adolescent daughter Kim, who argued that the young woman must have been based on one of them, citing the depicted woman's bust size."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Second_Story_Sunlight",
+      "sitelinks": 7,
+      "widthCm": 130,
+      "heightCm": 100,
+      "pageviews": 3359,
+      "qid": "Q29097175",
+      "imageBytes": 197041,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Second-Story-Sunlight-Edward-Hopper-1960.jpg"
+      }
+    },
+    {
+      "slug": "room-in-new-york",
+      "title": "Room in New York",
+      "year": 1932,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Room-in-new-york-edward-hopper-1932.jpg",
+      "imageWidth": 1000,
+      "imageHeight": 797,
+      "story": "Room in New York is a 1932 oil-on-canvas painting by the American artist Edward Hopper that portrays two individuals in a New York City flat. It is held in the collection of the Sheldon Museum of Art. The painting is said to have been inspired by the glimpses of lighted interiors seen by the artist near the district where he lived in Washington Square.",
+      "facts": [
+        "The scene of a brightly lit room is contained within the dark sill of a window.",
+        "The stark framing makes the room the main focus, drawing the eye and giving realness to the action of peeping into a space where the subjects are unaware they are being watched."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Room_in_New_York",
+      "sitelinks": 7,
+      "widthCm": 93,
+      "heightCm": 73.7,
+      "pageviews": 10452,
+      "qid": "Q55631961",
+      "imageBytes": 118389,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Room-in-new-york-edward-hopper-1932.jpg"
+      }
+    },
+    {
+      "slug": "hotel-lobby",
+      "title": "Hotel Lobby",
+      "year": 1943,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Hotel-lobby-edward-hopper-1943.jpg",
+      "imageWidth": 850,
+      "imageHeight": 697,
+      "story": "\nHotel Lobby is a 1943 oil painting on canvas by American realist painter Edward Hopper; it is held in the collection of the Indianapolis Museum of Art (IMA), in Indianapolis, Indiana, United States.",
+      "facts": [
+        "Under X-ray it can be seen that Hopper did little to change the canvas once he began work.",
+        "From June until December 2006 the Whitney Museum, which has the largest holding of Hopper's works in the world, displayed Hotel Lobby alongside their own works and key loans such as Nighthawks (1942) and New York Movie (1939)."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hotel_Lobby",
+      "sitelinks": 7,
+      "widthCm": 103.5,
+      "heightCm": 81.9,
+      "pageviews": 11101,
+      "qid": "Q5911687",
+      "imageBytes": 146095,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Hotel-lobby-edward-hopper-1943.jpg"
+      }
+    },
+    {
+      "slug": "office-at-night",
+      "title": "Office at Night",
+      "year": 1940,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Office-at-night-edward-hopper-1940.jpg",
+      "imageWidth": 850,
+      "imageHeight": 731,
+      "story": "Office at Night is a 1940 oil-on-canvas painting by the American realist painter Edward Hopper. It is owned by the Walker Art Center in Minneapolis, Minnesota, which purchased it in 1948.",
+      "facts": [
+        "In late December 1939 and early January 1940, Edward Hopper went through a creative dry spell.",
+        "During this time, according to entries in the diary kept by his wife Josephine (\"Jo\"), he occupied himself by reading a book by the French poet and essayist, Paul Valéry."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Office_at_Night",
+      "sitelinks": 7,
+      "widthCm": 63.8,
+      "heightCm": 56.4,
+      "pageviews": 15548,
+      "qid": "Q7079154",
+      "imageBytes": 131851,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Office-at-night-edward-hopper-1940.jpg"
+      }
+    },
+    {
+      "slug": "ground-swell",
+      "title": "Ground Swell",
+      "year": 1939,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ground_swell_2014.79.23.jpg",
+      "imageWidth": 4096,
+      "imageHeight": 2991,
+      "story": "Ground Swell is a 1939 painting by American artist Edward Hopper which depicts five people on a heeling catboat in a light swell, looking at an ominous buoy. It was in the collection of the Corcoran Gallery of Art from 1943 until it was purchased by the National Gallery of Art in Washington, D.C. in 2014. Several preparatory studies are held by the Whitney Museum of American Art in New York City.",
+      "facts": [
+        "The blue-green buoy with brown seaweed is the only dark feature in a scene dominated by bright blues and whites, its clanging bell warning of imminent but hidden dangers.",
+        "It was acquired from the exhibition by the Corcoran and remained there until the gallery was dissolved in 2014."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ground_Swell",
+      "sitelinks": 6,
+      "widthCm": 127.2,
+      "heightCm": 91.9,
+      "pageviews": 8482,
+      "qid": "Q20193215",
+      "imageBytes": 3392961,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper (painter) american 1882 - 1967",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "page": "https://commons.wikimedia.org/wiki/File:Ground_swell_2014.79.23.jpg"
+      }
+    },
+    {
+      "slug": "high-noon-hopper",
+      "title": "High Noon (Hopper)",
+      "year": 1949,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/High-Noon-Edward-Hopper-1949.jpg",
+      "imageWidth": 800,
+      "imageHeight": 559,
+      "story": "High Noon is a 1949 oil painting by the American Realist artist Edward Hopper, created in 1949. The work depicts a woman standing and staring outward from the doorway of a home, with the sun casting a split shadow over the home.",
+      "facts": [
+        "At first glance, the features in the painting seem clear enough.",
+        "A half-dressed woman stands at the front door, apparently waiting for someone or something."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/High_Noon_(Hopper)",
+      "sitelinks": 6,
+      "widthCm": 100.3,
+      "heightCm": 69.9,
+      "pageviews": 3149,
+      "qid": "Q59342515",
+      "imageBytes": 124537,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:High-Noon-Edward-Hopper-1949.jpg"
+      }
+    },
+    {
+      "slug": "hotel-by-a-railroad",
+      "title": "Hotel by a Railroad",
+      "year": 1952,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Hotel-by-a-Railroad-Edward-Hopper-1952.jpg",
+      "imageWidth": 1000,
+      "imageHeight": 772,
+      "story": "Hotel by a Railroad is a painting completed in 1952 by the American realist painter and printmaker Edward Hopper. The work is an oil on canvas, measuring 101.9 x 79.3 cm. It resides in the collection of the Hirshhorn Museum and Sculpture Garden.",
+      "facts": [
+        "The painting depicts a man and a woman, presumably a middle-aged couple, inside a room.",
+        "The woman is seated at the left, reading a book, while the man is looking at the window."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hotel_by_a_Railroad",
+      "sitelinks": 5,
+      "widthCm": 101.9,
+      "heightCm": 79.4,
+      "pageviews": 3703,
+      "qid": "Q16910668",
+      "imageBytes": 999234,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Hotel-by-a-Railroad-Edward-Hopper-1952.jpg"
+      }
+    },
+    {
+      "slug": "manhattan-bridge-loop",
+      "title": "Manhattan Bridge Loop",
+      "year": 1928,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Manhattan-bridge-loop-edward-hopper-1928.jpg",
+      "imageWidth": 950,
+      "imageHeight": 548,
+      "story": "Manhattan Bridge Loop is a 1928 oil painting by American artist Edward Hopper, depicting the Manhattan Bridge in New York City. It is on display in the Addison Gallery of American Art of the Phillips Academy in Andover, Massachusetts, which received the painting as a gift from art collector Stephen Carlton Clark in 1932.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manhattan_Bridge_Loop",
+      "sitelinks": 4,
+      "widthCm": null,
+      "heightCm": 88.9,
+      "pageviews": 4942,
+      "qid": "Q16914972",
+      "imageBytes": 98540,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Manhattan-bridge-loop-edward-hopper-1928.jpg"
+      }
+    },
+    {
+      "slug": "coast-guard-station-two-lights-maine",
+      "title": "Coast Guard Station, Two Lights, Maine",
+      "year": 1927,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Coast-Guard-Station-Two-Lights-Maine-Edward-Hopper-1927.jpg",
+      "imageWidth": 2000,
+      "imageHeight": 1417,
+      "story": "Coast Guard Station, Two Lights, Maine is a 1927 painting by the American Realist artist Edward Hopper. The mediums used were gouache, watercolor, and charcoal on paper. The work depicts the Cape Elizabeth Lights, a frequent subject of Hopper and wife's frequent summer visits to Cape Elizabeth, Maine. It is held in the Metropolitan Museum of Art, in New York.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Coast_Guard_Station%2C_Two_Lights%2C_Maine",
+      "sitelinks": 4,
+      "widthCm": 50.5,
+      "heightCm": 35.2,
+      "pageviews": 1100,
+      "qid": "Q20191074",
+      "imageBytes": 372049,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Coast-Guard-Station-Two-Lights-Maine-Edward-Hopper-1927.jpg"
+      }
+    },
+    {
+      "slug": "white-river-at-sharon",
+      "title": "White River at Sharon",
+      "year": 1937,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/White-River-at-Sharon-Edward-Hopper-1937.jpg",
+      "imageWidth": 2000,
+      "imageHeight": 1417,
+      "story": "White River at Sharon is a 1937 watercolor painting by the American Realist artist Edward Hopper. It was painted in September 1937 while Hopper and his wife were visiting friends on their farm in Sharon, Vermont. It is held in the Smithsonian American Art Museum, in Washington, D.C.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/White_River_at_Sharon",
+      "sitelinks": 4,
+      "widthCm": 75.6,
+      "heightCm": 55.2,
+      "pageviews": 760,
+      "qid": "Q20489767",
+      "imageBytes": 3361857,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:White-River-at-Sharon-Edward-Hopper-1937.jpg"
+      }
+    },
+    {
+      "slug": "morning-sun-painting",
+      "title": "Morning Sun (painting)",
+      "year": 1952,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Edward_Hopper_-_Morning_Sun_-_c_1952_-_Columbus_Museum_of_Art.jpg",
+      "imageWidth": 9357,
+      "imageHeight": 6506,
+      "story": "Morning Sun is a 1952 realist painting by Edward Hopper. Hopper often painted scenes of everyday American life in the 20th century.",
+      "facts": [
+        "In Morning Sun, a woman is shown sitting on a bed, facing sunlight coming in from the window.",
+        "She is wearing a coral-colored dress and her hair is in a simple bun."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Morning_Sun_(painting)",
+      "sitelinks": 3,
+      "widthCm": 101.9,
+      "heightCm": 71.4,
+      "pageviews": 13057,
+      "qid": "Q108554669",
+      "imageBytes": 26360807,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Edward_Hopper_-_Morning_Sun_-_c_1952_-_Columbus_Museum_of_Art.jpg"
+      }
+    },
+    {
+      "slug": "two-comedians",
+      "title": "Two Comedians",
+      "year": 1965,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/08/Two_Comedians_%28Edward_Hopper_painting%29.png",
+      "imageWidth": 369,
+      "imageHeight": 270,
+      "story": "Two Comedians is a 1966 oil on canvas painting by the American artist Edward Hopper. It was his final painting, executed one year before his death in 1967.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Two_Comedians",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 7902,
+      "qid": "Q117257115",
+      "imageBytes": 165891,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Two_Comedians_(Edward_Hopper_painting).png"
+      }
+    },
+    {
+      "slug": "macomb-s-dam-bridge-painting",
+      "title": "Macomb's Dam Bridge (painting)",
+      "year": 1935,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Macombs-Dam-Bridge-Edward-Hopper-1935.jpg",
+      "imageWidth": 1536,
+      "imageHeight": 912,
+      "story": "Macomb's Dam Bridge is a 1935 oil painting by the American Realist artist Edward Hopper. The work depicts New York City's Macombs Dam Bridge; the scene is quiet and empty in contrast to the bridge's usual traffic. It is in the collection of the Brooklyn Museum in New York.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Macomb's_Dam_Bridge_(painting)",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 799,
+      "qid": "Q59417223",
+      "imageBytes": 420603,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Macombs-Dam-Bridge-Edward-Hopper-1935.jpg"
+      }
+    },
+    {
+      "slug": "saltillo-mansion",
+      "title": "Saltillo Mansion",
+      "year": 1943,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Saltillo-Mansion-Edward-Hopper-1943.jpg",
+      "imageWidth": 1937,
+      "imageHeight": 1500,
+      "story": "Saltillo Mansion is a 1943 watercolor painting by the American Realist artist Edward Hopper. The work depicts a Neoclassical, Spanish Revival manse in Saltillo, Mexico, from the rooftop of his residence. For the summer of 1943, Hopper and his wife resided in Saltillo, first having stationed for a while in Mexico City.",
+      "facts": [],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saltillo_Mansion",
+      "sitelinks": 2,
+      "widthCm": 68.9,
+      "heightCm": 54,
+      "pageviews": 977,
+      "qid": "Q20199036",
+      "imageBytes": 652557,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Saltillo-Mansion-Edward-Hopper-1943.jpg"
+      }
+    },
+    {
+      "slug": "room-in-brooklyn",
+      "title": "Room in Brooklyn",
+      "year": 1932,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Room_in_Brooklyn_Edward_Hopper_1932.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 1025,
+      "story": "Room in Brooklyn is a 1932 oil on canvas painting by the American artist Edward Hopper. It depicts a woman in a rocking chair looking out a bay window at a cityscape, with sunlight entering the room. Hopper improvised and completed the work at his Greenwich Village studio around the same time as its possible companion piece, Room in New York.",
+      "facts": [
+        "Jo said Hopper had planned to paint the Brooklyn Bridge outside the window, but when it came time, he discovered it would not work.",
+        "This was at a time when the German public had just rediscovered Friedrich, whose work was shown in the Exhibition of German Art of the Century one year earlier."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Room_in_Brooklyn",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 15388,
+      "qid": "Q20634731",
+      "imageBytes": 1248516,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Room_in_Brooklyn_Edward_Hopper_1932.jpg"
+      }
+    },
+    {
+      "slug": "western-motel",
+      "title": "Western Motel",
+      "year": 1957,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Western_Motel_Hopper_1957.jpg",
+      "imageWidth": 409,
+      "imageHeight": 244,
+      "story": "Western Motel is a 1957 oil on canvas painting by the American artist Edward Hopper. The work depicts a sunlit motel room with a woman sitting on a bed, looking to her right. It is a composite interior scene, synthesized from motels in El Paso, Texas, that Hopper visited, and the Rustic Canyon art colony in Los Angeles, where he held a six-month artist's residency. Both the Kunsthalle Wien in Austria and the Virginia Museum of Fine Arts in the United States have hosted artistic 3D reconstructions of the painting. The work is currently held by the Yale University Art Gallery.",
+      "facts": [
+        "Hopper was not a fan of California nor of art colonies, but after Jo discovered that people had nothing but good things to say about Rustic Canyon, she convinced Edward to go.",
+        "The exhibition was said to have been \"the largest showing of contemporary United States art ever brought together\" up to that point."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_Motel",
+      "sitelinks": 2,
+      "widthCm": 127.3,
+      "heightCm": 76.8,
+      "pageviews": 15302,
+      "qid": "Q49198546",
+      "imageBytes": 105183,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Western_Motel_Hopper_1957.jpg"
+      }
+    },
+    {
+      "slug": "rooms-by-the-sea",
+      "title": "Rooms by the Sea",
+      "year": 1951,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/aa/Rooms_by_the_Sea_1951.jpg",
+      "imageWidth": 372,
+      "imageHeight": 269,
+      "story": "Rooms by the Sea is a 1951 painting by American realist Edward Hopper. It is a late period painting completed in the fall at his Cape Cod summer home and studio in South Truro, Massachusetts. The work depicts an empty room with a door opening to the sea, letting sunlight into that room and another room behind it. It is the first of two paintings with the shared theme of an empty room without people but filled with light, followed by Sun in an Empty Room (1963). Although Hopper adamantly rejected the characterization, art critics have noted elements of abstract art and surrealism in the work.",
+      "facts": [
+        "The middle distance of the painting consists only of a white wall with a room mostly hidden behind it, showing glimpses of some furniture and a picture hanging on the wall.",
+        "Rooms by the Sea was part of a total of 23 works donated to the YUAG in 1960 (in addition to ten works already donated to YUAG by Clark before his death), as well as $1 million set aside for the gallery by Clark in his bequest.",
+        "In 2009, YUAG also acquired a charcoal sketch by Hopper, that he had used as a preparatory drawing for Rooms by the Sea."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rooms_by_the_Sea",
+      "sitelinks": 2,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 18828,
+      "qid": "Q49198572",
+      "imageBytes": 26634,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Rooms_by_the_Sea_1951.jpg"
+      }
+    },
+    {
+      "slug": "the-bootleggers-hopper",
+      "title": "The Bootleggers (Hopper)",
+      "year": 1925,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_Bootleggers_Edward_Hopper_1925.jpg",
+      "imageWidth": 3500,
+      "imageHeight": 2765,
+      "story": "The Bootleggers is a 1925 painting by American realist Edward Hopper. The work generally marks the end of his early period before painting the House by the Railroad that same year, the start of his mature or classic period. The painting depicts a nautical scene in a subdued blue and gray palette, showing three men on board a motorboat staring at the shore where another man, standing besides a large house, stares back at them. It has been described and interpreted as Hopper's most overt, political, and even contrarian work.",
+      "facts": [
+        "The committee accepted his painting Sailing (1911), where it sold for $250.",
+        "Early that next year, the painting was acquired from the Rehn Gallery by Charles E."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Bootleggers_(Hopper)",
+      "sitelinks": 1,
+      "widthCm": 96.5,
+      "heightCm": 76.5,
+      "pageviews": 5050,
+      "qid": "Q131360414",
+      "imageBytes": 9857067,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:The_Bootleggers_Edward_Hopper_1925.jpg"
+      }
+    },
+    {
+      "slug": "chop-suey-hopper",
+      "title": "Chop Suey (Hopper)",
+      "year": 1929,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Edward_hopper_chop_suey.jpg",
+      "imageWidth": 3200,
+      "imageHeight": 2683,
+      "story": "Chop Suey (1929) is an oil painting on canvas by the American artist Edward Hopper. The foreground of the work portrays two women in conversation at a restaurant. In November 2018, it was sold at $92 million, a record price for the artist's work.",
+      "facts": [
+        "This is portrayed with hidden or obscured faces, retracting a human essence from the figures.",
+        "In November 2018, the painting sold for $92 million, a new record for a work by the artist."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chop_Suey_(Hopper)",
+      "sitelinks": 6,
+      "widthCm": 96.5,
+      "heightCm": 81.3,
+      "pageviews": 48015,
+      "qid": "Q5104805",
+      "imageBytes": 1660979,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Edward_hopper_chop_suey.jpg"
+      }
+    },
+    {
+      "slug": "east-wind-over-weehawken",
+      "title": "East Wind Over Weehawken",
+      "year": 1934,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/East_Wind_Over_Weehawken_Hopper_1934.jpg",
+      "imageWidth": 951,
+      "imageHeight": 633,
+      "story": "East Wind Over Weehawken is a 1934 oil painting on canvas by American realist painter Edward Hopper. It was held in the collection of the Pennsylvania Academy of Fine Arts in the United States from 1952 until its sale to an anonymous buyer in December 2013. That sale brought a record price for a Hopper.",
+      "facts": [
+        "In 2013, Weehawken resident and comedian Susie Felber commissioned a modern remake of the painting in order to raise money for the Weehawken PTPO (a parent–teacher participating association).",
+        "It was acquired by the Pennsylvania Academy of Fine Arts directly from the gallery in 1952, fifteen years before the death of the painter, at a very low price.",
+        "In 2013 the Pennsylvania Academy put the painting up for sale in the hopes of garnering the $22–$28 million at which the painting was valued, which it intended to use to establish an endowment.",
+        "5 million with fees) at Christie's in New York to an anonymous telephone bidder."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/East_Wind_Over_Weehawken",
+      "sitelinks": 5,
+      "widthCm": 127.6,
+      "heightCm": 86.4,
+      "pageviews": 3275,
+      "qid": "Q16992209",
+      "imageBytes": 517141,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:East_Wind_Over_Weehawken_Hopper_1934.jpg"
+      }
+    },
+    {
+      "slug": "sun-in-an-empty-room",
+      "title": "Sun in an Empty Room",
+      "year": 1963,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e7/Sun_in_an_Empty_Room_1963.jpg",
+      "imageWidth": 371,
+      "imageHeight": 270,
+      "story": "Sun in an Empty Room is a 1963 painting by American realist Edward Hopper (1882–1967). Created during his late period at his Cape Cod summer home and studio in South Truro, Massachusetts, the painting was completed just four years prior to his death at the age of 84. The work depicts a room, seemingly empty, illuminated by sunlight coming through a window, casting light and shadows on the walls and floor. Leaves on a tree or bush can be seen just outside the window.",
+      "facts": [
+        "From March to April of that year, Hopper completed one of his largest paintings, Intermission.",
+        "Edward Hopper (1882–1967) was intensely interested in light, and it was a primary theme and subject in his work."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sun_in_an_Empty_Room",
+      "sitelinks": 2,
+      "widthCm": 100.3,
+      "heightCm": 73,
+      "pageviews": 12128,
+      "qid": "Q115196860",
+      "imageBytes": 26060,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Sun_in_an_Empty_Room_1963.jpg"
+      }
+    },
+    {
+      "slug": "intermission-hopper",
+      "title": "Intermission (Hopper)",
+      "year": 1963,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Intermission_1963.jpg",
+      "imageWidth": 333,
+      "imageHeight": 224,
+      "story": "Intermission is a 1963 painting by American realist Edward Hopper (1882–1967). It is a late period painting completed between March and April at his home and studio in Washington Square Park, in the Greenwich Village neighborhood of Lower Manhattan, New York City, four years before his death at age 84. The work depicts a woman in a theater wearing a blue and black dress and black shoes, sitting by herself in a green aisle seat near a blue wall. It is one of the largest paintings ever completed by Hopper, and is his penultimate theater-themed work, followed by Two Comedians (1966), his last painting. It was acquired by the San Francisco Museum of Modern Art in 2012.",
+      "facts": [
+        "At 40 by 60 inches (100 cm × 150 cm), Intermission is one of Hopper's largest paintings.",
+        "\"Although his dramas were imaginary, his directing was inspired.",
+        "It inspired her to write Edward Hopper's Loneliness, an essay exploring the influence of the 1918–1920 flu pandemic on Hopper's work.",
+        "Intermission was acquired from a private collector by the San Francisco Museum of Modern Art (SFMOMA) in 2012, made possible by gifts from the Schwab and Fisher families."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Intermission_(Hopper)",
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 5021,
+      "qid": "Q124518415",
+      "imageBytes": 20584,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Intermission_1963.jpg"
+      }
+    },
+    {
+      "slug": "soir-bleu-q64505532",
+      "title": "Soir Bleu",
+      "year": 1914,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Soir_Bleu.jpg",
+      "imageWidth": 2048,
+      "imageHeight": 1019,
+      "story": "Created in 1914, which was four years after his previous visit to Paris, \"Soir Bleu\" was painted when Hopper was feeling disheartened about his career.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 3,
+      "widthCm": 182.7,
+      "heightCm": 91.8,
+      "pageviews": null,
+      "qid": "Q64505532",
+      "imageBytes": 403950,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Soir_Bleu.jpg"
+      }
+    },
+    {
+      "slug": "new-york-restaurant-q138664096",
+      "title": "New York Restaurant",
+      "year": 1922,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/New_york_restaurant_by_edward_hopper.jpg",
+      "imageWidth": 1920,
+      "imageHeight": 1550,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 76.2,
+      "heightCm": 61,
+      "pageviews": null,
+      "qid": "Q138664096",
+      "imageBytes": 1856334,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:New_york_restaurant_by_edward_hopper.jpg"
+      }
+    },
+    {
+      "slug": "lighthouse-hill-q18665874",
+      "title": "Lighthouse Hill",
+      "year": 1928,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Lighthouse_Hill%2C_1927_by_Edward_Hopper.jpg",
+      "imageWidth": 1000,
+      "imageHeight": 711,
+      "story": "1927 oil on canvas painting by American artist Edward Hopper. Held by the Dallas Museum of Art.",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 109.4,
+      "heightCm": 73.8,
+      "pageviews": null,
+      "qid": "Q18665874",
+      "imageBytes": 162554,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Lighthouse_Hill,_1927_by_Edward_Hopper.jpg"
+      }
+    },
+    {
+      "slug": "cape-cod-evening-q20193203",
+      "title": "Cape Cod Evening",
+      "year": 1939,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cape_Cod_Evening.jpg",
+      "imageWidth": 4096,
+      "imageHeight": 3072,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 101.6,
+      "heightCm": 76.2,
+      "pageviews": null,
+      "qid": "Q20193203",
+      "imageBytes": 3138472,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Cape_Cod_Evening.jpg"
+      }
+    },
+    {
+      "slug": "sunday-q23946192",
+      "title": "Sunday",
+      "year": 1926,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Sunday%2C_by_Edward_Hopper.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 1029,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q23946192",
+      "imageBytes": 123811,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Sunday,_by_Edward_Hopper.jpg"
+      }
+    },
+    {
+      "slug": "new-york-interior-q64506470",
+      "title": "New York Interior",
+      "year": 1921,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Edward_Hopper%2C_New_York_Interior%2C_c._1921_1_15_18_-whitneymuseum_%2840015892594%29.jpg",
+      "imageWidth": 3119,
+      "imageHeight": 2534,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 1,
+      "widthCm": 74.6,
+      "heightCm": 61.8,
+      "pageviews": null,
+      "qid": "Q64506470",
+      "imageBytes": 4733145,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Sharon Mollerus",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Edward_Hopper,_New_York_Interior,_c._1921_1_15_18_-whitneymuseum_(40015892594).jpg"
+      }
+    },
+    {
+      "slug": "blackwell-s-island-q104008570",
+      "title": "Blackwell's Island",
+      "year": 1928,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Blackwell%27s_Island_Edward_Hopper_1928.jpg",
+      "imageWidth": 3200,
+      "imageHeight": 1836,
+      "story": "Blackwell's Island, oil on canvas, 34½ x 59½ in. (87.6 x 151.3 cm.)",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 151.1,
+      "heightCm": 87.6,
+      "pageviews": null,
+      "qid": "Q104008570",
+      "imageBytes": 340979,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Blackwell's_Island_Edward_Hopper_1928.jpg"
+      }
+    },
+    {
+      "slug": "night-windows-q19883981",
+      "title": "Night Windows",
+      "year": 1928,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Night_Windows_Hopper_MOMA_1928.jpg",
+      "imageWidth": 2000,
+      "imageHeight": 1709,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q19883981",
+      "imageBytes": 1421065,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Night_Windows_Hopper_MOMA_1928.jpg"
+      }
+    },
+    {
+      "slug": "apartment-houses-q20861981",
+      "title": "Apartment Houses",
+      "year": 1923,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Apartment_Houses_Edward_Hopper_1923.jpg",
+      "imageWidth": 720,
+      "imageHeight": 574,
+      "story": "Apartment Houses', oil on canvas, 24 x 28 15/16 in. (60.96 x 73.50125 cm.)",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q20861981",
+      "imageBytes": 148624,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Apartment_Houses_Edward_Hopper_1923.jpg"
+      }
+    },
+    {
+      "slug": "blackwell-s-island-q64504979",
+      "title": "Blackwell's Island",
+      "year": 1911,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Blackwell%27s_Island%2C_by_Edward_Hopper.jpg",
+      "imageWidth": 2048,
+      "imageHeight": 1710,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q64504979",
+      "imageBytes": 1608933,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Blackwell's_Island,_by_Edward_Hopper.jpg"
+      }
+    },
+    {
+      "slug": "maine-in-fog-q64506581",
+      "title": "Maine in Fog",
+      "year": 1926,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Maine_in_Fog%2C_by_Edward_Hopper.jpg",
+      "imageWidth": 2048,
+      "imageHeight": 1191,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q64506581",
+      "imageBytes": 857178,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Maine_in_Fog,_by_Edward_Hopper.jpg"
+      }
+    },
+    {
+      "slug": "hotel-window-q114097808",
+      "title": "Hotel Window",
+      "year": 1955,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Hotel-window-edward-hopper-1955.jpg",
+      "imageWidth": 800,
+      "imageHeight": 574,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 2,
+      "widthCm": 139.7,
+      "heightCm": 101.6,
+      "pageviews": null,
+      "qid": "Q114097808",
+      "imageBytes": 85436,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Hotel-window-edward-hopper-1955.jpg"
+      }
+    },
+    {
+      "slug": "cottages-at-north-truro-q141658369",
+      "title": "Cottages at North Truro",
+      "year": 1938,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Edward_hopper_cottages_at_north_truro.jpg",
+      "imageWidth": 3200,
+      "imageHeight": 2265,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": 71.1,
+      "heightCm": 50.8,
+      "pageviews": null,
+      "qid": "Q141658369",
+      "imageBytes": 1517821,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Edward Hopper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Edward_hopper_cottages_at_north_truro.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "tamara-de-lempicka",
+  "periodSlug": "cubism",
+  "name": "Tamara de Lempicka",
+  "wikiTitle": "Tamara de Lempicka",
+  "qid": "Q229351",
+  "birthYear": 1898,
+  "deathYear": 1980,
+  "tagline": "Polish painter (1894–1980)",
+  "bio": "Tamara Łempicka, known outside Poland as Tamara de Lempicka, was a Polish painter who spent her working life in France and the United States. She is best known for her polished Art Deco portraits of aristocrats and the wealthy, and for her highly stylized paintings of nudes.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/en/c/c7/Tamara_de_Lempicka%2C_Autoportrait_%28Tamara_in_a_Green_Bugatti%29.jpeg",
+  "portraitWidth": 807,
+  "portraitHeight": 1058,
+  "portraitCredit": {
+    "author": "Tamara de Lempicka",
+    "license": "PD-US",
+    "licenseUrl": null,
+    "page": "https://en.wikipedia.org/wiki/File:Tamara_de_Lempicka,_Autoportrait_(Tamara_in_a_Green_Bugatti).jpeg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tamara_de_Lempicka",
+  "paintings": [
+    {
+      "slug": "the-communicant",
+      "title": "The Communicant",
+      "year": 1929,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "The Communicant is an oil on canvas painting by Polish artist Tamara de Lempicka, from 1929. It is part of the collections of the Musée National d'Art Moderne, in Paris, on loan to the La Piscine Museum, in Roubaix.",
+      "facts": [
+        "It is a three-quarter portrait of the artist nine-year-old daughter, Kizette, on the occasion of her First Communion.",
+        "The whiteness of the garment contrasts with the red lining of the prie-dieu below, where her prayer book rests open."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Communicant",
+      "sitelinks": 3,
+      "widthCm": 64.8,
+      "heightCm": 101,
+      "pageviews": 359,
+      "qid": "Q117802776",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "the-musician-tamara-de-lempicka",
+      "title": "The Musician (Tamara de Lempicka)",
+      "year": 1929,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "The Musician also known as Blue Woman with a Guitar is a 1929 oil-on-canvas painting by the Polish Art Deco painter Tamara de Lempicka.",
+      "facts": [
+        "In 2009, it was stolen from the Scheringa Museum of Realist Art in Spanbroek and went missing for seven years.",
+        "In 2017, the artwork was recovered by Dutch art crime investigator Artur Brand alongside a stolen piece by Salvador Dalí.",
+        "In November 2018, the painting was purchased by an anonymous buyer for over US$ 9 million at a Christie's auction in New York.",
+        "Lempicka's The Musician set a new record for the most expensive painting by a Polish artist at the time."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Musician_(Tamara_de_Lempicka)",
+      "sitelinks": 3,
+      "widthCm": 73,
+      "heightCm": 115.8,
+      "pageviews": 5898,
+      "qid": "Q124296304",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "adam-and-eve-tamara-de-lempicka",
+      "title": "Adam and Eve (Tamara de Lempicka)",
+      "year": 1932,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Adam and Eve is an oil-on-panel painting by the Polish painter Tamara de Lempicka, from 1932. It is in the Art Deco style and depicts a male nude embracing a female nude holding an apple. In the background are stylized skyscapers. The painting is 116 by 73 centimetres and is housed in a private collection.",
+      "facts": [
+        "The painting previously belonged to Barbra Streisand, who acquired it around 1986 for $135,000.",
+        "On March 3, 1994, Christie's held a dedicated sale of Streisand's collection, including Adam and Eve, which sold for $1,982,500, at the time, setting a record price for the artist at auction.",
+        "Streisand told The New York Times, \"We screamed when the Lempicka price went over $1 million ...",
+        "\" In December 1993, Architectural Digest featured Streisand's Art-Deco-inspired Malibu home; the front cover of the issue included an image of Streisand and Adam and Eve."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_and_Eve_(Tamara_de_Lempicka)",
+      "sitelinks": 3,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": 8446,
+      "qid": "Q16960276",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "autoportrait-tamara-in-a-green-bugatti",
+      "title": "Autoportrait (Tamara in a Green Bugatti)",
+      "year": 1929,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c7/Tamara_de_Lempicka%2C_Autoportrait_%28Tamara_in_a_Green_Bugatti%29.jpeg",
+      "imageWidth": 807,
+      "imageHeight": 1058,
+      "story": "Autoportrait (Tamara in a Green Bugatti) is a self-portrait by the Polish artist Tamara de Lempicka, which she painted in Paris in 1929. It was commissioned by the German fashion magazine Die Dame for the cover of the magazine, to celebrate the independence of women. It is one of the best-known examples of Art Deco portrait painting.",
+      "facts": [
+        "In 1928, De Lempicka was commissioned to make a self-portrait for the cover of the German fashion magazine Die Dame.",
+        "In fact she did not own a Bugatti automobile; her own car was a small yellow Renault, which was stolen one night when she and her friends were celebrating at Café de la Rotonde in Montparnasse.",
+        "The female editor of Die Dame, a popular German fashion magazine, encountered De Lempicka in Monte Carlo while the almost-divorced baroness was on vacation and commissioned her to paint a self-portrait for an upcoming cover."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Autoportrait_(Tamara_in_a_Green_Bugatti)",
+      "sitelinks": 8,
+      "widthCm": 26.6,
+      "heightCm": 35,
+      "pageviews": 19464,
+      "qid": "Q19901889",
+      "imageBytes": 261014,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Tamara de Lempicka",
+        "license": "PD-US",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:Tamara_de_Lempicka,_Autoportrait_(Tamara_in_a_Green_Bugatti).jpeg"
+      }
+    },
+    {
+      "slug": "portrait-of-marjorie-ferry",
+      "title": "Portrait of Marjorie Ferry",
+      "year": 1932,
+      "imageUrl": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "story": "Portrait of Marjorie Ferry is an oil-on-canvas painting from 1932 by the Polish Art Deco painter Tamara de Lempicka.",
+      "facts": [
+        "It was commissioned by Ferry's husband in 1932 and painted in the artist's studio on rue Méchain.",
+        "The painting became the single most expensive artwork by a Polish artist to date."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_Marjorie_Ferry",
+      "sitelinks": 4,
+      "widthCm": 65,
+      "heightCm": 100,
+      "pageviews": 3107,
+      "qid": "Q124289382",
+      "imageBytes": null,
+      "copyrighted": true,
+      "imageCredit": null
+    },
+    {
+      "slug": "the-dream-tamara-de-lempicka",
+      "title": "The Dream (Tamara de Lempicka)",
+      "year": 1927,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/The_Dream_%28Tamara_de_Lempicka%29.webp",
+      "imageWidth": 267,
+      "imageHeight": 373,
+      "story": "The Dream is an oil-on-canvas painting by the Polish Art Deco artist Tamara de Lempicka. The painting measures 81 by 60 centimetres and was completed in 1927.",
+      "facts": [
+        "It was a record-breaking price for a Lempicka painting at the time.",
+        "The painting shows a figure of a young, nude woman with shortly-cropped dark hair lying on a bed partly covered by a sheet and set against a green background."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Dream_(Tamara_de_Lempicka)",
+      "sitelinks": 2,
+      "widthCm": 58.5,
+      "heightCm": 81.3,
+      "pageviews": 6541,
+      "qid": "Q124296302",
+      "imageBytes": 34988,
+      "copyrighted": true,
+      "imageCredit": {
+        "author": "Tamara de Lempicka",
+        "license": "Fair use",
+        "licenseUrl": null,
+        "page": "https://en.wikipedia.org/wiki/File:The_Dream_(Tamara_de_Lempicka).webp"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "spyridon-prosalentis",
+  "periodSlug": "academic-art",
+  "name": "Spyridon Prosalentis",
+  "wikiTitle": "Spyridon Prosalentis",
+  "qid": "Q15411292",
+  "birthYear": 1830,
+  "deathYear": 1895,
+  "tagline": "Greek painter (1830–1895)",
+  "bio": "Spyridon Prosalentis was a Greek portrait painter of the Heptanese school. His first name is sometimes seen as Spyros.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Prosalentis-Parthenon.jpg",
+  "portraitWidth": 704,
+  "portraitHeight": 470,
+  "portraitCredit": {
+    "author": "Spyridon Prosalentis (1830-1895)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Prosalentis-Parthenon.jpg"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Spyridon_Prosalentis",
+  "paintings": [
+    {
+      "slug": "guerreiro-de-1821-spyridon-prosalentis-galeria-municipal-de-corfu-04-q130566354",
+      "title": "Guerreiro de 1821, Spyridon Prosalentis, Galeria Municipal de Corfu 04",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Guerreiro_de_1821%2C_Spyridon_Prosalentis%2C_Galeria_Municipal_de_Corfu_04.jpg",
+      "imageWidth": 811,
+      "imageHeight": 1082,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q130566354",
+      "imageBytes": 417782,
+      "imageCredit": {
+        "author": "GualdimG",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Guerreiro_de_1821,_Spyridon_Prosalentis,_Galeria_Municipal_de_Corfu_04.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

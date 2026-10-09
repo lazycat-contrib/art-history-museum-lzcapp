@@ -1,0 +1,70 @@
+{
+  "slug": "nikolaos-vokos",
+  "periodSlug": "academic-art",
+  "name": "Nikolaos Vokos",
+  "wikiTitle": "Nikolaos Vokos",
+  "qid": "Q1991291",
+  "birthYear": 1854,
+  "deathYear": 1902,
+  "tagline": "Greek painter",
+  "bio": "Nikolaos Vokos was a Greek painter of the Munich School art movement.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Nikolaos_Bokos.JPG",
+  "portraitWidth": 541,
+  "portraitHeight": 727,
+  "portraitCredit": {
+    "author": "Eleftherios Kazanis (1861 - 1930)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Nikolaos_Bokos.JPG"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikolaos_Vokos",
+  "paintings": [
+    {
+      "slug": "painting-q118541352",
+      "title": "*Νεκρή φύση με ψάρι",
+      "year": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/%2A%CE%9D%CE%B5%CE%BA%CF%81%CE%AE_%CF%86%CF%8D%CF%83%CE%B7_%CE%BC%CE%B5_%CF%88%CE%AC%CF%81%CE%B9.jpg",
+      "imageWidth": 1296,
+      "imageHeight": 968,
+      "story": "",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q118541352",
+      "imageBytes": 1174780,
+      "imageCredit": {
+        "author": "Nikolaos Vokos",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:*%CE%9D%CE%B5%CE%BA%CF%81%CE%AE_%CF%86%CF%8D%CF%83%CE%B7_%CE%BC%CE%B5_%CF%88%CE%AC%CF%81%CE%B9.jpg"
+      }
+    },
+    {
+      "slug": "greek-doctor-theodoros-aretaios-q130281005",
+      "title": "Greek doctor Theodoros Aretaios",
+      "year": 1879,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Aretaios_by_Vokos.jpg",
+      "imageWidth": 773,
+      "imageHeight": 960,
+      "story": "Greek doctor Theodoros Aretaios, painting by Nikolaos Vokos, 1879",
+      "facts": [],
+      "wikipediaUrl": null,
+      "sitelinks": 0,
+      "widthCm": null,
+      "heightCm": null,
+      "pageviews": null,
+      "qid": "Q130281005",
+      "imageBytes": 102528,
+      "imageCredit": {
+        "author": "Nikolaos Vokos",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "page": "https://commons.wikimedia.org/wiki/File:Aretaios_by_Vokos.jpg"
+      }
+    }
+  ],
+  "ingestVersion": 5
+}

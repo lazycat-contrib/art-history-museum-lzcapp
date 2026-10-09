@@ -1,0 +1,5 @@
+# The archive commands' Python (archive/.venv; run_dagster.cmd setup installs it). Dagster has its own venv.
+duckdb==1.5.6
+requests>=2.32
+google-cloud-storage>=3.1
+pillow>=11
