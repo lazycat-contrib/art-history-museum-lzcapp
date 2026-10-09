@@ -25,7 +25,7 @@ jobs:
           node-version: "22"
 
       - name: Install lzc-cli
-        run: npm install -g @lazycatcloud/lzc-cli
+        run: npm install -g @lazycatcloud/lzc-cli@2.0.10-beta.2
 
       - name: Pre-pull the Dockerfile base image
         run: docker pull node:24-alpine
