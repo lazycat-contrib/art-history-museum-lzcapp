@@ -1,5 +1,9 @@
 name: Build and Publish (embedded image)
 
+# 构建与发布完全交给 lazycat-github-action v1.3.0：
+# - 在 GitHub runner 上用 docker buildx 从 upstream/ 源码构建镜像（lzc-build.yml 的 images:）
+# - 镜像以完整 OCI 格式直接嵌入 LPK（lzc-manifest.yml 的 image: embed:...），不推送任何 registry
+# - 发布 GitHub Release 资产（<package-id>-v<version>.lpk）并上架喵喵（私有）商店
 on:
   workflow_dispatch:
     inputs:
@@ -11,65 +15,19 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
-  build-publish:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout (with the vendored upstream source)
-        uses: actions/checkout@v4
-
-      - name: Set up Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "22"
-
-      - name: Install lzc-cli
-        run: npm install -g @lazycatcloud/lzc-cli@2.0.8
-
-      - name: Pre-pull the Dockerfile base image
-        run: docker pull node:24-alpine
-
-      - name: Build LPK with the image embedded (docker buildx on this runner)
-        run: |
-          mkdir -p dist
-          lzc-cli project release -o dist/application.lpk
-          ls -lh dist/application.lpk
-
-      - name: Verify the LPK and the embedded image
-        run: lzc-cli lpk info dist/application.lpk
-
-      - name: Publish the LPK as a GitHub Release asset
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          VERSION=$(python3 -c "import yaml; print(yaml.safe_load(open('package.yml'))['version'])")
-          TAG="v${VERSION}"
-          ASSET="cloud.lazycat.app.art-history-museum-v${VERSION}.lpk"
-          cp dist/application.lpk "dist/${ASSET}"
-          if gh release view "$TAG" >/dev/null 2>&1; then
-            gh release upload "$TAG" "dist/${ASSET}" --clobber
-          else
-            gh release create "$TAG" "dist/${ASSET}" --title "$TAG" --notes "Release ${VERSION}"
-          fi
-          URL="https://github.com/${{ github.repository }}/releases/download/${TAG}/${ASSET}"
-          SHA=$(sha256sum "dist/${ASSET}" | cut -d' ' -f1)
-          echo "RELEASE_URL=$URL" >> "$GITHUB_ENV"
-          echo "RELEASE_SHA=$SHA" >> "$GITHUB_ENV"
-          echo "Release asset: $URL"
-          echo "SHA256: $SHA"
-
-      - name: Publish to the private (MiaoMiao) store
-        uses: ca-x/lazycat-github-action@v1
-        with:
-          operation: publish-private
-          config: .github/lazycat-action.yml
-          lpk-path: dist/application.lpk
-          download-url: ${{ env.RELEASE_URL }}
-          sha256: ${{ env.RELEASE_SHA }}
-          changelog: ${{ inputs.changelog || format('Release {0}', github.run_number) }}
-        env:
-          APPSTORE_URL: ${{ secrets.APPSTORE_URL }}
-          APPSTORE_TOKEN: ${{ secrets.APPSTORE_TOKEN }}
-          APP_ID: ${{ secrets.APP_ID }}
-          PRIVATE_STORE_GROUP_CODES: ${{ secrets.PRIVATE_STORE_GROUP_CODES }}
+  lazycat:
+    uses: ca-x/lazycat-github-action/.github/workflows/lazycat.yml@v1
+    with:
+      operation: auto
+      config: .github/lazycat-action.yml
+      toolchains: docker
+      versioned-release-asset: true
+      changelog: ${{ inputs.changelog || format('Release {0}', github.run_number) }}
+    secrets:
+      APPSTORE_URL: ${{ secrets.APPSTORE_URL }}
+      APPSTORE_TOKEN: ${{ secrets.APPSTORE_TOKEN }}
+      APP_ID: ${{ secrets.APP_ID }}
+      PRIVATE_STORE_GROUP_CODES: ${{ secrets.PRIVATE_STORE_GROUP_CODES }}

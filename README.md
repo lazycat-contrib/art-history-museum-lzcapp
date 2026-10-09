@@ -4,23 +4,26 @@
 
 一个可在浏览器中漫步的 3D 博物馆：跟随时间线，选择画家，走进他们的画廊——572 位画家、约 10 万件作品，数据来自 Wikipedia / Wikidata / Wikimedia Commons。
 
-## 交付方式
+## 交付方式（镜像从源码构建并内嵌，无 registry 依赖）
 
-上游**没有**发布现成的容器镜像，因此本仓库负责构建：
+上游**没有**发布现成的容器镜像，本仓库在 CI 里从 vendored 的 `upstream/` 源码自行构建，
+全部交给 [lazycat-github-action](https://github.com/ca-x/lazycat-github-action) v1.3.0：
 
-1. [`build-image.yml`](.github/workflows/build-image.yml) — 从上游源码构建镜像并推送到
-   `ghcr.io/lazycat-contrib/art-history-museum`（tag 为 `v<package.yml 版本>`），
-   每日定时检查上游新提交，也可以手动触发。
-2. [`lazycat.yml`](.github/workflows/lazycat.yml) — 通过
-   [lazycat-github-action](https://github.com/ca-x/lazycat-github-action) 打包 LPK
-   并发布到喵喵（私有）商店（镜像经 `ghcr.1ms.run` 加速交付）。
+1. [`lazycat.yml`](.github/workflows/lazycat.yml) 调用 action 的 `auto` 流程：在 GitHub
+   runner 上用 docker buildx 构建 [`lzc-build.yml`](lzc-build.yml) 里 `images:` 定义的镜像，
+   并以**完整 OCI 格式直接嵌入 LPK**（[`lzc-manifest.yml`](lzc-manifest.yml) 里
+   `image: embed:...`）——不推送任何镜像仓库，因此无需 GHCR 及镜像可见性配置。
+2. 构建产物（`<package-id>-v<version>.lpk`）发布为 GitHub Release 资产，
+   同时上架喵喵（私有）商店。
+
+> 此前用 `lzc-cli` 在 CI 里本地打包（并因 2.0.9+ 的 layer-tar 截断缺陷锁定 2.0.8），
+> action v1.3.0 内置同等的源码镜像内嵌能力后已完全替代。
 
 ### 更新流程
 
-1. 确认上游有新提交（`build-image.yml` 的定时任务会自动构建 `latest`；如需发新版本）
+1. 同步 `upstream/` 到上游新提交（vendored 源码，直接提交进本仓库）
 2. 修改 `package.yml` 的版本号并提交
-3. 手动触发 `build-image.yml`（会构建并推送 `v<新版本>` 镜像）
-4. 手动触发 `lazycat.yml`，或等下次定时任务，把新版本发布到商店
+3. 手动触发 `lazycat.yml`：构建镜像 → 生成 LPK → 发布 Release 资产 → 上架商店
 
 ## 运行说明
 

@@ -7,15 +7,20 @@ project:
   output: dist/application.lpk
   target_arch: amd64
 
-# 版本来自本仓库 package.yml；镜像由 lzc-build.yml 从 upstream/ 源码构建并嵌入 LPK，
+# 版本来自本仓库 package.yml；镜像由 lzc-build.yml 从 upstream/ 源码构建并直接嵌入 LPK，
 # 不经过任何镜像仓库，因此不需要镜像版本源。
 update:
   strategy: publish
   allow_downgrade: false
   version_source:
     type: git
+
 build:
+  # 在 runner 上用 docker buildx 构建 lzc-build.yml.images 里的本地镜像，OCI 格式内嵌进 LPK
+  toolchains:
+    - kind: docker
   run_buildscript: false
+
 stores:
   official:
     enabled: false
