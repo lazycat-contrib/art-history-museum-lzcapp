@@ -28,6 +28,9 @@ jobs:
       - name: Install lzc-cli
         run: npm install -g @lazycatcloud/lzc-cli
 
+      - name: Pre-pull the Dockerfile base image
+        run: docker pull node:24-alpine
+
       - name: Build LPK with the image embedded (docker buildx on this runner)
         run: |
           mkdir -p dist
