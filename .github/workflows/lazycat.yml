@@ -1,32 +1,50 @@
-name: Publish LazyCat application
+name: Build and Publish (embedded image)
 
 on:
-  # 每日定时（UTC 02:07 = 北京 10:07）；上游镜像更新后由人工/定时触发的构建流程产出新 tag
-  schedule:
-    - cron: "7 2 * * *"
-  pull_request:
-    paths:
-      - .github/lazycat-action.yml
-      - .github/workflows/lazycat.yml
-      - lzc-build.yml
-      - lzc-manifest.yml
-      - package.yml
+  # 手动触发（首次/更新发布）；定时任务仅做检查之用，不发布
   workflow_dispatch:
+    inputs:
+      changelog:
+        description: "Changelog for store publication"
+        type: string
+        required: false
+        default: ""
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: read
 
 jobs:
-  lazycat:
-    uses: ca-x/lazycat-github-action/.github/workflows/lazycat.yml@v1
-    with:
-      operation: auto
-      config: .github/lazycat-action.yml
-      dry-run: ${{ github.event_name == 'pull_request' }}
-      versioned-release-asset: true
-    secrets:
-      APPSTORE_URL: ${{ secrets.APPSTORE_URL }}
-      APPSTORE_TOKEN: ${{ secrets.APPSTORE_TOKEN }}
-      APP_ID: ${{ secrets.APP_ID }}
-      PRIVATE_STORE_GROUP_CODES: ${{ secrets.PRIVATE_STORE_GROUP_CODES }}
+  build-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (with the vendored upstream source)
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install lzc-cli
+        run: npm install -g @lazycatcloud/lzc-cli
+
+      - name: Build LPK with the image embedded (docker buildx on this runner)
+        run: |
+          mkdir -p dist
+          lzc-cli project release -o dist/application.lpk
+
+      - name: Verify the LPK and the embedded image
+        run: lzc-cli lpk info dist/application.lpk
+
+      - name: Publish to the private (MiaoMiao) store
+        uses: ca-x/lazycat-github-action@v1
+        with:
+          operation: publish-private
+          config: .github/lazycat-action.yml
+          lpk-path: dist/application.lpk
+          changelog: ${{ inputs.changelog || format('Release {0}', github.run_number) }}
+        env:
+          APPSTORE_URL: ${{ secrets.APPSTORE_URL }}
+          APPSTORE_TOKEN: ${{ secrets.APPSTORE_TOKEN }}
+          APP_ID: ${{ secrets.APP_ID }}
+          PRIVATE_STORE_GROUP_CODES: ${{ secrets.PRIVATE_STORE_GROUP_CODES }}

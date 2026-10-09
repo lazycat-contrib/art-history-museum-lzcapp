@@ -3,7 +3,7 @@ pkgout: ./
 icon: ./icon.png
 
 # 从 upstream/ 源码构建镜像并直接嵌入 LPK（不依赖任何 registry）。
-# builder=local：在 CI（GitHub Actions runner，自带 Docker）上构建。
+# builder=local：在 GitHub Actions runner（自带 docker buildx）上构建。
 images:
   art-history-museum:
     dockerfile: upstream/Dockerfile

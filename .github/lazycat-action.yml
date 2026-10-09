@@ -7,24 +7,15 @@ project:
   output: dist/application.lpk
   target_arch: amd64
 
+# 版本来自本仓库 package.yml；镜像由 lzc-build.yml 从 upstream/ 源码构建并嵌入 LPK，
+# 不经过任何镜像仓库，因此不需要镜像版本源。
 update:
   strategy: publish
   allow_downgrade: false
   version_source:
-    type: image
-    image: art-history-museum
+    type: git
 build:
   run_buildscript: false
-images:
-  - id: art-history-museum
-    target: service
-    service: art-history-museum
-    source: ghcr.io/lazycat-contrib/art-history-museum
-    channel: stable
-    sort: semver
-    tag_regex: '^v[0-9]+\.[0-9]+\.[0-9]+$'
-    delivery:
-      mode: mirror
 stores:
   official:
     enabled: false
