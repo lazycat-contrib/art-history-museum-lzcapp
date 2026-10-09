@@ -1,7 +1,6 @@
 name: Build and Publish (embedded image)
 
 on:
-  # 手动触发（首次/更新发布）；定时任务仅做检查之用，不发布
   workflow_dispatch:
     inputs:
       changelog:
@@ -11,7 +10,7 @@ on:
         default: ""
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build-publish:
@@ -35,9 +34,30 @@ jobs:
         run: |
           mkdir -p dist
           lzc-cli project release -o dist/application.lpk
+          ls -lh dist/application.lpk
 
       - name: Verify the LPK and the embedded image
         run: lzc-cli lpk info dist/application.lpk
+
+      - name: Publish the LPK as a GitHub Release asset
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          VERSION=$(python3 -c "import yaml; print(yaml.safe_load(open('package.yml'))['version'])")
+          TAG="v${VERSION}"
+          ASSET="cloud.lazycat.app.art-history-museum-v${VERSION}.lpk"
+          cp dist/application.lpk "dist/${ASSET}"
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" "dist/${ASSET}" --clobber
+          else
+            gh release create "$TAG" "dist/${ASSET}" --title "$TAG" --notes "Release ${VERSION}"
+          fi
+          URL="https://github.com/${{ github.repository }}/releases/download/${TAG}/${ASSET}"
+          SHA=$(sha256sum "dist/${ASSET}" | cut -d' ' -f1)
+          echo "RELEASE_URL=$URL" >> "$GITHUB_ENV"
+          echo "RELEASE_SHA=$SHA" >> "$GITHUB_ENV"
+          echo "Release asset: $URL"
+          echo "SHA256: $SHA"
 
       - name: Publish to the private (MiaoMiao) store
         uses: ca-x/lazycat-github-action@v1
@@ -45,6 +65,8 @@ jobs:
           operation: publish-private
           config: .github/lazycat-action.yml
           lpk-path: dist/application.lpk
+          download-url: ${{ env.RELEASE_URL }}
+          sha256: ${{ env.RELEASE_SHA }}
           changelog: ${{ inputs.changelog || format('Release {0}', github.run_number) }}
         env:
           APPSTORE_URL: ${{ secrets.APPSTORE_URL }}
