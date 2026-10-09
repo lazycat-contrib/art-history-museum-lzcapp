@@ -1,0 +1,35 @@
+version: 1
+
+project:
+  root: .
+  build_config: lzc-build.yml
+  package_file: package.yml
+  output: dist/application.lpk
+  target_arch: amd64
+
+update:
+  strategy: publish
+  allow_downgrade: false
+  version_source:
+    type: image
+    image: art-history-museum
+build:
+  run_buildscript: false
+images:
+  - id: art-history-museum
+    target: service
+    service: art-history-museum
+    source: ghcr.io/lazycat-contrib/art-history-museum
+    channel: stable
+    sort: semver
+    tag_regex: '^v[0-9]+\.[0-9]+\.[0-9]+$'
+    delivery:
+      mode: mirror
+stores:
+  official:
+    enabled: false
+  private:
+    enabled: true
+    skip_if_version_exists: true
+    name: Art History Museum
+    summary: "可漫步的艺术史博物馆 —— 3D 画廊探索千余年绘画"

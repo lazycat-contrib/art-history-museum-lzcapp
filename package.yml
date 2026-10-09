@@ -1,0 +1,18 @@
+package: cloud.lazycat.app.art-history-museum
+version: 0.1.0
+name: Art History Museum
+description: "A walkable history of art: explore a thousand years of painting in 3D galleries"
+min_os_version: "1.5.0"
+homepage: https://github.com/justdataplease/art-history-museum
+author: justdataplease
+license: MIT
+locales:
+  zh:
+    name: "艺术史博物馆"
+    description: "可漫步的艺术史：在浏览器中穿行 3D 画廊，探索千余年、572 位画家的绘画作品（数据来自 Wikipedia）"
+  zh_CN:
+    name: "艺术史博物馆"
+    description: "可漫步的艺术史：在浏览器中穿行 3D 画廊，探索千余年、572 位画家的绘画作品（数据来自 Wikipedia）"
+  en:
+    name: "Art History Museum"
+    description: "A walkable history of art: explore a thousand years of painting in 3D galleries (data from Wikipedia)"

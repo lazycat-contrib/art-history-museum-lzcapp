@@ -1,0 +1,13 @@
+application:
+  subdomain: artmuseum
+  public_path:
+    - /
+  upstreams:
+    - location: /
+      backend: http://art-history-museum:3000/
+services:
+  art-history-museum:
+    # upstream: justdataplease/art-history-museum（由本仓库构建镜像后交付）
+    image: ghcr.1ms.run/lazycat-contrib/art-history-museum:v0.1.0
+    # 镜像内以 node (uid 1000) 运行；以 root 启动保证 .next ISR 缓存目录可写
+    user: root
