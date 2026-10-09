@@ -1,5 +1,5 @@
 package: cloud.lazycat.app.art-history-museum
-version: 0.1.1
+version: 0.1.2
 name: Art History Museum
 description: "A walkable history of art: explore a thousand years of painting in 3D galleries"
 min_os_version: "1.5.0"
